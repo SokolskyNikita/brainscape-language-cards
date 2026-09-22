@@ -94,37 +94,24 @@ exemptions and exact-form scheduling rules in the audit; do not replace them wit
 a generic list of common English words. Review naturalness and translation quality
 in addition to passing the automated checks.
 
-## Audio and backups
+## Published audio
 
-All existing recordings remain in their original workspace-relative locations.
-Git ignores audio binaries to avoid putting the generated cache in ordinary Git
-history; JSON manifests, content hashes, receipts, and verified cloud URLs remain
-versionable. The latest repair resolves historical absolute audio paths at runtime
-without rewriting its hashed manifest or verification record.
+**[Download the actual card MP3s](audio/README.md)** from the public
+[September 22 audio release](https://github.com/SokolskyNikita/brainscape-language-cards/releases/tag/audio-2026-09-22).
+Three archives contain 20,737 production recordings (about 1.04 GiB): both
+10,000-card original English audio sets and 737 replacement clips used by 744
+repaired cards. The [current-card audio index](audio/current.json) selects the
+correct recording for each of the 20,000 cards.
 
-A Git clone includes the decks and review evidence. Running offline vocabulary
-checks also requires the separate client and dependencies described above.
-The clone **does not include recordings or credentials**. For full continuity,
-back up the audio separately before moving or deleting this checkout. From the
-repository root, this creates a portable archive of every retained recording:
+Audio files are hosted as release assets, not stored in Git history. A normal
+clone does not download them; the [audio guide](audio/README.md) explains download,
+checksum verification, and extraction into the original workspace paths. No
+speech regeneration or API credentials are required. All original local audio
+remains intact. There are no retained Spanish bulk recordings yet.
 
-```sh
-python - <<'PY'
-from pathlib import Path
-import tarfile
-with tarfile.open('cards-audio.tar.gz', 'w:gz') as archive:
-    for path in Path('.').rglob('*'):
-        if path.suffix.lower() in {'.mp3', '.wav', '.aiff', '.m4a'}:
-            archive.add(path, arcname=str(path))
-PY
-```
-
-Store that ignored archive securely outside the checkout, then extract it at the
-root of a fresh clone. Transfer `.env` separately through a secure channel. Audio
-can often be downloaded from the snapshot URLs or regenerated from manifests,
-but URLs can expire and regeneration costs money and may produce different bytes.
-The archive is the reliable way to preserve exact recordings and resume without
-regenerating them.
+For full continuity on another computer, clone this repository, restore the
+release archives, obtain the separate API client, and securely transfer `.env`
+if needed. Credentials are never included in the release.
 
 `spanish_audio_20260912/sync_xlsx.mjs` is a historical spreadsheet-rendering helper
 that uses the Codex `@oai/artifact-tool` runtime. Normal Python CSV/XLSX reading,
@@ -146,5 +133,6 @@ against this checkout.
 ## Repository scope
 
 Decks, review scripts, snapshots, manifests, and receipts are versioned. Generated
-audio, local dependencies, and credentials are excluded. The API client remains
+audio is published through GitHub Releases; local dependencies and credentials
+are excluded. The API client remains
 separate and unpublished. No license has been assigned to the card content.

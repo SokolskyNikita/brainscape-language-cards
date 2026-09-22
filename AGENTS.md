@@ -15,7 +15,9 @@
   Keep the agreed English vocabulary timeline, exact-form scheduling rules, sense
   reviews, and approved exemptions. Russian translations are unrestricted.
 - Do not discard drafts, manifests, receipts, originals, or recordings as garbage.
-  Audio is ignored by Git but retained locally; preserve backups separately.
+  Audio is ignored by Git but published as GitHub Release assets and retained
+  locally. See audio/README.md, archives.json, and current.json. Preserve old
+  releases and update the current index after new verified audio changes.
 - Secrets belong in .env or process environment. Never print or commit them.
 - Offline checks: python run.py sentence_repair_20260922/validate.py --live
   and python run.py vocabulary_audit_20260922/meaning/test_regressions.py.

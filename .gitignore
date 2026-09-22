@@ -20,7 +20,7 @@ dist/
 *.tmp.*
 run.lock
 
-# Generated/downloaded audio stays local. Keep manifests and receipts in Git.
+# Production audio is published as GitHub Release assets; keep it out of Git history.
 *.mp3
 *.wav
 *.aiff
@@ -31,3 +31,6 @@ run.lock
 
 # Optional spreadsheet runtime dependencies
 node_modules
+
+# Downloaded release archives
+/audio/downloads/

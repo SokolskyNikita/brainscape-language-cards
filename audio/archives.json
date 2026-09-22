@@ -1,0 +1,26 @@
+{
+  "release": "audio-2026-09-22",
+  "assets": [
+    {
+      "name": "english-russian-original-audio.zip",
+      "files": 10000,
+      "bytes": 522458212,
+      "sha256": "275e10e26396544f49b6de1619db7715f95eddb085170888683250e8b42d4c21",
+      "url": "https://github.com/SokolskyNikita/brainscape-language-cards/releases/download/audio-2026-09-22/english-russian-original-audio.zip"
+    },
+    {
+      "name": "russian-english-original-audio.zip",
+      "files": 10000,
+      "bytes": 558297755,
+      "sha256": "ecf0d9d9b6cfa5feec620430e95d1ac1ac3c8f8e8e9dbbc7db959c325ac2f0a5",
+      "url": "https://github.com/SokolskyNikita/brainscape-language-cards/releases/download/audio-2026-09-22/russian-english-original-audio.zip"
+    },
+    {
+      "name": "english-example-replacement-audio.zip",
+      "files": 737,
+      "bytes": 40863135,
+      "sha256": "e5dbaadd820b29fa38669c474bdf425434f386c65775af0a362f1397dfea4bb1",
+      "url": "https://github.com/SokolskyNikita/brainscape-language-cards/releases/download/audio-2026-09-22/english-example-replacement-audio.zip"
+    }
+  ]
+}

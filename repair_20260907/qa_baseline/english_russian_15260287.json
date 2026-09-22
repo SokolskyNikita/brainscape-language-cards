@@ -1,0 +1,971 @@
+{
+  "pack": "english_russian",
+  "deck": "15260287",
+  "band": "9000->9500",
+  "sha256": "b2157b9f14d53f768b61bcab6240079ceb351dce62b24f3fa850866c9aafb4e7",
+  "errors": [],
+  "candidates": [
+    {
+      "row": 9,
+      "q": "get used to",
+      "a": "привыкнуть",
+      "qe": "You will get used to the cold.",
+      "ae": "Ты привыкнешь к холоду.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "холоду",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 28,
+      "q": "cloudiness",
+      "a": "облачность",
+      "qe": "The cloudiness increased today.",
+      "ae": "Облачность сегодня увеличилась.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "увеличилась",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 29,
+      "q": "atrocity",
+      "a": "зверство",
+      "qe": "War leads to atrocity.",
+      "ae": "Война приводит к зверству.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "приводит",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 30,
+      "q": "proportionally",
+      "a": "пропорционально",
+      "qe": "Prices grow proportionally to demand.",
+      "ae": "Цены растут пропорционально спросу.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "спросу",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 33,
+      "q": "benefactor",
+      "a": "благодетель",
+      "qe": "The benefactor helped the school.",
+      "ae": "Благодетель помог школе.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "помог",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 38,
+      "q": "fanaticism",
+      "a": "фанатизм",
+      "qe": "Fanaticism blinds a person.",
+      "ae": "Фанатизм ослепляет человека.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "ослепляет",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 45,
+      "q": "motorist",
+      "a": "автомобилист",
+      "qe": "The motorist stopped the car.",
+      "ae": "Автомобилист остановил машину.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "остановил",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 65,
+      "q": "goalkeeper",
+      "a": "вратарь",
+      "qe": "The goalkeeper saved the game.",
+      "ae": "Вратарь спас игру.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "спас",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 68,
+      "q": "icebreaker",
+      "a": "ледокол",
+      "qe": "The icebreaker crossed the frozen sea.",
+      "ae": "Ледокол прошёл по замерзшему морю.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "замерзшему",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 84,
+      "q": "creamy",
+      "a": "сливочный",
+      "qe": "I love creamy mushroom soup.",
+      "ae": "Я люблю сливочный грибной суп.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "грибной",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 88,
+      "q": "collectivization",
+      "a": "коллективизация",
+      "qe": "Collectivization changed village life.",
+      "ae": "Коллективизация изменила жизнь деревни.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "изменила",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 96,
+      "q": "womb",
+      "a": "утроба",
+      "qe": "Life begins in the womb.",
+      "ae": "Жизнь начинается в утробе.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "начинается",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 163,
+      "q": "warn",
+      "a": "предостерегать",
+      "qe": "I must warn you of the danger.",
+      "ae": "Я должен предостеречь вас от опасности.",
+      "issues": {
+        "ru_target": "предостерегать | Я должен предостеречь вас от опасности.",
+        "ru_vocab": [
+          {
+            "word": "предостеречь",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 179,
+      "q": "orient oneself",
+      "a": "сориентироваться",
+      "qe": "I need to orient myself in this city.",
+      "ae": "Мне нужно сориентироваться в этом городе.",
+      "issues": {
+        "en_target": "orient oneself | I need to orient myself in this city."
+      }
+    },
+    {
+      "row": 184,
+      "q": "tango",
+      "a": "танго",
+      "qe": "They danced the tango flawlessly.",
+      "ae": "Они танцевали танго безупречно.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "flawlessly",
+            "band": "9000->9500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 210,
+      "q": "choke",
+      "a": "захлебнуться",
+      "qe": "He began to choke on water.",
+      "ae": "Он начал захлёбываться водой.",
+      "issues": {
+        "ru_target": "захлебнуться | Он начал захлёбываться водой.",
+        "ru_vocab": [
+          {
+            "word": "захлёбываться",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 213,
+      "q": "unnaturally",
+      "a": "неестественно",
+      "qe": "She smiled unnaturally.",
+      "ae": "Она улыбалась неестественно.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "улыбалась",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 226,
+      "q": "deduction",
+      "a": "вычет",
+      "qe": "I got a tax deduction.",
+      "ae": "Я получил налоговый вычет.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "налоговый",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 236,
+      "q": "butcher",
+      "a": "мясник",
+      "qe": "The butcher prepared the meat.",
+      "ae": "Мясник приготовил мясо.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "приготовил",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 238,
+      "q": "fresco",
+      "a": "фреска",
+      "qe": "I saw a fresco.",
+      "ae": "Я увидел фреску.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "увидел",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 239,
+      "q": "compote",
+      "a": "компот",
+      "qe": "I made cherry compote yesterday.",
+      "ae": "Вчера я сделал вишнёвый компот.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "вишнёвый",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 249,
+      "q": "ingenuity",
+      "a": "изобретательность",
+      "qe": "His ingenuity helped us.",
+      "ae": "Его изобретательность помогла нам.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "помогла",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 267,
+      "q": "to bite off",
+      "a": "откусить",
+      "qe": "He tried to bite off more bread.",
+      "ae": "Он попытался откусить больше хлеба.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "попытался",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 273,
+      "q": "to seduce",
+      "a": "соблазнять",
+      "qe": "He tried to seduce her with gifts.",
+      "ae": "Он пытался соблазнить её подарками.",
+      "issues": {
+        "ru_target": "соблазнять | Он пытался соблазнить её подарками."
+      }
+    },
+    {
+      "row": 278,
+      "q": "ignition",
+      "a": "зажигание",
+      "qe": "Turn the key for ignition.",
+      "ae": "Поверните ключ для зажигания.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "поверните",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 283,
+      "q": "squeak",
+      "a": "писк",
+      "qe": "I heard a squeak.",
+      "ae": "Я услышал писк.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "услышал",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 291,
+      "q": "city committee",
+      "a": "горком",
+      "qe": "The city committee met yesterday.",
+      "ae": "Горком собрался вчера.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "собрался",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 305,
+      "q": "midwife",
+      "a": "акушерка",
+      "qe": "The midwife helped the woman.",
+      "ae": "Акушерка помогла женщине.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "помогла",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 311,
+      "q": "to bring closer",
+      "a": "сближать",
+      "qe": "This book will bring closer two friends.",
+      "ae": "Эта книга сблизит двух друзей.",
+      "issues": {
+        "ru_target": "сближать | Эта книга сблизит двух друзей.",
+        "ru_vocab": [
+          {
+            "word": "сблизит",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 327,
+      "q": "theology",
+      "a": "богословие",
+      "qe": "He studies theology.",
+      "ae": "Он изучает богословие.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "изучает",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 334,
+      "q": "cybernetics",
+      "a": "кибернетика",
+      "qe": "He studies cybernetics.",
+      "ae": "Он изучает кибернетику.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "изучает",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 336,
+      "q": "Portuguese",
+      "a": "португальский",
+      "qe": "I study the Portuguese language.",
+      "ae": "Я изучаю португальский язык.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "изучаю",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 339,
+      "q": "tireless",
+      "a": "неутомимый",
+      "qe": "She is a tireless worker.",
+      "ae": "Она неутомимая работница.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "работница",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 343,
+      "q": "to infiltrate",
+      "a": "внедряться",
+      "qe": "They want to infiltrate the group.",
+      "ae": "Они хотят внедриться в группу.",
+      "issues": {
+        "ru_target": "внедряться | Они хотят внедриться в группу.",
+        "ru_vocab": [
+          {
+            "word": "внедриться",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 360,
+      "q": "coursemate",
+      "a": "однокурсник",
+      "qe": "I met my coursemate yesterday.",
+      "ae": "Вчера я встретил однокурсника.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "встретил",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 370,
+      "q": "to shoot oneself",
+      "a": "застрелиться",
+      "qe": "He decided to shoot himself.",
+      "ae": "Он решил застрелиться.",
+      "issues": {
+        "en_target": "to shoot oneself | He decided to shoot himself.",
+        "en_vocab": [
+          {
+            "word": "himself",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 375,
+      "q": "to lock oneself in",
+      "a": "запереться",
+      "qe": "She decided to lock herself in.",
+      "ae": "Она решила запереться.",
+      "issues": {
+        "en_target": "to lock oneself in | She decided to lock herself in.",
+        "en_vocab": [
+          {
+            "word": "herself",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 376,
+      "q": "foresight",
+      "a": "предвидение",
+      "qe": "His foresight saved us.",
+      "ae": "Его предвидение спасло нас.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "спасло",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 405,
+      "q": "round loaf",
+      "a": "колобок",
+      "qe": "The round loaf rolled off the table.",
+      "ae": "Колобок скатился со стола.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "скатился",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 410,
+      "q": "German woman",
+      "a": "немка",
+      "qe": "The German woman smiled warmly.",
+      "ae": "Немка улыбнулась тепло.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "warmly",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 411,
+      "q": "unbridled",
+      "a": "безудержный",
+      "qe": "Her unbridled enthusiasm was infectious.",
+      "ae": "Её безудержный энтузиазм был заразителен.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "заразителен",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 412,
+      "q": "Viking",
+      "a": "викинг",
+      "qe": "The Viking sailed across the sea.",
+      "ae": "Викинг переплыл море.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "переплыл",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 421,
+      "q": "apathy",
+      "a": "апатия",
+      "qe": "Apathy has taken over her life.",
+      "ae": "Апатия овладела её жизнью.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "овладела",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 433,
+      "q": "polyethylene",
+      "a": "полиэтиленовый",
+      "qe": "Polyethylene bags are widely used.",
+      "ae": "Полиэтиленовые пакеты широко используются.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "widely",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 437,
+      "q": "piracy",
+      "a": "пиратство",
+      "qe": "Piracy threatens ships at sea.",
+      "ae": "Пиратство угрожает кораблям в море.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "угрожает",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 438,
+      "q": "economical",
+      "a": "экономичный",
+      "qe": "Choose an economical car model.",
+      "ae": "Выберите экономичную модель автомобиля.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "автомобиля",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 446,
+      "q": "relay",
+      "a": "эстафета",
+      "qe": "She won the relay race easily.",
+      "ae": "Она легко выиграла эстафету.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "выиграла",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 448,
+      "q": "flawlessly",
+      "a": "безупречно",
+      "qe": "She performed the piece flawlessly.",
+      "ae": "Она исполнила произведение безупречно.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "произведение",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 449,
+      "q": "backstory",
+      "a": "предыстория",
+      "qe": "Her backstory explained her fears.",
+      "ae": "Её предыстория объясняла её страхи.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "объясняла",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 453,
+      "q": "ecologist",
+      "a": "эколог",
+      "qe": "The ecologist studied the forest.",
+      "ae": "Эколог изучал лес.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "изучал",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 454,
+      "q": "inexpensively",
+      "a": "недорого",
+      "qe": "She dressed inexpensively but well.",
+      "ae": "Она одевалась недорого, но хорошо.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "одевалась",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 464,
+      "q": "industrialization",
+      "a": "индустриализация",
+      "qe": "Industrialization transformed the country.",
+      "ae": "Индустриализация преобразила страну.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "преобразила",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 465,
+      "q": "open wide",
+      "a": "разинуть",
+      "qe": "Open wide, said the dentist.",
+      "ae": "Разинь рот пошире, сказал стоматолог.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "dentist",
+            "band": "9000->9500"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "стоматолог",
+            "band": "9000->9500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 468,
+      "q": "philology",
+      "a": "филология",
+      "qe": "I study philology at university.",
+      "ae": "Я изучаю филологию в университете.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "изучаю",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 472,
+      "q": "appropriately",
+      "a": "уместно",
+      "qe": "She dressed appropriately for the interview.",
+      "ae": "Она оделась уместно для собеседования.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "оделась",
+            "band": "absent"
+          },
+          {
+            "word": "собеседования",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 473,
+      "q": "identifier",
+      "a": "идентификатор",
+      "qe": "Enter your identifier to log in.",
+      "ae": "Введите ваш идентификатор для входа.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "введите",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 478,
+      "q": "to eat one's fill",
+      "a": "наесться",
+      "qe": "She managed to eat her fill.",
+      "ae": "Она смогла наесться.",
+      "issues": {
+        "en_target": "to eat one's fill | She managed to eat her fill."
+      }
+    },
+    {
+      "row": 481,
+      "q": "anti-aircraft gun",
+      "a": "зенитка",
+      "qe": "The anti-aircraft gun hit the enemy plane.",
+      "ae": "Зенитка попала во вражеский самолет.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "самолет",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 485,
+      "q": "anarchist",
+      "a": "анархист",
+      "qe": "The anarchist rejected all authority.",
+      "ae": "Анархист отвергал всякую власть.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "отвергал",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 488,
+      "q": "treachery",
+      "a": "коварство",
+      "qe": "His silence masked deep treachery.",
+      "ae": "Его молчание скрывало глубокое коварство.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "молчание",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 489,
+      "q": "answering machine",
+      "a": "автоответчик",
+      "qe": "The answering machine recorded your message.",
+      "ae": "Автоответчик записал ваше сообщение.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "записал",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 491,
+      "q": "poke around",
+      "a": "ковыряться",
+      "qe": "I'll poke around the attic.",
+      "ae": "Я поковыряюсь на чердаке.",
+      "issues": {
+        "ru_target": "ковыряться | Я поковыряюсь на чердаке.",
+        "ru_vocab": [
+          {
+            "word": "поковыряюсь",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 495,
+      "q": "long-suffering",
+      "a": "многострадальный",
+      "qe": "She was a long-suffering mother of four.",
+      "ae": "Она была многострадальной матерью четверых.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "четверых",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 500,
+      "q": "serviceable",
+      "a": "исправный",
+      "qe": "The car is old but serviceable.",
+      "ae": "Автомобиль старый, но исправный.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "автомобиль",
+            "band": "absent"
+          }
+        ]
+      }
+    }
+  ]
+}

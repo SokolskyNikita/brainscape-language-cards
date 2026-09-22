@@ -1,0 +1,7 @@
+{
+  "newClips": 9980,
+  "reusedClips": 20,
+  "successfulGenerationCharacters": 581350,
+  "allTranscriptCharacters": 582254,
+  "note": "Successful local generation requests only; provider billing can differ for retries."
+}

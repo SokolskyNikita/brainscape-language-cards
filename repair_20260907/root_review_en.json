@@ -1,0 +1,110 @@
+[
+  {
+    "pack": "english_russian",
+    "deck": "15260266",
+    "row": 348,
+    "before": [
+      "agenda",
+      "повестка",
+      "The meeting agenda is full.",
+      "Повестка встречи полная."
+    ],
+    "after": [
+      "agenda",
+      "повестка дня",
+      "I know the agenda.",
+      "Я знаю повестку дня."
+    ],
+    "reason": "The second-pass proposal retains bare повестка for agenda. The standard full equivalent is повестка дня; this also avoids the first-pass calque."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260272",
+    "row": 228,
+    "before": [
+      "traffic",
+      "трафик",
+      "The traffic is heavy.",
+      "Трафик большой."
+    ],
+    "after": [
+      "traffic",
+      "дорожное движение",
+      "Traffic stopped.",
+      "Дорожное движение остановилось."
+    ],
+    "reason": "The proposed плотное дорожное движение is a calque; Russian normally says интенсивное/оживлённое движение. This in-band sentence keeps the corrected road-traffic sense without introducing later vocabulary."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260272",
+    "row": 410,
+    "before": [
+      "layout",
+      "расклад",
+      "Check the game's layout.",
+      "Проверьте расклад игры."
+    ],
+    "after": [
+      "layout",
+      "расположение",
+      "Check the layout of the rooms.",
+      "Проверьте расположение комнат."
+    ],
+    "reason": "The second-pass English says one room's layout while the Russian says the arrangement of multiple rooms. The revised examples express the same spatial arrangement."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260287",
+    "row": 194,
+    "before": [
+      "persuasion",
+      "уговор",
+      "She used persuasion.",
+      "Она использовала уговор."
+    ],
+    "after": [
+      "persuasion",
+      "уговоры",
+      "Persuasion works.",
+      "Уговоры действуют."
+    ],
+    "reason": "The second-pass 'She chose persuasion' remains unnatural in both languages. Russian normally uses уговоры in the plural for persuasion/coaxing."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "22976521",
+    "row": 76,
+    "before": [
+      "to realize",
+      "спохватиться",
+      "He realized it.",
+      "Он спохватился."
+    ],
+    "after": [
+      "to realize too late",
+      "спохватиться слишком поздно",
+      "He realized it too late.",
+      "Он спохватился слишком поздно."
+    ],
+    "reason": "The second-pass 'suddenly realized' still does not express спохватиться, which implies noticing belatedly and reacting."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "22976521",
+    "row": 198,
+    "before": [
+      "excessively, overly",
+      "чрезмерно",
+      "He drinks coffee excessively.",
+      "Он чрезмерно пьёт кофе."
+    ],
+    "after": [
+      "excessively, overly",
+      "чрезмерно",
+      "He drinks excessively.",
+      "Он чрезмерно много пьёт."
+    ],
+    "reason": "The second-pass standalone Он работает чрезмерно is unidiomatic. Чрезмерно много naturally expresses excessive degree while preserving the target adverb."
+  }
+]

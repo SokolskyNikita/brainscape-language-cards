@@ -1,0 +1,836 @@
+{
+  "pack": "english_russian",
+  "deck": "15260285",
+  "band": "8500->9000",
+  "sha256": "9e9d8796d9bff3423d16499f4a35decf920d9ba7d5c0ad9cab4c94261e238ec3",
+  "errors": [],
+  "candidates": [
+    {
+      "row": 2,
+      "q": "marathon",
+      "a": "марафон",
+      "qe": "I ran a marathon last year.",
+      "ae": "Я пробежал марафон в прошлом году.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "прошлом",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 36,
+      "q": "stylistics",
+      "a": "стилистика",
+      "qe": "He studies stylistics.",
+      "ae": "Он изучает стилистику.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "изучает",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 42,
+      "q": "psychoanalyst",
+      "a": "психоаналитик",
+      "qe": "The psychoanalyst helped her.",
+      "ae": "Психоаналитик помог ей.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "помог",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 82,
+      "q": "botanical",
+      "a": "ботанический",
+      "qe": "She studies the botanical garden.",
+      "ae": "Она изучает ботанический сад.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "изучает",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 86,
+      "q": "cosmonautics",
+      "a": "космонавтика",
+      "qe": "He studies cosmonautics.",
+      "ae": "Он изучает космонавтику.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "изучает",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 105,
+      "q": "to wash one's face",
+      "a": "умываться",
+      "qe": "I need to wash my face.",
+      "ae": "Мне нужно умыться.",
+      "issues": {
+        "en_target": "to wash one's face | I need to wash my face.",
+        "ru_target": "умываться | Мне нужно умыться."
+      }
+    },
+    {
+      "row": 110,
+      "q": "to subside",
+      "a": "затихать",
+      "qe": "The storm began to subside.",
+      "ae": "Шторм начал затихать.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "шторм",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 112,
+      "q": "to douse oneself",
+      "a": "обливаться",
+      "qe": "He decided to douse himself in cold water.",
+      "ae": "Он решил облиться холодной водой.",
+      "issues": {
+        "en_target": "to douse oneself | He decided to douse himself in cold water.",
+        "en_vocab": [
+          {
+            "word": "himself",
+            "band": "absent"
+          }
+        ],
+        "ru_target": "обливаться | Он решил облиться холодной водой.",
+        "ru_vocab": [
+          {
+            "word": "облиться",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 116,
+      "q": "general's",
+      "a": "генеральский",
+      "qe": "The general's orders were clear.",
+      "ae": "Генеральские приказы были ясны.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "приказы",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 117,
+      "q": "conqueror",
+      "a": "завоеватель",
+      "qe": "Alexander was a great conqueror.",
+      "ae": "Александр был великим завоевателем.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "alexander",
+            "band": "absent"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "александр",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 121,
+      "q": "to establish",
+      "a": "налаживать",
+      "qe": "We need to establish contact.",
+      "ae": "Нам нужно наладить контакт.",
+      "issues": {
+        "ru_target": "налаживать | Нам нужно наладить контакт.",
+        "ru_vocab": [
+          {
+            "word": "наладить",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 128,
+      "q": "dumpling",
+      "a": "пельмень",
+      "qe": "I ate a dumpling.",
+      "ae": "Я съел пельмень.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "съел",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 137,
+      "q": "to peel off",
+      "a": "содрать",
+      "qe": "I managed to peel off the sticker.",
+      "ae": "Мне удалось содрать наклейку.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "sticker",
+            "band": "8500->9000"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "наклейку",
+            "band": "8500->9000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 146,
+      "q": "overestimate",
+      "a": "завысить",
+      "qe": "Don't overestimate the price.",
+      "ae": "Не завышай цену.",
+      "issues": {
+        "ru_target": "завысить | Не завышай цену.",
+        "ru_vocab": [
+          {
+            "word": "завышай",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 148,
+      "q": "caretaker",
+      "a": "смотритель",
+      "qe": "The caretaker locked the gates nightly.",
+      "ae": "Смотритель запирал ворота каждую ночь.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "nightly",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 153,
+      "q": "excellent student",
+      "a": "отличник",
+      "qe": "She is an excellent student.",
+      "ae": "Она отличница.",
+      "issues": {
+        "ru_target": "отличник | Она отличница.",
+        "ru_vocab": [
+          {
+            "word": "отличница",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 181,
+      "q": "to be entered",
+      "a": "вноситься",
+      "qe": "The name is to be entered here.",
+      "ae": "Имя должно вноситься сюда.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "сюда",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 203,
+      "q": "redo",
+      "a": "переделывать",
+      "qe": "I must redo the project.",
+      "ae": "Мне нужно переделать проект.",
+      "issues": {
+        "ru_target": "переделывать | Мне нужно переделать проект."
+      }
+    },
+    {
+      "row": 279,
+      "q": "to arm",
+      "a": "вооружиться",
+      "qe": "They decided to arm themselves quickly.",
+      "ae": "Они решили быстро вооружиться.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "themselves",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 289,
+      "q": "to grant",
+      "a": "жаловать",
+      "qe": "The tsar granted him land.",
+      "ae": "Царь пожаловал ему землю.",
+      "issues": {
+        "ru_target": "жаловать | Царь пожаловал ему землю."
+      }
+    },
+    {
+      "row": 291,
+      "q": "catch one's breath",
+      "a": "передохнуть",
+      "qe": "She stopped and caught her breath.",
+      "ae": "Она остановилась и передохнула.",
+      "issues": {
+        "en_target": "catch one's breath | She stopped and caught her breath."
+      }
+    },
+    {
+      "row": 301,
+      "q": "overlapping",
+      "a": "перекрытие",
+      "qe": "The overlapping of work caused a problem.",
+      "ae": "Перекрытие работ вызвало проблему.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "вызвало",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 304,
+      "q": "pawn",
+      "a": "пешка",
+      "qe": "He moved his pawn forward.",
+      "ae": "Он передвинул свою пешку вперёд.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "передвинул",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 312,
+      "q": "fuse",
+      "a": "предохранитель",
+      "qe": "Check the fuse first.",
+      "ae": "Сначала проверьте предохранитель.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "сначала",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 317,
+      "q": "to tuck in",
+      "a": "заправить",
+      "qe": "She helped tuck in the sheets.",
+      "ae": "Она помогла заправить простыни.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "помогла",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 320,
+      "q": "doorman",
+      "a": "швейцар",
+      "qe": "The doorman greeted us.",
+      "ae": "Швейцар нас встретил.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "встретил",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 323,
+      "q": "sew on",
+      "a": "пришить",
+      "qe": "I will sew on the button tomorrow.",
+      "ae": "Я пришью пуговицу завтра.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "пуговицу",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 342,
+      "q": "to step over",
+      "a": "переступать",
+      "qe": "He had to step over the puddle.",
+      "ae": "Ему пришлось переступить через лужу.",
+      "issues": {
+        "ru_target": "переступать | Ему пришлось переступить через лужу."
+      }
+    },
+    {
+      "row": 344,
+      "q": "to instill",
+      "a": "вселять",
+      "qe": "She wanted to instill hope.",
+      "ae": "Она хотела вселить надежду.",
+      "issues": {
+        "ru_target": "вселять | Она хотела вселить надежду."
+      }
+    },
+    {
+      "row": 348,
+      "q": "to refuel",
+      "a": "заправлять",
+      "qe": "We stopped to refuel the car.",
+      "ae": "Мы остановились, чтобы заправить машину.",
+      "issues": {
+        "ru_target": "заправлять | Мы остановились, чтобы заправить машину.",
+        "ru_vocab": [
+          {
+            "word": "заправить",
+            "band": "8500->9000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 354,
+      "q": "spasm",
+      "a": "спазм",
+      "qe": "He felt a spasm in his leg.",
+      "ae": "Он почувствовал спазм в ноге.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "почувствовал",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 363,
+      "q": "tulip",
+      "a": "тюльпан",
+      "qe": "She planted a tulip in her garden.",
+      "ae": "Она посадила тюльпан в своём саду.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "посадила",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 369,
+      "q": "immobility",
+      "a": "неподвижность",
+      "qe": "His injury caused immobility.",
+      "ae": "Его травма вызвала неподвижность.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "вызвала",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 378,
+      "q": "to award",
+      "a": "награждать",
+      "qe": "They will award the winner tomorrow.",
+      "ae": "Они наградят победителя завтра.",
+      "issues": {
+        "ru_target": "награждать | Они наградят победителя завтра.",
+        "ru_vocab": [
+          {
+            "word": "наградят",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 395,
+      "q": "sonny",
+      "a": "сыночек",
+      "qe": "Come here, sonny.",
+      "ae": "Иди сюда, сыночек.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "сюда",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 400,
+      "q": "to run across",
+      "a": "перебегать",
+      "qe": "I had to run across the street.",
+      "ae": "Мне пришлось перебежать улицу.",
+      "issues": {
+        "ru_target": "перебегать | Мне пришлось перебежать улицу.",
+        "ru_vocab": [
+          {
+            "word": "перебежать",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 403,
+      "q": "deceptive",
+      "a": "обманчивый",
+      "qe": "Appearances can be deceptive.",
+      "ae": "Внешность может быть обманчивой.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "внешность",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 404,
+      "q": "to feast one's eyes",
+      "a": "насмотреться",
+      "qe": "I feasted my eyes on the garden.",
+      "ae": "Я насмотрелся на сад.",
+      "issues": {
+        "en_target": "to feast one's eyes | I feasted my eyes on the garden."
+      }
+    },
+    {
+      "row": 405,
+      "q": "clergyman",
+      "a": "священнослужитель",
+      "qe": "The clergyman led the Sunday service.",
+      "ae": "Священнослужитель провел воскресную службу.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "воскресную",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 412,
+      "q": "foyer",
+      "a": "фойе",
+      "qe": "Meet me in the foyer.",
+      "ae": "Встреть меня в фойе.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "встреть",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 415,
+      "q": "linguistics",
+      "a": "лингвистика",
+      "qe": "She studies linguistics at the university.",
+      "ae": "Она изучает лингвистику в университете.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "изучает",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 416,
+      "q": "interviewer",
+      "a": "интервьюер",
+      "qe": "The interviewer asked insightful questions.",
+      "ae": "Интервьюер задал проницательные вопросы.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "задал",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 419,
+      "q": "tranquil",
+      "a": "безмятежный",
+      "qe": "The lake was perfectly tranquil at dawn.",
+      "ae": "Озеро было совершенно безмятежным на рассвете.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "perfectly",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 421,
+      "q": "providence",
+      "a": "провидение",
+      "qe": "Providence saved us.",
+      "ae": "Провидение спасло нас.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "спасло",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 422,
+      "q": "to throw open",
+      "a": "распахивать",
+      "qe": "She decided to throw open the windows.",
+      "ae": "Она решила распахнуть окна.",
+      "issues": {
+        "ru_target": "распахивать | Она решила распахнуть окна."
+      }
+    },
+    {
+      "row": 429,
+      "q": "pantry",
+      "a": "кладовая",
+      "qe": "The pantry is full now.",
+      "ae": "Кладовая теперь полная.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "теперь",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 436,
+      "q": "to be disappointed",
+      "a": "разочароваться",
+      "qe": "I tried not to be disappointed.",
+      "ae": "Я старался не разочароваться.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "старался",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 437,
+      "q": "memorandum",
+      "a": "меморандум",
+      "qe": "She signed the memorandum yesterday.",
+      "ae": "Она подписала меморандум вчера.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "подписала",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 446,
+      "q": "to amuse",
+      "a": "смешить",
+      "qe": "He tried hard to amuse her.",
+      "ae": "Он очень старался смешить её.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "старался",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 459,
+      "q": "sane",
+      "a": "вменяемый",
+      "qe": "He seemed perfectly sane in the interview.",
+      "ae": "На интервью он казался абсолютно вменяемым.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "perfectly",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 461,
+      "q": "multinational",
+      "a": "многонациональный",
+      "qe": "A multinational festival celebrates diverse cultures.",
+      "ae": "Многонациональный фестиваль празднует разнообразие культур.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "празднует",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 467,
+      "q": "symmetrical",
+      "a": "симметричный",
+      "qe": "The building's design is perfectly symmetrical.",
+      "ae": "Дизайн здания абсолютно симметричный.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "perfectly",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 470,
+      "q": "leech",
+      "a": "пиявка",
+      "qe": "The leech sucked blood from his leg.",
+      "ae": "Пиявка высосала кровь из его ноги.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "высосала",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 482,
+      "q": "unfounded",
+      "a": "необоснованный",
+      "qe": "His fears were completely unfounded.",
+      "ae": "Его страхи были полностью необоснованны.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "полностью",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 483,
+      "q": "finish writing",
+      "a": "дописать",
+      "qe": "I will finish writing the report soon.",
+      "ae": "Я скоро допишу отчёт.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "отчёт",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 492,
+      "q": "pork",
+      "a": "свинина",
+      "qe": "I cooked pork for dinner.",
+      "ae": "Я приготовил свинину на ужин.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "приготовил",
+            "band": "absent"
+          }
+        ]
+      }
+    }
+  ]
+}

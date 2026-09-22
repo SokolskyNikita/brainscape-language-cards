@@ -1,0 +1,379 @@
+[
+  {
+    "row": 39,
+    "cardId": 491518984,
+    "before": {
+      "question": "# Translate:\n\neventually\n\n## Footnote\n\nEventually, he understood the lesson.",
+      "answer": "eventualmente\n\n## Footnote\n\nEventualmente, él entendió la lección.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "eventually",
+      "qMdClarifier": "",
+      "qMdFootnote": "Eventually, he understood the lesson.",
+      "aMdPrompt": "",
+      "aMdBody": "eventualmente",
+      "aMdClarifier": "",
+      "aMdFootnote": "Eventualmente, él entendió la lección."
+    },
+    "after": {
+      "question": "# Translate:\n\noccasionally\n\n## Footnote\n\nHe works here occasionally.",
+      "answer": "eventualmente\n\n## Footnote\n\nTrabaja aquí eventualmente.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "occasionally",
+      "qMdClarifier": "",
+      "qMdFootnote": "He works here occasionally.",
+      "aMdPrompt": "",
+      "aMdBody": "eventualmente",
+      "aMdClarifier": "",
+      "aMdFootnote": "Trabaja aquí eventualmente."
+    },
+    "reason": "Teach occasional sense of eventualmente; avoid misleading eventually calque."
+  },
+  {
+    "row": 46,
+    "cardId": 491518991,
+    "before": {
+      "question": "# Translate:\n\nimagine (imperative, tú)\n\n## Footnote\n\nImagine winning the lottery!",
+      "answer": "imagínate\n\n## Footnote\n\nImagínate ganando la lotería!",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "imagine (imperative, tú)",
+      "qMdClarifier": "",
+      "qMdFootnote": "Imagine winning the lottery!",
+      "aMdPrompt": "",
+      "aMdBody": "imagínate",
+      "aMdClarifier": "",
+      "aMdFootnote": "Imagínate ganando la lotería!"
+    },
+    "after": {
+      "question": "# Translate:\n\nimagine (imperative, tú)\n\n## Footnote\n\nImagine winning the lottery!",
+      "answer": "imagínate\n\n## Footnote\n\n¡Imagínate ganando la lotería!",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "imagine (imperative, tú)",
+      "qMdClarifier": "",
+      "qMdFootnote": "Imagine winning the lottery!",
+      "aMdPrompt": "",
+      "aMdBody": "imagínate",
+      "aMdClarifier": "",
+      "aMdFootnote": "¡Imagínate ganando la lotería!"
+    },
+    "reason": "Normalize sentence punctuation and remove extraneous quotation marks."
+  },
+  {
+    "row": 80,
+    "cardId": 491519025,
+    "before": {
+      "question": "# Translate:\n\nwe marry\n\n## Footnote\n\nTomorrow, we marry in the chapel.",
+      "answer": "casamos\n\n## Footnote\n\nMañana, nos casamos en la capilla.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "we marry",
+      "qMdClarifier": "",
+      "qMdFootnote": "Tomorrow, we marry in the chapel.",
+      "aMdPrompt": "",
+      "aMdBody": "casamos",
+      "aMdClarifier": "",
+      "aMdFootnote": "Mañana, nos casamos en la capilla."
+    },
+    "after": {
+      "question": "# Translate:\n\nwe marry\n\n## Footnote\n\nTomorrow, we marry in the chapel.",
+      "answer": "nos casamos\n\n## Footnote\n\nMañana, nos casamos en la capilla.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "we marry",
+      "qMdClarifier": "",
+      "qMdFootnote": "Tomorrow, we marry in the chapel.",
+      "aMdPrompt": "",
+      "aMdBody": "nos casamos",
+      "aMdClarifier": "",
+      "aMdFootnote": "Mañana, nos casamos en la capilla."
+    },
+    "reason": "Marrying each other requires reflexive pronoun."
+  },
+  {
+    "row": 117,
+    "cardId": 491519062,
+    "before": {
+      "question": "# Translate:\n\nbe worth\n\n## Footnote\n\nI want the effort to be worth it",
+      "answer": "valga\n\n## Footnote\n\nQuiero que valga la pena el esfuerzo",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "be worth",
+      "qMdClarifier": "",
+      "qMdFootnote": "I want the effort to be worth it",
+      "aMdPrompt": "",
+      "aMdBody": "valga",
+      "aMdClarifier": "",
+      "aMdFootnote": "Quiero que valga la pena el esfuerzo"
+    },
+    "after": {
+      "question": "# Translate:\n\nbe worth\n\n## Footnote\n\nI want the effort to be worth it.",
+      "answer": "valga\n\n## Footnote\n\nQuiero que valga la pena el esfuerzo.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "be worth",
+      "qMdClarifier": "",
+      "qMdFootnote": "I want the effort to be worth it.",
+      "aMdPrompt": "",
+      "aMdBody": "valga",
+      "aMdClarifier": "",
+      "aMdFootnote": "Quiero que valga la pena el esfuerzo."
+    },
+    "reason": "Normalize sentence punctuation and remove extraneous quotation marks."
+  },
+  {
+    "row": 137,
+    "cardId": 491519082,
+    "before": {
+      "question": "# Translate:\n\nstop them\n\n## Footnote\n\nPolice, stop them now!",
+      "answer": "detenerlos\n\n## Footnote\n\n¡Policía, deténganlos ahora!",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "stop them",
+      "qMdClarifier": "",
+      "qMdFootnote": "Police, stop them now!",
+      "aMdPrompt": "",
+      "aMdBody": "detenerlos",
+      "aMdClarifier": "",
+      "aMdFootnote": "¡Policía, deténganlos ahora!"
+    },
+    "after": {
+      "question": "# Translate:\n\nto stop them\n\n## Footnote\n\nWe need to stop them now.",
+      "answer": "detenerlos\n\n## Footnote\n\nNecesitamos detenerlos ahora.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "to stop them",
+      "qMdClarifier": "",
+      "qMdFootnote": "We need to stop them now.",
+      "aMdPrompt": "",
+      "aMdBody": "detenerlos",
+      "aMdClarifier": "",
+      "aMdFootnote": "Necesitamos detenerlos ahora."
+    },
+    "reason": "Use infinitive detenerlos."
+  },
+  {
+    "row": 160,
+    "cardId": 734809995,
+    "before": {
+      "question": "# Translate:\n\naccepted\n\n## Footnote\n\nI hope she accepts the invitation.",
+      "answer": "to take (for yourself)\n\n## Footnote\n\nYou need to take your time",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "accepted",
+      "qMdClarifier": "",
+      "qMdFootnote": "I hope she accepts the invitation.",
+      "aMdPrompt": "",
+      "aMdBody": "to take (for yourself)",
+      "aMdClarifier": "",
+      "aMdFootnote": "You need to take your time"
+    },
+    "after": {
+      "question": "# Translate:\n\naccept (subjunctive)\n\n## Footnote\n\nI hope she accepts the invitation.",
+      "answer": "acepte\n\n## Footnote\n\nEspero que acepte la invitación.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "accept (subjunctive)",
+      "qMdClarifier": "",
+      "qMdFootnote": "I hope she accepts the invitation.",
+      "aMdPrompt": "",
+      "aMdBody": "acepte",
+      "aMdClarifier": "",
+      "aMdFootnote": "Espero que acepte la invitación."
+    },
+    "reason": "Restore original Spanish lemma acepte from the source export; corrupted Spanish fields contained unrelated English."
+  },
+  {
+    "row": 166,
+    "cardId": 491519111,
+    "before": {
+      "question": "# Translate:\n\nI surrender\n\n## Footnote\n\nI surrender, you win this argument.",
+      "answer": "rindo\n\n## Footnote\n\nMe rindo, tú ganas esta discusión.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "I surrender",
+      "qMdClarifier": "",
+      "qMdFootnote": "I surrender, you win this argument.",
+      "aMdPrompt": "",
+      "aMdBody": "rindo",
+      "aMdClarifier": "",
+      "aMdFootnote": "Me rindo, tú ganas esta discusión."
+    },
+    "after": {
+      "question": "# Translate:\n\nI surrender\n\n## Footnote\n\nI surrender, you win this argument.",
+      "answer": "me rindo\n\n## Footnote\n\nMe rindo, tú ganas esta discusión.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "I surrender",
+      "qMdClarifier": "",
+      "qMdFootnote": "I surrender, you win this argument.",
+      "aMdPrompt": "",
+      "aMdBody": "me rindo",
+      "aMdClarifier": "",
+      "aMdFootnote": "Me rindo, tú ganas esta discusión."
+    },
+    "reason": "Surrender requires reflexive rendirse."
+  },
+  {
+    "row": 271,
+    "cardId": 491519216,
+    "before": {
+      "question": "# Translate:\n\ninvented\n\n## Footnote\n\nHe invented a new game yesterday.",
+      "answer": "inventado\n\n## Footnote\n\nInventó un juego nuevo ayer.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "invented",
+      "qMdClarifier": "",
+      "qMdFootnote": "He invented a new game yesterday.",
+      "aMdPrompt": "",
+      "aMdBody": "inventado",
+      "aMdClarifier": "",
+      "aMdFootnote": "Inventó un juego nuevo ayer."
+    },
+    "after": {
+      "question": "# Translate:\n\ninvented\n\n## Footnote\n\nHe has invented a new game.",
+      "answer": "inventado\n\n## Footnote\n\nHa inventado un juego nuevo.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "invented",
+      "qMdClarifier": "",
+      "qMdFootnote": "He has invented a new game.",
+      "aMdPrompt": "",
+      "aMdBody": "inventado",
+      "aMdClarifier": "",
+      "aMdFootnote": "Ha inventado un juego nuevo."
+    },
+    "reason": "Use target inventado."
+  },
+  {
+    "row": 290,
+    "cardId": 491519235,
+    "before": {
+      "question": "# Translate:\n\nmoved\n\n## Footnote\n\nShe was deeply moved by the story.",
+      "answer": "movido\n\n## Footnote\n\nAlguien ha movido mi silla",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "moved",
+      "qMdClarifier": "",
+      "qMdFootnote": "She was deeply moved by the story.",
+      "aMdPrompt": "",
+      "aMdBody": "movido",
+      "aMdClarifier": "",
+      "aMdFootnote": "Alguien ha movido mi silla"
+    },
+    "after": {
+      "question": "# Translate:\n\nmoved\n\n## Footnote\n\nShe was deeply moved by the story.",
+      "answer": "movido\n\n## Footnote\n\nAlguien ha movido mi silla.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "moved",
+      "qMdClarifier": "",
+      "qMdFootnote": "She was deeply moved by the story.",
+      "aMdPrompt": "",
+      "aMdBody": "movido",
+      "aMdClarifier": "",
+      "aMdFootnote": "Alguien ha movido mi silla."
+    },
+    "reason": "Normalize sentence punctuation and remove extraneous quotation marks."
+  },
+  {
+    "row": 310,
+    "cardId": 734809998,
+    "before": {
+      "question": "# Translate:\n\nstandard\n\n## Footnote\n\nGold is the standard for quality.",
+      "answer": "moved\n\n## Footnote\n\nSomeone has moved my chair.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "standard",
+      "qMdClarifier": "",
+      "qMdFootnote": "Gold is the standard for quality.",
+      "aMdPrompt": "",
+      "aMdBody": "moved",
+      "aMdClarifier": "",
+      "aMdFootnote": "Someone has moved my chair."
+    },
+    "after": {
+      "question": "# Translate:\n\nstandard\n\n## Footnote\n\nGold is the standard for quality.",
+      "answer": "estándar\n\n## Footnote\n\nEl oro es el estándar de calidad.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "standard",
+      "qMdClarifier": "",
+      "qMdFootnote": "Gold is the standard for quality.",
+      "aMdPrompt": "",
+      "aMdBody": "estándar",
+      "aMdClarifier": "",
+      "aMdFootnote": "El oro es el estándar de calidad."
+    },
+    "reason": "Restore original Spanish estándar and example; fields were overwritten with unrelated English."
+  },
+  {
+    "row": 406,
+    "cardId": 491519351,
+    "before": {
+      "question": "# Translate:\n\nconvert, transform (subjunctive)\n\n## Footnote\n\nHe wants me to transform it.",
+      "answer": "convierta\n\n## Footnote\n\nÉl quiere que lo convierta.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "convert, transform (subjunctive)",
+      "qMdClarifier": "",
+      "qMdFootnote": "He wants me to transform it.",
+      "aMdPrompt": "",
+      "aMdBody": "convierta",
+      "aMdClarifier": "",
+      "aMdFootnote": "Él quiere que lo convierta."
+    },
+    "after": {
+      "question": "# Translate:\n\nconvert, transform (subjunctive)\n\n## Footnote\n\nHe wants me to convert the file.",
+      "answer": "convierta\n\n## Footnote\n\nQuiere que convierta el archivo.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "convert, transform (subjunctive)",
+      "qMdClarifier": "",
+      "qMdFootnote": "He wants me to convert the file.",
+      "aMdPrompt": "",
+      "aMdBody": "convierta",
+      "aMdClarifier": "",
+      "aMdFootnote": "Quiere que convierta el archivo."
+    },
+    "reason": "Give convertir a clear object."
+  },
+  {
+    "row": 407,
+    "cardId": 491519352,
+    "before": {
+      "question": "# Translate:\n\nnegation\n\n## Footnote\n\nHis statement was a clear negation.",
+      "answer": "negativa\n\n## Footnote\n\nSu declaración fue una clara negativa.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "negation",
+      "qMdClarifier": "",
+      "qMdFootnote": "His statement was a clear negation.",
+      "aMdPrompt": "",
+      "aMdBody": "negativa",
+      "aMdClarifier": "",
+      "aMdFootnote": "Su declaración fue una clara negativa."
+    },
+    "after": {
+      "question": "# Translate:\n\nrefusal\n\n## Footnote\n\nHis answer was a clear refusal.",
+      "answer": "negativa\n\n## Footnote\n\nSu respuesta fue una clara negativa.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "refusal",
+      "qMdClarifier": "",
+      "qMdFootnote": "His answer was a clear refusal.",
+      "aMdPrompt": "",
+      "aMdBody": "negativa",
+      "aMdClarifier": "",
+      "aMdFootnote": "Su respuesta fue una clara negativa."
+    },
+    "reason": "Use the natural refusal sense of negativa."
+  },
+  {
+    "row": 433,
+    "cardId": 491519378,
+    "before": {
+      "question": "# Translate:\n\ncult\n\n## Footnote\n\nHe is a very educated man; he knows a lot about history.",
+      "answer": "culto\n\n## Footnote\n\nÉl es un hombre muy culto; sabe mucho de historia.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "cult",
+      "qMdClarifier": "",
+      "qMdFootnote": "He is a very educated man; he knows a lot about history.",
+      "aMdPrompt": "",
+      "aMdBody": "culto",
+      "aMdClarifier": "",
+      "aMdFootnote": "Él es un hombre muy culto; sabe mucho de historia."
+    },
+    "after": {
+      "question": "# Translate:\n\neducated, cultured\n\n## Footnote\n\nHe is a very educated man; he knows a lot about history.",
+      "answer": "culto\n\n## Footnote\n\nÉl es un hombre muy culto; sabe mucho de historia.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "educated, cultured",
+      "qMdClarifier": "",
+      "qMdFootnote": "He is a very educated man; he knows a lot about history.",
+      "aMdPrompt": "",
+      "aMdBody": "culto",
+      "aMdClarifier": "",
+      "aMdFootnote": "Él es un hombre muy culto; sabe mucho de historia."
+    },
+    "reason": "Culto is an adjective meaning educated in this example, not a cult."
+  }
+]

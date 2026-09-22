@@ -1,0 +1,2972 @@
+[
+  {
+    "pack": "russian_english",
+    "deck": "15260210",
+    "row": 48,
+    "before": [
+      "стремительный",
+      "rapid",
+      "Это стремительное решение.",
+      "This is a rapid decision."
+    ],
+    "after": [
+      "стремительный",
+      "rapid",
+      "Стремительное течение опасно.",
+      "The rapid current is dangerous."
+    ],
+    "reason": "replaces an unnatural decision collocation"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260210",
+    "row": 53,
+    "before": [
+      "пушкинский",
+      "Pushkin's",
+      "Это пушкинский музей.",
+      "This is Pushkin's museum."
+    ],
+    "after": [
+      "пушкинский",
+      "by Pushkin, Pushkin's",
+      "Это пушкинская поэма.",
+      "This is a poem by Pushkin."
+    ],
+    "reason": "avoids falsely treating a museum name as Pushkin's possession"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260210",
+    "row": 74,
+    "before": [
+      "комфорт",
+      "comfort",
+      "В доме есть комфорт.",
+      "There is comfort in the house."
+    ],
+    "after": [
+      "комфорт",
+      "comfort",
+      "Мы ценим комфорт дома.",
+      "We value the comfort of home."
+    ],
+    "reason": "replaces an unnatural existential collocation"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260210",
+    "row": 79,
+    "before": [
+      "перенос",
+      "postponement",
+      "Перенос встречи назначен на пятницу.",
+      "The postponement is set for Friday."
+    ],
+    "after": [
+      "перенос",
+      "postponement",
+      "Перенос встречи расстроил нас.",
+      "The postponement upset us."
+    ],
+    "reason": "a postponement itself is not scheduled for Friday"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260210",
+    "row": 87,
+    "before": [
+      "интрига",
+      "intrigue",
+      "В доме есть интрига.",
+      "There is intrigue in the house."
+    ],
+    "after": [
+      "интрига",
+      "plot",
+      "В романе сложная интрига.",
+      "The novel has a complex plot."
+    ],
+    "reason": "replaces an unnatural claim that a house contains intrigue"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260210",
+    "row": 93,
+    "before": [
+      "недаром",
+      "not for nothing",
+      "Недаром его любят.",
+      "They love him not for nothing."
+    ],
+    "after": [
+      "недаром",
+      "for good reason",
+      "Недаром он победил.",
+      "He won for good reason."
+    ],
+    "reason": "removes a literal and unnatural English calque"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260210",
+    "row": 146,
+    "before": [
+      "пристрастие",
+      "addiction",
+      "У него пристрастие к игре.",
+      "He has an addiction to the game."
+    ],
+    "after": [
+      "пристрастие",
+      "addiction",
+      "У него опасное пристрастие.",
+      "He has a dangerous addiction."
+    ],
+    "reason": "avoids implying that any game is necessarily an addiction"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260210",
+    "row": 156,
+    "before": [
+      "суждено",
+      "destined",
+      "Ему суждено.",
+      "He is destined."
+    ],
+    "after": [
+      "суждено",
+      "destined",
+      "Ему суждено победить.",
+      "He is destined to win."
+    ],
+    "reason": "completes the predicate in both languages"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260210",
+    "row": 180,
+    "before": [
+      "сплошь",
+      "entirely",
+      "Поле сплошь в снегу.",
+      "The field is entirely in snow."
+    ],
+    "after": [
+      "сплошь",
+      "entirely",
+      "Поле сплошь покрыто снегом.",
+      "The field is entirely covered with snow."
+    ],
+    "reason": "fixes unnatural English phrasing"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260210",
+    "row": 185,
+    "before": [
+      "езда",
+      "riding",
+      "Мне нравится езда.",
+      "I like riding."
+    ],
+    "after": [
+      "езда",
+      "driving, riding",
+      "Быстрая езда опасна.",
+      "Fast driving is dangerous."
+    ],
+    "reason": "uses a natural concrete collocation"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260210",
+    "row": 208,
+    "before": [
+      "зрелый",
+      "ripe",
+      "Яблоко уже зрелое.",
+      "The apple is already ripe."
+    ],
+    "after": [
+      "зрелый",
+      "mature, ripe",
+      "Он уже зрелый человек.",
+      "He is already a mature person."
+    ],
+    "reason": "avoids the unnatural Russian collocation for a ripe apple"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260210",
+    "row": 210,
+    "before": [
+      "аккуратный",
+      "neat",
+      "Стол очень аккуратный.",
+      "The table is very neat."
+    ],
+    "after": [
+      "аккуратный",
+      "neat",
+      "У неё аккуратный стол.",
+      "She has a neat desk."
+    ],
+    "reason": "makes the predicate natural in Russian"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260210",
+    "row": 240,
+    "before": [
+      "практиковать",
+      "to practice",
+      "Она практикует язык.",
+      "She practices the language."
+    ],
+    "after": [
+      "практиковать",
+      "to practice",
+      "Врач практикует здесь.",
+      "The doctor practices here."
+    ],
+    "reason": "removes the calque практиковать язык"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260210",
+    "row": 278,
+    "before": [
+      "оптимизм",
+      "optimism",
+      "У неё есть оптимизм.",
+      "She has optimism."
+    ],
+    "after": [
+      "оптимизм",
+      "optimism",
+      "Она смотрит в будущее с оптимизмом.",
+      "She looks to the future with optimism."
+    ],
+    "reason": "replaces unnatural possession of optimism"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260210",
+    "row": 415,
+    "before": [
+      "вырастать",
+      "to grow",
+      "Он начал вырастать.",
+      "He began to grow."
+    ],
+    "after": [
+      "вырастать",
+      "to grow up",
+      "Сын быстро вырастает.",
+      "My son is growing up quickly."
+    ],
+    "reason": "replaces an awkward inchoative construction"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260210",
+    "row": 447,
+    "before": [
+      "кайф",
+      "high",
+      "Это кайф.",
+      "This is a high."
+    ],
+    "after": [
+      "кайф",
+      "thrill, bliss",
+      "Вот это кайф!",
+      "What a thrill!"
+    ],
+    "reason": "uses the ordinary slang sense naturally"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260210",
+    "row": 456,
+    "before": [
+      "жрать",
+      "to devour",
+      "Он начал жрать.",
+      "He began to devour."
+    ],
+    "after": [
+      "жрать",
+      "to devour",
+      "Он жрёт мясо.",
+      "He devours meat."
+    ],
+    "reason": "supplies the missing object for the transitive gloss"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260210",
+    "row": 465,
+    "before": [
+      "качественно",
+      "properly",
+      "Сделай это качественно.",
+      "Do this properly."
+    ],
+    "after": [
+      "качественно",
+      "well, properly",
+      "Работа выполнена качественно.",
+      "The work was done well."
+    ],
+    "reason": "gives a natural use of the adverb"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260210",
+    "row": 471,
+    "before": [
+      "сытый",
+      "full",
+      "Я сытый.",
+      "I am full."
+    ],
+    "after": [
+      "сытый",
+      "full",
+      "Я уже сыт.",
+      "I am already full."
+    ],
+    "reason": "uses the natural short-form Russian predicate"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260210",
+    "row": 472,
+    "before": [
+      "подвижный",
+      "mobile",
+      "Мальчик очень подвижный.",
+      "The boy is very mobile."
+    ],
+    "after": [
+      "подвижный",
+      "active, mobile",
+      "Мальчик очень подвижный.",
+      "The boy is very active."
+    ],
+    "reason": "selects the correct sense for a child"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260210",
+    "row": 481,
+    "before": [
+      "прочитывать",
+      "to read",
+      "Я прочитываю письмо.",
+      "I read the letter."
+    ],
+    "after": [
+      "прочитывать",
+      "to read through",
+      "Я прочитываю книгу за день.",
+      "I read through the book in a day."
+    ],
+    "reason": "distinguishes the verb from generic reading"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260210",
+    "row": 487,
+    "before": [
+      "испуг",
+      "fright",
+      "Это был испуг.",
+      "That was a fright."
+    ],
+    "after": [
+      "испуг",
+      "fright",
+      "Испуг быстро прошёл.",
+      "The fright passed quickly."
+    ],
+    "reason": "replaces an unnatural copular sentence"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260213",
+    "row": 9,
+    "before": [
+      "бас",
+      "bass, contrabass",
+      "Он прекрасно играл на басе.",
+      "He played the bass beautifully."
+    ],
+    "after": [
+      "бас",
+      "bass",
+      "Он прекрасно играл на басе.",
+      "He played the bass beautifully."
+    ],
+    "reason": "removes the unsupported contrabass sense"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260213",
+    "row": 33,
+    "before": [
+      "каблук",
+      "heel, stiletto",
+      "Она сломала каблук на вечеринке.",
+      "She broke her heel at the party."
+    ],
+    "after": [
+      "каблук",
+      "heel",
+      "Она сломала каблук.",
+      "She broke the heel of her shoe."
+    ],
+    "reason": "removes the incorrect stiletto gloss Final adjudication: She broke her heel normally describes a bodily injury, while каблук is the heel of a shoe."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260213",
+    "row": 41,
+    "before": [
+      "наземный",
+      "terrestrial, ground-based",
+      "Это наземный транспорт.",
+      "This is terrestrial transport."
+    ],
+    "after": [
+      "наземный",
+      "ground, terrestrial",
+      "Это наземный транспорт.",
+      "This is ground transport."
+    ],
+    "reason": "uses the correct transport sense"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260213",
+    "row": 53,
+    "before": [
+      "досада",
+      "annoyance",
+      "Какая досада!",
+      "What an annoyance!"
+    ],
+    "after": [
+      "досада",
+      "annoyance, disappointment",
+      "Какая досада!",
+      "What a disappointment!"
+    ],
+    "reason": "replaces an unnatural English exclamation"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260213",
+    "row": 59,
+    "before": [
+      "репрессия",
+      "repression, crackdown",
+      "Народ помнит те репрессии.",
+      "The people remember that repression."
+    ],
+    "after": [
+      "репрессия",
+      "repression, crackdown",
+      "Народ помнит те репрессии.",
+      "The people remember those repressions."
+    ],
+    "reason": "aligns English number with the Russian plural"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260213",
+    "row": 95,
+    "before": [
+      "лопнуть",
+      "burst",
+      "Шарик внезапно лопнул.",
+      "The ball burst suddenly."
+    ],
+    "after": [
+      "лопнуть",
+      "to burst",
+      "Мяч внезапно лопнул.",
+      "The ball burst suddenly."
+    ],
+    "reason": "uses the burst sense consistently"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260213",
+    "row": 101,
+    "before": [
+      "гарнизон",
+      "garrison",
+      "Гарнизон стоит в городе.",
+      "The garrison stands in the city."
+    ],
+    "after": [
+      "гарнизон",
+      "garrison",
+      "Гарнизон размещён в городе.",
+      "The garrison is stationed in the city."
+    ],
+    "reason": "removes the literal calque stands in the city"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260213",
+    "row": 115,
+    "before": [
+      "тост",
+      "toast",
+      "Он поднял тост.",
+      "He raised a toast."
+    ],
+    "after": [
+      "тост",
+      "toast",
+      "Он произнёс тост.",
+      "He made a toast."
+    ],
+    "reason": "uses the natural Russian and English toast collocations"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260213",
+    "row": 121,
+    "before": [
+      "компетенция",
+      "competence, competency",
+      "Это не моя компетенция.",
+      "This is not my competence."
+    ],
+    "after": [
+      "компетенция",
+      "competence, jurisdiction",
+      "Это вне моей компетенции.",
+      "This is beyond my competence."
+    ],
+    "reason": "removes the English calque this is my competence"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260213",
+    "row": 139,
+    "before": [
+      "няня",
+      "nanny, babysitter",
+      "Няня гуляет с сыном.",
+      "The nanny walks with the son."
+    ],
+    "after": [
+      "няня",
+      "nanny, babysitter",
+      "Няня гуляет с ним.",
+      "The nanny walks with him."
+    ],
+    "reason": "removes an unexplained possessive relationship"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260213",
+    "row": 143,
+    "before": [
+      "поклон",
+      "bow",
+      "Он сделал поклон.",
+      "He made a bow."
+    ],
+    "after": [
+      "поклон",
+      "bow",
+      "Он ответил поклоном.",
+      "He answered with a bow."
+    ],
+    "reason": "replaces the less natural сделать поклон collocation"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260213",
+    "row": 161,
+    "before": [
+      "густо",
+      "thickly, densely",
+      "Снег идёт густо.",
+      "The snow falls thickly."
+    ],
+    "after": [
+      "густо",
+      "densely, thickly",
+      "Деревья растут густо.",
+      "The trees grow densely."
+    ],
+    "reason": "replaces unnatural snow falls thickly"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260213",
+    "row": 169,
+    "before": [
+      "несправедливый",
+      "unfair, unjust",
+      "Это несправедливый суд.",
+      "This is an unfair court."
+    ],
+    "after": [
+      "несправедливый",
+      "unfair, unjust",
+      "Это несправедливое решение.",
+      "This is an unfair decision."
+    ],
+    "reason": "uses a clear natural collocation"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260213",
+    "row": 186,
+    "before": [
+      "возрастной",
+      "age-related",
+      "Это возрастной предел.",
+      "This is an age-related limit."
+    ],
+    "after": [
+      "возрастной",
+      "age, age-related",
+      "Это возрастное ограничение.",
+      "This is an age restriction."
+    ],
+    "reason": "corrects age limit rather than age-related limit"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260213",
+    "row": 201,
+    "before": [
+      "нахождение",
+      "finding, discovery",
+      "Это важное нахождение.",
+      "This is an important finding."
+    ],
+    "after": [
+      "нахождение",
+      "finding",
+      "Нахождение решения заняло час.",
+      "Finding the solution took an hour."
+    ],
+    "reason": "uses the verbal-noun sense rather than false нахождение as a discovery"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260213",
+    "row": 203,
+    "before": [
+      "выдумать",
+      "invent, make up",
+      "Она выдумала историю.",
+      "She invented a story."
+    ],
+    "after": [
+      "выдумать",
+      "to make up, to invent",
+      "Она выдумала историю.",
+      "She made up a story."
+    ],
+    "reason": "uses the idiomatic English collocation"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260213",
+    "row": 226,
+    "before": [
+      "устраиваться",
+      "to settle in, to get a job",
+      "Он устраивается на работу.",
+      "He wants to get a job."
+    ],
+    "after": [
+      "устраиваться",
+      "to get a job, to settle in",
+      "Он устраивается на работу.",
+      "He is getting a job."
+    ],
+    "reason": "fixes the unsupported English want tense and meaning"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260213",
+    "row": 253,
+    "before": [
+      "поощрять",
+      "encourage, promote",
+      "Надо поощрять сына.",
+      "We must encourage the son."
+    ],
+    "after": [
+      "поощрять",
+      "to encourage, to promote",
+      "Поощряй его.",
+      "Encourage him."
+    ],
+    "reason": "replaces unnatural the son phrasing"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260213",
+    "row": 271,
+    "before": [
+      "заведомо",
+      "obviously",
+      "Это заведомо плохой план.",
+      "This is an obviously bad plan."
+    ],
+    "after": [
+      "заведомо",
+      "knowingly",
+      "Это заведомо ложное утверждение.",
+      "This is a knowingly false statement."
+    ],
+    "reason": "restores the knowingly sense lost by obviously"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260213",
+    "row": 287,
+    "before": [
+      "амбиция",
+      "ambition, aspiration",
+      "У неё большая амбиция.",
+      "She has a great ambition."
+    ],
+    "after": [
+      "амбиция",
+      "ambition, aspiration",
+      "У неё большие амбиции.",
+      "She has great ambitions."
+    ],
+    "reason": "uses the natural plural construction"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260213",
+    "row": 292,
+    "before": [
+      "осваивать",
+      "master, assimilate",
+      "Он начал осваивать язык.",
+      "He starts to master the language."
+    ],
+    "after": [
+      "осваивать",
+      "to master, to learn",
+      "Он начал осваивать язык.",
+      "He started to master the language."
+    ],
+    "reason": "aligns English tense with Russian"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260213",
+    "row": 305,
+    "before": [
+      "картофель",
+      "potato, potatoes",
+      "Картофель уже готов.",
+      "The potato is already ready."
+    ],
+    "after": [
+      "картофель",
+      "potatoes, potato",
+      "Картофель уже готов.",
+      "The potatoes are ready."
+    ],
+    "reason": "uses English potatoes as the natural mass-food equivalent"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260213",
+    "row": 314,
+    "before": [
+      "проникновение",
+      "break-in",
+      "Проникновение было ночью.",
+      "The break-in happened at night."
+    ],
+    "after": [
+      "проникновение",
+      "penetration",
+      "Проникновение воды опасно.",
+      "Water penetration is dangerous."
+    ],
+    "reason": "removes an unsupported break-in sense from a vague example"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260213",
+    "row": 315,
+    "before": [
+      "конечность",
+      "limb, extremity",
+      "Конечность уже здесь.",
+      "The limb is already here."
+    ],
+    "after": [
+      "конечность",
+      "limb, extremity",
+      "У него болит конечность.",
+      "His limb hurts."
+    ],
+    "reason": "replaces a nonsensical here example"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260213",
+    "row": 323,
+    "before": [
+      "подставить",
+      "to set up, to frame",
+      "Не надо меня подставить.",
+      "Do not set me up."
+    ],
+    "after": [
+      "подставить",
+      "to set up, to frame",
+      "Он решил меня подставить.",
+      "He decided to set me up."
+    ],
+    "reason": "fixes Russian infinitive grammar"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260213",
+    "row": 329,
+    "before": [
+      "бунт",
+      "rebellion, mutiny",
+      "Бунт уже здесь.",
+      "The rebellion is already here."
+    ],
+    "after": [
+      "бунт",
+      "rebellion, mutiny",
+      "В городе начался бунт.",
+      "A rebellion began in the city."
+    ],
+    "reason": "replaces a vacuous and unnatural location statement"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260213",
+    "row": 335,
+    "before": [
+      "пригодный",
+      "suitable, fit",
+      "Этот нож пригоден.",
+      "This knife is suitable."
+    ],
+    "after": [
+      "пригодный",
+      "suitable, fit",
+      "Этот нож пригоден для работы.",
+      "This knife is fit for the job."
+    ],
+    "reason": "completes the suitable predicate"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260213",
+    "row": 339,
+    "before": [
+      "снабжение",
+      "supply, provisioning",
+      "Снабжение уже здесь.",
+      "The supply is already here."
+    ],
+    "after": [
+      "снабжение",
+      "supply, provisioning",
+      "Снабжение города важно.",
+      "The city's supply is important."
+    ],
+    "reason": "replaces a meaningless supply is here sentence"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260213",
+    "row": 346,
+    "before": [
+      "угодный",
+      "pleasing, suitable",
+      "Это угодный ответ.",
+      "This is a pleasing answer."
+    ],
+    "after": [
+      "угодный",
+      "pleasing, agreeable",
+      "Этот ответ угоден ему.",
+      "This answer is pleasing to him."
+    ],
+    "reason": "fixes the unnatural attributive use"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260213",
+    "row": 347,
+    "before": [
+      "пробираться",
+      "sneak, thread one's way",
+      "Он начал пробираться домой.",
+      "He began to sneak home."
+    ],
+    "after": [
+      "пробираться",
+      "to make one's way",
+      "Он начал пробираться домой.",
+      "He began to make his way home."
+    ],
+    "reason": "uses the matching non-stealth sense"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260213",
+    "row": 354,
+    "before": [
+      "курение",
+      "smoking, tobacco use",
+      "Курение здесь нельзя.",
+      "Smoking is not allowed here."
+    ],
+    "after": [
+      "курение",
+      "smoking, tobacco use",
+      "Здесь запрещено курение.",
+      "Smoking is prohibited here."
+    ],
+    "reason": "fixes Russian noun construction grammar"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260213",
+    "row": 357,
+    "before": [
+      "снаряжение",
+      "equipment, gear",
+      "Снаряжение уже готово.",
+      "The equipment is already ready."
+    ],
+    "after": [
+      "снаряжение",
+      "equipment, gear",
+      "Снаряжение готово.",
+      "The equipment is ready."
+    ],
+    "reason": "removes redundant already ready phrasing"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260213",
+    "row": 371,
+    "before": [
+      "положительно",
+      "positively, affirmative",
+      "Я положительно это знаю.",
+      "I positively know this."
+    ],
+    "after": [
+      "положительно",
+      "positively",
+      "Он ответил положительно.",
+      "He responded positively."
+    ],
+    "reason": "replaces archaic and awkward positively know"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260213",
+    "row": 373,
+    "before": [
+      "устремиться",
+      "to rush, to strive",
+      "Он хочет устремиться туда.",
+      "He wants to rush there."
+    ],
+    "after": [
+      "устремиться",
+      "to rush",
+      "Он устремился к двери.",
+      "He rushed to the door."
+    ],
+    "reason": "removes an unnatural want to rush construction"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260213",
+    "row": 390,
+    "before": [
+      "кривая",
+      "curve, bent",
+      "Кривая на дороге.",
+      "The curve is on the road."
+    ],
+    "after": [
+      "кривая",
+      "curve",
+      "Нарисуй эту кривую.",
+      "Draw this curve."
+    ],
+    "reason": "replaces an unnatural road-location statement"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260213",
+    "row": 393,
+    "before": [
+      "закуска",
+      "snack, appetizer",
+      "Закуска уже готова.",
+      "The snack is already ready."
+    ],
+    "after": [
+      "закуска",
+      "snack, appetizer",
+      "Закуска готова.",
+      "The snack is ready."
+    ],
+    "reason": "removes redundant already ready phrasing"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260213",
+    "row": 404,
+    "before": [
+      "досуг",
+      "free time",
+      "У меня есть досуг.",
+      "I have free time."
+    ],
+    "after": [
+      "досуг",
+      "free time",
+      "Он читает на досуге.",
+      "He reads in his free time."
+    ],
+    "reason": "uses the idiomatic Russian construction"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260213",
+    "row": 418,
+    "before": [
+      "бюрократия",
+      "bureaucracy, red tape",
+      "Это большая бюрократия.",
+      "This is a big bureaucracy."
+    ],
+    "after": [
+      "бюрократия",
+      "bureaucracy, red tape",
+      "Здесь слишком много бюрократии.",
+      "There is too much bureaucracy here."
+    ],
+    "reason": "replaces unnatural big bureaucracy"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260213",
+    "row": 427,
+    "before": [
+      "вектор",
+      "vector, carrier",
+      "Вектор идёт сюда.",
+      "The vector goes here."
+    ],
+    "after": [
+      "вектор",
+      "vector",
+      "Вектор направлен сюда.",
+      "The vector points this way."
+    ],
+    "reason": "gives the vector a meaningful directional predicate"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260213",
+    "row": 435,
+    "before": [
+      "кандидатура",
+      "candidacy, nomination",
+      "Его кандидатура хорошая.",
+      "His candidacy is good."
+    ],
+    "after": [
+      "кандидатура",
+      "candidacy, nomination",
+      "Его кандидатуру одобрили.",
+      "His candidacy was approved."
+    ],
+    "reason": "replaces unnatural good candidacy phrasing"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260213",
+    "row": 436,
+    "before": [
+      "ресница",
+      "eyelash, eyelashes",
+      "У неё длинная ресница.",
+      "She has a long eyelash."
+    ],
+    "after": [
+      "ресница",
+      "eyelash, eyelashes",
+      "У неё длинные ресницы.",
+      "She has long eyelashes."
+    ],
+    "reason": "uses the natural plural construction"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260213",
+    "row": 461,
+    "before": [
+      "листва",
+      "foliage, leaves",
+      "Листва уже здесь.",
+      "The foliage is already here."
+    ],
+    "after": [
+      "листва",
+      "foliage, leaves",
+      "Листва покрыла землю.",
+      "Leaves covered the ground."
+    ],
+    "reason": "replaces a meaningless foliage is here example"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260213",
+    "row": 481,
+    "before": [
+      "эпидемия",
+      "epidemic, outbreak",
+      "Эпидемия уже здесь.",
+      "The epidemic is already here."
+    ],
+    "after": [
+      "эпидемия",
+      "epidemic, outbreak",
+      "В городе началась эпидемия.",
+      "An epidemic began in the city."
+    ],
+    "reason": "replaces a vacuous location statement"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260213",
+    "row": 487,
+    "before": [
+      "впасть",
+      "to fall asleep",
+      "Он может впасть в сон.",
+      "He may fall asleep."
+    ],
+    "after": [
+      "впасть",
+      "to fall into",
+      "Он впал в отчаяние.",
+      "He fell into despair."
+    ],
+    "reason": "corrects an over-narrow gloss and unnatural sleep collocation"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260213",
+    "row": 488,
+    "before": [
+      "великолепно",
+      "magnificent, splendid",
+      "Это великолепно.",
+      "This is magnificent."
+    ],
+    "after": [
+      "великолепно",
+      "wonderfully, splendidly",
+      "Она поёт великолепно.",
+      "She sings wonderfully."
+    ],
+    "reason": "corrects adjective glosses for an adverb"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260213",
+    "row": 491,
+    "before": [
+      "показательный",
+      "demonstrative, indicative",
+      "Это показательный пример.",
+      "This is a demonstrative example."
+    ],
+    "after": [
+      "показательный",
+      "illustrative, revealing",
+      "Это показательный пример.",
+      "This is an illustrative example."
+    ],
+    "reason": "removes the false-friend demonstrative gloss"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260214",
+    "row": 35,
+    "before": [
+      "рассудок",
+      "reason, sanity",
+      "Он потерял рассудок.",
+      "He lost his reason."
+    ],
+    "after": [
+      "рассудок",
+      "reason, sanity",
+      "Он потерял рассудок.",
+      "He lost his sanity."
+    ],
+    "reason": "uses the idiomatic English sense"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260214",
+    "row": 36,
+    "before": [
+      "долгожданный",
+      "long-awaited",
+      "Долгожданный день настал.",
+      "The long-awaited day is here."
+    ],
+    "after": [
+      "долгожданный",
+      "long-awaited",
+      "Долгожданный день настал.",
+      "The long-awaited day arrived."
+    ],
+    "reason": "matches настал without a loose here rendering"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260214",
+    "row": 42,
+    "before": [
+      "отцовский",
+      "paternal, fatherly",
+      "Это его отцовский дом.",
+      "This is his paternal home."
+    ],
+    "after": [
+      "отцовский",
+      "father's, paternal",
+      "Это его отцовский дом.",
+      "This is his father's home."
+    ],
+    "reason": "selects the correct possessive sense"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260214",
+    "row": 44,
+    "before": [
+      "схватиться",
+      "to clutch, to grasp",
+      "Он схватился за руку.",
+      "He clutched his arm."
+    ],
+    "after": [
+      "схватиться",
+      "to clutch, to grasp",
+      "Он схватился за голову.",
+      "He clutched his head."
+    ],
+    "reason": "removes ambiguity over whose arm was grasped"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260214",
+    "row": 48,
+    "before": [
+      "корм",
+      "feed, fodder",
+      "Купи корм для кота.",
+      "Buy feed for the cat."
+    ],
+    "after": [
+      "корм",
+      "feed, fodder",
+      "Купи корм для животных.",
+      "Buy some animal feed."
+    ],
+    "reason": "uses natural English while retaining the feed sense"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260214",
+    "row": 50,
+    "before": [
+      "достоверность",
+      "reliability",
+      "Достоверность этого низка.",
+      "The reliability of this is low."
+    ],
+    "after": [
+      "достоверность",
+      "reliability",
+      "Достоверность фактов низка.",
+      "The reliability of the facts is low."
+    ],
+    "reason": "replaces a vague unnatural pronoun construction"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260214",
+    "row": 62,
+    "before": [
+      "расцвет",
+      "blossoming, flowering",
+      "Это расцвет её карьеры.",
+      "This is the blossoming of her career."
+    ],
+    "after": [
+      "расцвет",
+      "peak, heyday",
+      "Это расцвет её карьеры.",
+      "This is the peak of her career."
+    ],
+    "reason": "corrects the unnatural blossoming of a career"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260214",
+    "row": 64,
+    "before": [
+      "кишка",
+      "intestine, gut",
+      "У меня болит кишка.",
+      "My gut hurts."
+    ],
+    "after": [
+      "кишка",
+      "intestine, gut",
+      "Кишка была повреждена.",
+      "The intestine was damaged."
+    ],
+    "reason": "replaces the unnatural singular body-pain sentence"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260214",
+    "row": 78,
+    "before": [
+      "замедлить",
+      "slow down",
+      "Замедли шаг.",
+      "Slow down your step."
+    ],
+    "after": [
+      "замедлить",
+      "to slow down",
+      "Замедли машину.",
+      "Slow the car down."
+    ],
+    "reason": "replaces the English calque slow down your step"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260214",
+    "row": 89,
+    "before": [
+      "канон",
+      "canon",
+      "Эта книга — канон.",
+      "This book is canon."
+    ],
+    "after": [
+      "канон",
+      "canon",
+      "Эта книга входит в канон.",
+      "This book is part of the canon."
+    ],
+    "reason": "fixes the Russian and English copular calque"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260214",
+    "row": 93,
+    "before": [
+      "насмешка",
+      "mockery, ridicule",
+      "Его улыбка была насмешкой.",
+      "His smile was a mockery."
+    ],
+    "after": [
+      "насмешка",
+      "mockery",
+      "Его слова звучали как насмешка.",
+      "His words sounded like mockery."
+    ],
+    "reason": "uses the noun naturally in both languages"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260214",
+    "row": 97,
+    "before": [
+      "скромно",
+      "modestly, humbly",
+      "Она скромно сказала спасибо.",
+      "She modestly said thank you."
+    ],
+    "after": [
+      "скромно",
+      "modestly, humbly",
+      "Она скромно улыбнулась.",
+      "She smiled modestly."
+    ],
+    "reason": "replaces awkward adverb placement with a natural action"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260214",
+    "row": 98,
+    "before": [
+      "материально",
+      "materially, financially",
+      "Они живут материально хорошо.",
+      "They live well materially."
+    ],
+    "after": [
+      "материально",
+      "financially, materially",
+      "Они материально обеспечены.",
+      "They are financially secure."
+    ],
+    "reason": "replaces unnatural materially well phrasing"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260214",
+    "row": 103,
+    "before": [
+      "греметь",
+      "to thunder, to roar",
+      "Гром начал греметь.",
+      "It began to thunder."
+    ],
+    "after": [
+      "греметь",
+      "to thunder, to rumble",
+      "Гром начал греметь.",
+      "The thunder began to rumble."
+    ],
+    "reason": "avoids the awkward impersonal English rendering"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260214",
+    "row": 107,
+    "before": [
+      "воспитательный",
+      "educational, upbringing",
+      "Это воспитательный момент.",
+      "This is an educational moment."
+    ],
+    "after": [
+      "воспитательный",
+      "educational, instructive",
+      "Это воспитательная беседа.",
+      "This is an educational talk."
+    ],
+    "reason": "replaces the calque educational moment"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260214",
+    "row": 124,
+    "before": [
+      "преданность",
+      "loyalty, devotion",
+      "Его преданность сильна.",
+      "His loyalty is strong."
+    ],
+    "after": [
+      "преданность",
+      "loyalty, devotion",
+      "Я ценю его преданность.",
+      "I value his loyalty."
+    ],
+    "reason": "replaces unnatural strong loyalty phrasing"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260214",
+    "row": 135,
+    "before": [
+      "грамотно",
+      "competently",
+      "Она пишет грамотно.",
+      "She writes competently."
+    ],
+    "after": [
+      "грамотно",
+      "correctly, competently",
+      "Она пишет грамотно.",
+      "She writes correctly."
+    ],
+    "reason": "selects the ordinary language-accuracy sense"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260214",
+    "row": 148,
+    "before": [
+      "христов",
+      "Christ's, of Christ",
+      "Это Христов храм.",
+      "This is Christ's temple."
+    ],
+    "after": [
+      "христов",
+      "Christ's, of Christ",
+      "Это учение Христово.",
+      "This is Christ's teaching."
+    ],
+    "reason": "uses the adjective in a natural religious phrase"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260214",
+    "row": 161,
+    "before": [
+      "донестись",
+      "to reach, to carry",
+      "Голос донёсся сюда.",
+      "The voice reached us."
+    ],
+    "after": [
+      "донестись",
+      "to reach, to carry",
+      "Голос донёсся до нас.",
+      "The voice reached us."
+    ],
+    "reason": "aligns the destination in both examples"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260214",
+    "row": 162,
+    "before": [
+      "пересечение",
+      "intersection, crossing",
+      "Стой на пересечении.",
+      "Stop at the intersection."
+    ],
+    "after": [
+      "пересечение",
+      "intersection, crossing",
+      "Пересечение дорог впереди.",
+      "The road intersection is ahead."
+    ],
+    "reason": "replaces an unsafe and unnatural imperative"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260214",
+    "row": 170,
+    "before": [
+      "пространственный",
+      "spatial, three-dimensional",
+      "Это пространственный план.",
+      "This is a spatial plan."
+    ],
+    "after": [
+      "пространственный",
+      "spatial, three-dimensional",
+      "Это пространственная модель.",
+      "This is a spatial model."
+    ],
+    "reason": "uses a natural noun collocation"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260214",
+    "row": 180,
+    "before": [
+      "склоняться",
+      "to incline, to tend",
+      "Я склоняюсь к этому плану.",
+      "I incline to this plan."
+    ],
+    "after": [
+      "склоняться",
+      "to lean toward, to favor",
+      "Я склоняюсь к этому плану.",
+      "I lean toward this plan."
+    ],
+    "reason": "removes the literal English incline calque"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260214",
+    "row": 181,
+    "before": [
+      "откинуться",
+      "recline, lean back",
+      "Он откинулся на стул.",
+      "He reclined in the chair."
+    ],
+    "after": [
+      "откинуться",
+      "to lean back, to recline",
+      "Он откинулся на стуле.",
+      "He leaned back in the chair."
+    ],
+    "reason": "uses the natural phrasal verb for the action"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260214",
+    "row": 228,
+    "before": [
+      "мерка",
+      "measure, size",
+      "Сними мерку.",
+      "Take my size."
+    ],
+    "after": [
+      "мерка",
+      "measurement, size",
+      "Сними с меня мерки.",
+      "Take my measurements."
+    ],
+    "reason": "corrects the unidiomatic Take my size"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260214",
+    "row": 251,
+    "before": [
+      "прекращаться",
+      "to cease, to stop",
+      "Дождь начал прекращаться.",
+      "The rain began to stop."
+    ],
+    "after": [
+      "прекращаться",
+      "to stop, to cease",
+      "Дождь прекращается.",
+      "The rain is stopping."
+    ],
+    "reason": "removes an unnatural began to stop construction"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260214",
+    "row": 261,
+    "before": [
+      "решимость",
+      "determination, resolve",
+      "Её решимость сильна.",
+      "Her determination is strong."
+    ],
+    "after": [
+      "решимость",
+      "determination, resolve",
+      "Её решимость удивила меня.",
+      "Her determination surprised me."
+    ],
+    "reason": "replaces unnatural strong determination phrasing"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260214",
+    "row": 293,
+    "before": [
+      "вкусно",
+      "tasty, delicious",
+      "Тут очень вкусно.",
+      "It is very tasty here."
+    ],
+    "after": [
+      "вкусно",
+      "tasty, delicious",
+      "Здесь готовят вкусно.",
+      "The food here is delicious."
+    ],
+    "reason": "fixes the nonsensical It is tasty here rendering"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260214",
+    "row": 298,
+    "before": [
+      "светло",
+      "light, bright",
+      "Тут очень светло.",
+      "It is very light here."
+    ],
+    "after": [
+      "светло",
+      "bright, light",
+      "Тут очень светло.",
+      "It is very bright here."
+    ],
+    "reason": "disambiguates light as brightness"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260214",
+    "row": 300,
+    "before": [
+      "смертельно",
+      "deadly, fatally",
+      "Это смертельно опасно.",
+      "This is fatally dangerous."
+    ],
+    "after": [
+      "смертельно",
+      "deadly, mortally",
+      "Это смертельно.",
+      "This is deadly."
+    ],
+    "reason": "removes the unnatural fatally dangerous phrase"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260214",
+    "row": 310,
+    "before": [
+      "профессионализм",
+      "professionalism",
+      "Его профессионализм виден.",
+      "His professionalism is visible."
+    ],
+    "after": [
+      "профессионализм",
+      "professionalism",
+      "Его профессионализм очевиден.",
+      "His professionalism is clear."
+    ],
+    "reason": "replaces literal visible with the natural evaluative predicate"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260214",
+    "row": 313,
+    "before": [
+      "замирать",
+      "freeze, hold one's breath",
+      "Он замирает тут.",
+      "He freezes here."
+    ],
+    "after": [
+      "замирать",
+      "to freeze, to hold one's breath",
+      "Он замирает от страха.",
+      "He freezes with fear."
+    ],
+    "reason": "replaces an unmotivated location example"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260214",
+    "row": 318,
+    "before": [
+      "выяснение",
+      "clarification, elucidation",
+      "Нужно выяснение.",
+      "Clarification is needed."
+    ],
+    "after": [
+      "выяснение",
+      "finding out, clarification",
+      "Выяснение причины займёт время.",
+      "Finding out the cause will take time."
+    ],
+    "reason": "replaces an unnatural bare nominal predicate"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260214",
+    "row": 323,
+    "before": [
+      "ползать",
+      "crawl, creep",
+      "Кот ползает тут.",
+      "The cat crawls here."
+    ],
+    "after": [
+      "ползать",
+      "to crawl, to creep",
+      "Мой сын учится ползать.",
+      "My son is learning to crawl."
+    ],
+    "reason": "uses the verb in a natural context"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260214",
+    "row": 332,
+    "before": [
+      "старание",
+      "diligence, effort",
+      "Его старание видно.",
+      "His diligence is visible."
+    ],
+    "after": [
+      "старание",
+      "effort, diligence",
+      "Я ценю его старание.",
+      "I value his effort."
+    ],
+    "reason": "replaces the literal effort is visible construction"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260214",
+    "row": 349,
+    "before": [
+      "измерять",
+      "measure, gauge",
+      "Измеряй стол.",
+      "Measure the table."
+    ],
+    "after": [
+      "измерять",
+      "to measure, to gauge",
+      "Он измеряет стол.",
+      "He measures the table."
+    ],
+    "reason": "fixes the marked imperfective imperative"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260214",
+    "row": 354,
+    "before": [
+      "нечистый",
+      "unclean, impure",
+      "Стол нечистый.",
+      "The table is unclean."
+    ],
+    "after": [
+      "нечистый",
+      "impure, unclean",
+      "Вода здесь нечистая.",
+      "The water here is impure."
+    ],
+    "reason": "uses a natural modern sense"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260214",
+    "row": 360,
+    "before": [
+      "побуждать",
+      "encourage, prompt",
+      "Это побуждает меня.",
+      "This encourages me."
+    ],
+    "after": [
+      "побуждать",
+      "to prompt, to encourage",
+      "Это побуждает меня действовать.",
+      "This prompts me to act."
+    ],
+    "reason": "completes the predicate's required action"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260214",
+    "row": 361,
+    "before": [
+      "удалять",
+      "remove, delete",
+      "Удаляй этот файл.",
+      "Remove this file."
+    ],
+    "after": [
+      "удалять",
+      "to remove, to delete",
+      "Он удаляет файл.",
+      "He is deleting the file."
+    ],
+    "reason": "replaces an unnatural imperfective imperative"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260214",
+    "row": 375,
+    "before": [
+      "совпасть",
+      "coincide, match",
+      "Время совпало.",
+      "The time coincided."
+    ],
+    "after": [
+      "совпасть",
+      "to coincide, to match",
+      "Время встреч совпало.",
+      "The meeting times coincided."
+    ],
+    "reason": "makes the compared items explicit"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260214",
+    "row": 392,
+    "before": [
+      "устоять",
+      "withstand, resist",
+      "Он не устоял.",
+      "He did not withstand."
+    ],
+    "after": [
+      "устоять",
+      "to resist, to withstand",
+      "Он не устоял перед соблазном.",
+      "He could not resist temptation."
+    ],
+    "reason": "supplies the missing complement"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260214",
+    "row": 394,
+    "before": [
+      "судорожно",
+      "convulsively, spasmodically",
+      "Он судорожно кивает.",
+      "He nods convulsively."
+    ],
+    "after": [
+      "судорожно",
+      "spasmodically, convulsively",
+      "Он судорожно дышит.",
+      "He is breathing spasmodically."
+    ],
+    "reason": "uses the adverb with a natural physical action"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260214",
+    "row": 437,
+    "before": [
+      "исполняться",
+      "to be fulfilled, to come true",
+      "Мечты исполняются.",
+      "Dreams are fulfilled."
+    ],
+    "after": [
+      "исполняться",
+      "to come true, to be fulfilled",
+      "Мечты исполняются.",
+      "Dreams come true."
+    ],
+    "reason": "uses the idiomatic English expression"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260214",
+    "row": 451,
+    "before": [
+      "пафос",
+      "pathos, pomposity",
+      "В речи много пафоса.",
+      "The speech has much pathos."
+    ],
+    "after": [
+      "пафос",
+      "pathos, pomposity",
+      "В речи много пафоса.",
+      "The speech is full of pathos."
+    ],
+    "reason": "fixes unnatural English quantity phrasing"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260214",
+    "row": 460,
+    "before": [
+      "информационно",
+      "informationally",
+      "Он ответил информационно.",
+      "He answered informationally."
+    ],
+    "after": [
+      "информационно",
+      "informationally",
+      "Текст информационно богат.",
+      "The text is informationally rich."
+    ],
+    "reason": "replaces an impossible answered informationally example"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260214",
+    "row": 475,
+    "before": [
+      "пониматься",
+      "to be understood, to be comprehensible",
+      "Это понимается иначе.",
+      "This is understood another way."
+    ],
+    "after": [
+      "пониматься",
+      "to be understood in another way",
+      "Это понимается иначе.",
+      "This is understood in another way."
+    ],
+    "reason": "uses natural English adverb phrasing"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260214",
+    "row": 480,
+    "before": [
+      "утверждаться",
+      "to be affirmed, to be established",
+      "Это мнение утверждается.",
+      "This opinion is being affirmed."
+    ],
+    "after": [
+      "утверждаться",
+      "to be established, to be affirmed",
+      "Новый порядок постепенно утверждается.",
+      "A new order is gradually becoming established."
+    ],
+    "reason": "replaces an unnatural opinion is being affirmed sentence"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260214",
+    "row": 485,
+    "before": [
+      "полезность",
+      "utility, usefulness",
+      "Я вижу полезность этого.",
+      "I see the utility of this."
+    ],
+    "after": [
+      "полезность",
+      "usefulness, utility",
+      "Полезность метода очевидна.",
+      "The method's usefulness is clear."
+    ],
+    "reason": "replaces the calque I see the utility of this"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260214",
+    "row": 498,
+    "before": [
+      "разыскивать",
+      "to search for, to look for",
+      "Полиция разыскивает его.",
+      "Police search for him."
+    ],
+    "after": [
+      "разыскивать",
+      "to search for, to look for",
+      "Полиция разыскивает его.",
+      "The police are searching for him."
+    ],
+    "reason": "uses natural progressive English"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260215",
+    "row": 21,
+    "before": [
+      "воскресный",
+      "Sunday",
+      "Воскресный вечер был тихим.",
+      "The Sunday evening was quiet."
+    ],
+    "after": [
+      "воскресный",
+      "Sunday",
+      "Воскресный вечер был тихим.",
+      "Sunday evening was quiet."
+    ],
+    "reason": "removes an unnecessary English article"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260215",
+    "row": 51,
+    "before": [
+      "сладко",
+      "sweetly",
+      "Малыш сладко спит.",
+      "The baby sleeps sweetly."
+    ],
+    "after": [
+      "сладко",
+      "soundly, sweetly",
+      "Малыш сладко спит.",
+      "The baby sleeps soundly."
+    ],
+    "reason": "selects the idiomatic English sleep collocation"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260215",
+    "row": 56,
+    "before": [
+      "форд",
+      "ford",
+      "Река мелкая у форда.",
+      "The river is low at the ford."
+    ],
+    "after": [
+      "форд",
+      "Ford",
+      "Он купил «Форд».",
+      "He bought a Ford."
+    ],
+    "reason": "corrects the false-friend river-crossing sense"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260215",
+    "row": 61,
+    "before": [
+      "негромко",
+      "quietly, softly",
+      "Она негромко закрыла дверь.",
+      "She quietly closed the door."
+    ],
+    "after": [
+      "негромко",
+      "quietly, softly",
+      "Она негромко сказала.",
+      "She spoke softly."
+    ],
+    "reason": "uses the adverb with a natural speech verb"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260215",
+    "row": 64,
+    "before": [
+      "обильный",
+      "abundant",
+      "Дождь был обильный.",
+      "The rain was abundant."
+    ],
+    "after": [
+      "обильный",
+      "heavy, abundant",
+      "Дождь был обильным.",
+      "The rain was heavy."
+    ],
+    "reason": "uses the idiomatic English rain collocation Final adjudication: The English is improved, but Russian requires instrumental обильным or short-form обилен after был."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260215",
+    "row": 84,
+    "before": [
+      "бутылочка",
+      "little bottle",
+      "Дай малышу бутылочку.",
+      "Give the baby the little bottle."
+    ],
+    "after": [
+      "бутылочка",
+      "little bottle",
+      "Это маленькая бутылочка.",
+      "This is a little bottle."
+    ],
+    "reason": "avoids mistranslating the diminutive as a baby's regular bottle"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260215",
+    "row": 118,
+    "before": [
+      "пополнение",
+      "replenishment, top-up",
+      "Карте нужно пополнение.",
+      "The card needs a top-up."
+    ],
+    "after": [
+      "пополнение",
+      "top-up, replenishment",
+      "Пополнение карты прошло успешно.",
+      "The card top-up was successful."
+    ],
+    "reason": "removes the Russian calque карте нужно пополнение"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260215",
+    "row": 133,
+    "before": [
+      "переделать",
+      "remake, redo",
+      "Надо переделать работу.",
+      "I need to redo the work."
+    ],
+    "after": [
+      "переделать",
+      "to redo, to remake",
+      "Надо переделать работу.",
+      "We need to redo the work."
+    ],
+    "reason": "aligns English person with generic Russian надо"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260215",
+    "row": 151,
+    "before": [
+      "хвататься",
+      "to grab, to cling",
+      "Он хватается за руку.",
+      "He grabs her hand."
+    ],
+    "after": [
+      "хвататься",
+      "to grab, to cling",
+      "Он хватается за мою руку.",
+      "He grabs my hand."
+    ],
+    "reason": "makes the possessor explicit in both examples"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260215",
+    "row": 173,
+    "before": [
+      "машинально",
+      "mechanically",
+      "Она машинально взяла ключ.",
+      "She mechanically took the key."
+    ],
+    "after": [
+      "машинально",
+      "automatically, absentmindedly",
+      "Она машинально взяла ключ.",
+      "She picked up the key automatically."
+    ],
+    "reason": "uses the idiomatic English sense"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260215",
+    "row": 176,
+    "before": [
+      "пирожок",
+      "pie",
+      "Я купил пирожок.",
+      "I bought a pie."
+    ],
+    "after": [
+      "пирожок",
+      "small pie, pastry",
+      "Я купил пирожок.",
+      "I bought a small pie."
+    ],
+    "reason": "avoids equating the diminutive filled pastry with a full pie"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260215",
+    "row": 181,
+    "before": [
+      "тощий",
+      "thin, scrawny",
+      "Кот был тощий.",
+      "The cat was thin."
+    ],
+    "after": [
+      "тощий",
+      "thin, scrawny",
+      "Кот был тощим.",
+      "The cat was scrawny."
+    ],
+    "reason": "fixes Russian predicate case"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260215",
+    "row": 193,
+    "before": [
+      "значиться",
+      "to be listed",
+      "Он значится в списке.",
+      "He is listed there."
+    ],
+    "after": [
+      "значиться",
+      "to be listed",
+      "Его имя значится в списке.",
+      "His name is listed."
+    ],
+    "reason": "restores the list meaning omitted by there"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260215",
+    "row": 206,
+    "before": [
+      "дежурство",
+      "duty, watch",
+      "Сегодня моё дежурство.",
+      "Today is my duty."
+    ],
+    "after": [
+      "дежурство",
+      "duty, watch",
+      "Я сегодня на дежурстве.",
+      "I am on duty today."
+    ],
+    "reason": "uses the idiomatic on-duty construction"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260215",
+    "row": 210,
+    "before": [
+      "сухопутный",
+      "land, terrestrial",
+      "Это сухопутная армия.",
+      "This is a land army."
+    ],
+    "after": [
+      "сухопутный",
+      "ground, land",
+      "Сухопутные войска наступают.",
+      "Ground forces are advancing."
+    ],
+    "reason": "replaces the unnatural land army collocation"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260215",
+    "row": 235,
+    "before": [
+      "разбирательство",
+      "inquiry, investigation",
+      "Разбирательство ещё идёт.",
+      "The inquiry is still going."
+    ],
+    "after": [
+      "разбирательство",
+      "inquiry, investigation",
+      "Разбирательство продолжается.",
+      "The inquiry continues."
+    ],
+    "reason": "fixes the unnatural inquiry is going phrase"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260215",
+    "row": 253,
+    "before": [
+      "минуть",
+      "pass by",
+      "Лето быстро минуло.",
+      "Summer passed by quickly."
+    ],
+    "after": [
+      "минуть",
+      "to pass",
+      "Лето быстро минуло.",
+      "Summer passed quickly."
+    ],
+    "reason": "removes an unnecessary phrasal particle"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260215",
+    "row": 260,
+    "before": [
+      "заросль",
+      "thicket",
+      "Он вошёл в заросль.",
+      "He went into the thicket."
+    ],
+    "after": [
+      "заросль",
+      "thicket",
+      "Перед нами густая заросль.",
+      "A dense thicket is ahead."
+    ],
+    "reason": "uses the singular noun in a complete natural context"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260215",
+    "row": 278,
+    "before": [
+      "пермский",
+      "Perm",
+      "Это пермский город.",
+      "This is a Perm city."
+    ],
+    "after": [
+      "пермский",
+      "Perm, from Perm",
+      "Пермский край большой.",
+      "The Perm region is large."
+    ],
+    "reason": "replaces the awkward a Perm city phrase"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260215",
+    "row": 296,
+    "before": [
+      "сокращаться",
+      "to decrease",
+      "Штат будет сокращаться.",
+      "The staff will decrease."
+    ],
+    "after": [
+      "сокращаться",
+      "to be reduced, to decrease",
+      "Штат будет сокращаться.",
+      "The staff will be reduced."
+    ],
+    "reason": "captures the workforce-reduction sense"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260215",
+    "row": 300,
+    "before": [
+      "ньютон",
+      "Newton",
+      "Это один ньютон.",
+      "This is one Newton."
+    ],
+    "after": [
+      "ньютон",
+      "newton",
+      "Это один ньютон.",
+      "This is one newton."
+    ],
+    "reason": "uses the lowercase English unit name"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260215",
+    "row": 316,
+    "before": [
+      "ступить",
+      "step, set foot",
+      "Не ступи сюда.",
+      "Don't step here."
+    ],
+    "after": [
+      "ступить",
+      "to step, to set foot",
+      "Он ступил в дом.",
+      "He stepped into the house."
+    ],
+    "reason": "replaces an unnatural perfective negative imperative"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260215",
+    "row": 324,
+    "before": [
+      "ухудшение",
+      "deterioration",
+      "Я вижу ухудшение.",
+      "I see a deterioration."
+    ],
+    "after": [
+      "ухудшение",
+      "deterioration",
+      "Ухудшение уже заметно.",
+      "The deterioration is already noticeable."
+    ],
+    "reason": "replaces unnatural I see a deterioration"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260215",
+    "row": 337,
+    "before": [
+      "наутро",
+      "in the morning",
+      "Он ушёл наутро.",
+      "He left in the morning."
+    ],
+    "after": [
+      "наутро",
+      "the next morning",
+      "Он ушёл наутро.",
+      "He left the next morning."
+    ],
+    "reason": "corrects the lost next-day meaning"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260215",
+    "row": 348,
+    "before": [
+      "сахарный",
+      "sugar, sugary",
+      "Чай слишком сахарный.",
+      "The tea is too sugary."
+    ],
+    "after": [
+      "сахарный",
+      "sugary, sugar",
+      "Это сахарный напиток.",
+      "This is a sugary drink."
+    ],
+    "reason": "replaces the unnatural sugary tea predicate"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260215",
+    "row": 356,
+    "before": [
+      "запястье",
+      "wrist",
+      "Часы на запястье.",
+      "The watch is on the wrist."
+    ],
+    "after": [
+      "запястье",
+      "wrist",
+      "Он носит часы на запястье.",
+      "He wears a watch on his wrist."
+    ],
+    "reason": "turns a fragment into a natural matched sentence"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260215",
+    "row": 378,
+    "before": [
+      "мгновенный",
+      "instant",
+      "Ответ был мгновенным.",
+      "The answer was instant."
+    ],
+    "after": [
+      "мгновенный",
+      "instant",
+      "Он дал мгновенный ответ.",
+      "He gave an instant answer."
+    ],
+    "reason": "replaces an unnatural instant predicate"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260215",
+    "row": 385,
+    "before": [
+      "неспособность",
+      "inability",
+      "Это его неспособность.",
+      "This is his inability."
+    ],
+    "after": [
+      "неспособность",
+      "inability",
+      "Его неспособность слушать мешает.",
+      "His inability to listen gets in the way."
+    ],
+    "reason": "completes the abstract noun's meaning"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260215",
+    "row": 396,
+    "before": [
+      "производительный",
+      "productive",
+      "Это был производительный день.",
+      "This was a productive day."
+    ],
+    "after": [
+      "производительный",
+      "productive, high-performance",
+      "Это производительный станок.",
+      "This is a high-performance machine."
+    ],
+    "reason": "uses the adjective with a natural machine sense"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260215",
+    "row": 400,
+    "before": [
+      "скопление",
+      "accumulation, cluster",
+      "Тут большое скопление.",
+      "There is a large accumulation here."
+    ],
+    "after": [
+      "скопление",
+      "concentration, cluster",
+      "Здесь скопление машин.",
+      "There is a concentration of cars here."
+    ],
+    "reason": "supplies the missing object of the accumulation"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260215",
+    "row": 401,
+    "before": [
+      "корточки",
+      "squat",
+      "Он сел на корточки.",
+      "He sat in a squat."
+    ],
+    "after": [
+      "корточки",
+      "haunches",
+      "Он сел на корточки.",
+      "He sat on his haunches."
+    ],
+    "reason": "removes the English calque sat in a squat Final adjudication: The proposal maps the plural noun корточки to a verb and no longer teaches the phrase-level noun correspondence."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260215",
+    "row": 404,
+    "before": [
+      "составитель",
+      "compiler",
+      "Он составитель словаря.",
+      "He is a compiler of the dictionary."
+    ],
+    "after": [
+      "составитель",
+      "compiler",
+      "Он составитель словаря.",
+      "He is the compiler of the dictionary."
+    ],
+    "reason": "fixes unnatural article placement"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260215",
+    "row": 405,
+    "before": [
+      "машинный",
+      "machine",
+      "Это машинный перевод.",
+      "This is a machine translation."
+    ],
+    "after": [
+      "машинный",
+      "machine",
+      "Это машинный перевод.",
+      "This is machine translation."
+    ],
+    "reason": "removes an incorrect English article"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260215",
+    "row": 412,
+    "before": [
+      "холдинг",
+      "holding",
+      "Это большой холдинг.",
+      "This is a large holding."
+    ],
+    "after": [
+      "холдинг",
+      "holding company",
+      "Это большой холдинг.",
+      "This is a large holding company."
+    ],
+    "reason": "supplies the required English company noun"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260215",
+    "row": 423,
+    "before": [
+      "служитель",
+      "servant",
+      "Он служитель церкви.",
+      "He is a servant of the church."
+    ],
+    "after": [
+      "служитель",
+      "minister, attendant",
+      "Он служитель церкви.",
+      "He is a church minister."
+    ],
+    "reason": "replaces the literal servant of the church"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260215",
+    "row": 429,
+    "before": [
+      "восторженный",
+      "ecstatic",
+      "Она была восторженной.",
+      "She was ecstatic."
+    ],
+    "after": [
+      "восторженный",
+      "ecstatic, enthusiastic",
+      "Она выглядела восторженной.",
+      "She looked ecstatic."
+    ],
+    "reason": "fixes Russian full-form predicate use"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260215",
+    "row": 432,
+    "before": [
+      "опережать",
+      "outstrip",
+      "Она опережает нас.",
+      "She outstrips us."
+    ],
+    "after": [
+      "опережать",
+      "to overtake, to outstrip",
+      "Она опережает нас.",
+      "She is overtaking us."
+    ],
+    "reason": "uses the natural progressive motion sense"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260215",
+    "row": 436,
+    "before": [
+      "прокат",
+      "rental",
+      "Это наш прокат.",
+      "This is our rental."
+    ],
+    "after": [
+      "прокат",
+      "rental",
+      "Прокат машин находится здесь.",
+      "The car rental is here."
+    ],
+    "reason": "replaces an incomplete possessive rental statement"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260215",
+    "row": 441,
+    "before": [
+      "ненавистный",
+      "hateful",
+      "Это ненавистный человек.",
+      "This is a hateful man."
+    ],
+    "after": [
+      "ненавистный",
+      "hated, detested",
+      "Это мой ненавистный враг.",
+      "This is my hated enemy."
+    ],
+    "reason": "corrects hateful to the passive hated sense"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260215",
+    "row": 452,
+    "before": [
+      "процветание",
+      "prosperity",
+      "Я вижу процветание.",
+      "I see prosperity."
+    ],
+    "after": [
+      "процветание",
+      "prosperity",
+      "Страна достигла процветания.",
+      "The country achieved prosperity."
+    ],
+    "reason": "replaces unnatural I see prosperity"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260215",
+    "row": 461,
+    "before": [
+      "государственность",
+      "statehood",
+      "Они получили государственность.",
+      "They got statehood."
+    ],
+    "after": [
+      "государственность",
+      "statehood",
+      "Они обрели государственность.",
+      "They achieved statehood."
+    ],
+    "reason": "replaces the unnatural got statehood phrase"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260215",
+    "row": 469,
+    "before": [
+      "законность",
+      "legality",
+      "Я сомневаюсь в законности.",
+      "I doubt the legality."
+    ],
+    "after": [
+      "законность",
+      "legality",
+      "Я сомневаюсь в законности этого.",
+      "I doubt the legality of this."
+    ],
+    "reason": "completes the legality complement in both languages"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260215",
+    "row": 475,
+    "before": [
+      "восход",
+      "sunrise",
+      "Восход уже близко.",
+      "Sunrise is already near."
+    ],
+    "after": [
+      "восход",
+      "sunrise",
+      "Восход через час.",
+      "Sunrise is in an hour."
+    ],
+    "reason": "replaces an unnatural near temporal predicate"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260215",
+    "row": 476,
+    "before": [
+      "выручить",
+      "rescue",
+      "Выручи меня.",
+      "Rescue me."
+    ],
+    "after": [
+      "выручить",
+      "to help out, to bail out",
+      "Выручи меня.",
+      "Help me out."
+    ],
+    "reason": "selects the ordinary help-out sense"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260215",
+    "row": 480,
+    "before": [
+      "обитание",
+      "habitat",
+      "Это место обитания.",
+      "This is their habitat."
+    ],
+    "after": [
+      "обитание",
+      "habitat",
+      "Это место обитания.",
+      "This is a habitat."
+    ],
+    "reason": "removes an unsupported possessor"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260215",
+    "row": 489,
+    "before": [
+      "выскакивать",
+      "jump out",
+      "Он любит выскакивать.",
+      "He loves to jump out."
+    ],
+    "after": [
+      "выскакивать",
+      "to jump out",
+      "Кот выскакивает из коробки.",
+      "The cat jumps out of the box."
+    ],
+    "reason": "supplies the missing source of movement"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260215",
+    "row": 493,
+    "before": [
+      "обеспокоить",
+      "disturb",
+      "Это обеспокоило её.",
+      "This disturbed her."
+    ],
+    "after": [
+      "обеспокоить",
+      "to worry, to concern",
+      "Это обеспокоило её.",
+      "This worried her."
+    ],
+    "reason": "uses the direct emotional sense"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260215",
+    "row": 494,
+    "before": [
+      "инициатор",
+      "initiator",
+      "Он инициатор этого.",
+      "He is the initiator of this."
+    ],
+    "after": [
+      "инициатор",
+      "initiator",
+      "Он инициатор проекта.",
+      "He is the project's initiator."
+    ],
+    "reason": "replaces a vague this complement"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260215",
+    "row": 499,
+    "before": [
+      "отправление",
+      "departure",
+      "Отправление поезда близко.",
+      "The train's departure is near."
+    ],
+    "after": [
+      "отправление",
+      "departure",
+      "До отправления поезда час.",
+      "The train's departure is in an hour."
+    ],
+    "reason": "replaces unnatural near temporal phrasing"
+  }
+]

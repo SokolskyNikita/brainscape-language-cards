@@ -1,0 +1,676 @@
+{
+  "deck": "15260285",
+  "reviewed": 500,
+  "changes": [
+    {
+      "deck": "15260285",
+      "row": 24,
+      "card_number": 8524,
+      "before": [
+        "get into the swing of things",
+        "войти во вкус",
+        "She will get into the swing of things soon.",
+        "Она скоро войдёт во вкус."
+      ],
+      "after": [
+        "get into the swing of things",
+        "войти в ритм, освоиться",
+        "She will get into the swing of things soon.",
+        "Она скоро войдёт в ритм."
+      ],
+      "fields": [
+        "Russian translation",
+        "Russian example"
+      ],
+      "reason": "Getting used to an activity differs from acquiring a taste for it."
+    },
+    {
+      "deck": "15260285",
+      "row": 87,
+      "card_number": 8587,
+      "before": [
+        "headphone",
+        "наушник",
+        "I lost my headphone yesterday.",
+        "Я потерял наушник вчера."
+      ],
+      "after": [
+        "headphone",
+        "наушник (обычно во множественном числе: headphones)",
+        "I lost my headphones yesterday.",
+        "Я потерял наушники вчера."
+      ],
+      "fields": [
+        "Russian translation",
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Use normal plural English and Russian."
+    },
+    {
+      "deck": "15260285",
+      "row": 128,
+      "card_number": 8628,
+      "before": [
+        "dumpling",
+        "пельмень",
+        "The dumpling is hot.",
+        "Пельмень горячий."
+      ],
+      "after": [
+        "dumpling",
+        "клёцка; пельмень (с начинкой)",
+        "The dumpling is hot.",
+        "Пельмень горячий."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Dumpling is broader than meat-filled пельмень."
+    },
+    {
+      "deck": "15260285",
+      "row": 133,
+      "card_number": 8633,
+      "before": [
+        "poorly",
+        "бедно",
+        "They lived poorly but happily.",
+        "Они жили бедно, но счастливо."
+      ],
+      "after": [
+        "poorly",
+        "плохо; бедно (о жизни)",
+        "They lived poorly but happily.",
+        "Они жили бедно, но счастливо."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Identify poverty-specific sense."
+    },
+    {
+      "deck": "15260285",
+      "row": 153,
+      "card_number": 8653,
+      "before": [
+        "excellent student",
+        "отличница",
+        "She is an excellent student.",
+        "Она отличница."
+      ],
+      "after": [
+        "excellent student",
+        "отличник, отличница",
+        "She is an excellent student.",
+        "Она отличница."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Excellent student is gender-neutral."
+    },
+    {
+      "deck": "15260285",
+      "row": 186,
+      "card_number": 8686,
+      "before": [
+        "confectionery",
+        "кондитерский",
+        "She opened a confectionery shop.",
+        "Она открыла кондитерский магазин."
+      ],
+      "after": [
+        "confectionery",
+        "кондитерские изделия; кондитерский (прилагательное)",
+        "She opened a confectionery shop.",
+        "Она открыла кондитерский магазин."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Include collective noun."
+    },
+    {
+      "deck": "15260285",
+      "row": 195,
+      "card_number": 8695,
+      "before": [
+        "substitute",
+        "подменить",
+        "They substituted the letter.",
+        "Они подменили письмо."
+      ],
+      "after": [
+        "substitute",
+        "заменить; подменить",
+        "They substituted one book for another.",
+        "Они заменили одну книгу другой."
+      ],
+      "fields": [
+        "Russian translation",
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Complete the substitution construction with a clear object. Use earlier vocabulary."
+    },
+    {
+      "deck": "15260285",
+      "row": 208,
+      "card_number": 8708,
+      "before": [
+        "strategist",
+        "стратег",
+        "The strategist made a new plan.",
+        "Стратег сделал новый план."
+      ],
+      "after": [
+        "strategist",
+        "стратег",
+        "The strategist made a new plan.",
+        "Стратег составил новый план."
+      ],
+      "fields": [
+        "Russian example"
+      ],
+      "reason": "Natural Russian plan construction."
+    },
+    {
+      "deck": "15260285",
+      "row": 212,
+      "card_number": 8712,
+      "before": [
+        "lodger",
+        "постоялец",
+        "The lodger paid his rent.",
+        "Постоялец платил аренду."
+      ],
+      "after": [
+        "lodger",
+        "постоялец",
+        "The lodger pays rent.",
+        "Постоялец платит за проживание."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Natural lodger payment construction. Align the habitual payment examples."
+    },
+    {
+      "deck": "15260285",
+      "row": 240,
+      "card_number": 8740,
+      "before": [
+        "accordion",
+        "баян",
+        "He played the accordion beautifully.",
+        "Он прекрасно играл на баяне."
+      ],
+      "after": [
+        "accordion",
+        "аккордеон; баян (кнопочный аккордеон)",
+        "He played the accordion beautifully.",
+        "Он прекрасно играл на баяне."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Accordion is not exclusively a баян."
+    },
+    {
+      "deck": "15260285",
+      "row": 249,
+      "card_number": 8749,
+      "before": [
+        "more than",
+        "паче",
+        "He loved her more than life.",
+        "Он любил её паче жизни."
+      ],
+      "after": [
+        "more than",
+        "больше, чем; паче (устаревшее, книжное)",
+        "He loved her more than life.",
+        "Он любил её паче жизни."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Mark archaic comparative."
+    },
+    {
+      "deck": "15260285",
+      "row": 278,
+      "card_number": 8778,
+      "before": [
+        "exoticism",
+        "экзотика",
+        "This has exoticism.",
+        "Здесь есть экзотика."
+      ],
+      "after": [
+        "exoticism",
+        "экзотика",
+        "I like the exoticism of this place.",
+        "Мне нравится экзотика этого места."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Replace unnatural has exoticism. Use earlier vocabulary."
+    },
+    {
+      "deck": "15260285",
+      "row": 287,
+      "card_number": 8787,
+      "before": [
+        "pull up",
+        "подтянуться",
+        "He pulled himself up onto the wall.",
+        "Он подтянулся на стену."
+      ],
+      "after": [
+        "pull up",
+        "подтянуться",
+        "He pulled himself up.",
+        "Он подтянулся."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Remove unnatural подтянулся на стену."
+    },
+    {
+      "deck": "15260285",
+      "row": 299,
+      "card_number": 8799,
+      "before": [
+        "postmodernism",
+        "постмодернизм",
+        "Postmodernism challenges old stories.",
+        "Постмодернизм ставит под сомнение старые рассказы."
+      ],
+      "after": [
+        "postmodernism",
+        "постмодернизм",
+        "This book is about postmodernism.",
+        "Эта книга о постмодернизме."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Replace misleading old-stories account of the philosophy."
+    },
+    {
+      "deck": "15260285",
+      "row": 300,
+      "card_number": 8800,
+      "before": [
+        "Scandinavian",
+        "скандинавский",
+        "I love Scandinavian design.",
+        "Мне нравится скандинавский дизайн."
+      ],
+      "after": [
+        "Scandinavian",
+        "скандинавский",
+        "I like Scandinavian design.",
+        "Мне нравится скандинавский дизайн."
+      ],
+      "fields": [
+        "English example"
+      ],
+      "reason": "Match нравится."
+    },
+    {
+      "deck": "15260285",
+      "row": 304,
+      "card_number": 8804,
+      "before": [
+        "pawn",
+        "пешка",
+        "The pawn is forward.",
+        "Пешка впереди."
+      ],
+      "after": [
+        "pawn",
+        "пешка",
+        "The pawn is on the board.",
+        "Пешка на доске."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Natural chess location."
+    },
+    {
+      "deck": "15260285",
+      "row": 313,
+      "card_number": 8813,
+      "before": [
+        "gathering",
+        "сборище",
+        "A noisy gathering stood by the house.",
+        "Шумное сборище стояло у дома."
+      ],
+      "after": [
+        "gathering",
+        "собрание; сборище (неодобрительное)",
+        "A noisy gathering stood by the house.",
+        "Шумное сборище стояло у дома."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Mark judgmental equivalent."
+    },
+    {
+      "deck": "15260285",
+      "row": 324,
+      "card_number": 8824,
+      "before": [
+        "Pokrovsky",
+        "покровский",
+        "Pokrovsky Cathedral is truly magnificent.",
+        "Покровский собор действительно великолепен."
+      ],
+      "after": [
+        "Pokrovsky",
+        "Покровский (в именах собственных); покровский",
+        "Pokrovsky Cathedral is truly magnificent.",
+        "Покровский собор действительно великолепен."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Capitalize proper-name use."
+    },
+    {
+      "deck": "15260285",
+      "row": 331,
+      "card_number": 8831,
+      "before": [
+        "overseas",
+        "заморский",
+        "She bought overseas tea yesterday.",
+        "Она купила заморский чай вчера."
+      ],
+      "after": [
+        "overseas",
+        "зарубежный, из-за моря; заморский (книжное)",
+        "She has overseas friends.",
+        "У неё есть зарубежные друзья."
+      ],
+      "fields": [
+        "Russian translation",
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Mark literary term. Use a natural English collocation."
+    },
+    {
+      "deck": "15260285",
+      "row": 366,
+      "card_number": 8866,
+      "before": [
+        "amber",
+        "янтарный",
+        "She wore an amber ring.",
+        "Она носила янтарное кольцо."
+      ],
+      "after": [
+        "amber",
+        "янтарь; янтарный (прилагательное)",
+        "She wore an amber ring.",
+        "Она носила янтарное кольцо."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Include material noun."
+    },
+    {
+      "deck": "15260285",
+      "row": 369,
+      "card_number": 8869,
+      "before": [
+        "immobility",
+        "неподвижность",
+        "Immobility results from injury.",
+        "Неподвижность — результат травмы."
+      ],
+      "after": [
+        "immobility",
+        "неподвижность",
+        "The injury led to immobility.",
+        "Травма привела к неподвижности."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Make a specific example rather than generalize all immobility as injury-caused."
+    },
+    {
+      "deck": "15260285",
+      "row": 378,
+      "card_number": 8878,
+      "before": [
+        "to award",
+        "наградить",
+        "They will award the winner tomorrow.",
+        "Они наградят победителя завтра."
+      ],
+      "after": [
+        "to award",
+        "наградить",
+        "They will award the winner a prize tomorrow.",
+        "Завтра они наградят победителя призом."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Award someone something normally requires the thing awarded."
+    },
+    {
+      "deck": "15260285",
+      "row": 391,
+      "card_number": 8891,
+      "before": [
+        "derivative",
+        "производный",
+        "This is a derivative form.",
+        "Это производная форма."
+      ],
+      "after": [
+        "derivative",
+        "производная (математика); производный (прилагательное)",
+        "This is a derivative form.",
+        "Это производная форма."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Include mathematical noun."
+    },
+    {
+      "deck": "15260285",
+      "row": 395,
+      "card_number": 8895,
+      "before": [
+        "sonny",
+        "сыночек",
+        "Sonny is here.",
+        "Сыночек здесь."
+      ],
+      "after": [
+        "sonny",
+        "сынок, сыночек (обращение)",
+        "Thank you, sonny.",
+        "Спасибо, сынок."
+      ],
+      "fields": [
+        "Russian translation",
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Sonny is naturally an address rather than a kinship noun. Use earlier vocabulary."
+    },
+    {
+      "deck": "15260285",
+      "row": 418,
+      "card_number": 8918,
+      "before": [
+        "Highness",
+        "высочество",
+        "Yes, Your Highness.",
+        "Да, Ваше Высочество."
+      ],
+      "after": [
+        "Highness",
+        "Высочество (титул)",
+        "Yes, Your Highness.",
+        "Да, Ваше Высочество."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Capitalize title."
+    },
+    {
+      "deck": "15260285",
+      "row": 420,
+      "card_number": 8920,
+      "before": [
+        "little task",
+        "задачка",
+        "I finished the little task quickly.",
+        "Я быстро закончил эту маленькую задачку."
+      ],
+      "after": [
+        "little task",
+        "задачка",
+        "I solved the little task quickly.",
+        "Я быстро решил задачку."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Natural решить задачку."
+    },
+    {
+      "deck": "15260285",
+      "row": 424,
+      "card_number": 8924,
+      "before": [
+        "consulting",
+        "консалтинговый",
+        "This is a consulting company.",
+        "Это консалтинговая компания."
+      ],
+      "after": [
+        "consulting",
+        "консультирование; консалтинговый (прилагательное)",
+        "This is a consulting company.",
+        "Это консалтинговая компания."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Include activity noun."
+    },
+    {
+      "deck": "15260285",
+      "row": 428,
+      "card_number": 8928,
+      "before": [
+        "devastating",
+        "сокрушительный",
+        "The news was absolutely devastating.",
+        "Новость была абсолютно сокрушительной."
+      ],
+      "after": [
+        "devastating",
+        "сокрушительный",
+        "The defeat was devastating.",
+        "Поражение было сокрушительным."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Natural сокрушительный collocation."
+    },
+    {
+      "deck": "15260285",
+      "row": 433,
+      "card_number": 8933,
+      "before": [
+        "astronaut",
+        "астронавт",
+        "The astronaut saw the earth.",
+        "Астронавт видел землю."
+      ],
+      "after": [
+        "astronaut",
+        "астронавт",
+        "The astronaut saw Earth.",
+        "Астронавт видел Землю."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Capitalize planet name."
+    },
+    {
+      "deck": "15260285",
+      "row": 480,
+      "card_number": 8980,
+      "before": [
+        "plush",
+        "плюшевый",
+        "She hugged her plush bear.",
+        "Она обняла своего плюшевого медведя."
+      ],
+      "after": [
+        "plush",
+        "плюш; плюшевый (прилагательное)",
+        "She hugged her plush bear.",
+        "Она обняла своего плюшевого медведя."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Include material noun."
+    },
+    {
+      "deck": "15260285",
+      "row": 494,
+      "card_number": 8994,
+      "before": [
+        "procedural",
+        "процессуальный",
+        "The procedural rules are clear.",
+        "Процессуальные правила ясны."
+      ],
+      "after": [
+        "procedural",
+        "процедурный; процессуальный (юридическое)",
+        "The procedural rules are clear.",
+        "Процессуальные правила ясны."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Procedural is broader than court procedure."
+    }
+  ]
+}

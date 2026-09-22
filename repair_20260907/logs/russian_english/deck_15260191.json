@@ -1,0 +1,579 @@
+{
+  "deck": "15260191",
+  "pack": "russian_english",
+  "reviewed": 500,
+  "changed": 38,
+  "notes": "Full first pass plus independent full second pass; complete original-to-final change log.",
+  "changes": [
+    {
+      "row": 31,
+      "before": {
+        "qMdBody": "вершина",
+        "aMdBody": "peak, summit",
+        "qMdFootnote": "До вершины далеко.",
+        "aMdFootnote": "The peak is far."
+      },
+      "after": {
+        "qMdBody": "вершина",
+        "aMdBody": "peak, summit",
+        "qMdFootnote": "До вершины далеко.",
+        "aMdFootnote": "The summit is far away."
+      }
+    },
+    {
+      "row": 32,
+      "before": {
+        "qMdBody": "строй",
+        "aMdBody": "formation, order",
+        "qMdFootnote": "Все в строю?",
+        "aMdFootnote": "Everyone in formation?"
+      },
+      "after": {
+        "qMdBody": "строй",
+        "aMdBody": "formation, order",
+        "qMdFootnote": "Кто в строю?",
+        "aMdFootnote": "Who's in formation?"
+      }
+    },
+    {
+      "row": 86,
+      "before": {
+        "qMdBody": "вслед",
+        "aMdBody": "after, following",
+        "qMdFootnote": "Она побежала вслед за своим братом.",
+        "aMdFootnote": "She ran after her brother."
+      },
+      "after": {
+        "qMdBody": "вслед",
+        "aMdBody": "after, following",
+        "qMdFootnote": "Он пошёл вслед за мной.",
+        "aMdFootnote": "He went after me."
+      }
+    },
+    {
+      "row": 103,
+      "before": {
+        "qMdBody": "надпись",
+        "aMdBody": "writing, inscription",
+        "qMdFootnote": "Что за надпись?",
+        "aMdFootnote": "What's that writing?"
+      },
+      "after": {
+        "qMdBody": "надпись",
+        "aMdBody": "writing, inscription",
+        "qMdFootnote": "Что означает эта надпись?",
+        "aMdFootnote": "What does this inscription mean?"
+      }
+    },
+    {
+      "row": 140,
+      "before": {
+        "qMdBody": "строго",
+        "aMdBody": "strictly",
+        "qMdFootnote": "Строго нельзя.",
+        "aMdFootnote": "Strictly not allowed."
+      },
+      "after": {
+        "qMdBody": "строго",
+        "aMdBody": "strictly",
+        "qMdFootnote": "Это строго запрещено.",
+        "aMdFootnote": "It's strictly forbidden."
+      }
+    },
+    {
+      "row": 155,
+      "before": {
+        "qMdBody": "программный",
+        "aMdBody": "software, program",
+        "qMdFootnote": "Программный код.",
+        "aMdFootnote": "The program code."
+      },
+      "after": {
+        "qMdBody": "программный",
+        "aMdBody": "software, program",
+        "qMdFootnote": "Программный продукт.",
+        "aMdFootnote": "A software product."
+      }
+    },
+    {
+      "row": 180,
+      "before": {
+        "qMdBody": "ремонт",
+        "aMdBody": "renovation, repairs",
+        "qMdFootnote": "У нас ремонт.",
+        "aMdFootnote": "We're renovating."
+      },
+      "after": {
+        "qMdBody": "ремонт",
+        "aMdBody": "renovation, repairs",
+        "qMdFootnote": "Идёт ремонт.",
+        "aMdFootnote": "The repairs continue."
+      }
+    },
+    {
+      "row": 196,
+      "before": {
+        "qMdBody": "протяжение",
+        "aMdBody": "extent, stretch",
+        "qMdFootnote": "На протяжении часа.",
+        "aMdFootnote": "Over the stretch of an hour."
+      },
+      "after": {
+        "qMdBody": "протяжение",
+        "aMdBody": "extent, length",
+        "qMdFootnote": "На всём протяжении пути.",
+        "aMdFootnote": "Along the whole length of the road."
+      }
+    },
+    {
+      "row": 202,
+      "before": {
+        "qMdBody": "щека",
+        "aMdBody": "cheek",
+        "qMdFootnote": "Щека болит.",
+        "aMdFootnote": "My cheek is in pain."
+      },
+      "after": {
+        "qMdBody": "щека",
+        "aMdBody": "cheek",
+        "qMdFootnote": "Я чувствую боль в щеке.",
+        "aMdFootnote": "I feel pain in my cheek."
+      }
+    },
+    {
+      "row": 229,
+      "before": {
+        "qMdBody": "сдать",
+        "aMdBody": "to pass, to hand in",
+        "qMdFootnote": "Я сдал экзамен.",
+        "aMdFootnote": "I passed the exam."
+      },
+      "after": {
+        "qMdBody": "сдать",
+        "aMdBody": "to pass, to hand in",
+        "qMdFootnote": "Я сдал это.",
+        "aMdFootnote": "I passed it."
+      }
+    },
+    {
+      "row": 233,
+      "before": {
+        "qMdBody": "удача",
+        "aMdBody": "luck, fortune",
+        "qMdFootnote": "Удачи на экзамене!",
+        "aMdFootnote": "Good luck on your exam!"
+      },
+      "after": {
+        "qMdBody": "удача",
+        "aMdBody": "luck, fortune",
+        "qMdFootnote": "Удачи тебе!",
+        "aMdFootnote": "Good luck to you!"
+      }
+    },
+    {
+      "row": 272,
+      "before": {
+        "qMdBody": "обработка",
+        "aMdBody": "processing",
+        "qMdFootnote": "Идёт обработка.",
+        "aMdFootnote": "It's processing."
+      },
+      "after": {
+        "qMdBody": "обработка",
+        "aMdBody": "processing",
+        "qMdFootnote": "Обработка продолжается.",
+        "aMdFootnote": "Processing continues."
+      }
+    },
+    {
+      "row": 307,
+      "before": {
+        "qMdBody": "увеличить",
+        "aMdBody": "to increase",
+        "qMdFootnote": "Увеличь звук.",
+        "aMdFootnote": "Increase the sound."
+      },
+      "after": {
+        "qMdBody": "увеличить",
+        "aMdBody": "to increase",
+        "qMdFootnote": "Увеличь его.",
+        "aMdFootnote": "Increase it."
+      }
+    },
+    {
+      "row": 309,
+      "before": {
+        "qMdBody": "спектакль",
+        "aMdBody": "play, show",
+        "qMdFootnote": "Идём на спектакль?",
+        "aMdFootnote": "Let's go to the play?"
+      },
+      "after": {
+        "qMdBody": "спектакль",
+        "aMdBody": "play, show",
+        "qMdFootnote": "Идём на спектакль?",
+        "aMdFootnote": "Shall we go to the play?"
+      }
+    },
+    {
+      "row": 320,
+      "before": {
+        "qMdBody": "задуматься",
+        "aMdBody": "to stop and think",
+        "qMdFootnote": "Я задумался.",
+        "aMdFootnote": "I had to stop and think."
+      },
+      "after": {
+        "qMdBody": "задуматься",
+        "aMdBody": "to stop and think",
+        "qMdFootnote": "Я задумался.",
+        "aMdFootnote": "I stopped to think."
+      }
+    },
+    {
+      "row": 326,
+      "before": {
+        "qMdBody": "аудитория",
+        "aMdBody": "audience, lecture hall",
+        "qMdFootnote": "Полная аудитория.",
+        "aMdFootnote": "A full audience."
+      },
+      "after": {
+        "qMdBody": "аудитория",
+        "aMdBody": "lecture hall, audience",
+        "qMdFootnote": "Аудитория полная.",
+        "aMdFootnote": "The lecture hall is full."
+      }
+    },
+    {
+      "row": 348,
+      "before": {
+        "qMdBody": "никуда",
+        "aMdBody": "nowhere",
+        "qMdFootnote": "Мне никуда не надо.",
+        "aMdFootnote": "I'm going nowhere."
+      },
+      "after": {
+        "qMdBody": "никуда",
+        "aMdBody": "nowhere, anywhere",
+        "qMdFootnote": "Мне никуда не надо.",
+        "aMdFootnote": "I don't need to go anywhere."
+      }
+    },
+    {
+      "row": 362,
+      "before": {
+        "qMdBody": "горло",
+        "aMdBody": "throat",
+        "qMdFootnote": "Горло болит.",
+        "aMdFootnote": "My throat is in pain."
+      },
+      "after": {
+        "qMdBody": "горло",
+        "aMdBody": "throat",
+        "qMdFootnote": "Я чувствую боль в горле.",
+        "aMdFootnote": "I feel pain in my throat."
+      }
+    },
+    {
+      "row": 390,
+      "before": {
+        "qMdBody": "богатство",
+        "aMdBody": "wealth",
+        "qMdFootnote": "Какое богатство.",
+        "aMdFootnote": "What wealth."
+      },
+      "after": {
+        "qMdBody": "богатство",
+        "aMdBody": "wealth",
+        "qMdFootnote": "Какое богатство!",
+        "aMdFootnote": "What wealth!"
+      }
+    },
+    {
+      "row": 414,
+      "before": {
+        "qMdBody": "судно",
+        "aMdBody": "ship, vessel",
+        "qMdFootnote": "Судно уже в порту.",
+        "aMdFootnote": "The ship's already in port."
+      },
+      "after": {
+        "qMdBody": "судно",
+        "aMdBody": "ship, vessel",
+        "qMdFootnote": "Судно уже здесь.",
+        "aMdFootnote": "The ship is here already."
+      }
+    },
+    {
+      "row": 419,
+      "before": {
+        "qMdBody": "впоследствии",
+        "aMdBody": "afterwards, subsequently",
+        "qMdFootnote": "Впоследствии всё ясно.",
+        "aMdFootnote": "Afterwards it was clear."
+      },
+      "after": {
+        "qMdBody": "впоследствии",
+        "aMdBody": "afterwards, subsequently",
+        "qMdFootnote": "Впоследствии всё стало ясно.",
+        "aMdFootnote": "Afterwards everything became clear."
+      }
+    },
+    {
+      "row": 422,
+      "before": {
+        "qMdBody": "пахнуть",
+        "aMdBody": "to smell",
+        "qMdFootnote": "Хлеб пахнет.",
+        "aMdFootnote": "The bread smells."
+      },
+      "after": {
+        "qMdBody": "пахнуть",
+        "aMdBody": "to smell",
+        "qMdFootnote": "Хлеб хорошо пахнет.",
+        "aMdFootnote": "The bread smells good."
+      }
+    },
+    {
+      "row": 428,
+      "before": {
+        "qMdBody": "подчеркнуть",
+        "aMdBody": "to emphasize, to underline",
+        "qMdFootnote": "Надо это подчеркнуть.",
+        "aMdFootnote": "I want to emphasize that."
+      },
+      "after": {
+        "qMdBody": "подчеркнуть",
+        "aMdBody": "to emphasize, to underline",
+        "qMdFootnote": "Надо это подчеркнуть.",
+        "aMdFootnote": "We need to emphasize that."
+      }
+    },
+    {
+      "row": 430,
+      "before": {
+        "qMdBody": "качественный",
+        "aMdBody": "high-quality",
+        "qMdFootnote": "Это качественная вещь.",
+        "aMdFootnote": "This is a high-quality thing."
+      },
+      "after": {
+        "qMdBody": "качественный",
+        "aMdBody": "high-quality",
+        "qMdFootnote": "Это качественный продукт.",
+        "aMdFootnote": "This is a high-quality product."
+      }
+    },
+    {
+      "row": 434,
+      "before": {
+        "qMdBody": "высказать",
+        "aMdBody": "to express, to voice",
+        "qMdFootnote": "Надо высказать мнение.",
+        "aMdFootnote": "I want to express my opinion."
+      },
+      "after": {
+        "qMdBody": "высказать",
+        "aMdBody": "to express, to voice",
+        "qMdFootnote": "Надо высказать мнение.",
+        "aMdFootnote": "We need to express an opinion."
+      }
+    },
+    {
+      "row": 443,
+      "before": {
+        "qMdBody": "побежать",
+        "aMdBody": "to run, to dash",
+        "qMdFootnote": "Он побежал в магазин.",
+        "aMdFootnote": "He will run to the store."
+      },
+      "after": {
+        "qMdBody": "побежать",
+        "aMdBody": "to run, to dash",
+        "qMdFootnote": "Он побежал в магазин.",
+        "aMdFootnote": "He ran to the store."
+      }
+    },
+    {
+      "row": 445,
+      "before": {
+        "qMdBody": "особенный",
+        "aMdBody": "special, particular",
+        "qMdFootnote": "У неё есть особенный талант.",
+        "aMdFootnote": "She has a special talent."
+      },
+      "after": {
+        "qMdBody": "особенный",
+        "aMdBody": "special, particular",
+        "qMdFootnote": "Это особенный день.",
+        "aMdFootnote": "It's a special day."
+      }
+    },
+    {
+      "row": 446,
+      "before": {
+        "qMdBody": "предоставлять",
+        "aMdBody": "to provide, to grant",
+        "qMdFootnote": "Они предоставляют помощь.",
+        "aMdFootnote": "They provide help."
+      },
+      "after": {
+        "qMdBody": "предоставлять",
+        "aMdBody": "to provide, to grant",
+        "qMdFootnote": "Они предоставляют доступ.",
+        "aMdFootnote": "They provide access."
+      }
+    },
+    {
+      "row": 447,
+      "before": {
+        "qMdBody": "раздаться",
+        "aMdBody": "to ring out",
+        "qMdFootnote": "Раздался звонок.",
+        "aMdFootnote": "The call will ring out."
+      },
+      "after": {
+        "qMdBody": "раздаться",
+        "aMdBody": "to ring out",
+        "qMdFootnote": "Раздался крик.",
+        "aMdFootnote": "A shout rang out."
+      }
+    },
+    {
+      "row": 451,
+      "before": {
+        "qMdBody": "пустить",
+        "aMdBody": "to let, to release",
+        "qMdFootnote": "Пусти меня!",
+        "aMdFootnote": "Let me in!"
+      },
+      "after": {
+        "qMdBody": "пустить",
+        "aMdBody": "to let, to release",
+        "qMdFootnote": "Пусти меня!",
+        "aMdFootnote": "Let me go!"
+      }
+    },
+    {
+      "row": 453,
+      "before": {
+        "qMdBody": "подавать",
+        "aMdBody": "to pass, to serve",
+        "qMdFootnote": "Подай чай.",
+        "aMdFootnote": "Pass the tea."
+      },
+      "after": {
+        "qMdBody": "подавать",
+        "aMdBody": "to pass, to serve",
+        "qMdFootnote": "Она подаёт чай.",
+        "aMdFootnote": "She serves tea."
+      }
+    },
+    {
+      "row": 460,
+      "before": {
+        "qMdBody": "исчезать",
+        "aMdBody": "to disappear, to vanish",
+        "qMdFootnote": "Деньги исчезают слишком быстро.",
+        "aMdFootnote": "The money disappears too fast."
+      },
+      "after": {
+        "qMdBody": "исчезать",
+        "aMdBody": "to disappear, to vanish",
+        "qMdFootnote": "Всё исчезает слишком быстро.",
+        "aMdFootnote": "Everything disappears too fast."
+      }
+    },
+    {
+      "row": 462,
+      "before": {
+        "qMdBody": "замуж",
+        "aMdBody": "married, to marry",
+        "qMdFootnote": "Она уже замуж.",
+        "aMdFootnote": "She is married now."
+      },
+      "after": {
+        "qMdBody": "замуж",
+        "aMdBody": "married, to marry",
+        "qMdFootnote": "Она хочет замуж.",
+        "aMdFootnote": "She wants to get married."
+      }
+    },
+    {
+      "row": 477,
+      "before": {
+        "qMdBody": "всеобщий",
+        "aMdBody": "universal, general",
+        "qMdFootnote": "Это всеобщее мнение.",
+        "aMdFootnote": "That's the universal opinion."
+      },
+      "after": {
+        "qMdBody": "всеобщий",
+        "aMdBody": "universal, general",
+        "qMdFootnote": "Это всеобщее мнение.",
+        "aMdFootnote": "That's the general opinion."
+      }
+    },
+    {
+      "row": 480,
+      "before": {
+        "qMdBody": "нанести",
+        "aMdBody": "to apply, to inflict",
+        "qMdFootnote": "Нанеси краску.",
+        "aMdFootnote": "Apply the paint."
+      },
+      "after": {
+        "qMdBody": "нанести",
+        "aMdBody": "to apply, to inflict",
+        "qMdFootnote": "Нанеси удар.",
+        "aMdFootnote": "Inflict a blow."
+      }
+    },
+    {
+      "row": 484,
+      "before": {
+        "qMdBody": "освободить",
+        "aMdBody": "to free, to release",
+        "qMdFootnote": "Его уже освободили.",
+        "aMdFootnote": "They already freed him."
+      },
+      "after": {
+        "qMdBody": "освободить",
+        "aMdBody": "to free, to release",
+        "qMdFootnote": "Его уже освободили.",
+        "aMdFootnote": "They already released him."
+      }
+    },
+    {
+      "row": 490,
+      "before": {
+        "qMdBody": "спасение",
+        "aMdBody": "rescue, salvation",
+        "qMdFootnote": "Это было наше спасение.",
+        "aMdFootnote": "That was our rescue."
+      },
+      "after": {
+        "qMdBody": "спасение",
+        "aMdBody": "rescue, salvation",
+        "qMdFootnote": "Это было наше спасение.",
+        "aMdFootnote": "That was our salvation."
+      }
+    },
+    {
+      "row": 499,
+      "before": {
+        "qMdBody": "горный",
+        "aMdBody": "mountain, mountainous",
+        "qMdFootnote": "Это горный район.",
+        "aMdFootnote": "That's a mountain district."
+      },
+      "after": {
+        "qMdBody": "горный",
+        "aMdBody": "mountain, mountainous",
+        "qMdFootnote": "Это горный район.",
+        "aMdFootnote": "That's a mountainous region."
+      }
+    }
+  ]
+}

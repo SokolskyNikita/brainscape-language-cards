@@ -1,0 +1,270 @@
+{
+  "date": "2026-09-12",
+  "textStatus": "complete",
+  "packs": [
+    {
+      "packId": 21945419,
+      "name": "English → Spanish",
+      "spanishSide": "a",
+      "cards": 8000,
+      "changedCards": 360,
+      "decks": [
+        {
+          "deckId": 15350686,
+          "name": "1->500",
+          "cards": 500,
+          "changedCards": 41,
+          "textIdsOrderVerified": true
+        },
+        {
+          "deckId": 15350690,
+          "name": "500->1000",
+          "cards": 500,
+          "changedCards": 39,
+          "textIdsOrderVerified": true
+        },
+        {
+          "deckId": 15350693,
+          "name": "1000->1500",
+          "cards": 500,
+          "changedCards": 42,
+          "textIdsOrderVerified": true
+        },
+        {
+          "deckId": 15350696,
+          "name": "1500->2000",
+          "cards": 500,
+          "changedCards": 15,
+          "textIdsOrderVerified": true
+        },
+        {
+          "deckId": 15350699,
+          "name": "2000->2500",
+          "cards": 500,
+          "changedCards": 19,
+          "textIdsOrderVerified": true
+        },
+        {
+          "deckId": 15350703,
+          "name": "2500->3000",
+          "cards": 500,
+          "changedCards": 13,
+          "textIdsOrderVerified": true
+        },
+        {
+          "deckId": 15350705,
+          "name": "3000->3500",
+          "cards": 500,
+          "changedCards": 19,
+          "textIdsOrderVerified": true
+        },
+        {
+          "deckId": 15350708,
+          "name": "3500->4000",
+          "cards": 500,
+          "changedCards": 17,
+          "textIdsOrderVerified": true
+        },
+        {
+          "deckId": 15350711,
+          "name": "4000->4500",
+          "cards": 500,
+          "changedCards": 17,
+          "textIdsOrderVerified": true
+        },
+        {
+          "deckId": 15350714,
+          "name": "4500->5000",
+          "cards": 500,
+          "changedCards": 15,
+          "textIdsOrderVerified": true
+        },
+        {
+          "deckId": 15350717,
+          "name": "5000->5500",
+          "cards": 500,
+          "changedCards": 11,
+          "textIdsOrderVerified": true
+        },
+        {
+          "deckId": 15350719,
+          "name": "5500->6000",
+          "cards": 500,
+          "changedCards": 21,
+          "textIdsOrderVerified": true
+        },
+        {
+          "deckId": 15350722,
+          "name": "6000->6500",
+          "cards": 500,
+          "changedCards": 18,
+          "textIdsOrderVerified": true
+        },
+        {
+          "deckId": 15350724,
+          "name": "6500->7000",
+          "cards": 500,
+          "changedCards": 23,
+          "textIdsOrderVerified": true
+        },
+        {
+          "deckId": 15350728,
+          "name": "7000->7500",
+          "cards": 500,
+          "changedCards": 23,
+          "textIdsOrderVerified": true
+        },
+        {
+          "deckId": 15350729,
+          "name": "7500->8000",
+          "cards": 500,
+          "changedCards": 27,
+          "textIdsOrderVerified": true
+        }
+      ],
+      "allTextVerified": true,
+      "manifestSha256": "bdf47748e8b88e55930d6e0fa6302f5c901f352ece3718944f05ae3579c60518"
+    },
+    {
+      "packId": 21303832,
+      "name": "Spanish → English",
+      "spanishSide": "q",
+      "cards": 8000,
+      "changedCards": 15,
+      "decks": [
+        {
+          "deckId": 15350594,
+          "name": "1->500",
+          "cards": 500,
+          "changedCards": 1,
+          "textIdsOrderVerified": true
+        },
+        {
+          "deckId": 15350614,
+          "name": "500->1000",
+          "cards": 500,
+          "changedCards": 0,
+          "textIdsOrderVerified": true
+        },
+        {
+          "deckId": 15350618,
+          "name": "1000->1500",
+          "cards": 500,
+          "changedCards": 0,
+          "textIdsOrderVerified": true
+        },
+        {
+          "deckId": 15350621,
+          "name": "1500->2000",
+          "cards": 500,
+          "changedCards": 1,
+          "textIdsOrderVerified": true
+        },
+        {
+          "deckId": 15350624,
+          "name": "2000->2500",
+          "cards": 500,
+          "changedCards": 0,
+          "textIdsOrderVerified": true
+        },
+        {
+          "deckId": 15350628,
+          "name": "2500->3000",
+          "cards": 500,
+          "changedCards": 2,
+          "textIdsOrderVerified": true
+        },
+        {
+          "deckId": 15350630,
+          "name": "3000->3500",
+          "cards": 500,
+          "changedCards": 0,
+          "textIdsOrderVerified": true
+        },
+        {
+          "deckId": 15350631,
+          "name": "3500->4000",
+          "cards": 500,
+          "changedCards": 1,
+          "textIdsOrderVerified": true
+        },
+        {
+          "deckId": 15350634,
+          "name": "4000->4500",
+          "cards": 500,
+          "changedCards": 1,
+          "textIdsOrderVerified": true
+        },
+        {
+          "deckId": 15350639,
+          "name": "4500->5000",
+          "cards": 500,
+          "changedCards": 1,
+          "textIdsOrderVerified": true
+        },
+        {
+          "deckId": 15350644,
+          "name": "5000->5500",
+          "cards": 500,
+          "changedCards": 2,
+          "textIdsOrderVerified": true
+        },
+        {
+          "deckId": 15350645,
+          "name": "5500->6000",
+          "cards": 500,
+          "changedCards": 0,
+          "textIdsOrderVerified": true
+        },
+        {
+          "deckId": 15350647,
+          "name": "6000->6500",
+          "cards": 500,
+          "changedCards": 0,
+          "textIdsOrderVerified": true
+        },
+        {
+          "deckId": 15350649,
+          "name": "6500->7000",
+          "cards": 500,
+          "changedCards": 1,
+          "textIdsOrderVerified": true
+        },
+        {
+          "deckId": 15350652,
+          "name": "7000->7500",
+          "cards": 500,
+          "changedCards": 2,
+          "textIdsOrderVerified": true
+        },
+        {
+          "deckId": 15350654,
+          "name": "7500->8000",
+          "cards": 500,
+          "changedCards": 3,
+          "textIdsOrderVerified": true
+        }
+      ],
+      "allTextVerified": true,
+      "manifestSha256": "5557d90714ec6cddb477b9abef0161194ba106b40f4de2c3d08aca40167864b5"
+    }
+  ],
+  "audioStatus": "awaiting_explicit_Cartesia_approval",
+  "audioCards": 16000,
+  "audioLocale": "es-MX",
+  "audioVoice": "Ximena",
+  "audioScope": "Spanish term and example only; answer for English→Spanish and question for Spanish→English",
+  "bulkAudioGenerated": 0,
+  "bulkAudioUploaded": 0,
+  "localXlsxFilesUpdated": 26,
+  "localXlsxCellsChanged": 558,
+  "learningStatisticsPreservedCards": 16000,
+  "existingAudioPreservedCards": 16000,
+  "uniquePlannedRecordings": 8263,
+  "productionSync": {
+    "status": "synced",
+    "checkedAt": "2026-09-12T07:32:48.775763+00:00",
+    "cardsCompared": 16000,
+    "updatedCards": 0
+  }
+}

@@ -1,0 +1,584 @@
+{
+  "deck": "15260280",
+  "reviewed": 500,
+  "changes": [
+    {
+      "deck": "15260280",
+      "row": 2,
+      "card_number": 6502,
+      "before": [
+        "savage",
+        "дикарь",
+        "The savage lived on the island.",
+        "Дикарь жил на острове."
+      ],
+      "after": [
+        "savage",
+        "дикарь (устаревшее, о людях часто оскорбительное); жестокий (прилагательное)",
+        "The savage lived on the island.",
+        "Дикарь жил на острове."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Mark ethnocentric noun register and adjective sense."
+    },
+    {
+      "deck": "15260280",
+      "row": 12,
+      "card_number": 6512,
+      "before": [
+        "suite",
+        "свита",
+        "The king's suite followed him.",
+        "Свита короля следовала за ним."
+      ],
+      "after": [
+        "suite",
+        "номер люкс; сюита (музыка); свита (редкое)",
+        "The king's suite followed him.",
+        "Свита короля следовала за ним."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Retinue sense is rare beside rooms and music."
+    },
+    {
+      "deck": "15260280",
+      "row": 16,
+      "card_number": 6516,
+      "before": [
+        "to devour",
+        "сожрать",
+        "He will devour the meat.",
+        "Он сожрёт мясо."
+      ],
+      "after": [
+        "to devour",
+        "пожирать; сожрать (грубое)",
+        "He will devour the meat.",
+        "Он сожрёт мясо."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Mark rough register. Use the standard neutral verb and label the coarse alternative."
+    },
+    {
+      "deck": "15260280",
+      "row": 20,
+      "card_number": 6520,
+      "before": [
+        "sort of",
+        "эдакий",
+        "He is a sort of hero.",
+        "Он эдакий герой."
+      ],
+      "after": [
+        "sort of",
+        "вроде, своего рода; эдакий (разговорное)",
+        "He is a sort of hero.",
+        "Он эдакий герой."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Mark register of эдакий."
+    },
+    {
+      "deck": "15260280",
+      "row": 31,
+      "card_number": 6531,
+      "before": [
+        "Reverend",
+        "преподобный",
+        "The Reverend read the sermon.",
+        "Преподобный читал проповедь."
+      ],
+      "after": [
+        "Reverend",
+        "преподобный (обращение к христианскому священнослужителю)",
+        "The Reverend read the sermon.",
+        "Преподобный читал проповедь."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Clarify honorific sense."
+    },
+    {
+      "deck": "15260280",
+      "row": 63,
+      "card_number": 6563,
+      "before": [
+        "to sentence",
+        "приговаривать",
+        "The court sentences him to prison.",
+        "Суд приговаривает его к тюрьме."
+      ],
+      "after": [
+        "to sentence",
+        "приговаривать",
+        "The court sentences him to five years in prison.",
+        "Суд приговаривает его к пяти годам тюрьмы."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Use complete sentence-of-imprisonment expression."
+    },
+    {
+      "deck": "15260280",
+      "row": 65,
+      "card_number": 6565,
+      "before": [
+        "mother-in-law",
+        "свекровь",
+        "My mother-in-law is kind.",
+        "Моя свекровь добрая."
+      ],
+      "after": [
+        "mother-in-law",
+        "свекровь (мать мужа); тёща (мать жены)",
+        "My mother-in-law is kind.",
+        "Моя свекровь добрая."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Distinguish family relationships."
+    },
+    {
+      "deck": "15260280",
+      "row": 76,
+      "card_number": 6576,
+      "before": [
+        "muscular",
+        "мышечный",
+        "This is a muscular pain.",
+        "Это мышечная боль."
+      ],
+      "after": [
+        "muscular",
+        "мышечный; мускулистый",
+        "This is muscular pain.",
+        "Это мышечная боль."
+      ],
+      "fields": [
+        "Russian translation",
+        "English example"
+      ],
+      "reason": "Remove unnatural article and distinguish muscular build."
+    },
+    {
+      "deck": "15260280",
+      "row": 93,
+      "card_number": 6593,
+      "before": [
+        "fir",
+        "ель",
+        "The fir is here.",
+        "Ель здесь."
+      ],
+      "after": [
+        "fir",
+        "пихта",
+        "The fir is here.",
+        "Пихта здесь."
+      ],
+      "fields": [
+        "Russian translation",
+        "Russian example"
+      ],
+      "reason": "Use botanical fir meaning while noting broader everyday usage. Use the botanically precise tree name."
+    },
+    {
+      "deck": "15260280",
+      "row": 104,
+      "card_number": 6604,
+      "before": [
+        "to pat",
+        "похлопать",
+        "She likes to pat the dog.",
+        "Она любит похлопать собаку."
+      ],
+      "after": [
+        "to pat",
+        "похлопать",
+        "She decided to pat the dog.",
+        "Она решила похлопать собаку."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Natural perfective complement."
+    },
+    {
+      "deck": "15260280",
+      "row": 115,
+      "card_number": 6615,
+      "before": [
+        "to glance at",
+        "окинуть",
+        "He glanced at the room.",
+        "Он окинул взглядом комнату."
+      ],
+      "after": [
+        "to glance at",
+        "окинуть взглядом; взглянуть на",
+        "He glanced at the room.",
+        "Он окинул взглядом комнату."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Include required noun."
+    },
+    {
+      "deck": "15260280",
+      "row": 151,
+      "card_number": 6651,
+      "before": [
+        "washing",
+        "стиральный",
+        "The washing machine does not work.",
+        "Стиральная машина не работает."
+      ],
+      "after": [
+        "washing",
+        "стирка, мытьё; стиральный (прилагательное)",
+        "The washing machine does not work.",
+        "Стиральная машина не работает."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Include activity nouns."
+    },
+    {
+      "deck": "15260280",
+      "row": 155,
+      "card_number": 6655,
+      "before": [
+        "cardboard",
+        "картонный",
+        "I bought a cardboard box.",
+        "Я купил картонный ящик."
+      ],
+      "after": [
+        "cardboard",
+        "картон; картонный (прилагательное)",
+        "I bought a cardboard box.",
+        "Я купил картонный ящик."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Include material noun."
+    },
+    {
+      "deck": "15260280",
+      "row": 158,
+      "card_number": 6658,
+      "before": [
+        "vent",
+        "форточка",
+        "Open the vent for fresh air.",
+        "Открой форточку для свежего воздуха."
+      ],
+      "after": [
+        "vent",
+        "вентиляционное отверстие",
+        "The vent is in the wall.",
+        "Вентиляционное отверстие в стене."
+      ],
+      "fields": [
+        "Russian translation",
+        "English example",
+        "Russian example"
+      ],
+      "reason": "A vent is not necessarily an opening window. Avoid confusing an air vent with a small window."
+    },
+    {
+      "deck": "15260280",
+      "row": 175,
+      "card_number": 6675,
+      "before": [
+        "lace",
+        "шнурок",
+        "I want a new lace.",
+        "Я хочу новый шнурок."
+      ],
+      "after": [
+        "lace",
+        "кружево; шнурок",
+        "I want a new lace.",
+        "Я хочу новый шнурок."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Include common fabric sense."
+    },
+    {
+      "deck": "15260280",
+      "row": 177,
+      "card_number": 6677,
+      "before": [
+        "streamlet",
+        "струйка",
+        "A streamlet ran from the hill.",
+        "Струйка бежала с холма."
+      ],
+      "after": [
+        "streamlet",
+        "ручеёк; струйка",
+        "A streamlet ran from the hill.",
+        "Ручеёк бежал с холма."
+      ],
+      "fields": [
+        "Russian translation",
+        "Russian example"
+      ],
+      "reason": "Use small-stream sense for hill runoff."
+    },
+    {
+      "deck": "15260280",
+      "row": 181,
+      "card_number": 6681,
+      "before": [
+        "shut up",
+        "заткнуться",
+        "Shut up and listen!",
+        "Заткнись и слушай!"
+      ],
+      "after": [
+        "shut up",
+        "замолчать; заткнуться (грубое)",
+        "Shut up and listen!",
+        "Заткнись и слушай!"
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Mark rude imperative."
+    },
+    {
+      "deck": "15260280",
+      "row": 183,
+      "card_number": 6683,
+      "before": [
+        "intercourse",
+        "сношение",
+        "Intercourse between countries stopped.",
+        "Сношения между странами прекратились."
+      ],
+      "after": [
+        "intercourse",
+        "половой акт; общение, сношения (устаревшее)",
+        "Intercourse between countries stopped.",
+        "Сношения между странами прекратились."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Mark rare diplomatic sense against dominant modern meaning."
+    },
+    {
+      "deck": "15260280",
+      "row": 192,
+      "card_number": 6692,
+      "before": [
+        "Sagittarius",
+        "стрелец",
+        "She is a Sagittarius.",
+        "Она Стрелец."
+      ],
+      "after": [
+        "Sagittarius",
+        "Стрелец (знак зодиака)",
+        "She is a Sagittarius.",
+        "Она Стрелец."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Capitalize zodiac name."
+    },
+    {
+      "deck": "15260280",
+      "row": 213,
+      "card_number": 6713,
+      "before": [
+        "floral",
+        "цветочный",
+        "She has a floral dress.",
+        "У неё цветочное платье."
+      ],
+      "after": [
+        "floral",
+        "цветочный",
+        "She likes the floral pattern.",
+        "Ей нравится цветочный узор."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Use natural flower-pattern collocation."
+    },
+    {
+      "deck": "15260280",
+      "row": 261,
+      "card_number": 6761,
+      "before": [
+        "mastery",
+        "овладение",
+        "Mastery of the language takes time.",
+        "Овладение языком занимает время."
+      ],
+      "after": [
+        "mastery",
+        "мастерство; овладение (навыком)",
+        "Mastery of the language takes time.",
+        "Овладение языком занимает время."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Distinguish mastery attained from acquisition process."
+    },
+    {
+      "deck": "15260280",
+      "row": 272,
+      "card_number": 6772,
+      "before": [
+        "decency",
+        "приличие",
+        "He has no decency.",
+        "У него нет приличия."
+      ],
+      "after": [
+        "decency",
+        "порядочность; приличие",
+        "He has no decency.",
+        "В нём нет ни капли порядочности."
+      ],
+      "fields": [
+        "Russian translation",
+        "Russian example"
+      ],
+      "reason": "Natural moral decency expression."
+    },
+    {
+      "deck": "15260280",
+      "row": 369,
+      "card_number": 6869,
+      "before": [
+        "switching",
+        "переключение",
+        "Switching channels is a difficult process.",
+        "Переключение каналов — трудный процесс."
+      ],
+      "after": [
+        "switching",
+        "переключение",
+        "Switching channels is easy.",
+        "Переключение каналов — простое дело."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Use plausible simple switching example."
+    },
+    {
+      "deck": "15260280",
+      "row": 404,
+      "card_number": 6904,
+      "before": [
+        "cast iron",
+        "чугунный",
+        "This pot is cast iron.",
+        "Этот горшок чугунный."
+      ],
+      "after": [
+        "cast iron",
+        "чугун; чугунный (прилагательное)",
+        "This pot is cast iron.",
+        "Этот горшок чугунный."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Include material noun."
+    },
+    {
+      "deck": "15260280",
+      "row": 428,
+      "card_number": 6928,
+      "before": [
+        "backwards",
+        "назад",
+        "He walked backwards.",
+        "Он шёл назад."
+      ],
+      "after": [
+        "backwards",
+        "назад; задом наперёд",
+        "He walked backwards.",
+        "Он шёл задом наперёд."
+      ],
+      "fields": [
+        "Russian translation",
+        "Russian example"
+      ],
+      "reason": "Walking backwards means backward-facing motion, not merely returning."
+    },
+    {
+      "deck": "15260280",
+      "row": 451,
+      "card_number": 6951,
+      "before": [
+        "Sberbank",
+        "сбербанк",
+        "I work at Sberbank.",
+        "Я работаю в Сбербанке."
+      ],
+      "after": [
+        "Sberbank",
+        "Сбербанк",
+        "I work at Sberbank.",
+        "Я работаю в Сбербанке."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Capitalize company name."
+    },
+    {
+      "deck": "15260280",
+      "row": 468,
+      "card_number": 6968,
+      "before": [
+        "presumably",
+        "предположительно",
+        "Presumably, he is at home.",
+        "Предположительно, он дома."
+      ],
+      "after": [
+        "presumably",
+        "предположительно",
+        "Presumably, he is at home.",
+        "Предположительно он дома."
+      ],
+      "fields": [
+        "Russian example"
+      ],
+      "reason": "Предположительно does not normally require introductory comma."
+    }
+  ]
+}

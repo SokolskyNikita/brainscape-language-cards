@@ -1,0 +1,11 @@
+{
+  "reviewer": "final_ru1",
+  "pack": "russian_english",
+  "decks": [
+    {"deck": "15260182", "reviewed": 500, "proposed_changes": 12},
+    {"deck": "15260185", "reviewed": 500, "proposed_changes": 19},
+    {"deck": "15260188", "reviewed": 500, "proposed_changes": 38}
+  ],
+  "total_reviewed": 1500,
+  "total_proposed_changes": 69
+}

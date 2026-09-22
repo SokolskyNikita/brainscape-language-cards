@@ -1,0 +1,166 @@
+{
+  "deck": 15260188,
+  "reviewed": 500,
+  "changes": [
+    {
+      "row": 45,
+      "before": [
+        "площадь",
+        "square",
+        "Жду на площади.",
+        "I'll wait in the square."
+      ],
+      "after": [
+        "площадь",
+        "square",
+        "Жду на площади.",
+        "I'm waiting in the square."
+      ],
+      "reason": "Restore present action rather than future promise."
+    },
+    {
+      "row": 109,
+      "before": [
+        "понравиться",
+        "to like",
+        "Тебе понравилось?",
+        "Did you like it?"
+      ],
+      "after": [
+        "понравиться",
+        "to like (with a dative experiencer)",
+        "Тебе понравилось?",
+        "Did you like it?"
+      ],
+      "reason": "Explain Russian argument structure."
+    },
+    {
+      "row": 137,
+      "before": [
+        "снег",
+        "snow",
+        "Снег идёт.",
+        "It's snowing."
+      ],
+      "after": [
+        "снег",
+        "snow",
+        "На земле лежит снег.",
+        "There is snow on the ground."
+      ],
+      "reason": "Use the target noun directly in both examples."
+    },
+    {
+      "row": 199,
+      "before": [
+        "частность",
+        "particular",
+        "В частности.",
+        "In particular."
+      ],
+      "after": [
+        "частность",
+        "detail; in particular (в частности)",
+        "В частности.",
+        "In particular."
+      ],
+      "reason": "Distinguish noun from fixed prepositional phrase."
+    },
+    {
+      "row": 254,
+      "before": [
+        "дождь",
+        "rain",
+        "Дождь идёт.",
+        "It's raining."
+      ],
+      "after": [
+        "дождь",
+        "rain",
+        "Дождь начался ночью.",
+        "The rain started at night."
+      ],
+      "reason": "Use target noun directly."
+    },
+    {
+      "row": 344,
+      "before": [
+        "выбирать",
+        "to choose",
+        "Выбирай сам.",
+        "You choose."
+      ],
+      "after": [
+        "выбирать",
+        "to choose",
+        "Выбирай сам.",
+        "Choose for yourself."
+      ],
+      "reason": "Translate emphatic сам explicitly."
+    },
+    {
+      "row": 365,
+      "before": [
+        "подруга",
+        "female friend",
+        "Это моя подруга.",
+        "This is my female friend."
+      ],
+      "after": [
+        "подруга",
+        "friend (female)",
+        "Это моя подруга.",
+        "This is my friend."
+      ],
+      "reason": "Explain gender in gloss; avoid unnatural female friend in ordinary English."
+    },
+    {
+      "row": 421,
+      "before": [
+        "сведение",
+        "information",
+        "Нет таких сведений.",
+        "There's no such information."
+      ],
+      "after": [
+        "сведение",
+        "information (usually plural: сведения)",
+        "Нет таких сведений.",
+        "There's no such information."
+      ],
+      "reason": "Mark plural form carrying the information sense."
+    },
+    {
+      "row": 426,
+      "before": [
+        "вряд",
+        "unlikely",
+        "Вряд ли он придёт.",
+        "He's unlikely to come."
+      ],
+      "after": [
+        "вряд",
+        "unlikely (вряд ли)",
+        "Вряд ли он придёт.",
+        "He's unlikely to come."
+      ],
+      "reason": "Mark fixed expression rather than isolated вряд."
+    },
+    {
+      "row": 491,
+      "before": [
+        "изучение",
+        "study",
+        "Это для изучения.",
+        "This is for studying."
+      ],
+      "after": [
+        "изучение",
+        "study",
+        "Изучение языка требует времени.",
+        "The study of a language takes time."
+      ],
+      "reason": "Demonstrate noun directly with a useful example."
+    }
+  ]
+}

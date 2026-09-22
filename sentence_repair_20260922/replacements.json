@@ -1,0 +1,3722 @@
+{
+  "english_russian:64": {
+    "en": "I will buy a new car.",
+    "ru": "Я куплю новую машину.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:85": {
+    "en": "He will buy a big house.",
+    "ru": "Он купит большой дом.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:170": {
+    "en": "I will buy a new car.",
+    "ru": "Я куплю новую машину.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:178": {
+    "en": "She will buy a small house.",
+    "ru": "Она купит маленький дом.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:181": {
+    "en": "We will find the solution.",
+    "ru": "Мы найдём решение.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:406": {
+    "en": "She will easily find the answer.",
+    "ru": "Она легко найдёт ответ.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:431": {
+    "en": "I will buy a new book.",
+    "ru": "Я куплю новую книгу.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:476": {
+    "en": "They will name their son.",
+    "ru": "Они назовут своего сына.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:510": {
+    "en": "I will find a dollar.",
+    "ru": "Я найду доллар.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:552": {
+    "en": "I will find this on the internet.",
+    "ru": "Я найду это в интернете.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:566": {
+    "en": "He will believe in fate.",
+    "ru": "Он будет верить в судьбу.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:611": {
+    "en": "I will buy a children's book.",
+    "ru": "Я куплю детскую книгу.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:742": {
+    "en": "The teacher will say this.",
+    "ru": "Учитель скажет это.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:759": {
+    "en": "He will feel alien in the family.",
+    "ru": "Он будет чувствовать себя чужим в семье.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:769": {
+    "en": "He will feel confident.",
+    "ru": "Он будет чувствовать себя уверенным.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:795": {
+    "en": "We will buy six books today.",
+    "ru": "Мы купим шесть книг сегодня.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:803": {
+    "en": "He will slowly open the door.",
+    "ru": "Он медленно откроет дверь.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:807": {
+    "en": "Naturally, he will say no.",
+    "ru": "Естественно, он скажет нет.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:853": {
+    "en": "She will calmly say this.",
+    "ru": "Она спокойно скажет это.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:878": {
+    "en": "I will buy a share today.",
+    "ru": "Я куплю акцию сегодня.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:964": {
+    "en": "I will find answers on the forum.",
+    "ru": "Я найду ответы на форуме.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:967": {
+    "en": "He will feel weak.",
+    "ru": "Он будет чувствовать себя слабым.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:991": {
+    "en": "The chairman will open the meeting.",
+    "ru": "Председатель откроет встречу.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:1007": {
+    "en": "They will buy a plot near the house.",
+    "ru": "Они купят участок рядом с домом.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:1039": {
+    "en": "He will gradually understand this.",
+    "ru": "Он постепенно поймёт это.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:1059": {
+    "en": "I will buy a bottle of water.",
+    "ru": "Я куплю бутылку воды.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:1071": {
+    "en": "I will buy bread today.",
+    "ru": "Я куплю хлеб сегодня.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:1082": {
+    "en": "I will buy a new electronic book.",
+    "ru": "Я куплю новую электронную книгу.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:1091": {
+    "en": "The committee will accept the offer.",
+    "ru": "Комитет примет предложение.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:1108": {
+    "en": "I will dedicate this song to you.",
+    "ru": "Я посвящу эту песню тебе.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:1119": {
+    "en": "I will buy the last edition.",
+    "ru": "Я куплю последнее издание.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:1137": {
+    "en": "The deputy will offer a new law.",
+    "ru": "Депутат предложит новый закон.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:1169": {
+    "en": "She will feel this deeply.",
+    "ru": "Она будет глубоко это чувствовать.",
+    "method": "reviewed replacement"
+  },
+  "english_russian:1175": {
+    "en": "Do not lose your key.",
+    "ru": "Не потеряй свой ключ.",
+    "method": "reviewed replacement"
+  },
+  "english_russian:1188": {
+    "en": "She will buy eight books tomorrow.",
+    "ru": "Она купит восемь книг завтра.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:1280": {
+    "en": "The book will lie on the surface.",
+    "ru": "Книга будет лежать на поверхности.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:1289": {
+    "en": "I will accidentally open the door.",
+    "ru": "Я случайно открою дверь.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:1297": {
+    "en": "I will buy a ticket.",
+    "ru": "Я куплю билет.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:1324": {
+    "en": "He will slightly open the door.",
+    "ru": "Он слегка откроет дверь.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:1330": {
+    "en": "I will hear noise in the street.",
+    "ru": "Я услышу шум на улице.",
+    "method": "reviewed replacement"
+  },
+  "english_russian:1353": {
+    "en": "He will literally say that.",
+    "ru": "Он буквально скажет это.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:1359": {
+    "en": "Our strategy will lead to victory.",
+    "ru": "Наша стратегия приведёт к победе.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:1435": {
+    "en": "I will open the file tomorrow.",
+    "ru": "Я открою файл завтра.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:1508": {
+    "en": "He will feel deeply unhappy.",
+    "ru": "Он будет чувствовать себя глубоко несчастным.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:1513": {
+    "en": "He will feel guilty.",
+    "ru": "Он будет чувствовать себя виноватым.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:1540": {
+    "en": "She will find peace in nature.",
+    "ru": "Она найдёт покой на природе.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:1542": {
+    "en": "He will offer an explanation.",
+    "ru": "Он предложит объяснение.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:1574": {
+    "en": "The bank rate will increase.",
+    "ru": "Ставка банка вырастет.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:1596": {
+    "en": "He will accept the offer unconditionally.",
+    "ru": "Он безоговорочно примет предложение.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:1810": {
+    "en": "Do not lose your glasses.",
+    "ru": "Не потеряй свои очки.",
+    "method": "reviewed replacement"
+  },
+  "english_russian:1833": {
+    "en": "They will find a corpse.",
+    "ru": "Они найдут труп.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:1835": {
+    "en": "The priest will lead the service.",
+    "ru": "Священник проведёт службу.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:1840": {
+    "en": "I will mention your name.",
+    "ru": "Я упомяну твоё имя.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:1844": {
+    "en": "Do not lose your mobile.",
+    "ru": "Не потеряй свой мобильный телефон.",
+    "method": "reviewed replacement"
+  },
+  "english_russian:1851": {
+    "en": "He will find drugs.",
+    "ru": "Он найдёт наркотики.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:1865": {
+    "en": "The dog will find a bone.",
+    "ru": "Собака найдёт кость.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:1922": {
+    "en": "They will find a bomb.",
+    "ru": "Они найдут бомбу.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:1926": {
+    "en": "The hostess will open the door.",
+    "ru": "Хозяйка откроет дверь.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:1933": {
+    "en": "They will accept defeat with dignity.",
+    "ru": "Они примут поражение с достоинством.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:1973": {
+    "en": "The researcher will publish her book.",
+    "ru": "Исследователь опубликует свою книгу.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:2010": {
+    "en": "She will feel lonely without him.",
+    "ru": "Она будет чувствовать себя одинокой без него.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:2020": {
+    "en": "I will buy her favorite album.",
+    "ru": "Я куплю её любимый альбом.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:2042": {
+    "en": "The fabric will feel coarse.",
+    "ru": "Ткань будет грубой.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:2054": {
+    "en": "We will discuss the methodology today.",
+    "ru": "Мы будем обсуждать методику сегодня.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:2080": {
+    "en": "He will hear a shot.",
+    "ru": "Он услышит выстрел.",
+    "method": "reviewed replacement"
+  },
+  "english_russian:2097": {
+    "en": "She will feel satisfaction.",
+    "ru": "Она будет чувствовать удовлетворение.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:2155": {
+    "en": "She will feel a deep yearning for home.",
+    "ru": "Она будет чувствовать глубокую тоску по дому.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:2179": {
+    "en": "He will feel sad today.",
+    "ru": "Он будет печален сегодня.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:2252": {
+    "en": "She will publish her first novella.",
+    "ru": "Она опубликует свою первую повесть.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:2412": {
+    "en": "I will buy a new English dictionary.",
+    "ru": "Я куплю новый английский словарь.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:2414": {
+    "en": "The customer will accept the plan.",
+    "ru": "Заказчик примет план.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:2435": {
+    "en": "She will dress her son.",
+    "ru": "Она оденет сына.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:2441": {
+    "en": "The schoolboy will lose his bag.",
+    "ru": "Школьник потеряет сумку.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:2448": {
+    "en": "The veteran will tell a story about the war.",
+    "ru": "Ветеран расскажет историю о войне.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:2458": {
+    "en": "I will feel emptiness.",
+    "ru": "Я буду чувствовать пустоту.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:2470": {
+    "en": "I will buy insurance for the car.",
+    "ru": "Я куплю страховку на машину.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:2507": {
+    "en": "I will buy colored paper.",
+    "ru": "Я куплю цветную бумагу.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:2510": {
+    "en": "I will hear the call.",
+    "ru": "Я услышу призыв.",
+    "method": "reviewed replacement"
+  },
+  "english_russian:2515": {
+    "en": "I will buy a new computer monitor.",
+    "ru": "Я куплю новый монитор для компьютера.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:2557": {
+    "en": "The push will open the door.",
+    "ru": "Толчок откроет дверь.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:2574": {
+    "en": "He will feel ashamed of his actions.",
+    "ru": "Ему будет стыдно за свои действия.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:2581": {
+    "en": "The academician will publish a book.",
+    "ru": "Академик опубликует книгу.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:2608": {
+    "en": "She will joyfully accept the gift.",
+    "ru": "Она радостно примет подарок.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:2609": {
+    "en": "The mayor will open the new park.",
+    "ru": "Мэр откроет новый парк.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:2626": {
+    "en": "I will hear an echo.",
+    "ru": "Я услышу эхо.",
+    "method": "reviewed replacement"
+  },
+  "english_russian:2634": {
+    "en": "Do not lose your shoe.",
+    "ru": "Не потеряй свой ботинок.",
+    "method": "reviewed replacement"
+  },
+  "english_russian:2672": {
+    "en": "He will ask specifically about the work.",
+    "ru": "Он спросит конкретно о работе.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:2700": {
+    "en": "He will lose his equilibrium.",
+    "ru": "Он потеряет равновесие.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:2703": {
+    "en": "The embassy will issue new recommendations.",
+    "ru": "Посольство выпустит новые рекомендации.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:2706": {
+    "en": "She will lose the thread of conversation.",
+    "ru": "Она потеряет нить разговора.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:2712": {
+    "en": "I will buy a pack of cigarettes.",
+    "ru": "Я куплю пачку сигарет.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:2741": {
+    "en": "She will offer him a clean handkerchief.",
+    "ru": "Она предложит ему чистый платок.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:2756": {
+    "en": "The cursed book will bring them death.",
+    "ru": "Проклятая книга принесёт им смерть.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:2758": {
+    "en": "He will feel like an outsider at work.",
+    "ru": "Он будет чувствовать себя посторонним на работе.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:2787": {
+    "en": "I will study there for half a year.",
+    "ru": "Я буду учиться там полгода.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:2864": {
+    "en": "He will buy real estate.",
+    "ru": "Он купит недвижимость.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:2917": {
+    "en": "I will hear the shooting.",
+    "ru": "Я услышу стрельбу.",
+    "method": "reviewed replacement"
+  },
+  "english_russian:2953": {
+    "en": "The observer will note every detail carefully.",
+    "ru": "Наблюдатель внимательно отметит каждую деталь.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:2985": {
+    "en": "They will discuss divorce tomorrow.",
+    "ru": "Они будут обсуждать развод завтра.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:3030": {
+    "en": "I will buy new shoes tomorrow.",
+    "ru": "Завтра я куплю новую обувь.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:3065": {
+    "en": "Deception will kill their trust.",
+    "ru": "Обман убьёт их доверие.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:3073": {
+    "en": "He will openly express his opinion.",
+    "ru": "Он открыто выразит своё мнение.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:3088": {
+    "en": "She will buy a new red skirt.",
+    "ru": "Она купит новую красную юбку.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:3121": {
+    "en": "The administrator will open the conference room.",
+    "ru": "Администратор откроет комнату для конференции.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:3123": {
+    "en": "She will buy a leather jacket.",
+    "ru": "Она купит кожаную куртку.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:3131": {
+    "en": "I will buy a new laptop tomorrow.",
+    "ru": "Я куплю новый ноутбук завтра.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:3168": {
+    "en": "They will buy land near the river.",
+    "ru": "Они купят землю у реки.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:3179": {
+    "en": "I will feel a gust of wind.",
+    "ru": "Я почувствую порыв ветра.",
+    "method": "reviewed replacement"
+  },
+  "english_russian:3197": {
+    "en": "I will lose ten pounds in a month.",
+    "ru": "Я потеряю десять фунтов за месяц.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:3217": {
+    "en": "Do not lose your pencil again.",
+    "ru": "Не потеряй свой карандаш снова.",
+    "method": "reviewed replacement"
+  },
+  "english_russian:3280": {
+    "en": "I will buy a red brick tomorrow.",
+    "ru": "Завтра я куплю красный кирпич.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:3321": {
+    "en": "He will achieve a high military rank.",
+    "ru": "Он достигнет высокого военного ранга.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:3369": {
+    "en": "The stone's surface will feel smooth.",
+    "ru": "Поверхность камня будет гладкой.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:3417": {
+    "en": "The publisher will release a new novel.",
+    "ru": "Издатель выпустит новый роман.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:3472": {
+    "en": "The actress will play well.",
+    "ru": "Актриса будет хорошо играть.",
+    "method": "reviewed replacement"
+  },
+  "english_russian:3480": {
+    "en": "He will feel bewilderment.",
+    "ru": "Он будет чувствовать недоумение.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:3524": {
+    "en": "I will buy a movie poster tomorrow.",
+    "ru": "Я куплю плакат к фильму завтра.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:3576": {
+    "en": "The bishop will lead the service.",
+    "ru": "Епископ проведёт службу.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:3596": {
+    "en": "She will publish an essay.",
+    "ru": "Она опубликует очерк.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:3635": {
+    "en": "Do not lose your left glove.",
+    "ru": "Не потеряй свою левую перчатку.",
+    "method": "reviewed replacement"
+  },
+  "english_russian:3648": {
+    "en": "I will buy sausage for breakfast.",
+    "ru": "Я куплю колбасу на завтрак.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:3649": {
+    "en": "She will buy a plastic bottle.",
+    "ru": "Она купит пластиковую бутылку.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:3665": {
+    "en": "She will express apprehension.",
+    "ru": "Она выразит опасение.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:3690": {
+    "en": "The conductor will check our tickets.",
+    "ru": "Проводник проверит наши билеты.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:3708": {
+    "en": "I will buy a bottle without a cork.",
+    "ru": "Я куплю бутылку без пробки.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:3780": {
+    "en": "The experiment will confirm the regularity.",
+    "ru": "Эксперимент подтвердит закономерность.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:3807": {
+    "en": "I will buy a brand new car.",
+    "ru": "Я куплю новенькую машину.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:3818": {
+    "en": "I will buy new jeans tomorrow.",
+    "ru": "Завтра я куплю новые джинсы.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:3856": {
+    "en": "She will skillfully open the door.",
+    "ru": "Она ловко откроет дверь.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:3862": {
+    "en": "I will open the directory.",
+    "ru": "Я открою справочник.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:3938": {
+    "en": "She will buy a Parisian dress.",
+    "ru": "Она купит парижское платье.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:3962": {
+    "en": "He will persistently ask the question.",
+    "ru": "Он настойчиво будет задавать вопрос.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:3990": {
+    "en": "He will tell me to jump first.",
+    "ru": "Он скажет мне прыгнуть первым.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:4004": {
+    "en": "He will buy a condom.",
+    "ru": "Он купит презерватив.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:4012": {
+    "en": "He will tell an untruth.",
+    "ru": "Он скажет неправду.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:4024": {
+    "en": "He will formally accept the offer.",
+    "ru": "Он официально примет предложение.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:4103": {
+    "en": "She will support him in every way.",
+    "ru": "Она будет всячески его поддерживать.",
+    "method": "reviewed replacement"
+  },
+  "english_russian:4159": {
+    "en": "Do not lose the remote control again.",
+    "ru": "Не потеряй пульт снова.",
+    "method": "reviewed replacement"
+  },
+  "english_russian:4277": {
+    "en": "I will buy a cucumber.",
+    "ru": "Я куплю огурец.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:4472": {
+    "en": "Do not lose your handbag.",
+    "ru": "Не потеряй свою сумочку.",
+    "method": "reviewed replacement"
+  },
+  "english_russian:4626": {
+    "en": "He will check the sight.",
+    "ru": "Он проверит прицел.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:4637": {
+    "en": "The movie will disappoint me.",
+    "ru": "Фильм меня разочарует.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:4672": {
+    "en": "He will buy optical glasses.",
+    "ru": "Он купит оптические очки.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:4868": {
+    "en": "I will buy mineral water.",
+    "ru": "Я куплю минеральную воду.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:4966": {
+    "en": "They will believe in his righteousness.",
+    "ru": "Они будут верить в его праведность.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:5090": {
+    "en": "I will buy feed for the cat.",
+    "ru": "Я куплю корм для кошки.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:5124": {
+    "en": "She will modestly accept the gift.",
+    "ru": "Она скромно примет подарок.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:5149": {
+    "en": "I will buy a new sweater.",
+    "ru": "Я куплю новый свитер.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:5209": {
+    "en": "Her determination will lead to success.",
+    "ru": "Её решимость приведёт к успеху.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:5253": {
+    "en": "I will add pepper to the soup.",
+    "ru": "Я добавлю перец в суп.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:5357": {
+    "en": "I will buy water at the kiosk.",
+    "ru": "Я куплю воду в киоске.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:5462": {
+    "en": "He will check his pager.",
+    "ru": "Он проверит свой пейджер.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:5503": {
+    "en": "We will buy new hardware.",
+    "ru": "Мы купим новое оборудование.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:5517": {
+    "en": "I will buy a souvenir.",
+    "ru": "Я куплю сувенир.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:5539": {
+    "en": "The museum will display a Hitlerite uniform.",
+    "ru": "Музей покажет гитлеровскую форму.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:5548": {
+    "en": "She will buy a new pair of stockings.",
+    "ru": "Она купит новую пару чулок.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:5554": {
+    "en": "I will buy a new T-shirt today.",
+    "ru": "Я куплю новую футболку сегодня.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:5571": {
+    "en": "They will buy a two-story house.",
+    "ru": "Они купят двухэтажный дом.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:5621": {
+    "en": "I will buy a parsnip for dinner.",
+    "ru": "Я куплю пастернак на ужин.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:5631": {
+    "en": "The searchlight will illuminate the sky.",
+    "ru": "Прожектор осветит небо.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:5637": {
+    "en": "We will open a bicycle rental.",
+    "ru": "Мы откроем прокат велосипедов.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:5658": {
+    "en": "They will ask about legality.",
+    "ru": "Они спросят о законности.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:5702": {
+    "en": "He will buy a new foreign car.",
+    "ru": "Он купит новую иномарку.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:5740": {
+    "en": "The storyteller will tell a story.",
+    "ru": "Рассказчик расскажет историю.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:5785": {
+    "en": "I will add sauce to the meat.",
+    "ru": "Я добавлю соус к мясу.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:5839": {
+    "en": "The traffic policeman will issue a fine.",
+    "ru": "Гаишник выпишет штраф.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:5882": {
+    "en": "The border guard will check our passports.",
+    "ru": "Пограничник проверит наши паспорта.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:5953": {
+    "en": "He will buy a new fishing rod.",
+    "ru": "Он купит новую удочку.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:6135": {
+    "en": "He will buy a new video camera.",
+    "ru": "Он купит новую видеокамеру.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:6150": {
+    "en": "They will authorize him to act.",
+    "ru": "Они уполномочат его действовать.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:6170": {
+    "en": "She will buy a new wig tomorrow.",
+    "ru": "Она купит новый парик завтра.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:6175": {
+    "en": "I will buy a map in Minsk.",
+    "ru": "Я куплю карту в Минске.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:6185": {
+    "en": "The plague will bring death.",
+    "ru": "Чума принесёт смерть.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:6187": {
+    "en": "He will buy licensed software.",
+    "ru": "Он купит лицензионную программу.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:6320": {
+    "en": "He will tell a parable.",
+    "ru": "Он расскажет притчу.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:6353": {
+    "en": "A wealthy person will buy the mansion.",
+    "ru": "Богач купит особняк.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:6382": {
+    "en": "I will buy a new mattress today.",
+    "ru": "Я куплю новый матрас сегодня.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:6447": {
+    "en": "He will add one stroke.",
+    "ru": "Он добавит один штрих.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:6462": {
+    "en": "She will buy jewelry.",
+    "ru": "Она купит ювелирные изделия.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:6500": {
+    "en": "He will buy a razor.",
+    "ru": "Он купит бритву.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:6597": {
+    "en": "She will ask plaintively.",
+    "ru": "Она жалобно спросит.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:6610": {
+    "en": "He will study at a technical school.",
+    "ru": "Он будет учиться в техникуме.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:6645": {
+    "en": "The dean will welcome new students.",
+    "ru": "Декан будет приветствовать новых студентов.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:6647": {
+    "en": "Daddy will buy me a new bicycle.",
+    "ru": "Папочка купит мне новый велосипед.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:6655": {
+    "en": "I will buy a cardboard box.",
+    "ru": "Я куплю картонный ящик.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:6702": {
+    "en": "Prayer will bring her deliverance.",
+    "ru": "Молитва принесёт ей избавление.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:6849": {
+    "en": "The work will exhaust him.",
+    "ru": "Работа измучит его.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:6900": {
+    "en": "She will buy cosmetic cream.",
+    "ru": "Она купит косметический крем.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:6919": {
+    "en": "She will play brilliantly.",
+    "ru": "Она будет блестяще играть.",
+    "method": "reviewed replacement"
+  },
+  "english_russian:7126": {
+    "en": "The campaign will attract nationwide attention.",
+    "ru": "Кампания привлечёт общенациональное внимание.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:7197": {
+    "en": "He will buy a new guitar amplifier.",
+    "ru": "Он купит новый усилитель для гитары.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:7387": {
+    "en": "I will buy a new gaming console.",
+    "ru": "Я куплю новую игровую приставку.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:7456": {
+    "en": "He will display his trophy proudly.",
+    "ru": "Он будет гордо показывать свой трофей.",
+    "method": "reviewed replacement"
+  },
+  "english_russian:7592": {
+    "en": "She will buy the dress on a whim.",
+    "ru": "Она купит платье по прихоти.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:7656": {
+    "en": "The cashier will check this.",
+    "ru": "Кассир проверит это.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:7846": {
+    "en": "He will crumple the letter.",
+    "ru": "Он сомнёт письмо.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:8167": {
+    "en": "She will buy red cloth.",
+    "ru": "Она купит красную ткань.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:8344": {
+    "en": "I will buy chewing gum.",
+    "ru": "Я куплю жвачку.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:8383": {
+    "en": "I will buy it at the department store.",
+    "ru": "Я куплю это в универмаге.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:8386": {
+    "en": "She will buy a new swimsuit tomorrow.",
+    "ru": "Она купит новый купальник завтра.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:8472": {
+    "en": "I will buy a high-quality leather jacket.",
+    "ru": "Я куплю высококачественную кожаную куртку.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:8776": {
+    "en": "The museum will display an ancient engraving.",
+    "ru": "Музей покажет древнюю гравюру.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:8990": {
+    "en": "The museum will display ethnographic artifacts.",
+    "ru": "Музей выставит этнографические артефакты.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:9383": {
+    "en": "He will masterfully play this role.",
+    "ru": "Он мастерски сыграет эту роль.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:9496": {
+    "en": "The SS man will guard the camp.",
+    "ru": "Эсэсовец будет охранять лагерь.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:154": {
+    "en": "I will understand.",
+    "ru": "Я пойму.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:164": {
+    "en": "I will find it.",
+    "ru": "Я найду.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:236": {
+    "en": "I will accept.",
+    "ru": "Я приму.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:351": {
+    "en": "I will finally understand.",
+    "ru": "Наконец я пойму.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:386": {
+    "en": "Who will create this?",
+    "ru": "Кто это создаст?",
+    "method": "future_tense_draft"
+  },
+  "russian_english:596": {
+    "en": "I will buy water at the store.",
+    "ru": "Я куплю воду в магазине.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:706": {
+    "en": "They will kill him.",
+    "ru": "Его убьют.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:728": {
+    "en": "They will install it.",
+    "ru": "Они установят это.",
+    "method": "reviewed replacement"
+  },
+  "russian_english:771": {
+    "en": "I will lose the book.",
+    "ru": "Я потеряю книгу.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:792": {
+    "en": "We will find it.",
+    "ru": "Мы это обнаружим.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:956": {
+    "en": "I will feel that.",
+    "ru": "Я это почувствую.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:987": {
+    "en": "I will force him to leave.",
+    "ru": "Я заставлю его уйти.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:1002": {
+    "en": "They will build the house.",
+    "ru": "Они построят дом.",
+    "method": "reviewed replacement"
+  },
+  "russian_english:1021": {
+    "en": "The minister will say so.",
+    "ru": "Министр так скажет.",
+    "method": "reviewed replacement"
+  },
+  "russian_english:1085": {
+    "en": "I will try again.",
+    "ru": "Я попытаюсь снова.",
+    "method": "reviewed replacement"
+  },
+  "russian_english:1200": {
+    "en": "I will carry out the plan.",
+    "ru": "Я выполню план.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:1306": {
+    "en": "I will dedicate this work to you.",
+    "ru": "Я посвящу тебе эту работу.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:1366": {
+    "en": "He will carry it out.",
+    "ru": "Он это совершит.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:1383": {
+    "en": "We will achieve it.",
+    "ru": "Мы этого добьёмся.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:1391": {
+    "en": "Do not lose your key.",
+    "ru": "Не потеряй свой ключ.",
+    "method": "reviewed replacement"
+  },
+  "russian_english:1481": {
+    "en": "You will save me.",
+    "ru": "Ты меня спасёшь.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:1610": {
+    "en": "They will produce a new product.",
+    "ru": "Они произведут новый продукт.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:1669": {
+    "en": "He will lose his mind.",
+    "ru": "Он потеряет разум.",
+    "method": "reviewed replacement"
+  },
+  "russian_english:1748": {
+    "en": "I will place an order.",
+    "ru": "Я сделаю заказ.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:1760": {
+    "en": "They will release a new book.",
+    "ru": "Выпустят новую книгу.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:2010": {
+    "en": "The door will open.",
+    "ru": "Дверь откроется.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:2190": {
+    "en": "That will attract attention.",
+    "ru": "Это привлечёт внимание.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:2226": {
+    "en": "Do not lose your glasses.",
+    "ru": "Не потеряй свои очки.",
+    "method": "reviewed replacement"
+  },
+  "russian_english:2454": {
+    "en": "That will amaze me.",
+    "ru": "Это меня поразит.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:2484": {
+    "en": "They will release him.",
+    "ru": "Его освободят.",
+    "method": "reviewed replacement"
+  },
+  "russian_english:2660": {
+    "en": "I will buy a liter of milk.",
+    "ru": "Я куплю литр молока.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:2753": {
+    "en": "They will catch the killer.",
+    "ru": "Убийцу поймают.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:2818": {
+    "en": "They will elect him.",
+    "ru": "Его изберут.",
+    "method": "reviewed replacement"
+  },
+  "russian_english:2900": {
+    "en": "I will spend it all.",
+    "ru": "Я всё потрачу.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:2928": {
+    "en": "We will buy furniture.",
+    "ru": "Купим мебель.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:2985": {
+    "en": "He will understand instantly.",
+    "ru": "Он мгновенно поймёт.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:3032": {
+    "en": "The publishing house will release a book.",
+    "ru": "Издательство выпустит книгу.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:3035": {
+    "en": "He will publish a new book.",
+    "ru": "Он издаст новую книгу.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:3039": {
+    "en": "The dog will open its mouth.",
+    "ru": "Собака откроет пасть.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:3111": {
+    "en": "The door will open automatically.",
+    "ru": "Дверь откроется автоматически.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:3383": {
+    "en": "He will earn the award.",
+    "ru": "Он заслужит награду.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:3496": {
+    "en": "He will lose his balance.",
+    "ru": "Он потеряет равновесие.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:3697": {
+    "en": "The knight will save her.",
+    "ru": "Рыцарь спасёт её.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:3908": {
+    "en": "The clerk will open the door.",
+    "ru": "Служащий откроет дверь.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:3955": {
+    "en": "He will pay a fine.",
+    "ru": "Он заплатит штраф.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:3995": {
+    "en": "He will ask for mercy.",
+    "ru": "Он будет просить милости.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:4033": {
+    "en": "He will openly express his opinions.",
+    "ru": "Он открыто выразит свои мнения.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:4053": {
+    "en": "She will buy a new red skirt.",
+    "ru": "Она купит новую красную юбку.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:4059": {
+    "en": "A passerby will ask the way.",
+    "ru": "Прохожий спросит дорогу.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:4061": {
+    "en": "The beggar will ask for some food.",
+    "ru": "Нищий попросит немного еды.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:4086": {
+    "en": "I will add horseradish.",
+    "ru": "Я добавлю хрен.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:4096": {
+    "en": "The administrator will open the hall.",
+    "ru": "Администратор откроет зал.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:4108": {
+    "en": "I will buy a new laptop.",
+    "ru": "Я куплю новый ноутбук.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:4127": {
+    "en": "The sun will illuminate the room.",
+    "ru": "Солнце осветит комнату.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:4543": {
+    "en": "The publisher will release a new book.",
+    "ru": "Издатель выпустит новую книгу.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:4579": {
+    "en": "We will strengthen our protection.",
+    "ru": "Мы усилим защиту.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:4584": {
+    "en": "He will interrupt me.",
+    "ru": "Он перебьёт меня.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:4606": {
+    "en": "We will strengthen the wall.",
+    "ru": "Мы укрепим стену.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:5086": {
+    "en": "I will buy a new record.",
+    "ru": "Я куплю новую пластинку.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:5107": {
+    "en": "I will buy a brand new car.",
+    "ru": "Куплю новенькую машину.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:5174": {
+    "en": "The oligarch will buy a factory.",
+    "ru": "Олигарх купит завод.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:5345": {
+    "en": "He will persistently ask.",
+    "ru": "Он настойчиво будет просить.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:5388": {
+    "en": "The door will open smoothly.",
+    "ru": "Дверь плавно откроется.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:6051": {
+    "en": "I will buy powder.",
+    "ru": "Я куплю порошок.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:6212": {
+    "en": "I will buy insurance.",
+    "ru": "Я куплю страховку.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:6357": {
+    "en": "You will disappoint me.",
+    "ru": "Ты меня разочаруешь.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:6619": {
+    "en": "He will ask for mercy.",
+    "ru": "Он будет просить милосердия.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:6658": {
+    "en": "I will buy a new car tomorrow.",
+    "ru": "Завтра я куплю новое авто.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:6813": {
+    "en": "She will buy cosmetics.",
+    "ru": "Она купит косметику.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:7138": {
+    "en": "I will buy a tomato.",
+    "ru": "Я куплю помидор.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:7141": {
+    "en": "I will buy a sweater.",
+    "ru": "Я куплю свитер.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:7246": {
+    "en": "He will thoroughly check everything.",
+    "ru": "Он основательно всё проверит.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:7474": {
+    "en": "Finally he will tell the truth.",
+    "ru": "Напоследок он скажет правду.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:7556": {
+    "en": "He will buy a Ford.",
+    "ru": "Он купит «Форд».",
+    "method": "future_tense_draft"
+  },
+  "russian_english:7676": {
+    "en": "I will buy a small pie.",
+    "ru": "Я куплю пирожок.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:7915": {
+    "en": "I will buy a parsnip.",
+    "ru": "Я куплю пастернак.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:8035": {
+    "en": "He will buy a new foreign car.",
+    "ru": "Он купит новую иномарку.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:8041": {
+    "en": "He will buy a foreign product.",
+    "ru": "Он купит заграничный товар.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:8577": {
+    "en": "They will honor him with an award.",
+    "ru": "Его удостоят награды.",
+    "method": "future_tense_draft"
+  },
+  "russian_english:8935": {
+    "en": "He will play with excitement.",
+    "ru": "Он будет играть с азартом.",
+    "method": "future_tense_draft"
+  },
+  "english_russian:9": {
+    "en": "He reads a book.",
+    "ru": "Он читает книгу.",
+    "method": "simple_grammar_draft"
+  },
+  "english_russian:17": {
+    "en": "She reads a book.",
+    "ru": "Она читает книгу.",
+    "method": "simple_grammar_draft"
+  },
+  "english_russian:251": {
+    "en": "He reads this again.",
+    "ru": "Он снова читает это.",
+    "method": "simple_grammar_draft"
+  },
+  "english_russian:535": {
+    "en": "I love to listen to music every day.",
+    "ru": "Я люблю слушать музыку каждый день.",
+    "method": "simple_grammar_draft"
+  },
+  "english_russian:1327": {
+    "en": "She loved to read fairy tales.",
+    "ru": "Она любила читать сказки.",
+    "method": "simple_grammar_draft"
+  },
+  "english_russian:5341": {
+    "en": "The heating does not work.",
+    "ru": "Отопление не работает.",
+    "method": "simple_grammar_draft"
+  },
+  "english_russian:5779": {
+    "en": "The tide comes in now.",
+    "ru": "Прилив сейчас наступает.",
+    "method": "simple_grammar_draft"
+  },
+  "english_russian:6050": {
+    "en": "I love to listen to jazz.",
+    "ru": "Я люблю слушать джаз.",
+    "method": "simple_grammar_draft"
+  },
+  "english_russian:8018": {
+    "en": "The armored train comes.",
+    "ru": "Бронепоезд идёт.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:5": {
+    "en": "I'm here.",
+    "ru": "Я здесь.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:7": {
+    "en": "I was here.",
+    "ru": "Я был здесь.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:9": {
+    "en": "He's here.",
+    "ru": "Он здесь.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:10": {
+    "en": "I'm here, but he's not.",
+    "ru": "Я здесь, а он нет.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:17": {
+    "en": "I'm here, but he isn't.",
+    "ru": "Я здесь, но он — нет.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:41": {
+    "en": "If he comes, I will be here.",
+    "ru": "Если он придёт, я буду здесь.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:46": {
+    "en": "When is he here?",
+    "ru": "Когда он здесь?",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:53": {
+    "en": "I will stay so that he can go.",
+    "ru": "Я останусь, чтобы он мог пойти.",
+    "method": "reviewed replacement"
+  },
+  "russian_english:76": {
+    "en": "I don't know whether he's here.",
+    "ru": "Не знаю, здесь ли он.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:92": {
+    "en": "Well, I'm here.",
+    "ru": "Ну, я здесь.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:113": {
+    "en": "That's why I'm here.",
+    "ru": "Я потому и здесь.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:125": {
+    "en": "I work.",
+    "ru": "Я работаю.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:126": {
+    "en": "He's also here.",
+    "ru": "Он также здесь.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:130": {
+    "en": "Although he's here, I can go.",
+    "ru": "Хотя он здесь, я могу идти.",
+    "method": "reviewed replacement"
+  },
+  "russian_english:159": {
+    "en": "However, he is here.",
+    "ru": "Однако он здесь.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:175": {
+    "en": "He turned out to be here.",
+    "ru": "Он оказался здесь.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:182": {
+    "en": "I'm almost here.",
+    "ru": "Я почти здесь.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:183": {
+    "en": "Stay here?",
+    "ru": "Остаться здесь?",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:197": {
+    "en": "I stand.",
+    "ru": "Я стою.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:289": {
+    "en": "And suddenly he's here.",
+    "ru": "И вдруг он здесь.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:303": {
+    "en": "I'm staying here.",
+    "ru": "Я остаюсь здесь.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:325": {
+    "en": "I drive a car.",
+    "ru": "Я веду машину.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:393": {
+    "en": "I'll stay since he's here.",
+    "ru": "Я останусь, поскольку он здесь.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:413": {
+    "en": "He does not answer.",
+    "ru": "Он не отвечает.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:434": {
+    "en": "He speaks as if he knows.",
+    "ru": "Он говорит, будто знает.",
+    "method": "reviewed replacement"
+  },
+  "russian_english:470": {
+    "en": "He does not come.",
+    "ru": "Он не приходит.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:472": {
+    "en": "I'm usually here.",
+    "ru": "Я обычно здесь.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:488": {
+    "en": "Time passes.",
+    "ru": "Время проходит.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:501": {
+    "en": "He's probably here.",
+    "ru": "Он, наверное, здесь.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:519": {
+    "en": "We stand in line.",
+    "ru": "Стоим в очереди.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:520": {
+    "en": "Politics is important.",
+    "ru": "Политика важна.",
+    "method": "reviewed replacement"
+  },
+  "russian_english:555": {
+    "en": "Is the boy here?",
+    "ru": "Мальчик здесь?",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:735": {
+    "en": "Is he really here?",
+    "ru": "Разве он здесь?",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:751": {
+    "en": "I read a novel.",
+    "ru": "Читаю роман.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:757": {
+    "en": "It turns out he's here.",
+    "ru": "Оказывается, он здесь.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:796": {
+    "en": "He's here again.",
+    "ru": "Он вновь здесь.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:876": {
+    "en": "It seemed to me that he was here.",
+    "ru": "Мне показалось, что он здесь.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:890": {
+    "en": "It does not work out.",
+    "ru": "Не получается.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:967": {
+    "en": "The movie starts.",
+    "ru": "Фильм начинается.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:1043": {
+    "en": "Who will speak?",
+    "ru": "Кто будет выступать?",
+    "method": "reviewed replacement"
+  },
+  "russian_english:1064": {
+    "en": "An officer stands there.",
+    "ru": "Там стоит офицер.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:1356": {
+    "en": "Who organizes it?",
+    "ru": "Кто организует?",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:1358": {
+    "en": "He flies home.",
+    "ru": "Он летит домой.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:1398": {
+    "en": "This is a miracle.",
+    "ru": "Это чудо.",
+    "method": "reviewed replacement"
+  },
+  "russian_english:1544": {
+    "en": "The fire burns.",
+    "ru": "Огонь горит.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:1570": {
+    "en": "Everything develops fast.",
+    "ru": "Всё быстро развивается.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:1621": {
+    "en": "I literally got here.",
+    "ru": "Я буквально пришёл.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:1642": {
+    "en": "The little one sleeps.",
+    "ru": "Малыш спит.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:1660": {
+    "en": "He suffers from the pain.",
+    "ru": "Он страдает от боли.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:1728": {
+    "en": "I pass it on to him.",
+    "ru": "Я передаю это ему.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:1739": {
+    "en": "The cat sleeps.",
+    "ru": "Кошка спит.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:1881": {
+    "en": "The cat sleeps.",
+    "ru": "Кот спит.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:1949": {
+    "en": "He speaks tomorrow.",
+    "ru": "Он выступит завтра.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:2053": {
+    "en": "Breathe.",
+    "ru": "Дыши.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:2303": {
+    "en": "I feed the cat.",
+    "ru": "Я кормлю кота.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:2600": {
+    "en": "This is a magnificent house.",
+    "ru": "Это великолепный дом.",
+    "method": "reviewed replacement"
+  },
+  "russian_english:2606": {
+    "en": "I will die of hunger.",
+    "ru": "Я умру от голода.",
+    "method": "reviewed replacement"
+  },
+  "russian_english:2837": {
+    "en": "The engine runs.",
+    "ru": "Мотор работает.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:2883": {
+    "en": "That's exploitation.",
+    "ru": "Это эксплуатация.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:2936": {
+    "en": "The movie ends.",
+    "ru": "Фильм заканчивается.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:3139": {
+    "en": "This is hell.",
+    "ru": "Это ад.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:3248": {
+    "en": "The thief runs.",
+    "ru": "Вор бежит.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:3283": {
+    "en": "That's curiosity.",
+    "ru": "Это любопытство.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:3606": {
+    "en": "This is magic.",
+    "ru": "Это магия.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:3722": {
+    "en": "A cloud comes here.",
+    "ru": "Туча идёт сюда.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:4169": {
+    "en": "The diagnosis is not clear.",
+    "ru": "Диагноз не ясен.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:4586": {
+    "en": "Relax.",
+    "ru": "Расслабься.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:4597": {
+    "en": "I fill in the form.",
+    "ru": "Я заполняю форму.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:4629": {
+    "en": "Her charm is clear.",
+    "ru": "Её прелесть очевидна.",
+    "method": "reviewed replacement"
+  },
+  "russian_english:4663": {
+    "en": "I clean my room.",
+    "ru": "Я убираю комнату.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:4684": {
+    "en": "The cat sleeps upstairs.",
+    "ru": "Кот спит наверху.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:4812": {
+    "en": "This is alcohol.",
+    "ru": "Это спирт.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:4829": {
+    "en": "This is silver.",
+    "ru": "Это серебро.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:4899": {
+    "en": "This industry develops.",
+    "ru": "Эта индустрия развивается.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:4961": {
+    "en": "This is laziness.",
+    "ru": "Это лень.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:4968": {
+    "en": "This is a coincidence.",
+    "ru": "Это совпадение.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:5063": {
+    "en": "We pass by the house.",
+    "ru": "Мы проезжаем мимо дома.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:5079": {
+    "en": "She writes a dissertation.",
+    "ru": "Она пишет диссертацию.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:5108": {
+    "en": "A flock of birds flies.",
+    "ru": "Стая птиц летит.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:5163": {
+    "en": "The tiger sleeps.",
+    "ru": "Тигр спит.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:5211": {
+    "en": "The puppy sleeps.",
+    "ru": "Щенок спит.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:5215": {
+    "en": "He starts the car.",
+    "ru": "Он заводит машину.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:5218": {
+    "en": "She fills the glass.",
+    "ru": "Она наполняет стакан.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:5313": {
+    "en": "He is mad.",
+    "ru": "Он бешеный.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:5317": {
+    "en": "A couple stands there.",
+    "ru": "Там стоит парочка.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:5344": {
+    "en": "A deer stands there.",
+    "ru": "Олень стоит там.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:5346": {
+    "en": "He beats the drum.",
+    "ru": "Он бьёт в барабан.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:5610": {
+    "en": "The water boils.",
+    "ru": "Вода кипит.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:5638": {
+    "en": "The machine tool works.",
+    "ru": "Станок работает.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:5724": {
+    "en": "They laugh loudly.",
+    "ru": "Они хохочут.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:5727": {
+    "en": "We organize a meeting.",
+    "ru": "Мы организовываем встречу.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:6098": {
+    "en": "She wears a new fur coat.",
+    "ru": "На ней новая шуба.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:6157": {
+    "en": "She sews a dress.",
+    "ru": "Она шьёт платье.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:6169": {
+    "en": "The trees bloom.",
+    "ru": "Деревья цветут.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:6186": {
+    "en": "The car brakes.",
+    "ru": "Машина тормозит.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:6311": {
+    "en": "He speaks out.",
+    "ru": "Он высказывается.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:6476": {
+    "en": "The watchman sleeps.",
+    "ru": "Сторож спит.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:7047": {
+    "en": "Give me a minute, please.",
+    "ru": "Дай мне минутку, пожалуйста.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:7147": {
+    "en": "This is bliss.",
+    "ru": "Это блаженство.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:7207": {
+    "en": "This is manipulation.",
+    "ru": "Это манипуляция.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:7520": {
+    "en": "This is copper.",
+    "ru": "Это медь.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:7581": {
+    "en": "Smoke comes from the volcano.",
+    "ru": "Из вулкана идёт дым.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:7647": {
+    "en": "Exhale slowly.",
+    "ru": "Выдохни медленно.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:7895": {
+    "en": "The yak stands on the mountain.",
+    "ru": "Як стоит на горе.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:8109": {
+    "en": "This is selfishness.",
+    "ru": "Это эгоизм.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:8264": {
+    "en": "A strong hurricane comes.",
+    "ru": "Идёт сильный ураган.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:8787": {
+    "en": "This is slander.",
+    "ru": "Это клевета.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:8951": {
+    "en": "This is realism.",
+    "ru": "Это реализм.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:9070": {
+    "en": "The recipient has not come.",
+    "ru": "Получатель не пришёл.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:9108": {
+    "en": "He is a psycho.",
+    "ru": "Он псих.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:9198": {
+    "en": "This is fraud.",
+    "ru": "Это мошенничество.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:9720": {
+    "en": "This is an abstraction.",
+    "ru": "Это абстракция.",
+    "method": "simple_grammar_draft"
+  },
+  "russian_english:9770": {
+    "en": "This is meanness.",
+    "ru": "Это подлость.",
+    "method": "simple_grammar_draft"
+  },
+  "english_russian:123": {
+    "en": "She sat between her mother and father.",
+    "ru": "Она сидела между матерью и отцом.",
+    "method": "manual"
+  },
+  "english_russian:172": {
+    "en": "They seem good.",
+    "ru": "Они кажутся хорошими.",
+    "method": "manual"
+  },
+  "english_russian:313": {
+    "en": "He is among people.",
+    "ru": "Он среди людей.",
+    "method": "manual"
+  },
+  "english_russian:350": {
+    "en": "Since you know this, I can go.",
+    "ru": "Поскольку вы это знаете, я могу идти.",
+    "method": "manual"
+  },
+  "english_russian:389": {
+    "en": "Long ago, I lived here.",
+    "ru": "Давно я жил здесь.",
+    "method": "manual"
+  },
+  "english_russian:435": {
+    "en": "One meter is enough.",
+    "ru": "Одного метра достаточно.",
+    "method": "manual"
+  },
+  "english_russian:470": {
+    "en": "He is a close friend.",
+    "ru": "Он близкий друг.",
+    "method": "manual"
+  },
+  "english_russian:529": {
+    "en": "They have a separate room.",
+    "ru": "У них отдельная комната.",
+    "method": "manual"
+  },
+  "english_russian:582": {
+    "en": "Every citizen can work.",
+    "ru": "Каждый гражданин может работать.",
+    "method": "manual"
+  },
+  "english_russian:1303": {
+    "en": "I want to buy a domestic car.",
+    "ru": "Я хочу купить отечественную машину.",
+    "method": "manual"
+  },
+  "english_russian:1575": {
+    "en": "Let's connect this to the computer.",
+    "ru": "Давайте соединим это с компьютером.",
+    "method": "reviewed replacement"
+  },
+  "english_russian:2040": {
+    "en": "I have twelve books.",
+    "ru": "У меня двенадцать книг.",
+    "method": "manual"
+  },
+  "english_russian:2491": {
+    "en": "Our plans coincide.",
+    "ru": "Наши планы совпадают.",
+    "method": "manual"
+  },
+  "english_russian:2496": {
+    "en": "The fortification is near the city.",
+    "ru": "Укрепление находится рядом с городом.",
+    "method": "manual"
+  },
+  "english_russian:2543": {
+    "en": "There is snow on the slope.",
+    "ru": "На склоне лежит снег.",
+    "method": "manual"
+  },
+  "english_russian:2740": {
+    "en": "A hostile army is near the city.",
+    "ru": "Вражеская армия находится рядом с городом.",
+    "method": "reviewed replacement"
+  },
+  "english_russian:3033": {
+    "en": "Indigenous people live here.",
+    "ru": "Коренной народ живёт здесь.",
+    "method": "manual"
+  },
+  "english_russian:3147": {
+    "en": "There is a panel on the wall.",
+    "ru": "На стене есть панель.",
+    "method": "manual"
+  },
+  "english_russian:3154": {
+    "en": "I feel sorrow.",
+    "ru": "Я чувствую печаль.",
+    "method": "manual"
+  },
+  "english_russian:3198": {
+    "en": "He spoke with rage.",
+    "ru": "Он говорил с яростью.",
+    "method": "manual"
+  },
+  "english_russian:3200": {
+    "en": "The stars sparkle.",
+    "ru": "Звёзды сверкают.",
+    "method": "manual"
+  },
+  "english_russian:3235": {
+    "en": "There is asphalt on the road.",
+    "ru": "На дороге есть асфальт.",
+    "method": "manual"
+  },
+  "english_russian:3322": {
+    "en": "I want to buy soap.",
+    "ru": "Я хочу купить мыло.",
+    "method": "manual"
+  },
+  "english_russian:3406": {
+    "en": "Secure the picture on the wall.",
+    "ru": "Закрепите картину на стене.",
+    "method": "manual"
+  },
+  "english_russian:3577": {
+    "en": "She will lay out the books.",
+    "ru": "Она выложит книги.",
+    "method": "manual"
+  },
+  "english_russian:3968": {
+    "en": "He seemed indifferent to her pain.",
+    "ru": "Он казался равнодушным к её боли.",
+    "method": "manual"
+  },
+  "english_russian:4029": {
+    "en": "The diameter is one meter.",
+    "ru": "Диаметр равен одному метру.",
+    "method": "manual"
+  },
+  "english_russian:4068": {
+    "en": "A run helps me.",
+    "ru": "Бег помогает мне.",
+    "method": "manual"
+  },
+  "english_russian:4174": {
+    "en": "Her face reflected sadness.",
+    "ru": "На её лице отражалась грусть.",
+    "method": "manual"
+  },
+  "english_russian:4278": {
+    "en": "Do not bring him to despair.",
+    "ru": "Не доводи его до отчаяния.",
+    "method": "manual"
+  },
+  "english_russian:4730": {
+    "en": "Water can flow from here.",
+    "ru": "Отсюда может литься вода.",
+    "method": "manual"
+  },
+  "english_russian:4764": {
+    "en": "The serf worked in the field.",
+    "ru": "Крепостной работал в поле.",
+    "method": "manual"
+  },
+  "english_russian:4775": {
+    "en": "These books fit in one bag.",
+    "ru": "Эти книги укладываются в одну сумку.",
+    "method": "manual"
+  },
+  "english_russian:5199": {
+    "en": "He is his father's successor.",
+    "ru": "Он преемник своего отца.",
+    "method": "manual"
+  },
+  "english_russian:5207": {
+    "en": "She tiredly sat down.",
+    "ru": "Она устало села.",
+    "method": "manual"
+  },
+  "english_russian:5296": {
+    "en": "Do not strain your back.",
+    "ru": "Не напрягай спину.",
+    "method": "manual"
+  },
+  "english_russian:5350": {
+    "en": "I have a dozen books.",
+    "ru": "У меня дюжина книг.",
+    "method": "manual"
+  },
+  "english_russian:5417": {
+    "en": "She likes to lay out her books.",
+    "ru": "Она любит выкладывать свои книги.",
+    "method": "manual"
+  },
+  "english_russian:5603": {
+    "en": "Her face was expressive.",
+    "ru": "Её лицо было выразительным.",
+    "method": "manual"
+  },
+  "english_russian:5810": {
+    "en": "He will burst out with a cry.",
+    "ru": "Он разразится криком.",
+    "method": "manual"
+  },
+  "english_russian:5910": {
+    "en": "Check the layout of the house.",
+    "ru": "Проверьте расположение частей дома.",
+    "method": "manual"
+  },
+  "english_russian:5951": {
+    "en": "They will coerce him into silence.",
+    "ru": "Они принудят его к молчанию.",
+    "method": "manual"
+  },
+  "english_russian:6043": {
+    "en": "I want to rub my hand.",
+    "ru": "Я хочу потереть руку.",
+    "method": "manual"
+  },
+  "english_russian:6107": {
+    "en": "This room is adjacent to the kitchen.",
+    "ru": "Эта комната смежная с кухней.",
+    "method": "manual"
+  },
+  "english_russian:6517": {
+    "en": "I will fry an egg for breakfast.",
+    "ru": "Я буду жарить яйцо на завтрак.",
+    "method": "manual"
+  },
+  "english_russian:6829": {
+    "en": "The gravitational field is strong.",
+    "ru": "Гравитационное поле сильное.",
+    "method": "manual"
+  },
+  "english_russian:7213": {
+    "en": "Check the compatibility of the programs.",
+    "ru": "Проверьте совместимость программ.",
+    "method": "manual"
+  },
+  "english_russian:7312": {
+    "en": "We need one cubic meter of water.",
+    "ru": "Нам нужен один кубический метр воды.",
+    "method": "manual"
+  },
+  "english_russian:7391": {
+    "en": "Her face reflected despondency.",
+    "ru": "На её лице отражалось уныние.",
+    "method": "manual"
+  },
+  "english_russian:7421": {
+    "en": "Her voice was mournful.",
+    "ru": "Её голос был скорбным.",
+    "method": "manual"
+  },
+  "english_russian:7462": {
+    "en": "I cannot see through the glare.",
+    "ru": "Я не могу видеть из-за ослепительного света.",
+    "method": "manual"
+  },
+  "english_russian:7511": {
+    "en": "This lake is bottomless.",
+    "ru": "Это озеро бездонное.",
+    "method": "manual"
+  },
+  "english_russian:7557": {
+    "en": "I have difficulty with this question.",
+    "ru": "Я затрудняюсь с этим вопросом.",
+    "method": "manual"
+  },
+  "english_russian:8256": {
+    "en": "We need one cubic meter of sand.",
+    "ru": "Нам нужен один кубометр песка.",
+    "method": "manual"
+  },
+  "english_russian:8443": {
+    "en": "These words accentuate the difference.",
+    "ru": "Эти слова подчёркивают разницу.",
+    "method": "manual"
+  },
+  "english_russian:8705": {
+    "en": "We wait for his advent.",
+    "ru": "Мы ждём его пришествия.",
+    "method": "manual"
+  },
+  "english_russian:8910": {
+    "en": "The doll's face was lifeless.",
+    "ru": "Лицо куклы было безжизненным.",
+    "method": "manual"
+  },
+  "english_russian:9971": {
+    "en": "The pastor spoke to the people.",
+    "ru": "Пастор говорил с людьми.",
+    "method": "manual"
+  },
+  "russian_english:118": {
+    "en": "This is my eye.",
+    "ru": "Это мой глаз.",
+    "method": "manual"
+  },
+  "russian_english:129": {
+    "en": "This is part of the work.",
+    "ru": "Это часть работы.",
+    "method": "manual"
+  },
+  "russian_english:144": {
+    "en": "This has no relation to me.",
+    "ru": "Это не имеет отношения ко мне.",
+    "method": "manual"
+  },
+  "russian_english:148": {
+    "en": "I have three books.",
+    "ru": "У меня три книги.",
+    "method": "manual"
+  },
+  "russian_english:196": {
+    "en": "They seem good.",
+    "ru": "Они кажутся хорошими.",
+    "method": "manual"
+  },
+  "russian_english:234": {
+    "en": "What is the date today?",
+    "ru": "Какое сегодня число?",
+    "method": "manual"
+  },
+  "russian_english:241": {
+    "en": "This is my leg.",
+    "ru": "Это моя нога.",
+    "method": "manual"
+  },
+  "russian_english:243": {
+    "en": "Thank you for your help.",
+    "ru": "Спасибо за вашу помощь.",
+    "method": "manual"
+  },
+  "russian_english:246": {
+    "en": "I have a thousand books.",
+    "ru": "У меня тысяча книг.",
+    "method": "manual"
+  },
+  "russian_english:315": {
+    "en": "When will you return?",
+    "ru": "Когда ты вернёшься?",
+    "method": "manual"
+  },
+  "russian_english:359": {
+    "en": "This is a Soviet book.",
+    "ru": "Это советская книга.",
+    "method": "manual"
+  },
+  "russian_english:364": {
+    "en": "My mom is here.",
+    "ru": "Моя мама здесь.",
+    "method": "manual"
+  },
+  "russian_english:373": {
+    "en": "He will lie here.",
+    "ru": "Он будет лежать здесь.",
+    "method": "manual"
+  },
+  "russian_english:395": {
+    "en": "At least I know this.",
+    "ru": "Хоть это я знаю.",
+    "method": "manual"
+  },
+  "russian_english:421": {
+    "en": "This means that he knows.",
+    "ru": "Это значит, что он знает.",
+    "method": "manual"
+  },
+  "russian_english:458": {
+    "en": "I can do this easily.",
+    "ru": "Я могу легко это сделать.",
+    "method": "manual"
+  },
+  "russian_english:468": {
+    "en": "I have a million questions.",
+    "ru": "У меня миллион вопросов.",
+    "method": "manual"
+  },
+  "russian_english:485": {
+    "en": "The flow of water is strong.",
+    "ru": "Течение воды сильное.",
+    "method": "manual"
+  },
+  "russian_english:495": {
+    "en": "One meter is enough.",
+    "ru": "Одного метра достаточно.",
+    "method": "manual"
+  },
+  "russian_english:508": {
+    "en": "This is an internal problem.",
+    "ru": "Это внутренняя проблема.",
+    "method": "manual"
+  },
+  "russian_english:510": {
+    "en": "What do you demand?",
+    "ru": "Что ты требуешь?",
+    "method": "manual"
+  },
+  "russian_english:534": {
+    "en": "He is a close friend.",
+    "ru": "Он близкий друг.",
+    "method": "manual"
+  },
+  "russian_english:554": {
+    "en": "Where is her book?",
+    "ru": "Где её книга?",
+    "method": "manual"
+  },
+  "russian_english:564": {
+    "en": "The population is big.",
+    "ru": "Население большое.",
+    "method": "reviewed replacement"
+  },
+  "russian_english:600": {
+    "en": "I want a bigger house.",
+    "ru": "Я хочу больший дом.",
+    "method": "manual"
+  },
+  "russian_english:655": {
+    "en": "This does not work.",
+    "ru": "Это не действует.",
+    "method": "manual"
+  },
+  "russian_english:687": {
+    "en": "I know a specialist.",
+    "ru": "Я знаю специалиста.",
+    "method": "manual"
+  },
+  "russian_english:723": {
+    "en": "Thank you for your protection.",
+    "ru": "Спасибо за вашу защиту.",
+    "method": "manual"
+  },
+  "russian_english:750": {
+    "en": "Thank you for this service.",
+    "ru": "Спасибо за эту услугу.",
+    "method": "manual"
+  },
+  "russian_english:765": {
+    "en": "There is more space here.",
+    "ru": "Здесь больше пространства.",
+    "method": "manual"
+  },
+  "russian_english:787": {
+    "en": "That was scary.",
+    "ru": "Это было страшно.",
+    "method": "manual"
+  },
+  "russian_english:794": {
+    "en": "The analysis is important.",
+    "ru": "Анализ важен.",
+    "method": "manual"
+  },
+  "russian_english:823": {
+    "en": "His faith is strong.",
+    "ru": "Его вера сильна.",
+    "method": "manual"
+  },
+  "russian_english:849": {
+    "en": "When do you return?",
+    "ru": "Когда ты возвращаешься?",
+    "method": "manual"
+  },
+  "russian_english:877": {
+    "en": "We will determine the result.",
+    "ru": "Мы определим результат.",
+    "method": "manual"
+  },
+  "russian_english:896": {
+    "en": "Practice is important.",
+    "ru": "Практика важна.",
+    "method": "manual"
+  },
+  "russian_english:910": {
+    "en": "He will grow.",
+    "ru": "Он будет расти.",
+    "method": "reviewed replacement"
+  },
+  "russian_english:914": {
+    "en": "Do not call him.",
+    "ru": "Не зови его.",
+    "method": "manual"
+  },
+  "russian_english:932": {
+    "en": "This is permanent work.",
+    "ru": "Это постоянная работа.",
+    "method": "manual"
+  },
+  "russian_english:942": {
+    "en": "Today is a holiday.",
+    "ru": "Сегодня праздник.",
+    "method": "manual"
+  },
+  "russian_english:950": {
+    "en": "This is a small part.",
+    "ru": "Это малая часть.",
+    "method": "manual"
+  },
+  "russian_english:951": {
+    "en": "Preparation takes time.",
+    "ru": "Подготовка занимает время.",
+    "method": "manual"
+  },
+  "russian_english:998": {
+    "en": "This is a financial problem.",
+    "ru": "Это финансовая проблема.",
+    "method": "manual"
+  },
+  "russian_english:1005": {
+    "en": "We will draw up a list.",
+    "ru": "Мы составим список.",
+    "method": "manual"
+  },
+  "russian_english:1008": {
+    "en": "These books differ.",
+    "ru": "Эти книги отличаются.",
+    "method": "manual"
+  },
+  "russian_english:1009": {
+    "en": "Carry this here.",
+    "ru": "Неси это сюда.",
+    "method": "manual"
+  },
+  "russian_english:1022": {
+    "en": "We see the whole.",
+    "ru": "Мы видим целое.",
+    "method": "manual"
+  },
+  "russian_english:1026": {
+    "en": "We have an extra day.",
+    "ru": "У нас есть дополнительный день.",
+    "method": "manual"
+  },
+  "russian_english:1036": {
+    "en": "Our federation is strong.",
+    "ru": "Наша федерация сильна.",
+    "method": "manual"
+  },
+  "russian_english:1040": {
+    "en": "He wears this.",
+    "ru": "Он носит это.",
+    "method": "reviewed replacement"
+  },
+  "russian_english:1047": {
+    "en": "This takes up my time.",
+    "ru": "Это занимает моё время.",
+    "method": "manual"
+  },
+  "russian_english:1070": {
+    "en": "I want to call Mom.",
+    "ru": "Я хочу позвонить маме.",
+    "method": "manual"
+  },
+  "russian_english:1083": {
+    "en": "We move slowly.",
+    "ru": "Мы медленно двигаемся.",
+    "method": "manual"
+  },
+  "russian_english:1088": {
+    "en": "We will change this.",
+    "ru": "Мы изменим это.",
+    "method": "manual"
+  },
+  "russian_english:1094": {
+    "en": "What is the date today?",
+    "ru": "Какая сегодня дата?",
+    "method": "manual"
+  },
+  "russian_english:1111": {
+    "en": "Point out the house to him.",
+    "ru": "Укажи ему на дом.",
+    "method": "manual"
+  },
+  "russian_english:1113": {
+    "en": "The translation is good.",
+    "ru": "Перевод хороший.",
+    "method": "manual"
+  },
+  "russian_english:1137": {
+    "en": "There is snow on the road.",
+    "ru": "На дороге лежит снег.",
+    "method": "manual"
+  },
+  "russian_english:1143": {
+    "en": "He wants fame.",
+    "ru": "Он хочет славы.",
+    "method": "manual"
+  },
+  "russian_english:1173": {
+    "en": "I know a good workman.",
+    "ru": "Я знаю хорошего мастера.",
+    "method": "manual"
+  },
+  "russian_english:1206": {
+    "en": "This is a minor problem.",
+    "ru": "Это мелкая проблема.",
+    "method": "manual"
+  },
+  "russian_english:1239": {
+    "en": "I will send a letter.",
+    "ru": "Я пошлю письмо.",
+    "method": "manual"
+  },
+  "russian_english:1249": {
+    "en": "My brain does not work well.",
+    "ru": "Мой мозг плохо работает.",
+    "method": "manual"
+  },
+  "russian_english:1253": {
+    "en": "His dependence on her is clear.",
+    "ru": "Его зависимость от неё очевидна.",
+    "method": "manual"
+  },
+  "russian_english:1283": {
+    "en": "This is a good tool.",
+    "ru": "Это хороший инструмент.",
+    "method": "manual"
+  },
+  "russian_english:1320": {
+    "en": "I want to talk to you.",
+    "ru": "Я хочу поговорить с тобой.",
+    "method": "manual"
+  },
+  "russian_english:1328": {
+    "en": "His honor is important.",
+    "ru": "Его честь важна.",
+    "method": "manual"
+  },
+  "russian_english:1367": {
+    "en": "We have enough capital.",
+    "ru": "У нас достаточно капитала.",
+    "method": "manual"
+  },
+  "russian_english:1377": {
+    "en": "The beauty of this city is clear.",
+    "ru": "Красота этого города очевидна.",
+    "method": "manual"
+  },
+  "russian_english:1386": {
+    "en": "The device does not work.",
+    "ru": "Аппарат не работает.",
+    "method": "manual"
+  },
+  "russian_english:1416": {
+    "en": "Can you give me medical help?",
+    "ru": "Вы можете оказать мне медицинскую помощь?",
+    "method": "manual"
+  },
+  "russian_english:1454": {
+    "en": "That is the background.",
+    "ru": "Это фон.",
+    "method": "manual"
+  },
+  "russian_english:1480": {
+    "en": "Do we have permission?",
+    "ru": "У нас есть разрешение?",
+    "method": "manual"
+  },
+  "russian_english:1516": {
+    "en": "We are in contact.",
+    "ru": "Мы в контакте.",
+    "method": "manual"
+  },
+  "russian_english:1538": {
+    "en": "We will talk after the discussion.",
+    "ru": "Мы поговорим после обсуждения.",
+    "method": "manual"
+  },
+  "russian_english:1545": {
+    "en": "These events are related.",
+    "ru": "Это связанные события.",
+    "method": "manual"
+  },
+  "russian_english:1548": {
+    "en": "What is the assignment for tomorrow?",
+    "ru": "Какое задание на завтра?",
+    "method": "manual"
+  },
+  "russian_english:1557": {
+    "en": "Do not repeat that.",
+    "ru": "Не повторяй это.",
+    "method": "manual"
+  },
+  "russian_english:1566": {
+    "en": "This is a family problem.",
+    "ru": "Это семейная проблема.",
+    "method": "manual"
+  },
+  "russian_english:1587": {
+    "en": "He knows this and therefore will come.",
+    "ru": "Он знает это и, соответственно, придёт.",
+    "method": "reviewed replacement"
+  },
+  "russian_english:1598": {
+    "en": "I want to meet you.",
+    "ru": "Я хочу познакомиться с тобой.",
+    "method": "manual"
+  },
+  "russian_english:1618": {
+    "en": "He is outside the house.",
+    "ru": "Он вне дома.",
+    "method": "manual"
+  },
+  "russian_english:1655": {
+    "en": "This is a valuable book.",
+    "ru": "Это ценная книга.",
+    "method": "manual"
+  },
+  "russian_english:1666": {
+    "en": "The bridge is long.",
+    "ru": "Мост длинный.",
+    "method": "manual"
+  },
+  "russian_english:1672": {
+    "en": "That is a rumor.",
+    "ru": "Это слух.",
+    "method": "manual"
+  },
+  "russian_english:1674": {
+    "en": "This is for your good.",
+    "ru": "Это для твоего блага.",
+    "method": "manual"
+  },
+  "russian_english:1711": {
+    "en": "When do you arrive?",
+    "ru": "Когда ты приезжаешь?",
+    "method": "manual"
+  },
+  "russian_english:1726": {
+    "en": "The gate is open.",
+    "ru": "Ворота открыты.",
+    "method": "manual"
+  },
+  "russian_english:1788": {
+    "en": "It is an experiment.",
+    "ru": "Это эксперимент.",
+    "method": "manual"
+  },
+  "russian_english:1795": {
+    "en": "He does not want to die.",
+    "ru": "Он не хочет умирать.",
+    "method": "manual"
+  },
+  "russian_english:1831": {
+    "en": "Besides that, I know nothing.",
+    "ru": "Помимо этого, я ничего не знаю.",
+    "method": "manual"
+  },
+  "russian_english:1857": {
+    "en": "The back door is open.",
+    "ru": "Задняя дверь открыта.",
+    "method": "manual"
+  },
+  "russian_english:1859": {
+    "en": "Work lies ahead of us.",
+    "ru": "Нам предстоит работа.",
+    "method": "manual"
+  },
+  "russian_english:1860": {
+    "en": "There is a pile of books here.",
+    "ru": "Здесь куча книг.",
+    "method": "manual"
+  },
+  "russian_english:1874": {
+    "en": "The playground is open.",
+    "ru": "Детская площадка открыта.",
+    "method": "manual"
+  },
+  "russian_english:1907": {
+    "en": "This is a financial problem.",
+    "ru": "Это денежная проблема.",
+    "method": "manual"
+  },
+  "russian_english:1923": {
+    "en": "Sport is important to him.",
+    "ru": "Спорт важен для него.",
+    "method": "manual"
+  },
+  "russian_english:2024": {
+    "en": "My father was a peasant.",
+    "ru": "Мой отец был крестьянином.",
+    "method": "manual"
+  },
+  "russian_english:2074": {
+    "en": "The press writes about this.",
+    "ru": "Пресса пишет об этом.",
+    "method": "manual"
+  },
+  "russian_english:2136": {
+    "en": "He works actively.",
+    "ru": "Он активно работает.",
+    "method": "manual"
+  },
+  "russian_english:2140": {
+    "en": "Follow the law strictly.",
+    "ru": "Следуйте закону строго.",
+    "method": "manual"
+  },
+  "russian_english:2143": {
+    "en": "This is the current plan.",
+    "ru": "Это текущий план.",
+    "method": "manual"
+  },
+  "russian_english:2173": {
+    "en": "We can live on this.",
+    "ru": "Мы можем прожить на это.",
+    "method": "reviewed replacement"
+  },
+  "russian_english:2235": {
+    "en": "I admit that you are right.",
+    "ru": "Я признаю, что вы правы.",
+    "method": "manual"
+  },
+  "russian_english:2246": {
+    "en": "The engine does not work.",
+    "ru": "Двигатель не работает.",
+    "method": "manual"
+  },
+  "russian_english:2248": {
+    "en": "What do you plan?",
+    "ru": "Что ты планируешь?",
+    "method": "manual"
+  },
+  "russian_english:2264": {
+    "en": "This is a strategic plan.",
+    "ru": "Это стратегический план.",
+    "method": "manual"
+  },
+  "russian_english:2313": {
+    "en": "We will allow for that.",
+    "ru": "Мы это предусмотрим.",
+    "method": "manual"
+  },
+  "russian_english:2357": {
+    "en": "I have an egg.",
+    "ru": "У меня есть яйцо.",
+    "method": "manual"
+  },
+  "russian_english:2365": {
+    "en": "Assign this room to him.",
+    "ru": "Предназначьте эту комнату для него.",
+    "method": "reviewed replacement"
+  },
+  "russian_english:2368": {
+    "en": "Snow will cover the road.",
+    "ru": "Снег покроет дорогу.",
+    "method": "manual"
+  },
+  "russian_english:2480": {
+    "en": "Apply the paint to the wall.",
+    "ru": "Нанесите краску на стену.",
+    "method": "reviewed replacement"
+  },
+  "russian_english:2513": {
+    "en": "This is a strange statement.",
+    "ru": "Это странное высказывание.",
+    "method": "manual"
+  },
+  "russian_english:2519": {
+    "en": "I want to hear the new album.",
+    "ru": "Я хочу послушать новый альбом.",
+    "method": "manual"
+  },
+  "russian_english:2520": {
+    "en": "Are you at the train station?",
+    "ru": "Ты на вокзале?",
+    "method": "manual"
+  },
+  "russian_english:2534": {
+    "en": "Is the express train here?",
+    "ru": "Скорый поезд здесь?",
+    "method": "manual"
+  },
+  "russian_english:2544": {
+    "en": "The difference is obvious.",
+    "ru": "Разница явная.",
+    "method": "manual"
+  },
+  "russian_english:2559": {
+    "en": "The phrase has a strange structure.",
+    "ru": "У фразы странное построение.",
+    "method": "manual"
+  },
+  "russian_english:2583": {
+    "en": "Please calm down.",
+    "ru": "Пожалуйста, успокойся.",
+    "method": "manual"
+  },
+  "russian_english:2630": {
+    "en": "Without context I do not understand.",
+    "ru": "Без контекста я не понимаю.",
+    "method": "manual"
+  },
+  "russian_english:2636": {
+    "en": "The psychologist helped me.",
+    "ru": "Психолог мне помог.",
+    "method": "manual"
+  },
+  "russian_english:2679": {
+    "en": "The satellite does not answer.",
+    "ru": "Спутник не отвечает.",
+    "method": "manual"
+  },
+  "russian_english:2694": {
+    "en": "There is strong competition.",
+    "ru": "Здесь сильная конкуренция.",
+    "method": "manual"
+  },
+  "russian_english:2704": {
+    "en": "This is a quiet small town.",
+    "ru": "Это тихий городок.",
+    "method": "manual"
+  },
+  "russian_english:2760": {
+    "en": "This area is beautiful.",
+    "ru": "Эта местность красивая.",
+    "method": "manual"
+  },
+  "russian_english:2772": {
+    "en": "We will limit the time.",
+    "ru": "Мы ограничим время.",
+    "method": "manual"
+  },
+  "russian_english:2787": {
+    "en": "Everything will work out.",
+    "ru": "Всё будет складываться удачно.",
+    "method": "manual"
+  },
+  "russian_english:2885": {
+    "en": "This is my final answer.",
+    "ru": "Это мой окончательный ответ.",
+    "method": "manual"
+  },
+  "russian_english:2896": {
+    "en": "He is an important public figure.",
+    "ru": "Он важный общественный деятель.",
+    "method": "manual"
+  },
+  "russian_english:2909": {
+    "en": "Do not get in the way.",
+    "ru": "Не помешай.",
+    "method": "manual"
+  },
+  "russian_english:2924": {
+    "en": "I can see the horizon.",
+    "ru": "Я вижу горизонт.",
+    "method": "manual"
+  },
+  "russian_english:2955": {
+    "en": "I often run into this.",
+    "ru": "Я часто с этим сталкиваюсь.",
+    "method": "manual"
+  },
+  "russian_english:2957": {
+    "en": "You may feel like tea.",
+    "ru": "Тебе может захотеться чая.",
+    "method": "manual"
+  },
+  "russian_english:3009": {
+    "en": "We have a corporate plan.",
+    "ru": "У нас есть корпоративный план.",
+    "method": "manual"
+  },
+  "russian_english:3067": {
+    "en": "This worries me.",
+    "ru": "Это меня волнует.",
+    "method": "manual"
+  },
+  "russian_english:3068": {
+    "en": "The wound is deep.",
+    "ru": "Рана глубокая.",
+    "method": "manual"
+  },
+  "russian_english:3090": {
+    "en": "A smile gives beauty to the face.",
+    "ru": "Улыбка придаёт лицу красоту.",
+    "method": "manual"
+  },
+  "russian_english:3094": {
+    "en": "This is a mental problem.",
+    "ru": "Это психическая проблема.",
+    "method": "manual"
+  },
+  "russian_english:3102": {
+    "en": "The cat jumps from the table.",
+    "ru": "Кот прыгает со стола.",
+    "method": "manual"
+  },
+  "russian_english:3151": {
+    "en": "I like his humor.",
+    "ru": "Мне нравится его юмор.",
+    "method": "manual"
+  },
+  "russian_english:3171": {
+    "en": "He has the authority to do this.",
+    "ru": "У него есть полномочия сделать это.",
+    "method": "manual"
+  },
+  "russian_english:3174": {
+    "en": "I will feel the cold.",
+    "ru": "Я ощущу холод.",
+    "method": "manual"
+  },
+  "russian_english:3268": {
+    "en": "This is household work.",
+    "ru": "Это хозяйственная работа.",
+    "method": "manual"
+  },
+  "russian_english:3342": {
+    "en": "He will descend to the river.",
+    "ru": "Он опустится к реке.",
+    "method": "manual"
+  },
+  "russian_english:3348": {
+    "en": "The coffin is in the house.",
+    "ru": "Гроб находится в доме.",
+    "method": "manual"
+  },
+  "russian_english:3389": {
+    "en": "I have ten euros.",
+    "ru": "У меня десять евро.",
+    "method": "manual"
+  },
+  "russian_english:3500": {
+    "en": "This is a useless book.",
+    "ru": "Это бесполезная книга.",
+    "method": "manual"
+  },
+  "russian_english:3565": {
+    "en": "This is a collective plan.",
+    "ru": "Это коллективный план.",
+    "method": "manual"
+  },
+  "russian_english:3635": {
+    "en": "This will determine the result.",
+    "ru": "Это обусловит результат.",
+    "method": "manual"
+  },
+  "russian_english:3704": {
+    "en": "My elbow is red.",
+    "ru": "Мой локоть красный.",
+    "method": "manual"
+  },
+  "russian_english:3708": {
+    "en": "His achievements are important.",
+    "ru": "Его заслуги важны.",
+    "method": "manual"
+  },
+  "russian_english:3832": {
+    "en": "My stomach is full.",
+    "ru": "Мой желудок полон.",
+    "method": "manual"
+  },
+  "russian_english:3906": {
+    "en": "The rat runs on the road.",
+    "ru": "Крыса бежит по дороге.",
+    "method": "manual"
+  },
+  "russian_english:4009": {
+    "en": "They will take away your books.",
+    "ru": "Они отберут у тебя книги.",
+    "method": "reviewed replacement"
+  },
+  "russian_english:4065": {
+    "en": "The program is functional.",
+    "ru": "Программа функциональна.",
+    "method": "manual"
+  },
+  "russian_english:4084": {
+    "en": "I want to change my shirt.",
+    "ru": "Я хочу поменять рубашку.",
+    "method": "manual"
+  },
+  "russian_english:4144": {
+    "en": "He takes away my books.",
+    "ru": "Он забирает мои книги.",
+    "method": "manual"
+  },
+  "russian_english:4146": {
+    "en": "This is a full life.",
+    "ru": "Это полноценная жизнь.",
+    "method": "manual"
+  },
+  "russian_english:4153": {
+    "en": "The movie ends soon.",
+    "ru": "Фильм скоро кончается.",
+    "method": "manual"
+  },
+  "russian_english:4159": {
+    "en": "In total, we have ten books.",
+    "ru": "В совокупности у нас десять книг.",
+    "method": "manual"
+  },
+  "russian_english:4216": {
+    "en": "The stars sparkle.",
+    "ru": "Звёзды сверкают.",
+    "method": "manual"
+  },
+  "russian_english:4275": {
+    "en": "I could not refrain from this.",
+    "ru": "Я не смог удержаться от этого.",
+    "method": "manual"
+  },
+  "russian_english:4305": {
+    "en": "Knowledge can be passed on.",
+    "ru": "Знание может передаваться.",
+    "method": "manual"
+  },
+  "russian_english:4322": {
+    "en": "This is a sensible thought.",
+    "ru": "Это здравая мысль.",
+    "method": "manual"
+  },
+  "russian_english:4414": {
+    "en": "There is fat here.",
+    "ru": "Здесь есть жир.",
+    "method": "manual"
+  },
+  "russian_english:4436": {
+    "en": "You need to stretch your leg.",
+    "ru": "Тебе нужно вытянуть ногу.",
+    "method": "manual"
+  },
+  "russian_english:4567": {
+    "en": "Check the system's operation.",
+    "ru": "Проверьте функционирование системы.",
+    "method": "manual"
+  },
+  "russian_english:4570": {
+    "en": "She knows this note.",
+    "ru": "Она знает эту ноту.",
+    "method": "manual"
+  },
+  "russian_english:4575": {
+    "en": "The significance of the result is clear.",
+    "ru": "Значимость результата очевидна.",
+    "method": "manual"
+  },
+  "russian_english:4623": {
+    "en": "We limit the time.",
+    "ru": "Мы ограничиваем время.",
+    "method": "manual"
+  },
+  "russian_english:4653": {
+    "en": "Her response was good.",
+    "ru": "Её отклик был хорошим.",
+    "method": "manual"
+  },
+  "russian_english:4674": {
+    "en": "The flight leaves in the morning.",
+    "ru": "Рейс отправляется утром.",
+    "method": "manual"
+  },
+  "russian_english:4678": {
+    "en": "How does the case stand?",
+    "ru": "Как обстоит дело?",
+    "method": "manual"
+  },
+  "russian_english:4738": {
+    "en": "The pyramid is high.",
+    "ru": "Пирамида высокая.",
+    "method": "manual"
+  },
+  "russian_english:4769": {
+    "en": "She will lay out the books.",
+    "ru": "Она выложит книги.",
+    "method": "manual"
+  },
+  "russian_english:4834": {
+    "en": "I go to a club.",
+    "ru": "Я хожу в кружок.",
+    "method": "manual"
+  },
+  "russian_english:4843": {
+    "en": "He refused emphatically.",
+    "ru": "Он категорически отказался.",
+    "method": "manual"
+  },
+  "russian_english:5084": {
+    "en": "Do not spit here.",
+    "ru": "Не плюй здесь.",
+    "method": "manual"
+  },
+  "russian_english:5148": {
+    "en": "Snow covers the road.",
+    "ru": "Снег покрывает дорогу.",
+    "method": "manual"
+  },
+  "russian_english:5153": {
+    "en": "The motionless man lay on the bed.",
+    "ru": "Неподвижный человек лежал на кровати.",
+    "method": "manual"
+  },
+  "russian_english:5162": {
+    "en": "The church dome is high.",
+    "ru": "Купол церкви высокий.",
+    "method": "manual"
+  },
+  "russian_english:5230": {
+    "en": "He directs the camera at the house.",
+    "ru": "Он наводит камеру на дом.",
+    "method": "manual"
+  },
+  "russian_english:5233": {
+    "en": "Connect the computer.",
+    "ru": "Подключи компьютер.",
+    "method": "manual"
+  },
+  "russian_english:5281": {
+    "en": "They will liquidate the company.",
+    "ru": "Они ликвидируют компанию.",
+    "method": "manual"
+  },
+  "russian_english:5285": {
+    "en": "This is a border town.",
+    "ru": "Это пограничный город.",
+    "method": "reviewed replacement"
+  },
+  "russian_english:5342": {
+    "en": "What a beautiful song.",
+    "ru": "Какая красивая песенка.",
+    "method": "manual"
+  },
+  "russian_english:5351": {
+    "en": "Turn off the computer.",
+    "ru": "Отключи компьютер.",
+    "method": "manual"
+  },
+  "russian_english:5406": {
+    "en": "The law states that this is allowed.",
+    "ru": "Закон гласит, что это разрешено.",
+    "method": "manual"
+  },
+  "russian_english:5452": {
+    "en": "He began to glance at the door.",
+    "ru": "Он стал поглядывать на дверь.",
+    "method": "manual"
+  },
+  "russian_english:5519": {
+    "en": "They defend their country.",
+    "ru": "Они отстаивают свою страну.",
+    "method": "manual"
+  },
+  "russian_english:5558": {
+    "en": "Do not spread this information.",
+    "ru": "Не распространяй эту информацию.",
+    "method": "manual"
+  },
+  "russian_english:5602": {
+    "en": "The old sage spoke to me.",
+    "ru": "Старый мудрец говорил со мной.",
+    "method": "manual"
+  },
+  "russian_english:5657": {
+    "en": "There was sadness in his voice.",
+    "ru": "В его голосе была грусть.",
+    "method": "manual"
+  },
+  "russian_english:5690": {
+    "en": "Adaptation takes time.",
+    "ru": "Адаптация требует времени.",
+    "method": "manual"
+  },
+  "russian_english:5713": {
+    "en": "Stretch the string.",
+    "ru": "Натяни струну.",
+    "method": "reviewed replacement"
+  },
+  "russian_english:5714": {
+    "en": "This room connects to the kitchen.",
+    "ru": "Эта комната сообщается с кухней.",
+    "method": "manual"
+  },
+  "russian_english:5814": {
+    "en": "This drives me to despair.",
+    "ru": "Это доводит меня до отчаяния.",
+    "method": "manual"
+  },
+  "russian_english:5866": {
+    "en": "He has tact.",
+    "ru": "У него есть такт.",
+    "method": "manual"
+  },
+  "russian_english:5973": {
+    "en": "This is a constructive plan.",
+    "ru": "Это конструктивный план.",
+    "method": "manual"
+  },
+  "russian_english:5997": {
+    "en": "He spat on the road.",
+    "ru": "Он плюнул на дорогу.",
+    "method": "manual"
+  },
+  "russian_english:6011": {
+    "en": "My father's liver is healthy.",
+    "ru": "Печень моего отца здорова.",
+    "method": "manual"
+  },
+  "russian_english:6105": {
+    "en": "The percussion section plays loudly.",
+    "ru": "Группа ударных играет громко.",
+    "method": "manual"
+  },
+  "russian_english:6171": {
+    "en": "This is a university building.",
+    "ru": "Это университетское здание.",
+    "method": "manual"
+  },
+  "russian_english:6223": {
+    "en": "The disease weakened him.",
+    "ru": "Болезнь ослабила его.",
+    "method": "manual"
+  },
+  "russian_english:6235": {
+    "en": "They will subject him to a test.",
+    "ru": "Его подвергнут испытанию.",
+    "method": "manual"
+  },
+  "russian_english:6279": {
+    "en": "This is a mistaken answer.",
+    "ru": "Это ошибочный ответ.",
+    "method": "manual"
+  },
+  "russian_english:6296": {
+    "en": "Early detection is important.",
+    "ru": "Раннее обнаружение важно.",
+    "method": "manual"
+  },
+  "russian_english:6303": {
+    "en": "It is hard to lug the box.",
+    "ru": "Тяжело переть ящик.",
+    "method": "manual"
+  },
+  "russian_english:6318": {
+    "en": "He has work experience.",
+    "ru": "У него есть стаж.",
+    "method": "manual"
+  },
+  "russian_english:6503": {
+    "en": "Water can flow from here.",
+    "ru": "Отсюда может литься вода.",
+    "method": "manual"
+  },
+  "russian_english:6511": {
+    "en": "His dismissal shocked the office.",
+    "ru": "Его увольнение потрясло офис.",
+    "method": "manual"
+  },
+  "russian_english:6514": {
+    "en": "We must supply the army with food.",
+    "ru": "Мы должны снабдить армию едой.",
+    "method": "manual"
+  },
+  "russian_english:6524": {
+    "en": "The number of people will decrease.",
+    "ru": "Число людей сократится.",
+    "method": "manual"
+  },
+  "russian_english:6555": {
+    "en": "The board approved the plan.",
+    "ru": "Коллегия одобрила план.",
+    "method": "manual"
+  },
+  "russian_english:6565": {
+    "en": "The serf worked in the field.",
+    "ru": "Крепостной работал в поле.",
+    "method": "manual"
+  },
+  "russian_english:6571": {
+    "en": "His generalization is useful.",
+    "ru": "Его обобщение полезно.",
+    "method": "manual"
+  },
+  "russian_english:6603": {
+    "en": "The wrestler fell on the floor.",
+    "ru": "Борец упал на пол.",
+    "method": "manual"
+  },
+  "russian_english:6621": {
+    "en": "This is outside my competence.",
+    "ru": "Это вне моей компетенции.",
+    "method": "reviewed replacement"
+  },
+  "russian_english:6628": {
+    "en": "The skeleton lies in the cave.",
+    "ru": "Скелет лежит в пещере.",
+    "method": "manual"
+  },
+  "russian_english:6667": {
+    "en": "We need a major repair.",
+    "ru": "Нужен капитальный ремонт.",
+    "method": "manual"
+  },
+  "russian_english:6669": {
+    "en": "This is an unfair law.",
+    "ru": "Это несправедливый закон.",
+    "method": "manual"
+  },
+  "russian_english:6678": {
+    "en": "The corpse lay on the road.",
+    "ru": "Мертвец лежал на дороге.",
+    "method": "manual"
+  },
+  "russian_english:6686": {
+    "en": "This is an age difference.",
+    "ru": "Это возрастное различие.",
+    "method": "manual"
+  },
+  "russian_english:6699": {
+    "en": "We took the books away from the house.",
+    "ru": "Мы вывезли книги из дома.",
+    "method": "manual"
+  },
+  "russian_english:6762": {
+    "en": "He has a managerial role.",
+    "ru": "У него руководящая роль.",
+    "method": "manual"
+  },
+  "russian_english:6955": {
+    "en": "The palm is high.",
+    "ru": "Пальма высокая.",
+    "method": "manual"
+  },
+  "russian_english:6961": {
+    "en": "Leaves covered the road.",
+    "ru": "Листва покрыла дорогу.",
+    "method": "manual"
+  },
+  "russian_english:7007": {
+    "en": "I found a cent on the road.",
+    "ru": "Я нашёл цент на дороге.",
+    "method": "manual"
+  },
+  "russian_english:7095": {
+    "en": "This is our heritage.",
+    "ru": "Это наше достояние.",
+    "method": "manual"
+  },
+  "russian_english:7257": {
+    "en": "Plants need moisture.",
+    "ru": "Растениям нужна влага.",
+    "method": "manual"
+  },
+  "russian_english:7260": {
+    "en": "Please forgive the inconvenience.",
+    "ru": "Пожалуйста, простите за неудобство.",
+    "method": "manual"
+  },
+  "russian_english:7302": {
+    "en": "The vase broke.",
+    "ru": "Ваза разбилась.",
+    "method": "manual"
+  },
+  "russian_english:7409": {
+    "en": "He refuted the claim.",
+    "ru": "Он опроверг утверждение.",
+    "method": "manual"
+  },
+  "russian_english:7483": {
+    "en": "Buy a dozen books.",
+    "ru": "Купи дюжину книг.",
+    "method": "manual"
+  },
+  "russian_english:7596": {
+    "en": "Boil an egg.",
+    "ru": "Свари яйцо.",
+    "method": "manual"
+  },
+  "russian_english:7598": {
+    "en": "We must reduce the time.",
+    "ru": "Надо сокращать время.",
+    "method": "reviewed replacement"
+  },
+  "russian_english:7631": {
+    "en": "He slips off the roof.",
+    "ru": "Он срывается с крыши.",
+    "method": "manual"
+  },
+  "russian_english:7644": {
+    "en": "She is putting books in the bag.",
+    "ru": "Она укладывает книги в сумку.",
+    "method": "manual"
+  },
+  "russian_english:7736": {
+    "en": "I approve the plan.",
+    "ru": "Я одобряю план.",
+    "method": "manual"
+  },
+  "russian_english:7869": {
+    "en": "I do not have a penny.",
+    "ru": "У меня нет ни гроша.",
+    "method": "manual"
+  },
+  "russian_english:7882": {
+    "en": "She has an expressive face.",
+    "ru": "У неё выразительное лицо.",
+    "method": "manual"
+  },
+  "russian_english:7884": {
+    "en": "He is the founder of this company.",
+    "ru": "Он учредитель этой компании.",
+    "method": "manual"
+  },
+  "russian_english:8052": {
+    "en": "I will think over your plan.",
+    "ru": "Я обдумаю твой план.",
+    "method": "manual"
+  },
+  "russian_english:8163": {
+    "en": "The news spread quickly.",
+    "ru": "Новость быстро распространилась.",
+    "method": "manual"
+  },
+  "russian_english:8193": {
+    "en": "The parrot sits in the tree.",
+    "ru": "Попугай сидит на дереве.",
+    "method": "manual"
+  },
+  "russian_english:8215": {
+    "en": "He is prone to disease.",
+    "ru": "Он подвержен болезням.",
+    "method": "manual"
+  },
+  "russian_english:8360": {
+    "en": "This is a wireless connection.",
+    "ru": "Это беспроводное соединение.",
+    "method": "reviewed replacement"
+  },
+  "russian_english:8391": {
+    "en": "Dub the movie.",
+    "ru": "Озвучь фильм.",
+    "method": "manual"
+  },
+  "russian_english:8503": {
+    "en": "She has a feline face.",
+    "ru": "У неё кошачье лицо.",
+    "method": "manual"
+  },
+  "russian_english:8523": {
+    "en": "A flare-up of the disease began.",
+    "ru": "Началось обострение болезни.",
+    "method": "manual"
+  },
+  "russian_english:8537": {
+    "en": "Charge the battery.",
+    "ru": "Заряди батарею.",
+    "method": "manual"
+  },
+  "russian_english:8553": {
+    "en": "Rub your hand.",
+    "ru": "Потри руку.",
+    "method": "manual"
+  },
+  "russian_english:8568": {
+    "en": "She is a participant in the meeting.",
+    "ru": "Она участница встречи.",
+    "method": "manual"
+  },
+  "russian_english:8572": {
+    "en": "Water drips from the roof.",
+    "ru": "Вода капает с крыши.",
+    "method": "manual"
+  },
+  "russian_english:8575": {
+    "en": "A small leaf lies on the road.",
+    "ru": "На дороге лежит листочек.",
+    "method": "manual"
+  },
+  "russian_english:8584": {
+    "en": "I hear the siren.",
+    "ru": "Я слышу сирену.",
+    "method": "manual"
+  },
+  "russian_english:8621": {
+    "en": "What caliber is the gun?",
+    "ru": "Какой калибр у ружья?",
+    "method": "manual"
+  },
+  "russian_english:8632": {
+    "en": "He waited for punishment.",
+    "ru": "Он ждал кары.",
+    "method": "manual"
+  },
+  "russian_english:8653": {
+    "en": "There is a new chip in the computer.",
+    "ru": "В компьютере новый чип.",
+    "method": "manual"
+  },
+  "russian_english:8779": {
+    "en": "Do not touch the boiling water.",
+    "ru": "Не трогай кипяток.",
+    "method": "manual"
+  },
+  "russian_english:8847": {
+    "en": "This is a one-sided agreement.",
+    "ru": "Это одностороннее соглашение.",
+    "method": "manual"
+  },
+  "russian_english:8926": {
+    "en": "We need to isolate the house.",
+    "ru": "Надо изолировать дом.",
+    "method": "manual"
+  },
+  "russian_english:9014": {
+    "en": "Smoke can curl above the roof.",
+    "ru": "Дым может виться над крышей.",
+    "method": "manual"
+  },
+  "russian_english:9171": {
+    "en": "The landing was successful.",
+    "ru": "Высадка прошла успешно.",
+    "method": "manual"
+  },
+  "russian_english:9173": {
+    "en": "He is a kind eccentric.",
+    "ru": "Он добрый чудак.",
+    "method": "manual"
+  },
+  "russian_english:9237": {
+    "en": "The telephone started ringing.",
+    "ru": "Телефон зазвонил.",
+    "method": "manual"
+  },
+  "russian_english:9338": {
+    "en": "Quotation is appropriate here.",
+    "ru": "Цитирование здесь уместно.",
+    "method": "manual"
+  },
+  "russian_english:9380": {
+    "en": "This was a terrible reprisal.",
+    "ru": "Это была страшная расправа.",
+    "method": "manual"
+  },
+  "russian_english:9459": {
+    "en": "This is a lifesaving idea.",
+    "ru": "Это спасительная идея.",
+    "method": "manual"
+  },
+  "russian_english:9490": {
+    "en": "She refutes the claim.",
+    "ru": "Она опровергает утверждение.",
+    "method": "manual"
+  },
+  "russian_english:9519": {
+    "en": "Reduction to this form is needed.",
+    "ru": "Нужно приведение к этой форме.",
+    "method": "manual"
+  },
+  "russian_english:9528": {
+    "en": "Daddy bought me a new book.",
+    "ru": "Папочка купил мне новую книгу.",
+    "method": "manual"
+  },
+  "russian_english:9595": {
+    "en": "This is a deputy's question.",
+    "ru": "Это депутатский вопрос.",
+    "method": "manual"
+  },
+  "russian_english:9643": {
+    "en": "This is mockery.",
+    "ru": "Это издевательство.",
+    "method": "manual"
+  },
+  "russian_english:9669": {
+    "en": "That was a strange hallucination.",
+    "ru": "Это была странная галлюцинация.",
+    "method": "manual"
+  },
+  "russian_english:9706": {
+    "en": "This is Vologda cheese.",
+    "ru": "Это вологодский сыр.",
+    "method": "manual"
+  },
+  "russian_english:9714": {
+    "en": "The case for the telephone is new.",
+    "ru": "Чехол для телефона новый.",
+    "method": "manual"
+  },
+  "russian_english:9721": {
+    "en": "This is a subsidiary company.",
+    "ru": "Это дочерняя компания.",
+    "method": "manual"
+  },
+  "russian_english:9957": {
+    "en": "This is a cosmetic repair.",
+    "ru": "Это косметический ремонт.",
+    "method": "manual"
+  }
+}

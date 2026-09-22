@@ -1,0 +1,100 @@
+{
+  "pack": "russian_english",
+  "deck": "15260204",
+  "band": "5000->5500",
+  "sha256": "6a109e22979e5e07de51c0912ab670f453616f6bb66debad54c8084e21bd5076",
+  "errors": [],
+  "candidates": [
+    {
+      "row": 64,
+      "q": "ползти",
+      "a": "to crawl",
+      "qe": "Младенец учится ползти.",
+      "ae": "The baby is learning to crawl.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "baby",
+            "band": "6500->7000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 202,
+      "q": "союзный",
+      "a": "allied",
+      "qe": "Это союзный договор.",
+      "ae": "This is an allied treaty.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "treaty",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 279,
+      "q": "залезть",
+      "a": "climb",
+      "qe": "Он залез на крышу.",
+      "ae": "He climbed onto the roof.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "onto",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 334,
+      "q": "оправдывать",
+      "a": "justify",
+      "qe": "Не оправдывай себя.",
+      "ae": "Do not justify yourself.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "yourself",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 394,
+      "q": "заверить",
+      "a": "assure",
+      "qe": "Я тебя заверяю.",
+      "ae": "I assure you.",
+      "issues": {
+        "ru_target": "заверить | Я тебя заверяю.",
+        "ru_vocab": [
+          {
+            "word": "заверяю",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 490,
+      "q": "погрузиться",
+      "a": "immerse",
+      "qe": "Он хочет погрузиться в работу.",
+      "ae": "He wants to immerse himself in work.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "himself",
+            "band": "absent"
+          }
+        ]
+      }
+    }
+  ]
+}

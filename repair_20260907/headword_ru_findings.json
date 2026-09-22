@@ -1,0 +1,32 @@
+[
+  {
+    "deck": "15260182",
+    "row": 44,
+    "current_pair": {
+      "question": "себя",
+      "answer": "myself"
+    },
+    "correct_gloss": "oneself, himself, herself, itself, themselves",
+    "reason": "себя is the reflexive pronoun and is not restricted to the first person; ‘myself’ alone is misleading without a first-person context."
+  },
+  {
+    "deck": "15260194",
+    "row": 380,
+    "current_pair": {
+      "question": "численность",
+      "answer": "size"
+    },
+    "correct_gloss": "number, headcount, population",
+    "reason": "численность denotes the number or headcount of a population, force, or group; generic ‘size’ obscures the counting sense."
+  },
+  {
+    "deck": "15260194",
+    "row": 457,
+    "current_pair": {
+      "question": "казать",
+      "answer": "to show"
+    },
+    "correct_gloss": "to seem, to appear (archaic)",
+    "reason": "казать is an archaic/intransitive verb meaning ‘to seem’ or ‘to appear’; ‘to show’ belongs to показать/указать and does not fit this headword."
+  }
+]

@@ -1,0 +1,390 @@
+{
+  "deck": "15260213",
+  "reviewed": 500,
+  "changes": [
+    {
+      "row": 8,
+      "before": [
+        "цепляться",
+        "cling, hold on",
+        "Листья цепляются за мокрое окно.",
+        "Leaves cling to the wet window."
+      ],
+      "after": [
+        "цепляться",
+        "cling, hold on",
+        "Мальчик цепляется за ветку.",
+        "The boy clings to the branch."
+      ],
+      "reason": "Leaves stick to glass; use natural clinging example."
+    },
+    {
+      "row": 19,
+      "before": [
+        "востребовать",
+        "to demand repayment",
+        "Он востребовал свой долг.",
+        "He demanded repayment of the debt."
+      ],
+      "after": [
+        "востребовать",
+        "to demand, to claim; to demand repayment (of a debt)",
+        "Он востребовал свой долг.",
+        "He demanded repayment of the debt."
+      ],
+      "reason": "Repayment is supplied by debt context, not the verb alone. Explicitly include repayment sense used in the example."
+    },
+    {
+      "row": 26,
+      "before": [
+        "погружаться",
+        "to dive, to immerse oneself",
+        "Он погружается в воду.",
+        "He dives into the water."
+      ],
+      "after": [
+        "погружаться",
+        "to submerge, to immerse oneself",
+        "Он погружается в воду.",
+        "He immerses himself in the water."
+      ],
+      "reason": "Submerging need not be diving."
+    },
+    {
+      "row": 27,
+      "before": [
+        "комар",
+        "mosquito",
+        "Комар сел мне на руку.",
+        "A mosquito sat on my hand."
+      ],
+      "after": [
+        "комар",
+        "mosquito",
+        "Комар сел мне на руку.",
+        "A mosquito landed on my hand."
+      ],
+      "reason": "Natural English for insect settling."
+    },
+    {
+      "row": 31,
+      "before": [
+        "достойно",
+        "worthily, deservedly",
+        "Он прожил свою жизнь достойно.",
+        "He lived his life worthily."
+      ],
+      "after": [
+        "достойно",
+        "with dignity, worthily, deservedly",
+        "Он прожил свою жизнь достойно.",
+        "He lived his life with dignity."
+      ],
+      "reason": "Use idiomatic equivalent of достойно жить."
+    },
+    {
+      "row": 33,
+      "before": [
+        "каблук",
+        "heel",
+        "Она сломала каблук.",
+        "She broke the heel of her shoe."
+      ],
+      "after": [
+        "каблук",
+        "heel (of a shoe)",
+        "Она сломала каблук.",
+        "She broke the heel of her shoe."
+      ],
+      "reason": "Distinguish каблук from anatomical heel пятка."
+    },
+    {
+      "row": 44,
+      "before": [
+        "кухонный",
+        "kitchen, culinary",
+        "Кухонный нож очень острый.",
+        "The kitchen knife is very sharp."
+      ],
+      "after": [
+        "кухонный",
+        "kitchen (attributive)",
+        "Кухонный нож очень острый.",
+        "The kitchen knife is very sharp."
+      ],
+      "reason": "Culinary is normally кулинарный."
+    },
+    {
+      "row": 65,
+      "before": [
+        "крепостной",
+        "serf, bonded",
+        "Крепостной работал на земле лорда.",
+        "The serf worked the lord's land."
+      ],
+      "after": [
+        "крепостной",
+        "serf; serf (attributive); fortress (attributive)",
+        "Крепостной работал на земле господина.",
+        "The serf worked his master’s land."
+      ],
+      "reason": "Remove misleading bonded and unnatural Russian lord context."
+    },
+    {
+      "row": 76,
+      "before": [
+        "звенеть",
+        "ring, jingle",
+        "В кармане звенит монета.",
+        "A coin rings in the pocket."
+      ],
+      "after": [
+        "звенеть",
+        "ring, jingle",
+        "В кармане звенят монеты.",
+        "Coins jingle in the pocket."
+      ],
+      "reason": "Use plural coins for natural jingling example."
+    },
+    {
+      "row": 110,
+      "before": [
+        "наказывать",
+        "to punish, to penalize",
+        "Не надо наказывать сына.",
+        "Do not punish the son."
+      ],
+      "after": [
+        "наказывать",
+        "to punish, to penalize",
+        "Не надо наказывать сына.",
+        "Do not punish your son."
+      ],
+      "reason": "Natural English possessive in parental instruction."
+    },
+    {
+      "row": 135,
+      "before": [
+        "привязывать",
+        "to tie, to attach",
+        "Он привязывает собаку.",
+        "He ties the dog."
+      ],
+      "after": [
+        "привязывать",
+        "to tie, to attach",
+        "Он привязывает собаку к дереву.",
+        "He ties the dog to a tree."
+      ],
+      "reason": "Complete natural tying construction."
+    },
+    {
+      "row": 141,
+      "before": [
+        "умеренный",
+        "moderate, temperate",
+        "У нас умеренный климат.",
+        "We have a moderate climate."
+      ],
+      "after": [
+        "умеренный",
+        "moderate, temperate",
+        "У нас умеренный климат.",
+        "We have a temperate climate."
+      ],
+      "reason": "Use standard climate collocation."
+    },
+    {
+      "row": 199,
+      "before": [
+        "вывезти",
+        "take out",
+        "Мы вывезли вещи.",
+        "We took out the things."
+      ],
+      "after": [
+        "вывезти",
+        "to take away (by transport)",
+        "Мы вывезли вещи из дома.",
+        "We took the things away from the house."
+      ],
+      "reason": "Preserve transport/removal sense."
+    },
+    {
+      "row": 232,
+      "before": [
+        "небось",
+        "I bet, probably",
+        "Небось ты устал.",
+        "Probably you are tired."
+      ],
+      "after": [
+        "небось",
+        "I bet, probably",
+        "Небось ты устал.",
+        "I bet you are tired."
+      ],
+      "reason": "Preserve conversational presumptive tone."
+    },
+    {
+      "row": 250,
+      "before": [
+        "земляк",
+        "countryman, fellow countryman",
+        "Он мой земляк.",
+        "He is my countryman."
+      ],
+      "after": [
+        "земляк",
+        "fellow countryman (someone from the same town, region, or country)",
+        "Он мой земляк.",
+        "He is my fellow countryman."
+      ],
+      "reason": "Земляк can share town or region, not just country. Use listed equivalent directly in example."
+    },
+    {
+      "row": 252,
+      "before": [
+        "давность",
+        "limitation period, antiquity",
+        "Срок давности важен.",
+        "The limitation period is important."
+      ],
+      "after": [
+        "давность",
+        "age, passage of time; limitation (срок давности)",
+        "Срок давности важен.",
+        "The limitation period is important."
+      ],
+      "reason": "Limitation period is full phrase срок давности."
+    },
+    {
+      "row": 288,
+      "before": [
+        "сидение",
+        "seat, seating",
+        "Сидение мягкое.",
+        "The seat is soft."
+      ],
+      "after": [
+        "сидение",
+        "sitting (the activity)",
+        "Долгое сидение вредно.",
+        "Sitting for a long time is harmful."
+      ],
+      "reason": "Distinguish сидение activity from сиденье seat. Use prior-deck vocabulary."
+    },
+    {
+      "row": 302,
+      "before": [
+        "задаваться",
+        "to wonder",
+        "Он начал задаваться вопросом.",
+        "He began to wonder."
+      ],
+      "after": [
+        "задаваться",
+        "to be posed; to wonder (задаваться вопросом)",
+        "Он начал задаваться вопросом.",
+        "He began to wonder."
+      ],
+      "reason": "Mark phrase-dependent wonder meaning."
+    },
+    {
+      "row": 320,
+      "before": [
+        "тронуться",
+        "to move, to start off",
+        "Машина не хочет тронуться.",
+        "The car does not want to move."
+      ],
+      "after": [
+        "тронуться",
+        "to move, to start off",
+        "Машина не хочет тронуться.",
+        "The car will not move."
+      ],
+      "reason": "Natural English for malfunction, not literal desire."
+    },
+    {
+      "row": 401,
+      "before": [
+        "побрать",
+        "to gather, to take",
+        "Надо побрать всё.",
+        "We must gather everything."
+      ],
+      "after": [
+        "побрать",
+        "to take (archaic, chiefly in curses)",
+        "Чёрт тебя побери!",
+        "The devil take you!"
+      ],
+      "reason": "Replace invented everyday gathering example with established construction."
+    },
+    {
+      "row": 423,
+      "before": [
+        "оп",
+        "oops, whoa",
+        "Оп, я упал.",
+        "Oops, I fell."
+      ],
+      "after": [
+        "оп",
+        "whoa, there (colloquial exclamation)",
+        "Оп, и готово!",
+        "There, it is done!"
+      ],
+      "reason": "Оп signals an action or quick result, not usual oops apology."
+    },
+    {
+      "row": 439,
+      "before": [
+        "сверстник",
+        "peer, contemporary",
+        "Он мой сверстник.",
+        "He is my peer."
+      ],
+      "after": [
+        "сверстник",
+        "peer (of the same age)",
+        "Он мой сверстник.",
+        "He is my peer."
+      ],
+      "reason": "Specify age relationship."
+    },
+    {
+      "row": 457,
+      "before": [
+        "башка",
+        "head, noggin",
+        "У него большая башка.",
+        "He has a big head."
+      ],
+      "after": [
+        "башка",
+        "head, noggin (coarse colloquial)",
+        "У него большая башка.",
+        "He has a big head."
+      ],
+      "reason": "Mark register."
+    },
+    {
+      "row": 496,
+      "before": [
+        "ненормальный",
+        "abnormal, not normal",
+        "Это ненормальный человек.",
+        "This is an abnormal person."
+      ],
+      "after": [
+        "ненормальный",
+        "abnormal, not normal",
+        "Это ненормальный результат.",
+        "This is an abnormal result."
+      ],
+      "reason": "Avoid unnatural abnormal person example."
+    }
+  ]
+}

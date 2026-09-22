@@ -1,0 +1,5731 @@
+[
+  {
+    "deck": "15260182",
+    "row": 41,
+    "before": [
+      "если",
+      "if",
+      "Если что, я дома.",
+      "If anything, I'm home."
+    ],
+    "after": [
+      "если",
+      "if",
+      "Если он придёт, я буду дома.",
+      "If he comes, I will be home."
+    ],
+    "reason": "Original if anything mistranslates если что."
+  },
+  {
+    "deck": "15260182",
+    "row": 86,
+    "before": [
+      "город",
+      "city, town",
+      "Из города.",
+      "Out of town."
+    ],
+    "after": [
+      "город",
+      "city, town",
+      "Я из этого города.",
+      "I am from this city."
+    ],
+    "reason": "Out of town means away from town, not origin."
+  },
+  {
+    "deck": "15260182",
+    "row": 144,
+    "before": [
+      "отношение",
+      "relation",
+      "Какое отношение к делу?",
+      "What relation to the matter?"
+    ],
+    "after": [
+      "отношение",
+      "relation",
+      "Это не имеет отношения к делу.",
+      "This has no relation to the matter."
+    ],
+    "reason": "Replace unnatural English fragment with an aligned sentence."
+  },
+  {
+    "deck": "15260182",
+    "row": 210,
+    "before": [
+      "нужный",
+      "needed, necessary",
+      "Мне нужен ответ.",
+      "An answer is needed."
+    ],
+    "after": [
+      "нужный",
+      "needed, necessary",
+      "Мне нужен этот документ.",
+      "This document is necessary for me."
+    ],
+    "reason": "Preserve the person who needs the item while using the adjective."
+  },
+  {
+    "deck": "15260182",
+    "row": 250,
+    "before": [
+      "общий",
+      "common, general",
+      "Это общий вопрос.",
+      "That's a common question."
+    ],
+    "after": [
+      "общий",
+      "common, general",
+      "Это общий вопрос.",
+      "That's a general question."
+    ],
+    "reason": "Общий вопрос means a general question here, not a frequently asked question."
+  },
+  {
+    "deck": "15260182",
+    "row": 294,
+    "before": [
+      "средство",
+      "means",
+      "Нет средств.",
+      "There's no means."
+    ],
+    "after": [
+      "средство",
+      "means, funds",
+      "Нет средств.",
+      "There are no funds."
+    ],
+    "reason": "Fix number agreement and clarify the financial sense of средства."
+  },
+  {
+    "deck": "15260182",
+    "row": 373,
+    "before": [
+      "лежать",
+      "to lie",
+      "Он лежит.",
+      "He's lying."
+    ],
+    "after": [
+      "лежать",
+      "to lie",
+      "Он лежит на земле.",
+      "He is lying on the ground."
+    ],
+    "reason": "Disambiguate physical lying from telling lies."
+  },
+  {
+    "deck": "15260182",
+    "row": 397,
+    "before": [
+      "речь",
+      "discussion",
+      "Речь о нём.",
+      "The discussion is about him."
+    ],
+    "after": [
+      "речь",
+      "speech, discussion",
+      "Его речь была о работе.",
+      "His speech was about work."
+    ],
+    "reason": "Restore the central meaning speech and use it in the example."
+  },
+  {
+    "deck": "15260182",
+    "row": 433,
+    "before": [
+      "вполне",
+      "quite",
+      "Вполне.",
+      "Quite."
+    ],
+    "after": [
+      "вполне",
+      "quite",
+      "Он вполне готов.",
+      "He is quite ready."
+    ],
+    "reason": "Standalone Quite is not a reliable translation of standalone Вполне."
+  },
+  {
+    "deck": "15260182",
+    "row": 492,
+    "before": [
+      "ряд",
+      "row",
+      "В первый ряд.",
+      "In the first row."
+    ],
+    "after": [
+      "ряд",
+      "row",
+      "Я сижу в первом ряду.",
+      "I am sitting in the first row."
+    ],
+    "reason": "Original Russian indicates motion, whereas English indicates position."
+  },
+  {
+    "deck": "15260185",
+    "row": 48,
+    "before": [
+      "попасть",
+      "to get in, to hit",
+      "Как попасть в дом?",
+      "How do I get in?"
+    ],
+    "after": [
+      "попасть",
+      "to get in, to hit",
+      "Как попасть в дом?",
+      "How do I get into the house?"
+    ],
+    "reason": "Restore the house omitted from the translation."
+  },
+  {
+    "deck": "15260185",
+    "row": 129,
+    "before": [
+      "подойти",
+      "to come up, to approach",
+      "Подойди.",
+      "Come up."
+    ],
+    "after": [
+      "подойти",
+      "to come up, to approach",
+      "Подойди ко мне.",
+      "Come up to me."
+    ],
+    "reason": "Give come up a destination so it clearly means approach."
+  },
+  {
+    "deck": "15260185",
+    "row": 146,
+    "before": [
+      "свободный",
+      "free, available",
+      "Это место свободно?",
+      "Is this available?"
+    ],
+    "after": [
+      "свободный",
+      "free, available",
+      "Это место свободно?",
+      "Is this place free?"
+    ],
+    "reason": "Preserve место in the translation."
+  },
+  {
+    "deck": "15260185",
+    "row": 202,
+    "before": [
+      "желать",
+      "to wish, to desire",
+      "Чего ты желаешь?",
+      "What do you wish?"
+    ],
+    "after": [
+      "желать",
+      "to wish, to desire",
+      "Чего ты желаешь?",
+      "What do you wish for?"
+    ],
+    "reason": "Correct the English verb complement."
+  },
+  {
+    "deck": "15260185",
+    "row": 270,
+    "before": [
+      "специальный",
+      "special",
+      "Это специальный случай.",
+      "This is a special case."
+    ],
+    "after": [
+      "специальный",
+      "special",
+      "Это специальная программа.",
+      "This is a special program."
+    ],
+    "reason": "Replace unnatural специальный случай with a natural collocation."
+  },
+  {
+    "deck": "15260185",
+    "row": 297,
+    "before": [
+      "господин",
+      "Mr., sir",
+      "Господин, идите ко мне.",
+      "Sir, come to me."
+    ],
+    "after": [
+      "господин",
+      "gentleman, Mr., sir",
+      "Этот господин ждёт вас.",
+      "This gentleman is waiting for you."
+    ],
+    "reason": "Господин alone is not a natural modern Russian form of address."
+  },
+  {
+    "deck": "15260185",
+    "row": 308,
+    "before": [
+      "крайний",
+      "last, extreme",
+      "В крайнем случае.",
+      "In an extreme case."
+    ],
+    "after": [
+      "крайний",
+      "last, extreme",
+      "Это крайняя мера.",
+      "This is an extreme measure."
+    ],
+    "reason": "Avoid mistranslating the idiom в крайнем случае as in an extreme case."
+  },
+  {
+    "deck": "15260185",
+    "row": 376,
+    "before": [
+      "показаться",
+      "to seem, to appear",
+      "Мне показалось.",
+      "It seemed to me."
+    ],
+    "after": [
+      "показаться",
+      "to seem, to appear",
+      "Мне показалось, что он дома.",
+      "It seemed to me that he was home."
+    ],
+    "reason": "Complete the English construction and align both examples."
+  },
+  {
+    "deck": "15260185",
+    "row": 377,
+    "before": [
+      "определить",
+      "to determine, to define",
+      "Нужно определить.",
+      "We need to determine."
+    ],
+    "after": [
+      "определить",
+      "to determine, to define",
+      "Нужно определить причину.",
+      "We need to determine the cause."
+    ],
+    "reason": "Determine needs an object in this example."
+  },
+  {
+    "deck": "15260188",
+    "row": 33,
+    "before": [
+      "профессиональный",
+      "professional",
+      "Нужен профессиональный врач.",
+      "We need a professional doctor."
+    ],
+    "after": [
+      "профессиональный",
+      "professional",
+      "Он профессиональный писатель.",
+      "He is a professional writer."
+    ],
+    "reason": "Replace tautological professional doctor with a useful contrast."
+  },
+  {
+    "deck": "15260188",
+    "row": 40,
+    "before": [
+      "носить",
+      "to wear",
+      "Что ты носишь?",
+      "What are you wearing?"
+    ],
+    "after": [
+      "носить",
+      "to wear",
+      "Он носит белую одежду.",
+      "He wears white clothes."
+    ],
+    "reason": "Use matching habitual aspect rather than an English current-action question."
+  },
+  {
+    "deck": "15260188",
+    "row": 119,
+    "before": [
+      "северный",
+      "northern",
+      "Северный ветер.",
+      "A northern wind."
+    ],
+    "after": [
+      "северный",
+      "north, northern",
+      "Северный ветер.",
+      "A north wind."
+    ],
+    "reason": "Use the normal English name for wind from the north."
+  },
+  {
+    "deck": "15260188",
+    "row": 198,
+    "before": [
+      "общение",
+      "contact, communication",
+      "Мне нужно общение.",
+      "I need communication."
+    ],
+    "after": [
+      "общение",
+      "contact, communication",
+      "Общение с ним важно.",
+      "Communication with him is important."
+    ],
+    "reason": "Replace unnatural I need communication with a concrete relationship."
+  },
+  {
+    "deck": "15260188",
+    "row": 305,
+    "before": [
+      "кровать",
+      "bed",
+      "Иди в кровать.",
+      "Go to bed."
+    ],
+    "after": [
+      "кровать",
+      "bed",
+      "Он лежит в кровати.",
+      "He is lying in bed."
+    ],
+    "reason": "Replace the calque Иди в кровать with natural Russian."
+  },
+  {
+    "deck": "15260188",
+    "row": 377,
+    "before": [
+      "красота",
+      "beauty",
+      "Какая красота!",
+      "What a beauty!"
+    ],
+    "after": [
+      "красота",
+      "beauty",
+      "Красота этого города известна.",
+      "The beauty of this city is well-known."
+    ],
+    "reason": "Avoid changing an exclamation about beauty into one about a beautiful person or object."
+  },
+  {
+    "deck": "15260188",
+    "row": 387,
+    "before": [
+      "трубка",
+      "receiver, tube",
+      "Возьми трубку.",
+      "Take the receiver."
+    ],
+    "after": [
+      "трубка",
+      "receiver, tube",
+      "Трубка на столе.",
+      "The receiver is on the table."
+    ],
+    "reason": "Avoid literal Take the receiver for the idiom meaning answer the phone."
+  },
+  {
+    "deck": "15260188",
+    "row": 389,
+    "before": [
+      "восточный",
+      "eastern",
+      "Восточный ветер.",
+      "An eastern wind."
+    ],
+    "after": [
+      "восточный",
+      "east, eastern",
+      "Восточный ветер.",
+      "An east wind."
+    ],
+    "reason": "Use the normal English name for wind from the east."
+  },
+  {
+    "deck": "15260188",
+    "row": 433,
+    "before": [
+      "ездить",
+      "to go, to ride",
+      "Я часто езжу туда.",
+      "I often go there."
+    ],
+    "after": [
+      "ездить",
+      "to go (by vehicle), to ride",
+      "Я часто езжу туда.",
+      "I often go there."
+    ],
+    "reason": "Specify vehicle travel to distinguish ездить from ходить."
+  },
+  {
+    "deck": "15260190",
+    "row": 4,
+    "before": [
+      "южный",
+      "southern",
+      "Южный ветер.",
+      "A southern wind."
+    ],
+    "after": [
+      "южный",
+      "south, southern",
+      "Южный ветер.",
+      "A south wind."
+    ],
+    "reason": "Use the normal directional wind collocation."
+  },
+  {
+    "deck": "15260190",
+    "row": 15,
+    "before": [
+      "продолжаться",
+      "to continue, to go on",
+      "Дождь всё ещё продолжается.",
+      "The rain is still going on."
+    ],
+    "after": [
+      "продолжаться",
+      "to continue, to go on",
+      "Работа продолжается.",
+      "The work continues."
+    ],
+    "reason": "Replace awkward rain is going on with a natural paired sentence."
+  },
+  {
+    "deck": "15260190",
+    "row": 193,
+    "before": [
+      "странно",
+      "strangely, it's strange",
+      "Мне здесь странно.",
+      "It feels strange here."
+    ],
+    "after": [
+      "странно",
+      "strangely, it's strange",
+      "Он странно говорит.",
+      "He speaks strangely."
+    ],
+    "reason": "Use natural Russian and demonstrate the adverb directly."
+  },
+  {
+    "deck": "15260190",
+    "row": 225,
+    "before": [
+      "дальний",
+      "distant, far",
+      "Это дальний путь.",
+      "That's a distant path."
+    ],
+    "after": [
+      "дальний",
+      "distant, far",
+      "Это дальняя страна.",
+      "This is a distant country."
+    ],
+    "reason": "A distant path does not convey дальний путь, a long journey."
+  },
+  {
+    "deck": "15260190",
+    "row": 278,
+    "before": [
+      "попадать",
+      "to get into, to hit",
+      "Я попадаю в цель.",
+      "I hit it."
+    ],
+    "after": [
+      "попадать",
+      "to get into, to hit",
+      "Он попадает в дом через окно.",
+      "He gets into the house through the window."
+    ],
+    "reason": "Replace an example whose English omits the target of the action."
+  },
+  {
+    "deck": "15260190",
+    "row": 360,
+    "before": [
+      "куча",
+      "pile, a bunch",
+      "У меня куча дел.",
+      "I've got a bunch of things."
+    ],
+    "after": [
+      "куча",
+      "pile, a bunch",
+      "У меня куча дел.",
+      "I've got a bunch of things to do."
+    ],
+    "reason": "Дела means tasks here, not possessions."
+  },
+  {
+    "deck": "15260190",
+    "row": 430,
+    "before": [
+      "особо",
+      "particularly, especially",
+      "Мне не особо.",
+      "Not particularly."
+    ],
+    "after": [
+      "особо",
+      "particularly, especially",
+      "Это не особо важно.",
+      "This is not particularly important."
+    ],
+    "reason": "Replace incomplete Russian with a natural sentence."
+  },
+  {
+    "deck": "15260190",
+    "row": 434,
+    "before": [
+      "стремление",
+      "drive, aspiration",
+      "У него сильное стремление.",
+      "He has a strong drive."
+    ],
+    "after": [
+      "стремление",
+      "drive, aspiration",
+      "Его стремление к свободе понятно.",
+      "His aspiration for freedom is understandable."
+    ],
+    "reason": "Give стремление a complement and make the meaning concrete."
+  },
+  {
+    "deck": "15260191",
+    "row": 99,
+    "before": [
+      "удивление",
+      "surprise, astonishment",
+      "Её подарок был приятным удивлением.",
+      "Her gift was a pleasant surprise."
+    ],
+    "after": [
+      "удивление",
+      "surprise, astonishment",
+      "Он посмотрел на меня с удивлением.",
+      "He looked at me in surprise."
+    ],
+    "reason": "Удивление is the feeling of surprise, not a surprise gift."
+  },
+  {
+    "deck": "15260191",
+    "row": 121,
+    "before": [
+      "владеть",
+      "to own, to command",
+      "Он владеет языком.",
+      "He has a command of the language."
+    ],
+    "after": [
+      "владеть",
+      "to own, to command",
+      "Он владеет этим домом.",
+      "He owns this house."
+    ],
+    "reason": "Demonstrate the taught verb rather than substituting the noun command."
+  },
+  {
+    "deck": "15260191",
+    "row": 180,
+    "before": [
+      "ремонт",
+      "renovation, repairs",
+      "Идёт ремонт.",
+      "The repairs continue."
+    ],
+    "after": [
+      "ремонт",
+      "renovation, repairs",
+      "Идёт ремонт.",
+      "The repairs are under way."
+    ],
+    "reason": "Идёт ремонт describes ongoing repairs without asserting continuation."
+  },
+  {
+    "deck": "15260191",
+    "row": 229,
+    "before": [
+      "сдать",
+      "to pass, to hand in",
+      "Я сдал это.",
+      "I passed it."
+    ],
+    "after": [
+      "сдать",
+      "to pass, to hand in",
+      "Я сдал документы.",
+      "I handed in the documents."
+    ],
+    "reason": "Clarify the handed-in sense with an explicit object."
+  },
+  {
+    "deck": "15260191",
+    "row": 369,
+    "before": [
+      "тратить",
+      "to spend",
+      "Не трать время.",
+      "Don't spend time."
+    ],
+    "after": [
+      "тратить",
+      "to spend",
+      "Не трать время на это.",
+      "Don't spend time on this."
+    ],
+    "reason": "Complete the English verb phrase naturally."
+  },
+  {
+    "deck": "15260191",
+    "row": 433,
+    "before": [
+      "выпускать",
+      "to release, to issue",
+      "Они выпускают новый фильм.",
+      "They release a new movie."
+    ],
+    "after": [
+      "выпускать",
+      "to release, to issue",
+      "Они выпускают новый фильм.",
+      "They are releasing a new movie."
+    ],
+    "reason": "Match the current release described by the Russian example."
+  },
+  {
+    "deck": "15260191",
+    "row": 452,
+    "before": [
+      "карточка",
+      "card",
+      "У меня нет карточки.",
+      "I don't have my card."
+    ],
+    "after": [
+      "карточка",
+      "card",
+      "У меня нет карточки.",
+      "I don't have a card."
+    ],
+    "reason": "Do not add ownership absent from the Russian."
+  },
+  {
+    "deck": "15260191",
+    "row": 480,
+    "before": [
+      "нанести",
+      "to apply, to inflict",
+      "Нанеси удар.",
+      "Inflict a blow."
+    ],
+    "after": [
+      "нанести",
+      "to apply, to inflict, to deal",
+      "Он нанёс удар.",
+      "He dealt a blow."
+    ],
+    "reason": "Replace unnatural inflict a blow with deal a blow."
+  },
+  {
+    "deck": "15260192",
+    "row": 18,
+    "before": [
+      "несомненно",
+      "undoubtedly",
+      "Это несомненно.",
+      "That's undoubtedly true."
+    ],
+    "after": [
+      "несомненно",
+      "undoubtedly",
+      "Он несомненно прав.",
+      "He is undoubtedly right."
+    ],
+    "reason": "Use the adverb directly instead of translating a predicative adjective."
+  },
+  {
+    "deck": "15260192",
+    "row": 117,
+    "before": [
+      "философский",
+      "philosophical",
+      "Слишком философский вопрос.",
+      "That's too philosophical."
+    ],
+    "after": [
+      "философский",
+      "philosophical",
+      "Слишком философский вопрос.",
+      "That is too philosophical a question."
+    ],
+    "reason": "Restore the noun omitted from the translation."
+  },
+  {
+    "deck": "15260192",
+    "row": 134,
+    "before": [
+      "узел",
+      "knot",
+      "Свяжи узел.",
+      "Tie a knot."
+    ],
+    "after": [
+      "узел",
+      "knot",
+      "Этот узел крепкий.",
+      "This knot is strong."
+    ],
+    "reason": "Свяжи узел is an unnatural Russian collocation."
+  },
+  {
+    "deck": "15260192",
+    "row": 224,
+    "before": [
+      "восстановление",
+      "recovery, restoration",
+      "Восстановление идёт.",
+      "Recovery is going on."
+    ],
+    "after": [
+      "восстановление",
+      "recovery, restoration",
+      "Восстановление идёт.",
+      "Recovery is under way."
+    ],
+    "reason": "Use natural English for recovery in progress."
+  },
+  {
+    "deck": "15260192",
+    "row": 239,
+    "before": [
+      "ведение",
+      "management, keeping",
+      "Ведение дел — его работа.",
+      "Management is his job."
+    ],
+    "after": [
+      "ведение",
+      "management, keeping",
+      "Ведение бизнеса требует опыта.",
+      "Business management requires experience."
+    ],
+    "reason": "Preserve what is being managed."
+  },
+  {
+    "deck": "15260192",
+    "row": 416,
+    "before": [
+      "подсказать",
+      "to prompt, to hint",
+      "Подскажи мне.",
+      "Give me a hint."
+    ],
+    "after": [
+      "подсказать",
+      "to give a hint, to prompt",
+      "Подскажи мне.",
+      "Give me a hint."
+    ],
+    "reason": "Match the taught expression to give me a hint rather than the different construction hint at."
+  },
+  {
+    "deck": "15260192",
+    "row": 492,
+    "before": [
+      "призвать",
+      "to draft, to call up",
+      "Его призвали в армию.",
+      "He was drafted."
+    ],
+    "after": [
+      "призвать",
+      "to draft, to call up",
+      "Его призвали в армию.",
+      "He was drafted into the army."
+    ],
+    "reason": "Restore the army explicitly mentioned in Russian."
+  },
+  {
+    "deck": "15260194",
+    "row": 30,
+    "before": [
+      "познание",
+      "knowledge",
+      "Познание мира требует времени.",
+      "Knowledge of the world takes time."
+    ],
+    "after": [
+      "познание",
+      "learning, cognition",
+      "Познание мира требует времени.",
+      "Learning about the world takes time."
+    ],
+    "reason": "Познание denotes the process of gaining knowledge."
+  },
+  {
+    "deck": "15260194",
+    "row": 58,
+    "before": [
+      "предпринять",
+      "to undertake",
+      "Мы предпримем новые шаги.",
+      "We'll undertake new steps."
+    ],
+    "after": [
+      "предпринять",
+      "to undertake",
+      "Мы предпримем исследование.",
+      "We will undertake a study."
+    ],
+    "reason": "Undertake steps is not the natural English collocation."
+  },
+  {
+    "deck": "15260194",
+    "row": 96,
+    "before": [
+      "поставка",
+      "supply",
+      "Поставка придёт завтра.",
+      "The supply will come tomorrow."
+    ],
+    "after": [
+      "поставка",
+      "delivery, supply",
+      "Поставка придёт завтра.",
+      "The delivery will arrive tomorrow."
+    ],
+    "reason": "Use delivery for a consignment that arrives."
+  },
+  {
+    "deck": "15260194",
+    "row": 103,
+    "before": [
+      "связывать",
+      "to tie",
+      "Он связывает узел.",
+      "He ties a knot."
+    ],
+    "after": [
+      "связывать",
+      "to tie",
+      "Он связывает книги лентой.",
+      "He ties the books with a ribbon."
+    ],
+    "reason": "Связывать узел is wrong; use связывать with things being tied."
+  },
+  {
+    "deck": "15260194",
+    "row": 151,
+    "before": [
+      "юмор",
+      "humor",
+      "У него хороший юмор.",
+      "He has good humor."
+    ],
+    "after": [
+      "юмор",
+      "humor",
+      "У него хорошее чувство юмора.",
+      "He has a good sense of humor."
+    ],
+    "reason": "Fix the Russian collocation and avoid confusing humor with good mood."
+  },
+  {
+    "deck": "15260194",
+    "row": 164,
+    "before": [
+      "расследование",
+      "investigation",
+      "Расследование ещё идёт.",
+      "The investigation is still going."
+    ],
+    "after": [
+      "расследование",
+      "investigation",
+      "Расследование ещё идёт.",
+      "The investigation is still in progress."
+    ],
+    "reason": "Use natural English for an ongoing investigation."
+  },
+  {
+    "deck": "15260194",
+    "row": 213,
+    "before": [
+      "талантливый",
+      "talented",
+      "Он талантливый артист.",
+      "He's a talented artist."
+    ],
+    "after": [
+      "талантливый",
+      "talented",
+      "Он талантливый артист.",
+      "He's a talented performer."
+    ],
+    "reason": "Артист is performer here, not visual artist."
+  },
+  {
+    "deck": "15260194",
+    "row": 234,
+    "before": [
+      "владение",
+      "possession",
+      "Это его владение.",
+      "This is his possession."
+    ],
+    "after": [
+      "владение",
+      "possession",
+      "Дом в его владении.",
+      "The house is in his possession."
+    ],
+    "reason": "Use possession as the state of owning, matching владение."
+  },
+  {
+    "deck": "15260194",
+    "row": 258,
+    "before": [
+      "провинция",
+      "province",
+      "Он живёт в провинции.",
+      "He lives in the province."
+    ],
+    "after": [
+      "провинция",
+      "province",
+      "Он живёт в провинции.",
+      "He lives in the provinces."
+    ],
+    "reason": "Match the non-capital-area meaning of в провинции."
+  },
+  {
+    "deck": "15260194",
+    "row": 328,
+    "before": [
+      "разместить",
+      "to place",
+      "Размести гостей здесь.",
+      "Place the guests here."
+    ],
+    "after": [
+      "разместить",
+      "to accommodate, to place",
+      "Мы разместим гостей здесь.",
+      "We will accommodate the guests here."
+    ],
+    "reason": "Use the natural English verb for housing guests."
+  },
+  {
+    "deck": "15260194",
+    "row": 404,
+    "before": [
+      "показание",
+      "testimony",
+      "Его показание важно.",
+      "His testimony is important."
+    ],
+    "after": [
+      "показание",
+      "testimony",
+      "Его показания важны.",
+      "His testimony is important."
+    ],
+    "reason": "Use conventional plural показания for testimony."
+  },
+  {
+    "deck": "15260194",
+    "row": 424,
+    "before": [
+      "коммуникация",
+      "communication",
+      "Это важная коммуникация.",
+      "That's important communication."
+    ],
+    "after": [
+      "коммуникация",
+      "communication",
+      "Коммуникация между людьми важна.",
+      "Communication between people is important."
+    ],
+    "reason": "Replace an unnatural countable use of communication."
+  },
+  {
+    "deck": "15260194",
+    "row": 450,
+    "before": [
+      "конкретно",
+      "specifically",
+      "Говори конкретно.",
+      "Speak specifically."
+    ],
+    "after": [
+      "конкретно",
+      "specifically",
+      "Что конкретно ты хочешь?",
+      "What specifically do you want?"
+    ],
+    "reason": "Replace unnatural Speak specifically with an idiomatic example."
+  },
+  {
+    "deck": "15260194",
+    "row": 457,
+    "before": [
+      "казать",
+      "to show",
+      "Он хочет казать дорогу.",
+      "He wants to show the road."
+    ],
+    "after": [
+      "казать",
+      "to show (dialectal or archaic)",
+      "Он хочет казать нам дорогу.",
+      "He wants to show us the way."
+    ],
+    "reason": "Mark the nonstandard register and use the idiom show the way."
+  },
+  {
+    "deck": "15260194",
+    "row": 496,
+    "before": [
+      "равновесие",
+      "equilibrium",
+      "Он потерял равновесие.",
+      "He lost his equilibrium."
+    ],
+    "after": [
+      "равновесие",
+      "balance, equilibrium",
+      "Он потерял равновесие.",
+      "He lost his balance."
+    ],
+    "reason": "Use ordinary English for losing physical balance."
+  },
+  {
+    "deck": "15260196",
+    "row": 44,
+    "before": [
+      "бросаться",
+      "to throw, to rush",
+      "Он бросается к двери.",
+      "He rushes to the door."
+    ],
+    "after": [
+      "бросаться",
+      "to throw oneself, to rush",
+      "Он бросается к двери.",
+      "He rushes to the door."
+    ],
+    "reason": "Correct the reflexive meaning of бросаться."
+  },
+  {
+    "deck": "15260196",
+    "row": 98,
+    "before": [
+      "скрываться",
+      "to hide, to conceal",
+      "Он скрывается в лесу.",
+      "He is hiding in the forest."
+    ],
+    "after": [
+      "скрываться",
+      "to hide, to conceal oneself",
+      "Он скрывается в лесу.",
+      "He is hiding in the forest."
+    ],
+    "reason": "Conceal requires a reflexive object for скрываться."
+  },
+  {
+    "deck": "15260196",
+    "row": 128,
+    "before": [
+      "специфический",
+      "specific, particular",
+      "Это специфический случай.",
+      "This is a specific case."
+    ],
+    "after": [
+      "специфический",
+      "distinctive, specific",
+      "Это специфический запах.",
+      "This is a distinctive smell."
+    ],
+    "reason": "Avoid confusing специфический with merely a particular instance."
+  },
+  {
+    "deck": "15260196",
+    "row": 175,
+    "before": [
+      "нефтяной",
+      "oil, petroleum",
+      "Это нефтяной завод.",
+      "This is an oil plant."
+    ],
+    "after": [
+      "нефтяной",
+      "oil, petroleum",
+      "Это нефтяная компания.",
+      "This is an oil company."
+    ],
+    "reason": "Replace an unclear oil plant collocation."
+  },
+  {
+    "deck": "15260196",
+    "row": 200,
+    "before": [
+      "выделяться",
+      "stand out, distinguish",
+      "Он любит выделяться.",
+      "He loves to stand out."
+    ],
+    "after": [
+      "выделяться",
+      "to stand out, to distinguish oneself",
+      "Он любит выделяться.",
+      "He loves to stand out."
+    ],
+    "reason": "Distinguish alone is transitive and does not mean выделяться."
+  },
+  {
+    "deck": "15260196",
+    "row": 206,
+    "before": [
+      "посидеть",
+      "sit, spend time",
+      "Давай посидим здесь.",
+      "Let's sit here."
+    ],
+    "after": [
+      "посидеть",
+      "to sit for a while",
+      "Давай посидим здесь.",
+      "Let's sit here for a while."
+    ],
+    "reason": "Spend time alone omits the sitting meaning."
+  },
+  {
+    "deck": "15260196",
+    "row": 208,
+    "before": [
+      "заслуга",
+      "merit, achievement",
+      "Это его заслуга.",
+      "This is his merit."
+    ],
+    "after": [
+      "заслуга",
+      "merit, achievement",
+      "Его заслуги известны.",
+      "His achievements are well-known."
+    ],
+    "reason": "Replace unnatural This is his merit."
+  },
+  {
+    "deck": "15260196",
+    "row": 215,
+    "before": [
+      "прятаться",
+      "to hide, to conceal",
+      "Он прячется здесь.",
+      "He hides here."
+    ],
+    "after": [
+      "прятаться",
+      "to hide, to conceal oneself",
+      "Он прячется здесь.",
+      "He hides here."
+    ],
+    "reason": "Preserve the reflexive meaning."
+  },
+  {
+    "deck": "15260196",
+    "row": 240,
+    "before": [
+      "поцелуй",
+      "kiss",
+      "Дай мне поцелуй.",
+      "Give me a kiss."
+    ],
+    "after": [
+      "поцелуй",
+      "kiss",
+      "Её поцелуй был нежным.",
+      "Her kiss was gentle."
+    ],
+    "reason": "Дай мне поцелуй is a calque."
+  },
+  {
+    "deck": "15260196",
+    "row": 295,
+    "before": [
+      "проспект",
+      "avenue, prospect",
+      "Мы живём на проспекте.",
+      "We live on the avenue."
+    ],
+    "after": [
+      "проспект",
+      "avenue, prospectus",
+      "Мы живём на проспекте.",
+      "We live on the avenue."
+    ],
+    "reason": "Проспект does not mean prospect; the printed item is a prospectus."
+  },
+  {
+    "deck": "15260196",
+    "row": 314,
+    "before": [
+      "леди",
+      "lady, dame",
+      "Эта леди здесь.",
+      "This lady is here."
+    ],
+    "after": [
+      "леди",
+      "lady",
+      "Эта леди здесь.",
+      "This lady is here."
+    ],
+    "reason": "Dame is a distinct title, not an interchangeable translation of леди."
+  },
+  {
+    "deck": "15260196",
+    "row": 318,
+    "before": [
+      "развернуться",
+      "unfold, deploy",
+      "План развернулся.",
+      "The plan unfolded."
+    ],
+    "after": [
+      "развернуться",
+      "unfold, deploy",
+      "События развернулись быстро.",
+      "Events unfolded quickly."
+    ],
+    "reason": "Replace unnatural План развернулся with an idiomatic subject."
+  },
+  {
+    "deck": "15260196",
+    "row": 334,
+    "before": [
+      "тактика",
+      "tactic, strategy",
+      "Это наша тактика.",
+      "This is our tactic."
+    ],
+    "after": [
+      "тактика",
+      "tactics, tactic",
+      "Это наша тактика.",
+      "These are our tactics."
+    ],
+    "reason": "Тактика is tactics; strategy is стратегия."
+  },
+  {
+    "deck": "15260196",
+    "row": 368,
+    "before": [
+      "удерживать",
+      "to hold, to retain",
+      "Не удерживай меня.",
+      "Do not hold me."
+    ],
+    "after": [
+      "удерживать",
+      "to hold back, to retain",
+      "Не удерживай меня.",
+      "Do not hold me back."
+    ],
+    "reason": "Не удерживай меня means do not prevent me from leaving, not do not touch me."
+  },
+  {
+    "deck": "15260196",
+    "row": 411,
+    "before": [
+      "колебание",
+      "hesitation, fluctuation",
+      "После колебания он согласился.",
+      "After some hesitation he agreed."
+    ],
+    "after": [
+      "колебание",
+      "hesitation, fluctuation",
+      "После колебаний он согласился.",
+      "After some hesitation he agreed."
+    ],
+    "reason": "Use the conventional plural for hesitation."
+  },
+  {
+    "deck": "15260196",
+    "row": 436,
+    "before": [
+      "студенческий",
+      "student",
+      "Это студенческий билет.",
+      "This is a student ticket."
+    ],
+    "after": [
+      "студенческий",
+      "student",
+      "Это студенческий билет.",
+      "This is a student card."
+    ],
+    "reason": "Студенческий билет is student identification, not an admission ticket."
+  },
+  {
+    "deck": "15260196",
+    "row": 467,
+    "before": [
+      "сократить",
+      "reduce, cut down",
+      "Надо сократить текст.",
+      "We must reduce the text."
+    ],
+    "after": [
+      "сократить",
+      "to shorten, to reduce",
+      "Надо сократить текст.",
+      "We must shorten the text."
+    ],
+    "reason": "Use natural English for making a text shorter."
+  },
+  {
+    "deck": "15260196",
+    "row": 468,
+    "before": [
+      "лунный",
+      "lunar, moon",
+      "Лунная ночь тихая.",
+      "The lunar night is quiet."
+    ],
+    "after": [
+      "лунный",
+      "moonlit, lunar",
+      "Лунная ночь тихая.",
+      "The moonlit night is quiet."
+    ],
+    "reason": "A lunar night is night on the Moon, not a moonlit night."
+  },
+  {
+    "deck": "15260196",
+    "row": 473,
+    "before": [
+      "ленинградский",
+      "Leningrad, Leningradsky",
+      "Это ленинградский вокзал.",
+      "This is the Leningradsky station."
+    ],
+    "after": [
+      "ленинградский",
+      "Leningrad, Leningradsky",
+      "Это Ленинградский вокзал.",
+      "This is Leningradsky Station."
+    ],
+    "reason": "Capitalize the proper station name."
+  },
+  {
+    "deck": "15260196",
+    "row": 495,
+    "before": [
+      "милость",
+      "mercy",
+      "Покажи милость.",
+      "Show mercy."
+    ],
+    "after": [
+      "милость",
+      "mercy",
+      "Он просил милости.",
+      "He asked for mercy."
+    ],
+    "reason": "Replace an unnatural Russian collocation."
+  },
+  {
+    "deck": "15260198",
+    "row": 13,
+    "before": [
+      "квалификация",
+      "professional qualifications",
+      "У него высокая квалификация.",
+      "He has professional qualifications."
+    ],
+    "after": [
+      "квалификация",
+      "professional qualifications",
+      "У него высокая квалификация.",
+      "He has high professional qualifications."
+    ],
+    "reason": "Preserve высокая rather than dropping qualification level."
+  },
+  {
+    "deck": "15260198",
+    "row": 28,
+    "before": [
+      "фрукт",
+      "fruit, produce",
+      "Я люблю есть свежие фрукты каждый день.",
+      "I love eating fresh fruit daily."
+    ],
+    "after": [
+      "фрукт",
+      "fruit",
+      "Я люблю есть свежие фрукты каждый день.",
+      "I love eating fresh fruit daily."
+    ],
+    "reason": "Produce also includes vegetables and is too broad."
+  },
+  {
+    "deck": "15260198",
+    "row": 43,
+    "before": [
+      "большевик",
+      "Bolshevik, Communist",
+      "Большевик взял власть.",
+      "The Bolshevik took power."
+    ],
+    "after": [
+      "большевик",
+      "Bolshevik",
+      "Большевик взял власть.",
+      "The Bolshevik took power."
+    ],
+    "reason": "Not every Communist is a Bolshevik."
+  },
+  {
+    "deck": "15260198",
+    "row": 52,
+    "before": [
+      "бокал",
+      "wine glass, goblet",
+      "Он поднял бокал с вином.",
+      "He raised the wine glass."
+    ],
+    "after": [
+      "бокал",
+      "wine glass, goblet",
+      "Он поднял бокал.",
+      "He raised the wine glass."
+    ],
+    "reason": "Align the sentences without dropping the Russian wine phrase in translation."
+  },
+  {
+    "deck": "15260198",
+    "row": 53,
+    "before": [
+      "юбка",
+      "skirt, kilt",
+      "Она купила новую красную юбку.",
+      "She bought a new red skirt."
+    ],
+    "after": [
+      "юбка",
+      "skirt",
+      "Она купила новую красную юбку.",
+      "She bought a new red skirt."
+    ],
+    "reason": "Kilt is a specific garment, not a general synonym for юбка."
+  },
+  {
+    "deck": "15260198",
+    "row": 56,
+    "before": [
+      "конституционный",
+      "constitutional, charter",
+      "Это конституционный закон.",
+      "This is a constitutional law."
+    ],
+    "after": [
+      "конституционный",
+      "constitutional",
+      "Это конституционный закон.",
+      "This is a constitutional law."
+    ],
+    "reason": "Charter is a noun and not a translation of this adjective."
+  },
+  {
+    "deck": "15260198",
+    "row": 66,
+    "before": [
+      "инспектор",
+      "inspector, inspectorate",
+      "Инспектор тщательно изучил документы.",
+      "The inspector examined the documents carefully."
+    ],
+    "after": [
+      "инспектор",
+      "inspector",
+      "Инспектор тщательно изучил документы.",
+      "The inspector examined the documents carefully."
+    ],
+    "reason": "Inspectorate is an organization, not an inspector."
+  },
+  {
+    "deck": "15260198",
+    "row": 88,
+    "before": [
+      "климат",
+      "climate, weather",
+      "Климат здесь холодный.",
+      "The climate here is cold."
+    ],
+    "after": [
+      "климат",
+      "climate",
+      "Климат здесь холодный.",
+      "The climate here is cold."
+    ],
+    "reason": "Weather and climate are different concepts."
+  },
+  {
+    "deck": "15260198",
+    "row": 93,
+    "before": [
+      "старость",
+      "old age, senility",
+      "Старость приносит мудрость.",
+      "Old age brings wisdom."
+    ],
+    "after": [
+      "старость",
+      "old age",
+      "Старость приносит мудрость.",
+      "Old age brings wisdom."
+    ],
+    "reason": "Senility is not equivalent to old age."
+  },
+  {
+    "deck": "15260198",
+    "row": 98,
+    "before": [
+      "кожаный",
+      "leather, leather-made",
+      "Это кожаная куртка.",
+      "This is a leather jacket."
+    ],
+    "after": [
+      "кожаный",
+      "leather",
+      "Это кожаная куртка.",
+      "This is a leather jacket."
+    ],
+    "reason": "Remove the unnatural English gloss leather-made."
+  },
+  {
+    "deck": "15260198",
+    "row": 120,
+    "before": [
+      "аж",
+      "even, as much as",
+      "Он ждал аж час.",
+      "He even waited an hour."
+    ],
+    "after": [
+      "аж",
+      "as much as, a whole",
+      "Он ждал аж час.",
+      "He waited a whole hour."
+    ],
+    "reason": "Аж emphasizes the length of the wait, not the surprising fact that he waited."
+  },
+  {
+    "deck": "15260198",
+    "row": 154,
+    "before": [
+      "боевик",
+      "action movie, thriller",
+      "Давай посмотрим боевик.",
+      "Let's watch an action movie."
+    ],
+    "after": [
+      "боевик",
+      "action movie",
+      "Давай посмотрим боевик.",
+      "Let's watch an action movie."
+    ],
+    "reason": "Thriller is a distinct genre, not a synonym for боевик."
+  },
+  {
+    "deck": "15260198",
+    "row": 194,
+    "before": [
+      "натуральный",
+      "natural, organic",
+      "Это натуральный цвет.",
+      "This is a natural color."
+    ],
+    "after": [
+      "натуральный",
+      "natural",
+      "Это натуральный цвет.",
+      "This is a natural color."
+    ],
+    "reason": "Натуральный does not establish that something is organic."
+  },
+  {
+    "deck": "15260198",
+    "row": 208,
+    "before": [
+      "наносить",
+      "apply, inflict",
+      "Он наносит удар.",
+      "He inflicts a blow."
+    ],
+    "after": [
+      "наносить",
+      "to apply, to inflict, to deal",
+      "Он наносит удар.",
+      "He deals a blow."
+    ],
+    "reason": "Replace the unnatural collocation inflict a blow."
+  },
+  {
+    "deck": "15260198",
+    "row": 211,
+    "before": [
+      "ноготь",
+      "nail, claw",
+      "У неё длинный ноготь.",
+      "She has a long nail."
+    ],
+    "after": [
+      "ноготь",
+      "nail, fingernail",
+      "У неё длинный ноготь.",
+      "She has a long nail."
+    ],
+    "reason": "Claw corresponds to коготь, not ноготь."
+  },
+  {
+    "deck": "15260198",
+    "row": 230,
+    "before": [
+      "современник",
+      "contemporary, peer",
+      "Он мой современник.",
+      "He is my contemporary."
+    ],
+    "after": [
+      "современник",
+      "contemporary",
+      "Он мой современник.",
+      "He is my contemporary."
+    ],
+    "reason": "Peer need not be a contemporary and is not an equivalent gloss."
+  },
+  {
+    "deck": "15260198",
+    "row": 242,
+    "before": [
+      "карандаш",
+      "pencil, crayon",
+      "Где мой карандаш?",
+      "Where is my pencil?"
+    ],
+    "after": [
+      "карандаш",
+      "pencil",
+      "Где мой карандаш?",
+      "Where is my pencil?"
+    ],
+    "reason": "Crayon is a different drawing implement."
+  },
+  {
+    "deck": "15260198",
+    "row": 246,
+    "before": [
+      "заяц",
+      "hare, rabbit",
+      "Я видел зайца.",
+      "I saw a hare."
+    ],
+    "after": [
+      "заяц",
+      "hare",
+      "Я видел зайца.",
+      "I saw a hare."
+    ],
+    "reason": "Rabbit is кролик, a different animal."
+  },
+  {
+    "deck": "15260198",
+    "row": 278,
+    "before": [
+      "сессия",
+      "session, academic term",
+      "Сессия начинается завтра.",
+      "The session starts tomorrow."
+    ],
+    "after": [
+      "сессия",
+      "session, exam period",
+      "Сессия начинается завтра.",
+      "The session starts tomorrow."
+    ],
+    "reason": "Academic term is семестр; сессия denotes the exam period."
+  },
+  {
+    "deck": "15260198",
+    "row": 294,
+    "before": [
+      "ознакомиться",
+      "to get acquainted, to familiarize",
+      "Ознакомься с этим.",
+      "Familiarize yourself with this."
+    ],
+    "after": [
+      "ознакомиться",
+      "to get acquainted with, to familiarize oneself with",
+      "Ознакомься с этим.",
+      "Familiarize yourself with this."
+    ],
+    "reason": "Supply the required reflexive object and preposition."
+  },
+  {
+    "deck": "15260198",
+    "row": 310,
+    "before": [
+      "бесконечно",
+      "infinitely, endless",
+      "Это бесконечно долго.",
+      "This is infinitely long."
+    ],
+    "after": [
+      "бесконечно",
+      "infinitely, endlessly",
+      "Это бесконечно долго.",
+      "This is infinitely long."
+    ],
+    "reason": "Replace adjective endless with the required adverb."
+  },
+  {
+    "deck": "15260198",
+    "row": 332,
+    "before": [
+      "скамейка",
+      "bench, seat",
+      "Где наша скамейка?",
+      "Where is the bench?"
+    ],
+    "after": [
+      "скамейка",
+      "bench, seat",
+      "Где наша скамейка?",
+      "Where is our bench?"
+    ],
+    "reason": "Restore наша."
+  },
+  {
+    "deck": "15260198",
+    "row": 338,
+    "before": [
+      "изобретение",
+      "invention, discovery",
+      "Это важное изобретение.",
+      "This is an important invention."
+    ],
+    "after": [
+      "изобретение",
+      "invention",
+      "Это важное изобретение.",
+      "This is an important invention."
+    ],
+    "reason": "Discovery is открытие, not изобретение."
+  },
+  {
+    "deck": "15260198",
+    "row": 346,
+    "before": [
+      "полевой",
+      "field, fieldwork",
+      "Это полевой цветок.",
+      "This is a field flower."
+    ],
+    "after": [
+      "полевой",
+      "field (attributive)",
+      "Это полевая работа.",
+      "This is field work."
+    ],
+    "reason": "Avoid unnatural field flower, which would normally be wildflower. Keep adjective separate from fieldwork noun. Use prior vocabulary while preserving adjective gloss."
+  },
+  {
+    "deck": "15260198",
+    "row": 425,
+    "before": [
+      "превращать",
+      "transform, convert",
+      "Он будет превращать золото.",
+      "He will transform gold."
+    ],
+    "after": [
+      "превращать",
+      "transform, convert",
+      "Он будет превращать страх в силу.",
+      "He will transform fear into strength."
+    ],
+    "reason": "Complete the required Russian превратить X в Y construction."
+  },
+  {
+    "deck": "15260198",
+    "row": 454,
+    "before": [
+      "проникать",
+      "penetrate, infiltrate",
+      "Свет будет проникать сюда.",
+      "Light will penetrate here."
+    ],
+    "after": [
+      "проникать",
+      "penetrate, infiltrate",
+      "Свет будет проникать в комнату.",
+      "Light will penetrate the room."
+    ],
+    "reason": "Give the English transitive verb its required object."
+  },
+  {
+    "deck": "15260198",
+    "row": 461,
+    "before": [
+      "животный",
+      "animal, creature",
+      "Это животная жизнь.",
+      "This is animal life."
+    ],
+    "after": [
+      "животный",
+      "animal (adjective)",
+      "Это животная жизнь.",
+      "This is animal life."
+    ],
+    "reason": "Remove the unrelated noun creature from an adjective card."
+  },
+  {
+    "deck": "15260200",
+    "row": 18,
+    "before": [
+      "сомнительный",
+      "doubtful, questionable",
+      "Его ответ сомнительный.",
+      "His answer is doubtful."
+    ],
+    "after": [
+      "сомнительный",
+      "doubtful, questionable",
+      "Его ответ сомнительный.",
+      "His answer is questionable."
+    ],
+    "reason": "Doubtful answer can suggest hesitation rather than dubious accuracy."
+  },
+  {
+    "deck": "15260200",
+    "row": 42,
+    "before": [
+      "привязать",
+      "tie, attach",
+      "Привяжи лодку к берегу.",
+      "Tie the boat to the shore."
+    ],
+    "after": [
+      "привязать",
+      "tie, attach",
+      "Привяжи лодку к дереву.",
+      "Tie the boat to the tree."
+    ],
+    "reason": "A shore is not a fastening point."
+  },
+  {
+    "deck": "15260200",
+    "row": 61,
+    "before": [
+      "подача",
+      "supply, serve",
+      "Подача воды снова работает.",
+      "The water supply works again."
+    ],
+    "after": [
+      "подача",
+      "supply, serve",
+      "Подача воды остановлена.",
+      "The water supply has been stopped."
+    ],
+    "reason": "Replace unnatural подача работает. Use prior-deck supporting vocabulary."
+  },
+  {
+    "deck": "15260200",
+    "row": 66,
+    "before": [
+      "специфика",
+      "specifics, specific nature",
+      "Я понял специфику дела.",
+      "I understood the specifics of the matter."
+    ],
+    "after": [
+      "специфика",
+      "specific nature, distinctive features",
+      "Специфика работы мне ясна.",
+      "The specific nature of the work is clear to me."
+    ],
+    "reason": "Специфика means characteristic nature, not merely details."
+  },
+  {
+    "deck": "15260200",
+    "row": 89,
+    "before": [
+      "гараж",
+      "garage, carport",
+      "Машина в гараже.",
+      "The car is in the garage."
+    ],
+    "after": [
+      "гараж",
+      "garage",
+      "Машина в гараже.",
+      "The car is in the garage."
+    ],
+    "reason": "Carport is a different structure."
+  },
+  {
+    "deck": "15260200",
+    "row": 139,
+    "before": [
+      "силовой",
+      "powerful, forceful",
+      "Это силовой удар.",
+      "This is a powerful blow."
+    ],
+    "after": [
+      "силовой",
+      "involving force, power (attributive)",
+      "Это силовое решение.",
+      "This is a solution involving force."
+    ],
+    "reason": "Силовой does not simply mean powerful."
+  },
+  {
+    "deck": "15260200",
+    "row": 187,
+    "before": [
+      "вздрогнуть",
+      "startle, flinch",
+      "Я вздрогнул от шума.",
+      "I flinched from the noise."
+    ],
+    "after": [
+      "вздрогнуть",
+      "to be startled, to flinch",
+      "Я вздрогнул от шума.",
+      "I flinched from the noise."
+    ],
+    "reason": "Correct intransitive Russian versus transitive English startle."
+  },
+  {
+    "deck": "15260200",
+    "row": 201,
+    "before": [
+      "бык",
+      "bull, ox",
+      "Бык стоит в поле.",
+      "The bull stands in the field."
+    ],
+    "after": [
+      "бык",
+      "bull",
+      "Бык стоит в поле.",
+      "The bull stands in the field."
+    ],
+    "reason": "Ox denotes a different category, normally вол."
+  },
+  {
+    "deck": "15260200",
+    "row": 272,
+    "before": [
+      "спрятаться",
+      "to hide, to conceal",
+      "Она спряталась за дверью.",
+      "She hid behind the door."
+    ],
+    "after": [
+      "спрятаться",
+      "to hide, to conceal oneself",
+      "Она спряталась за дверью.",
+      "She hid behind the door."
+    ],
+    "reason": "Preserve the reflexive meaning."
+  },
+  {
+    "deck": "15260200",
+    "row": 282,
+    "before": [
+      "дружить",
+      "to be friends, to make friends",
+      "Мы давно дружим.",
+      "We are friends."
+    ],
+    "after": [
+      "дружить",
+      "to be friends, to make friends",
+      "Мы давно дружим.",
+      "We have been friends for a long time."
+    ],
+    "reason": "Restore давно and the continuing duration."
+  },
+  {
+    "deck": "15260200",
+    "row": 302,
+    "before": [
+      "равенство",
+      "equality, equity",
+      "Нам нужно равенство.",
+      "We need equality."
+    ],
+    "after": [
+      "равенство",
+      "equality",
+      "Нам нужно равенство.",
+      "We need equality."
+    ],
+    "reason": "Equity is not interchangeable with equality."
+  },
+  {
+    "deck": "15260200",
+    "row": 314,
+    "before": [
+      "континент",
+      "continent, mainland",
+      "Это большой континент.",
+      "This is a large continent."
+    ],
+    "after": [
+      "континент",
+      "continent",
+      "Это большой континент.",
+      "This is a large continent."
+    ],
+    "reason": "Mainland is материк in contrast with islands, not континент."
+  },
+  {
+    "deck": "15260200",
+    "row": 352,
+    "before": [
+      "перчатка",
+      "glove, mitten",
+      "Где моя перчатка?",
+      "Where is my glove?"
+    ],
+    "after": [
+      "перчатка",
+      "glove",
+      "Где моя перчатка?",
+      "Where is my glove?"
+    ],
+    "reason": "Mitten is варежка, not перчатка."
+  },
+  {
+    "deck": "15260200",
+    "row": 398,
+    "before": [
+      "оплатить",
+      "to pay, to settle",
+      "Надо оплатить это.",
+      "I need to pay this."
+    ],
+    "after": [
+      "оплатить",
+      "to pay for, to settle",
+      "Надо оплатить это.",
+      "I need to pay for this."
+    ],
+    "reason": "Supply the preposition required for paying for an unspecified item."
+  },
+  {
+    "deck": "15260200",
+    "row": 432,
+    "before": [
+      "беречь",
+      "to cherish, to conserve",
+      "Береги здоровье.",
+      "Cherish your health."
+    ],
+    "after": [
+      "беречь",
+      "to protect, to cherish, to conserve",
+      "Береги здоровье.",
+      "Protect your health."
+    ],
+    "reason": "Use the natural meaning of беречь здоровье."
+  },
+  {
+    "deck": "15260200",
+    "row": 445,
+    "before": [
+      "химия",
+      "chemistry, alchemy",
+      "Я изучаю химию.",
+      "I study chemistry."
+    ],
+    "after": [
+      "химия",
+      "chemistry",
+      "Я изучаю химию.",
+      "I study chemistry."
+    ],
+    "reason": "Alchemy is алхимия, a different concept."
+  },
+  {
+    "deck": "15260200",
+    "row": 452,
+    "before": [
+      "стыд",
+      "shame, embarrassment",
+      "Это большой стыд.",
+      "It is a great shame."
+    ],
+    "after": [
+      "стыд",
+      "shame, embarrassment",
+      "Он чувствует стыд.",
+      "He feels shame."
+    ],
+    "reason": "Replace unnatural большой стыд and disambiguate shame from pity."
+  },
+  {
+    "deck": "15260200",
+    "row": 470,
+    "before": [
+      "выразиться",
+      "to express, to phrase",
+      "Он плохо выразился.",
+      "He expressed himself badly."
+    ],
+    "after": [
+      "выразиться",
+      "to express oneself, to phrase",
+      "Он плохо выразился.",
+      "He expressed himself badly."
+    ],
+    "reason": "Preserve the reflexive meaning."
+  },
+  {
+    "deck": "15260200",
+    "row": 479,
+    "before": [
+      "оплачивать",
+      "to pay, to compensate",
+      "Я оплачиваю это.",
+      "I pay this."
+    ],
+    "after": [
+      "оплачивать",
+      "to pay for, to pay",
+      "Я оплачиваю это.",
+      "I pay for this."
+    ],
+    "reason": "Use the correct preposition and remove misleading compensate."
+  },
+  {
+    "deck": "15260204",
+    "row": 64,
+    "before": [
+      "ползти",
+      "to crawl",
+      "Младенец учится ползти.",
+      "The child is learning to crawl."
+    ],
+    "after": [
+      "ползти",
+      "to crawl",
+      "Младенец учится ползти.",
+      "The infant is learning to crawl."
+    ],
+    "reason": "Preserve the more specific age word младенец."
+  },
+  {
+    "deck": "15260204",
+    "row": 98,
+    "before": [
+      "агрессия",
+      "aggression",
+      "Его агрессия мешает.",
+      "His aggression is in the way."
+    ],
+    "after": [
+      "агрессия",
+      "aggression",
+      "Его агрессия мешает работе.",
+      "His aggression gets in the way of work."
+    ],
+    "reason": "Complete an awkward English sentence with a concrete effect."
+  },
+  {
+    "deck": "15260204",
+    "row": 113,
+    "before": [
+      "наполовину",
+      "halfway",
+      "Мы уже наполовину там.",
+      "We're already halfway there."
+    ],
+    "after": [
+      "наполовину",
+      "half, halfway",
+      "Стакан наполовину пуст.",
+      "The glass is half empty."
+    ],
+    "reason": "Мы наполовину там is an English calque."
+  },
+  {
+    "deck": "15260204",
+    "row": 181,
+    "before": [
+      "юбилей",
+      "anniversary",
+      "Сегодня её юбилей.",
+      "Today is her anniversary."
+    ],
+    "after": [
+      "юбилей",
+      "anniversary",
+      "Завтра юбилей школы.",
+      "Tomorrow is the school's anniversary."
+    ],
+    "reason": "Avoid translating a personal milestone birthday as an unspecified anniversary."
+  },
+  {
+    "deck": "15260204",
+    "row": 202,
+    "before": [
+      "союзный",
+      "allied",
+      "Союзный договор подписан.",
+      "The allied agreement is signed."
+    ],
+    "after": [
+      "союзный",
+      "allied",
+      "Союзный флот прибыл.",
+      "The allied fleet arrived."
+    ],
+    "reason": "Replace the unnatural phrase allied agreement."
+  },
+  {
+    "deck": "15260204",
+    "row": 234,
+    "before": [
+      "сознавать",
+      "realize",
+      "Я сознаю ошибку.",
+      "I realize the mistake."
+    ],
+    "after": [
+      "сознавать",
+      "to be aware of, to realize",
+      "Я сознаю опасность.",
+      "I am aware of the danger."
+    ],
+    "reason": "Use natural English for conscious awareness."
+  },
+  {
+    "deck": "15260204",
+    "row": 302,
+    "before": [
+      "меньшинство",
+      "minority",
+      "Меньшинство против.",
+      "The minority is against."
+    ],
+    "after": [
+      "меньшинство",
+      "minority",
+      "Меньшинство против.",
+      "The minority is against it."
+    ],
+    "reason": "Complete the English prepositional complement."
+  },
+  {
+    "deck": "15260204",
+    "row": 309,
+    "before": [
+      "ван",
+      "van",
+      "Ван стоит у дома.",
+      "The van is by the house."
+    ],
+    "after": [
+      "ван",
+      "king (historical East Asian title)",
+      "Ван правил страной.",
+      "The king ruled the country."
+    ],
+    "reason": "Replace the unsupported vehicle sense with the attested royal title; see https://megabook.ru/article/Ван%20(титул)."
+  },
+  {
+    "deck": "15260204",
+    "row": 478,
+    "before": [
+      "печально",
+      "sadly",
+      "Он печально смотрел.",
+      "He looked sadly."
+    ],
+    "after": [
+      "печально",
+      "sadly",
+      "Он печально смотрел на неё.",
+      "He looked at her sadly."
+    ],
+    "reason": "Complete the English look construction."
+  },
+  {
+    "deck": "15260204",
+    "row": 490,
+    "before": [
+      "погрузиться",
+      "immerse",
+      "Он хочет погрузиться в работу.",
+      "He wants to immerse himself in work."
+    ],
+    "after": [
+      "погрузиться",
+      "to immerse oneself",
+      "Он хочет погрузиться в работу.",
+      "He wants to immerse himself in work."
+    ],
+    "reason": "Preserve the reflexive meaning."
+  },
+  {
+    "deck": "15260204",
+    "row": 496,
+    "before": [
+      "обладатель",
+      "holder",
+      "Он обладатель приза.",
+      "He is the prize holder."
+    ],
+    "after": [
+      "обладатель",
+      "holder, winner",
+      "Он обладатель приза.",
+      "He is the prize winner."
+    ],
+    "reason": "Prize winner is the natural equivalent here."
+  },
+  {
+    "deck": "15260204",
+    "row": 498,
+    "before": [
+      "отчаянно",
+      "desperately",
+      "Она отчаянно ждала.",
+      "She waited desperately."
+    ],
+    "after": [
+      "отчаянно",
+      "desperately",
+      "Она отчаянно боролась.",
+      "She fought desperately."
+    ],
+    "reason": "Use a natural collocation instead of waited desperately."
+  },
+  {
+    "deck": "15260207",
+    "row": 70,
+    "before": [
+      "уговаривать",
+      "to persuade, to coax",
+      "Не уговаривай меня.",
+      "Don't persuade me."
+    ],
+    "after": [
+      "уговаривать",
+      "to persuade, to coax",
+      "Не уговаривай меня.",
+      "Don't try to persuade me."
+    ],
+    "reason": "Уговаривать describes the attempt to persuade."
+  },
+  {
+    "deck": "15260207",
+    "row": 75,
+    "before": [
+      "ревность",
+      "jealousy, envy",
+      "Это ревность.",
+      "That's jealousy."
+    ],
+    "after": [
+      "ревность",
+      "jealousy",
+      "Это ревность.",
+      "That's jealousy."
+    ],
+    "reason": "Envy is зависть, not the ordinary meaning of ревность."
+  },
+  {
+    "deck": "15260207",
+    "row": 92,
+    "before": [
+      "сталинский",
+      "Stalinist, Stalin's",
+      "Сталинский дом.",
+      "A Stalinist house."
+    ],
+    "after": [
+      "сталинский",
+      "Stalin-era, Stalinist, Stalin's",
+      "Сталинский дом.",
+      "A Stalin-era house."
+    ],
+    "reason": "Clarify architectural period rather than political beliefs of a house."
+  },
+  {
+    "deck": "15260207",
+    "row": 111,
+    "before": [
+      "предельно",
+      "extremely, maximally",
+      "Я предельно устал.",
+      "I am extremely tired."
+    ],
+    "after": [
+      "предельно",
+      "extremely, maximally",
+      "Это предельно ясно.",
+      "This is extremely clear."
+    ],
+    "reason": "Use a natural Russian collocation."
+  },
+  {
+    "deck": "15260207",
+    "row": 226,
+    "before": [
+      "благотворительный",
+      "charitable, philanthropic",
+      "Благотворительный вечер.",
+      "A charitable evening."
+    ],
+    "after": [
+      "благотворительный",
+      "charitable, philanthropic",
+      "Это благотворительная организация.",
+      "This is a charitable organization."
+    ],
+    "reason": "Replace unnatural charitable evening with a clear collocation."
+  },
+  {
+    "deck": "15260207",
+    "row": 250,
+    "before": [
+      "преобладать",
+      "prevail, dominate",
+      "Правда преобладает.",
+      "Truth prevails."
+    ],
+    "after": [
+      "преобладать",
+      "prevail, dominate",
+      "На картине преобладает красный цвет.",
+      "The color red dominates the painting."
+    ],
+    "reason": "Truth prevails means truth triumphs, not преобладает."
+  },
+  {
+    "deck": "15260207",
+    "row": 272,
+    "before": [
+      "провинциальный",
+      "provincial, rural",
+      "Провинциальный город.",
+      "A provincial town."
+    ],
+    "after": [
+      "провинциальный",
+      "provincial",
+      "Провинциальный город.",
+      "A provincial town."
+    ],
+    "reason": "Provincial is not equivalent to rural."
+  },
+  {
+    "deck": "15260207",
+    "row": 288,
+    "before": [
+      "связка",
+      "bundle, bunch",
+      "Связка ключей.",
+      "A bundle of keys."
+    ],
+    "after": [
+      "связка",
+      "bundle, bunch",
+      "Связка ключей.",
+      "A bunch of keys."
+    ],
+    "reason": "Use the conventional English collocation."
+  },
+  {
+    "deck": "15260207",
+    "row": 292,
+    "before": [
+      "раствор",
+      "solution, solvent",
+      "Водный раствор.",
+      "A solution in water."
+    ],
+    "after": [
+      "раствор",
+      "solution",
+      "Водный раствор.",
+      "A solution in water."
+    ],
+    "reason": "Solvent is растворитель, not раствор."
+  },
+  {
+    "deck": "15260207",
+    "row": 331,
+    "before": [
+      "тщательный",
+      "thorough, meticulous",
+      "Тщательный выбор.",
+      "A thorough choice."
+    ],
+    "after": [
+      "тщательный",
+      "thorough, meticulous",
+      "Тщательный анализ.",
+      "A thorough analysis."
+    ],
+    "reason": "Replace unnatural a thorough choice."
+  },
+  {
+    "deck": "15260207",
+    "row": 361,
+    "before": [
+      "штурман",
+      "navigator, pilot",
+      "Он штурман.",
+      "He is a navigator."
+    ],
+    "after": [
+      "штурман",
+      "navigator",
+      "Он штурман.",
+      "He is a navigator."
+    ],
+    "reason": "Pilot is a different role."
+  },
+  {
+    "deck": "15260207",
+    "row": 373,
+    "before": [
+      "угодить",
+      "to please, to satisfy",
+      "Трудно угодить.",
+      "It is hard to please."
+    ],
+    "after": [
+      "угодить",
+      "to please, to satisfy",
+      "Ему трудно угодить.",
+      "He is hard to please."
+    ],
+    "reason": "Make the person to be pleased explicit in both languages."
+  },
+  {
+    "deck": "15260207",
+    "row": 411,
+    "before": [
+      "предание",
+      "tradition, legend",
+      "Старое предание.",
+      "An old tradition."
+    ],
+    "after": [
+      "предание",
+      "oral tradition, legend",
+      "Старое предание.",
+      "An old legend."
+    ],
+    "reason": "Distinguish a traditional story from a custom."
+  },
+  {
+    "deck": "15260207",
+    "row": 423,
+    "before": [
+      "повестка",
+      "agenda, summons",
+      "Его повестка.",
+      "His agenda."
+    ],
+    "after": [
+      "повестка",
+      "agenda, summons",
+      "Повестка встречи готова.",
+      "The meeting's agenda is ready."
+    ],
+    "reason": "Use agenda in a clear meeting context."
+  },
+  {
+    "deck": "15260207",
+    "row": 449,
+    "before": [
+      "гимназия",
+      "gymnasium, grammar school",
+      "Старая гимназия.",
+      "An old grammar school."
+    ],
+    "after": [
+      "гимназия",
+      "grammar school, gymnasium (school)",
+      "Старая гимназия.",
+      "An old grammar school."
+    ],
+    "reason": "Disambiguate the school from the English sports hall sense."
+  },
+  {
+    "deck": "15260210",
+    "row": 56,
+    "before": [
+      "выписать",
+      "to write out",
+      "Врач выписал лекарство.",
+      "The doctor wrote out the medicine."
+    ],
+    "after": [
+      "выписать",
+      "to prescribe, to write out",
+      "Врач выписал лекарство.",
+      "The doctor prescribed the medicine."
+    ],
+    "reason": "A doctor does not write out medicine."
+  },
+  {
+    "deck": "15260210",
+    "row": 79,
+    "before": [
+      "перенос",
+      "postponement",
+      "Перенос встречи расстроил нас.",
+      "The postponement upset us."
+    ],
+    "after": [
+      "перенос",
+      "postponement",
+      "Перенос встречи расстроил нас.",
+      "The postponement of the meeting upset us."
+    ],
+    "reason": "Restore the meeting omitted from English."
+  },
+  {
+    "deck": "15260210",
+    "row": 85,
+    "before": [
+      "птичка",
+      "little bird",
+      "Птичка сидит на окне.",
+      "A little bird sits on the window."
+    ],
+    "after": [
+      "птичка",
+      "little bird",
+      "Птичка сидит на подоконнике.",
+      "A little bird sits on the windowsill."
+    ],
+    "reason": "Use a physical perch rather than on the window."
+  },
+  {
+    "deck": "15260210",
+    "row": 98,
+    "before": [
+      "шуба",
+      "fur coat",
+      "На ней новая шуба.",
+      "She has a new fur coat."
+    ],
+    "after": [
+      "шуба",
+      "fur coat",
+      "На ней новая шуба.",
+      "She is wearing a new fur coat."
+    ],
+    "reason": "На ней means wearing, not merely owning."
+  },
+  {
+    "deck": "15260210",
+    "row": 105,
+    "before": [
+      "ударный",
+      "percussive",
+      "Это ударный инструмент.",
+      "This is a percussive instrument."
+    ],
+    "after": [
+      "ударный",
+      "percussion (attributive), percussive",
+      "Это ударный инструмент.",
+      "This is a percussion instrument."
+    ],
+    "reason": "Use the conventional instrument category."
+  },
+  {
+    "deck": "15260210",
+    "row": 127,
+    "before": [
+      "драматический",
+      "dramatic",
+      "Это драматический театр.",
+      "This is a dramatic theater."
+    ],
+    "after": [
+      "драматический",
+      "dramatic",
+      "Это драматический момент.",
+      "This is a dramatic moment."
+    ],
+    "reason": "Avoid the calque dramatic theater."
+  },
+  {
+    "deck": "15260210",
+    "row": 151,
+    "before": [
+      "присниться",
+      "to appear in a dream",
+      "Ты мне приснился.",
+      "You appeared in a dream."
+    ],
+    "after": [
+      "присниться",
+      "to appear in a dream",
+      "Ты мне приснился.",
+      "You appeared in my dream."
+    ],
+    "reason": "Preserve whose dream it was."
+  },
+  {
+    "deck": "15260210",
+    "row": 233,
+    "before": [
+      "рабство",
+      "slavery",
+      "Рабства уже нет.",
+      "There is no slavery now."
+    ],
+    "after": [
+      "рабство",
+      "slavery",
+      "Они боролись против рабства.",
+      "They fought against slavery."
+    ],
+    "reason": "Replace the false general claim that slavery no longer exists."
+  },
+  {
+    "deck": "15260210",
+    "row": 243,
+    "before": [
+      "приказывать",
+      "to order",
+      "Не приказывай мне.",
+      "Do not order me."
+    ],
+    "after": [
+      "приказывать",
+      "to order",
+      "Не приказывай мне уходить.",
+      "Do not order me to leave."
+    ],
+    "reason": "Complete the English verb construction."
+  },
+  {
+    "deck": "15260210",
+    "row": 389,
+    "before": [
+      "аллея",
+      "alley",
+      "Мы идём по аллее.",
+      "We are walking down the alley."
+    ],
+    "after": [
+      "аллея",
+      "avenue, tree-lined path",
+      "Мы идём по аллее.",
+      "We are walking along the avenue."
+    ],
+    "reason": "Аллея is a tree-lined avenue or path, not a narrow backstreet alley."
+  },
+  {
+    "deck": "15260210",
+    "row": 405,
+    "before": [
+      "наедине",
+      "alone",
+      "Мы остались наедине.",
+      "We stayed alone."
+    ],
+    "after": [
+      "наедине",
+      "alone",
+      "Мы остались наедине.",
+      "We were left alone together."
+    ],
+    "reason": "Preserve the private togetherness expressed by наедине."
+  },
+  {
+    "deck": "15260210",
+    "row": 421,
+    "before": [
+      "классик",
+      "classic",
+      "Он русский классик.",
+      "He is a Russian classic."
+    ],
+    "after": [
+      "классик",
+      "classic author",
+      "Он русский классик.",
+      "He is a classic Russian author."
+    ],
+    "reason": "Classic alone does not naturally denote a writer in this sentence."
+  },
+  {
+    "deck": "15260210",
+    "row": 477,
+    "before": [
+      "вестник",
+      "messenger",
+      "Он вестник войны.",
+      "He is a messenger of war."
+    ],
+    "after": [
+      "вестник",
+      "messenger",
+      "Вестник принёс письмо.",
+      "The messenger brought a letter."
+    ],
+    "reason": "Replace abstract messenger of war with a concrete messenger example."
+  },
+  {
+    "deck": "15260210",
+    "row": 497,
+    "before": [
+      "ускорить",
+      "to speed up",
+      "Ускорь шаг.",
+      "Speed up your step."
+    ],
+    "after": [
+      "ускорить",
+      "to speed up",
+      "Ускорь работу.",
+      "Speed up the work."
+    ],
+    "reason": "Speed up your step is an unnatural English collocation."
+  },
+  {
+    "deck": "15260213",
+    "row": 26,
+    "before": [
+      "погружаться",
+      "to dive, to immerse",
+      "Он погружается в воду.",
+      "He dives into the water."
+    ],
+    "after": [
+      "погружаться",
+      "to dive, to immerse oneself",
+      "Он погружается в воду.",
+      "He dives into the water."
+    ],
+    "reason": "Preserve reflexive meaning for immerse."
+  },
+  {
+    "deck": "15260213",
+    "row": 37,
+    "before": [
+      "общность",
+      "common ground",
+      "Между ними есть общность взглядов.",
+      "They share common ground."
+    ],
+    "after": [
+      "общность",
+      "commonality, common ground",
+      "Между ними есть общность взглядов.",
+      "There is a commonality of views between them."
+    ],
+    "reason": "Restore the specific shared views omitted from English."
+  },
+  {
+    "deck": "15260213",
+    "row": 87,
+    "before": [
+      "изрядно",
+      "considerably, quite",
+      "Он изрядно устал.",
+      "He is considerably tired."
+    ],
+    "after": [
+      "изрядно",
+      "considerably, quite",
+      "Он изрядно устал.",
+      "He is quite tired."
+    ],
+    "reason": "Considerably tired is an unnatural intensifier combination."
+  },
+  {
+    "deck": "15260213",
+    "row": 116,
+    "before": [
+      "превысить",
+      "exceed, surpass",
+      "Он превысил скорость.",
+      "He exceeded the speed."
+    ],
+    "after": [
+      "превысить",
+      "exceed, surpass",
+      "Он превысил скорость.",
+      "He exceeded the speed limit."
+    ],
+    "reason": "English requires speed limit, not just speed."
+  },
+  {
+    "deck": "15260213",
+    "row": 117,
+    "before": [
+      "хорошенько",
+      "well, thoroughly",
+      "Хорошенько подумай.",
+      "Think thoroughly."
+    ],
+    "after": [
+      "хорошенько",
+      "well, thoroughly",
+      "Хорошенько проверь ответ.",
+      "Check the answer thoroughly."
+    ],
+    "reason": "Use a natural collocation with thoroughly."
+  },
+  {
+    "deck": "15260213",
+    "row": 120,
+    "before": [
+      "въехать",
+      "to drive in, to enter",
+      "Машина въехала во двор.",
+      "The car drove in."
+    ],
+    "after": [
+      "въехать",
+      "to drive in, to enter",
+      "Машина въехала во двор.",
+      "The car drove into the yard."
+    ],
+    "reason": "Restore the destination omitted from English."
+  },
+  {
+    "deck": "15260213",
+    "row": 151,
+    "before": [
+      "внутренне",
+      "internally",
+      "Он внутренне спокоен.",
+      "He is internally calm."
+    ],
+    "after": [
+      "внутренне",
+      "inwardly, internally",
+      "Он внутренне спокоен.",
+      "He is inwardly calm."
+    ],
+    "reason": "Use inwardly for inner emotional state."
+  },
+  {
+    "deck": "15260213",
+    "row": 210,
+    "before": [
+      "тоталитарный",
+      "totalitarian, authoritarian",
+      "Это тоталитарный режим.",
+      "This is a totalitarian regime."
+    ],
+    "after": [
+      "тоталитарный",
+      "totalitarian",
+      "Это тоталитарный режим.",
+      "This is a totalitarian regime."
+    ],
+    "reason": "Authoritarian and totalitarian are distinct concepts."
+  },
+  {
+    "deck": "15260213",
+    "row": 232,
+    "before": [
+      "небось",
+      "I bet, probably",
+      "Небось, ты устал.",
+      "Probably you are tired."
+    ],
+    "after": [
+      "небось",
+      "I bet, probably",
+      "Небось ты устал.",
+      "Probably you are tired."
+    ],
+    "reason": "Небось as a particle does not require this comma."
+  },
+  {
+    "deck": "15260213",
+    "row": 256,
+    "before": [
+      "незадолго",
+      "shortly before, not long before",
+      "Это было незадолго до нас.",
+      "This was shortly before us."
+    ],
+    "after": [
+      "незадолго",
+      "shortly before, not long before",
+      "Он пришёл незадолго до нас.",
+      "He arrived shortly before us."
+    ],
+    "reason": "Replace a vague and awkward time comparison with an explicit action."
+  },
+  {
+    "deck": "15260213",
+    "row": 262,
+    "before": [
+      "руководящий",
+      "guiding, leading",
+      "Он занял руководящий пост.",
+      "He took a leading post."
+    ],
+    "after": [
+      "руководящий",
+      "managerial, leading",
+      "Он занял руководящий пост.",
+      "He took a managerial post."
+    ],
+    "reason": "Use the natural English collocation for a management position."
+  },
+  {
+    "deck": "15260213",
+    "row": 298,
+    "before": [
+      "грузовой",
+      "cargo, freight",
+      "Грузовой поезд уже здесь.",
+      "The cargo train is already here."
+    ],
+    "after": [
+      "грузовой",
+      "cargo, freight",
+      "Грузовой поезд уже здесь.",
+      "The freight train is already here."
+    ],
+    "reason": "Use the standard train category."
+  },
+  {
+    "deck": "15260213",
+    "row": 406,
+    "before": [
+      "супермаркет",
+      "supermarket, hypermarket",
+      "Я в супермаркете.",
+      "I am at the supermarket."
+    ],
+    "after": [
+      "супермаркет",
+      "supermarket",
+      "Я в супермаркете.",
+      "I am at the supermarket."
+    ],
+    "reason": "Hypermarket is a different store category."
+  },
+  {
+    "deck": "15260213",
+    "row": 443,
+    "before": [
+      "слог",
+      "syllable, sound",
+      "Это один слог.",
+      "This is one syllable."
+    ],
+    "after": [
+      "слог",
+      "syllable",
+      "Это один слог.",
+      "This is one syllable."
+    ],
+    "reason": "A sound is not a syllable."
+  },
+  {
+    "deck": "15260213",
+    "row": 477,
+    "before": [
+      "национализм",
+      "nationalism, chauvinism",
+      "Это опасный национализм.",
+      "This is dangerous nationalism."
+    ],
+    "after": [
+      "национализм",
+      "nationalism",
+      "Это опасный национализм.",
+      "This is dangerous nationalism."
+    ],
+    "reason": "Chauvinism is a distinct, stronger concept."
+  },
+  {
+    "deck": "15260213",
+    "row": 479,
+    "before": [
+      "подписание",
+      "signing, signature",
+      "Подписание завтра.",
+      "The signing is tomorrow."
+    ],
+    "after": [
+      "подписание",
+      "signing",
+      "Подписание завтра.",
+      "The signing is tomorrow."
+    ],
+    "reason": "Signature is подпись, not the act of signing."
+  },
+  {
+    "deck": "15260213",
+    "row": 497,
+    "before": [
+      "воплотить",
+      "embody, incarnate",
+      "Надо воплотить идею.",
+      "We must embody the idea."
+    ],
+    "after": [
+      "воплотить",
+      "to put into practice, to embody",
+      "Надо воплотить идею в жизнь.",
+      "We must put the idea into practice."
+    ],
+    "reason": "Use an idiomatic equivalent of making an idea real."
+  },
+  {
+    "deck": "15260214",
+    "row": 5,
+    "before": [
+      "чек",
+      "check, receipt",
+      "Принесите чек, пожалуйста.",
+      "Please bring the check."
+    ],
+    "after": [
+      "чек",
+      "receipt, check (banking)",
+      "Принесите чек, пожалуйста.",
+      "Please bring the receipt."
+    ],
+    "reason": "Disambiguate receipt from the American restaurant check, which is счёт."
+  },
+  {
+    "deck": "15260214",
+    "row": 38,
+    "before": [
+      "заход",
+      "sunset, approach",
+      "Мы ждали заход солнца.",
+      "We waited for the sunset."
+    ],
+    "after": [
+      "заход",
+      "setting (of a celestial body), approach",
+      "Мы ждали захода солнца.",
+      "We waited for the setting of the sun."
+    ],
+    "reason": "Use natural genitive after ждать for the anticipated event. Sun is supplied by солнце, not заход alone."
+  },
+  {
+    "deck": "15260214",
+    "row": 87,
+    "before": [
+      "экстремальный",
+      "extreme",
+      "Это экстремальный случай.",
+      "This is an extreme case."
+    ],
+    "after": [
+      "экстремальный",
+      "extreme",
+      "Это экстремальные условия.",
+      "These are extreme conditions."
+    ],
+    "reason": "Use the normal collocation for экстремальный."
+  },
+  {
+    "deck": "15260214",
+    "row": 149,
+    "before": [
+      "ожить",
+      "come to life, revive",
+      "Город начал ожить.",
+      "The city began to come to life."
+    ],
+    "after": [
+      "ожить",
+      "come to life, revive",
+      "Город ожил вечером.",
+      "The city came to life in the evening."
+    ],
+    "reason": "Начал cannot take the perfective ожить."
+  },
+  {
+    "deck": "15260214",
+    "row": 199,
+    "before": [
+      "сердито",
+      "angrily, crossly",
+      "Он сердито посмотрел.",
+      "He looked angrily."
+    ],
+    "after": [
+      "сердито",
+      "angrily, crossly",
+      "Он сердито посмотрел на меня.",
+      "He looked at me angrily."
+    ],
+    "reason": "Complete the English look construction."
+  },
+  {
+    "deck": "15260214",
+    "row": 211,
+    "before": [
+      "исчерпать",
+      "to use up, to exhaust",
+      "Мы исчерпали время.",
+      "We used up our time."
+    ],
+    "after": [
+      "исчерпать",
+      "to use up, to exhaust",
+      "Мы исчерпали ресурсы.",
+      "We used up our resources."
+    ],
+    "reason": "Replace unnatural исчерпать время with a standard collocation."
+  },
+  {
+    "deck": "15260214",
+    "row": 238,
+    "before": [
+      "резервный",
+      "reserve, backup",
+      "Это резервный выход.",
+      "This is the backup exit."
+    ],
+    "after": [
+      "резервный",
+      "reserve, backup",
+      "Это резервный план.",
+      "This is the backup plan."
+    ],
+    "reason": "Use a natural backup collocation."
+  },
+  {
+    "deck": "15260214",
+    "row": 254,
+    "before": [
+      "совать",
+      "to poke, to thrust",
+      "Не надо совать нос.",
+      "Do not poke your nose."
+    ],
+    "after": [
+      "совать",
+      "to poke, to thrust",
+      "Не надо совать нос в мои дела.",
+      "Do not poke your nose into my business."
+    ],
+    "reason": "Complete the idiom on both sides."
+  },
+  {
+    "deck": "15260214",
+    "row": 256,
+    "before": [
+      "соседство",
+      "neighborhood, vicinity",
+      "Это тихое соседство.",
+      "This is a quiet neighborhood."
+    ],
+    "after": [
+      "соседство",
+      "proximity, neighborhood",
+      "Соседство с заводом ему не нравится.",
+      "He does not like the proximity of the factory."
+    ],
+    "reason": "Соседство means being neighbors or proximity, not an urban district."
+  },
+  {
+    "deck": "15260214",
+    "row": 271,
+    "before": [
+      "воробей",
+      "sparrow",
+      "Воробей сидит на окне.",
+      "A sparrow sits by the window."
+    ],
+    "after": [
+      "воробей",
+      "sparrow",
+      "Воробей сидит на подоконнике.",
+      "A sparrow sits on the windowsill."
+    ],
+    "reason": "Align the perch on both sides."
+  },
+  {
+    "deck": "15260214",
+    "row": 317,
+    "before": [
+      "недопустимый",
+      "inadmissible, unacceptable",
+      "Это недопустимый шаг.",
+      "This is an inadmissible step."
+    ],
+    "after": [
+      "недопустимый",
+      "inadmissible, unacceptable",
+      "Это недопустимый шаг.",
+      "This is an unacceptable step."
+    ],
+    "reason": "Use the natural English sense rather than inadmissible step."
+  },
+  {
+    "deck": "15260214",
+    "row": 322,
+    "before": [
+      "крокодил",
+      "crocodile, alligator",
+      "Крокодил в реке.",
+      "The crocodile is in the river."
+    ],
+    "after": [
+      "крокодил",
+      "crocodile",
+      "Крокодил в реке.",
+      "The crocodile is in the river."
+    ],
+    "reason": "Alligator is a different animal."
+  },
+  {
+    "deck": "15260214",
+    "row": 428,
+    "before": [
+      "вручную",
+      "manually, by hand",
+      "Он пишет вручную.",
+      "He writes manually."
+    ],
+    "after": [
+      "вручную",
+      "manually, by hand",
+      "Он пишет вручную.",
+      "He writes by hand."
+    ],
+    "reason": "Use the idiomatic English expression."
+  },
+  {
+    "deck": "15260214",
+    "row": 434,
+    "before": [
+      "податься",
+      "to go, to apply",
+      "Он решил податься в город.",
+      "He decided to go to the city."
+    ],
+    "after": [
+      "податься",
+      "to go, to head",
+      "Он решил податься в город.",
+      "He decided to go to the city."
+    ],
+    "reason": "Apply confuses податься with подать заявление."
+  },
+  {
+    "deck": "15260214",
+    "row": 443,
+    "before": [
+      "неотъемлемый",
+      "integral, inseparable",
+      "Это неотъемлемое право.",
+      "This is an integral right."
+    ],
+    "after": [
+      "неотъемлемый",
+      "integral, inseparable, inalienable",
+      "Это неотъемлемое право.",
+      "This is an inalienable right."
+    ],
+    "reason": "Use the correct collocation for a right that cannot be taken away."
+  },
+  {
+    "deck": "15260214",
+    "row": 448,
+    "before": [
+      "грамматика",
+      "grammar, syntax",
+      "Грамматика трудная.",
+      "The grammar is hard."
+    ],
+    "after": [
+      "грамматика",
+      "grammar",
+      "Грамматика трудная.",
+      "The grammar is hard."
+    ],
+    "reason": "Syntax is one part of grammar, not a synonym for the whole."
+  },
+  {
+    "deck": "15260214",
+    "row": 451,
+    "before": [
+      "пафос",
+      "pathos, pomposity",
+      "В речи много пафоса.",
+      "The speech is full of pathos."
+    ],
+    "after": [
+      "пафос",
+      "pomposity, rhetorical fervor",
+      "В речи много пафоса.",
+      "The speech is full of pomposity."
+    ],
+    "reason": "Avoid the English false friend pathos, which emphasizes pity or sorrow."
+  },
+  {
+    "deck": "15260214",
+    "row": 475,
+    "before": [
+      "пониматься",
+      "to be understood in another way",
+      "Это понимается иначе.",
+      "This is understood in another way."
+    ],
+    "after": [
+      "пониматься",
+      "to be understood",
+      "Это понимается иначе.",
+      "This is understood in another way."
+    ],
+    "reason": "In another way belongs to the example, not the verb meaning."
+  },
+  {
+    "deck": "15260215",
+    "row": 48,
+    "before": [
+      "принудительный",
+      "compulsory, forced",
+      "Это принудительный труд.",
+      "This is compulsory labor."
+    ],
+    "after": [
+      "принудительный",
+      "compulsory, forced",
+      "Это принудительный труд.",
+      "This is forced labor."
+    ],
+    "reason": "Use the standard collocation."
+  },
+  {
+    "deck": "15260215",
+    "row": 67,
+    "before": [
+      "пальчик",
+      "little finger",
+      "Она поцеловала его пальчик.",
+      "She kissed his little finger."
+    ],
+    "after": [
+      "пальчик",
+      "finger (diminutive)",
+      "Она поцеловала его пальчик.",
+      "She kissed his finger."
+    ],
+    "reason": "The diminutive does not specifically mean pinky."
+  },
+  {
+    "deck": "15260215",
+    "row": 131,
+    "before": [
+      "срываться",
+      "to come off, to slip",
+      "Кнопка снова срывается.",
+      "The button keeps coming off."
+    ],
+    "after": [
+      "срываться",
+      "to come off, to slip",
+      "Он срывается со скалы.",
+      "He slips off the cliff."
+    ],
+    "reason": "Use a natural Russian collocation."
+  },
+  {
+    "deck": "15260215",
+    "row": 164,
+    "before": [
+      "носовой",
+      "nasal",
+      "У него носовой голос.",
+      "He has a nasal voice."
+    ],
+    "after": [
+      "носовой",
+      "nasal",
+      "Это носовой звук.",
+      "This is a nasal sound."
+    ],
+    "reason": "Use a natural collocation for nasal."
+  },
+  {
+    "deck": "15260215",
+    "row": 167,
+    "before": [
+      "арбитражный",
+      "arbitration",
+      "Это арбитражный суд.",
+      "This is an arbitration court."
+    ],
+    "after": [
+      "арбитражный",
+      "arbitration",
+      "Это арбитражное соглашение.",
+      "This is an arbitration agreement."
+    ],
+    "reason": "Avoid conflating a commercial court with private arbitration."
+  },
+  {
+    "deck": "15260215",
+    "row": 185,
+    "before": [
+      "проложить",
+      "lay, pave",
+      "Они проложили дорогу.",
+      "They paved the road."
+    ],
+    "after": [
+      "проложить",
+      "to lay, to build",
+      "Они проложили кабель.",
+      "They laid a cable."
+    ],
+    "reason": "Laying a route does not necessarily mean paving it."
+  },
+  {
+    "deck": "15260215",
+    "row": 193,
+    "before": [
+      "значиться",
+      "to be listed",
+      "Его имя значится в списке.",
+      "His name is listed."
+    ],
+    "after": [
+      "значиться",
+      "to be listed",
+      "Его имя значится в документе.",
+      "His name is listed in the document."
+    ],
+    "reason": "Translate the full example."
+  },
+  {
+    "deck": "15260215",
+    "row": 243,
+    "before": [
+      "свершиться",
+      "to come true",
+      "Мечта свершилась.",
+      "The dream came true."
+    ],
+    "after": [
+      "свершиться",
+      "to take place, to come to pass",
+      "Свершилось важное событие.",
+      "An important event took place."
+    ],
+    "reason": "A dream comes true with сбыться, not свершиться."
+  },
+  {
+    "deck": "15260215",
+    "row": 283,
+    "before": [
+      "рассердиться",
+      "to get angry",
+      "Он легко рассердился.",
+      "He got angry easily."
+    ],
+    "after": [
+      "рассердиться",
+      "to get angry",
+      "Он сразу рассердился.",
+      "He got angry immediately."
+    ],
+    "reason": "Natural aspect and adverb pairing."
+  },
+  {
+    "deck": "15260215",
+    "row": 311,
+    "before": [
+      "доставаться",
+      "to get, to end up with",
+      "Мне всегда достаётся это.",
+      "I always end up with this."
+    ],
+    "after": [
+      "доставаться",
+      "to get, to end up with",
+      "Мне всегда достаётся эта работа.",
+      "I always end up with this work."
+    ],
+    "reason": "Natural word order and concrete context."
+  },
+  {
+    "deck": "15260215",
+    "row": 325,
+    "before": [
+      "увидать",
+      "to see",
+      "Я увидал его там.",
+      "I did see him there."
+    ],
+    "after": [
+      "увидать",
+      "to see",
+      "Я увидал его там.",
+      "I saw him there."
+    ],
+    "reason": "Remove unsupported emphatic did."
+  },
+  {
+    "deck": "15260215",
+    "row": 348,
+    "before": [
+      "сахарный",
+      "sugary, sugar",
+      "Это сахарный напиток.",
+      "This is a sugary drink."
+    ],
+    "after": [
+      "сахарный",
+      "sugar (attributive)",
+      "Это сахарный завод.",
+      "This is a sugar factory."
+    ],
+    "reason": "Sugar-containing drinks are normally сладкие; use a clear attributive sense."
+  },
+  {
+    "deck": "15260215",
+    "row": 350,
+    "before": [
+      "декорация",
+      "decoration, set",
+      "Декорация уже готова.",
+      "The set is ready."
+    ],
+    "after": [
+      "декорация",
+      "stage set, scenery",
+      "Декорация уже готова.",
+      "The stage set is ready."
+    ],
+    "reason": "Distinguish theatrical scenery from generic decoration."
+  },
+  {
+    "deck": "15260215",
+    "row": 397,
+    "before": [
+      "записной",
+      "notebook",
+      "Это записная книжка.",
+      "This is a notebook."
+    ],
+    "after": [
+      "записной",
+      "for notes (записная книжка: notebook)",
+      "Используй эту записную книжку для заметок.",
+      "Use this notebook for notes."
+    ],
+    "reason": "The adjective itself is not the noun notebook. Use the adjective directly without awkward notebook definition. Demonstrate the common phrase with natural wording."
+  },
+  {
+    "deck": "15260215",
+    "row": 425,
+    "before": [
+      "подскочить",
+      "jump",
+      "Кот подскочил на кровать.",
+      "The cat jumped on the bed."
+    ],
+    "after": [
+      "подскочить",
+      "to jump up",
+      "Он подскочил от страха.",
+      "He jumped up in fear."
+    ],
+    "reason": "Jumping onto a bed is вскочить, not подскочить."
+  },
+  {
+    "deck": "15260215",
+    "row": 432,
+    "before": [
+      "опережать",
+      "to overtake, to outstrip",
+      "Она опережает нас.",
+      "She is overtaking us."
+    ],
+    "after": [
+      "опережать",
+      "to be ahead of, to outstrip",
+      "Она опережает нас.",
+      "She is ahead of us."
+    ],
+    "reason": "Опережать describes being ahead rather than the passing action."
+  },
+  {
+    "deck": "15260215",
+    "row": 480,
+    "before": [
+      "обитание",
+      "habitat",
+      "Это место обитания.",
+      "This is a habitat."
+    ],
+    "after": [
+      "обитание",
+      "habitation, living",
+      "Обитание здесь невозможно.",
+      "Habitation here is impossible."
+    ],
+    "reason": "Habitat is место обитания rather than обитание alone. Keep the noun meaning and prior vocabulary."
+  },
+  {
+    "deck": "15260215",
+    "row": 497,
+    "before": [
+      "сдохнуть",
+      "die",
+      "Собака скоро сдохнет.",
+      "The dog will soon die."
+    ],
+    "after": [
+      "сдохнуть",
+      "to die (coarse, usually of animals)",
+      "Собака скоро сдохнет.",
+      "The dog will soon die."
+    ],
+    "reason": "Mark the coarse register."
+  },
+  {
+    "deck": "15260217",
+    "row": 30,
+    "before": [
+      "двоюродный",
+      "cousin",
+      "Мой двоюродный брат здесь.",
+      "My cousin is here."
+    ],
+    "after": [
+      "двоюродный",
+      "cousin (in двоюродный брат/сестра)",
+      "Мой двоюродный брат здесь.",
+      "My cousin is here."
+    ],
+    "reason": "Clarify that the noun phrase means cousin."
+  },
+  {
+    "deck": "15260217",
+    "row": 37,
+    "before": [
+      "усадить",
+      "to seat, to plant",
+      "Усади гостей за стол.",
+      "Seat the guests at the table."
+    ],
+    "after": [
+      "усадить",
+      "to seat",
+      "Усади гостей за стол.",
+      "Seat the guests at the table."
+    ],
+    "reason": "Remove misleading standalone plant sense."
+  },
+  {
+    "deck": "15260217",
+    "row": 40,
+    "before": [
+      "конюшня",
+      "stable, stud farm",
+      "Лошадь стоит в конюшне.",
+      "The horse stands in the stable."
+    ],
+    "after": [
+      "конюшня",
+      "stable",
+      "Лошадь стоит в конюшне.",
+      "The horse stands in the stable."
+    ],
+    "reason": "A stud farm is конный завод."
+  },
+  {
+    "deck": "15260217",
+    "row": 41,
+    "before": [
+      "заграничный",
+      "foreign, overseas",
+      "У неё заграничный паспорт.",
+      "She has a foreign passport."
+    ],
+    "after": [
+      "заграничный",
+      "foreign, overseas",
+      "Он купил заграничный товар.",
+      "He bought a foreign product."
+    ],
+    "reason": "A заграничный паспорт is for travel abroad, not necessarily foreign-issued."
+  },
+  {
+    "deck": "15260217",
+    "row": 51,
+    "before": [
+      "ворчать",
+      "grumble, mutter",
+      "Он ворчит с утра.",
+      "He grumbles in the morning."
+    ],
+    "after": [
+      "ворчать",
+      "grumble, mutter",
+      "Он ворчит с утра.",
+      "He has been grumbling since morning."
+    ],
+    "reason": "Translate с утра and ongoing duration."
+  },
+  {
+    "deck": "15260217",
+    "row": 56,
+    "before": [
+      "дядька",
+      "uncle, guy",
+      "Мой дядька живёт во дворе.",
+      "My uncle lives in the yard."
+    ],
+    "after": [
+      "дядька",
+      "uncle, guy",
+      "Мой дядька живёт в деревне.",
+      "My uncle lives in the village."
+    ],
+    "reason": "Replace implausible residence in a yard."
+  },
+  {
+    "deck": "15260217",
+    "row": 90,
+    "before": [
+      "машинист",
+      "engineer, machinist",
+      "Машинист ведёт поезд.",
+      "The engineer drives the train."
+    ],
+    "after": [
+      "машинист",
+      "train driver, engine operator",
+      "Машинист ведёт поезд.",
+      "The train driver drives the train."
+    ],
+    "reason": "Machinist normally means a different trade."
+  },
+  {
+    "deck": "15260217",
+    "row": 107,
+    "before": [
+      "помещик",
+      "landowner, nobleman",
+      "Помещик жил в деревне.",
+      "The landowner lived in the village."
+    ],
+    "after": [
+      "помещик",
+      "landowner",
+      "Помещик жил в деревне.",
+      "The landowner lived in the village."
+    ],
+    "reason": "Nobleman is not equivalent to landowner."
+  },
+  {
+    "deck": "15260217",
+    "row": 123,
+    "before": [
+      "духовно",
+      "spiritually, spiritually-minded",
+      "Она духовно сильна.",
+      "She is spiritually strong."
+    ],
+    "after": [
+      "духовно",
+      "spiritually",
+      "Она духовно сильна.",
+      "She is spiritually strong."
+    ],
+    "reason": "Remove adjective from adverb gloss."
+  },
+  {
+    "deck": "15260217",
+    "row": 134,
+    "before": [
+      "сменяться",
+      "to change, to alternate",
+      "Дни быстро сменяются.",
+      "The days change quickly."
+    ],
+    "after": [
+      "сменяться",
+      "to change, to alternate",
+      "Времена года сменяются.",
+      "The seasons change."
+    ],
+    "reason": "Natural change-over example."
+  },
+  {
+    "deck": "15260217",
+    "row": 169,
+    "before": [
+      "суверенитет",
+      "sovereignty, autonomy",
+      "Страна защищает суверенитет.",
+      "The country defends its sovereignty."
+    ],
+    "after": [
+      "суверенитет",
+      "sovereignty",
+      "Страна защищает суверенитет.",
+      "The country defends its sovereignty."
+    ],
+    "reason": "Autonomy does not mean sovereignty."
+  },
+  {
+    "deck": "15260217",
+    "row": 174,
+    "before": [
+      "пробраться",
+      "sneak in, infiltrate",
+      "Мы пробрались в дом.",
+      "We sneaked in."
+    ],
+    "after": [
+      "пробраться",
+      "sneak in, infiltrate",
+      "Мы пробрались в дом.",
+      "We sneaked into the house."
+    ],
+    "reason": "Restore destination in translation."
+  },
+  {
+    "deck": "15260217",
+    "row": 189,
+    "before": [
+      "дивизион",
+      "division, divisional",
+      "Дивизион стоит здесь.",
+      "The division stands here."
+    ],
+    "after": [
+      "дивизион",
+      "battalion (artillery); squadron",
+      "Артиллерийский дивизион готов к бою.",
+      "The artillery battalion is ready for battle."
+    ],
+    "reason": "Avoid false-friend division and incorrect adjective divisional."
+  },
+  {
+    "deck": "15260217",
+    "row": 193,
+    "before": [
+      "попугай",
+      "parrot, parakeet",
+      "Попугай сидит в клетке.",
+      "The parrot sits in the cage."
+    ],
+    "after": [
+      "попугай",
+      "parrot",
+      "Попугай сидит в клетке.",
+      "The parrot sits in the cage."
+    ],
+    "reason": "Parakeet is a narrower type of parrot."
+  },
+  {
+    "deck": "15260217",
+    "row": 207,
+    "before": [
+      "мостовая",
+      "pavement, cobblestone",
+      "Мостовая мокрая.",
+      "The pavement is wet."
+    ],
+    "after": [
+      "мостовая",
+      "roadway, pavement",
+      "Мостовая мокрая.",
+      "The pavement is wet."
+    ],
+    "reason": "A cobblestone is a stone, not the roadway."
+  },
+  {
+    "deck": "15260217",
+    "row": 210,
+    "before": [
+      "должник",
+      "debtor, borrower",
+      "Должник не платит.",
+      "The debtor does not pay."
+    ],
+    "after": [
+      "должник",
+      "debtor",
+      "Должник не платит.",
+      "The debtor does not pay."
+    ],
+    "reason": "A debtor need not be a borrower."
+  },
+  {
+    "deck": "15260217",
+    "row": 236,
+    "before": [
+      "доводиться",
+      "happen to, be related as",
+      "Он мне доводится дядей.",
+      "He happens to be my uncle."
+    ],
+    "after": [
+      "доводиться",
+      "to happen to; to be related as",
+      "Мне доводилось бывать здесь.",
+      "I happened to be here before."
+    ],
+    "reason": "Separate happen-to sense from kinship sense. More natural English example."
+  },
+  {
+    "deck": "15260217",
+    "row": 252,
+    "before": [
+      "спец",
+      "specialist, spec",
+      "Нам нужен спец.",
+      "We need a specialist."
+    ],
+    "after": [
+      "спец",
+      "specialist (colloquial)",
+      "Нам нужен спец.",
+      "We need a specialist."
+    ],
+    "reason": "Spec is not an English synonym for specialist."
+  },
+  {
+    "deck": "15260217",
+    "row": 264,
+    "before": [
+      "ураган",
+      "hurricane, typhoon",
+      "Идёт сильный ураган.",
+      "A strong hurricane is coming."
+    ],
+    "after": [
+      "ураган",
+      "hurricane",
+      "Идёт сильный ураган.",
+      "A strong hurricane is coming."
+    ],
+    "reason": "Remove narrower regional typhoon synonym."
+  },
+  {
+    "deck": "15260217",
+    "row": 294,
+    "before": [
+      "погружение",
+      "immersion, diving",
+      "Погружение было глубоким.",
+      "The immersion was deep."
+    ],
+    "after": [
+      "погружение",
+      "immersion, diving",
+      "Погружение началось.",
+      "The diving has begun."
+    ],
+    "reason": "Replace awkward deep immersion example."
+  },
+  {
+    "deck": "15260217",
+    "row": 334,
+    "before": [
+      "тамошний",
+      "local, there",
+      "Тамошний народ другой.",
+      "The local people are different."
+    ],
+    "after": [
+      "тамошний",
+      "from there, local to that place",
+      "Тамошний народ другой.",
+      "The people from there are different."
+    ],
+    "reason": "Preserve the distal meaning of тамошний."
+  },
+  {
+    "deck": "15260217",
+    "row": 342,
+    "before": [
+      "лестничный",
+      "stair landing",
+      "Лестничная площадка открыта.",
+      "The stair landing is open."
+    ],
+    "after": [
+      "лестничный",
+      "stair, staircase (attributive)",
+      "Лестничная площадка открыта.",
+      "The stair landing is open."
+    ],
+    "reason": "The adjective alone does not mean landing."
+  },
+  {
+    "deck": "15260217",
+    "row": 365,
+    "before": [
+      "скромность",
+      "modesty, humility",
+      "Ей не хватает скромности.",
+      "She has no modesty."
+    ],
+    "after": [
+      "скромность",
+      "modesty, humility",
+      "Ей не хватает скромности.",
+      "She lacks modesty."
+    ],
+    "reason": "Lack is not necessarily complete absence."
+  },
+  {
+    "deck": "15260217",
+    "row": 382,
+    "before": [
+      "приучить",
+      "to train, to accustom",
+      "Приучи собаку.",
+      "Train the dog."
+    ],
+    "after": [
+      "приучить",
+      "to train, to accustom",
+      "Приучи собаку ждать.",
+      "Train the dog to wait."
+    ],
+    "reason": "Supply the habit required by приучить."
+  },
+  {
+    "deck": "15260217",
+    "row": 413,
+    "before": [
+      "крыться",
+      "to hide, to lie",
+      "Ему негде крыться.",
+      "He has nowhere to hide."
+    ],
+    "after": [
+      "крыться",
+      "to lie, to be hidden",
+      "В этом кроется опасность.",
+      "Danger lies in this."
+    ],
+    "reason": "Use ordinary contemporary крыться construction."
+  },
+  {
+    "deck": "15260217",
+    "row": 422,
+    "before": [
+      "оккупация",
+      "occupation, annexation",
+      "После оккупации.",
+      "After the occupation."
+    ],
+    "after": [
+      "оккупация",
+      "occupation (military)",
+      "После оккупации.",
+      "After the occupation."
+    ],
+    "reason": "Occupation and annexation are distinct."
+  },
+  {
+    "deck": "15260217",
+    "row": 424,
+    "before": [
+      "единомышленник",
+      "like-minded person",
+      "Он мой единомышленник.",
+      "He is a like-minded person."
+    ],
+    "after": [
+      "единомышленник",
+      "like-minded person",
+      "Он мой единомышленник.",
+      "He is a like-minded person who shares my views."
+    ],
+    "reason": "Preserve relation to the speaker."
+  },
+  {
+    "deck": "15260217",
+    "row": 441,
+    "before": [
+      "откинуть",
+      "throw back, recline",
+      "Откинь голову.",
+      "Throw back your head."
+    ],
+    "after": [
+      "откинуть",
+      "throw back",
+      "Откинь голову.",
+      "Throw back your head."
+    ],
+    "reason": "Recline normally corresponds to reflexive откинуться."
+  },
+  {
+    "deck": "15260217",
+    "row": 458,
+    "before": [
+      "раскрытый",
+      "opened, disclosed",
+      "Раскрытая книга.",
+      "An opened book."
+    ],
+    "after": [
+      "раскрытый",
+      "open, disclosed",
+      "Раскрытая книга.",
+      "An open book."
+    ],
+    "reason": "Use natural adjective for book state."
+  },
+  {
+    "deck": "15260217",
+    "row": 467,
+    "before": [
+      "итоговый",
+      "final, summary",
+      "Итоговый день.",
+      "The final day."
+    ],
+    "after": [
+      "итоговый",
+      "final, summary",
+      "Итоговый документ готов.",
+      "The final document is ready."
+    ],
+    "reason": "Use natural итоговый collocation. Use prior-deck vocabulary."
+  },
+  {
+    "deck": "15260217",
+    "row": 488,
+    "before": [
+      "подаваться",
+      "to be served, to apply",
+      "Ужин будет подаваться.",
+      "Dinner will be served."
+    ],
+    "after": [
+      "подаваться",
+      "to be served; to move forward",
+      "Ужин будет подаваться.",
+      "Dinner will be served."
+    ],
+    "reason": "Apply requires a different construction; remove misleading standalone sense."
+  },
+  {
+    "deck": "15260217",
+    "row": 498,
+    "before": [
+      "швед",
+      "Swede, Swedish",
+      "Он швед.",
+      "He is a Swede."
+    ],
+    "after": [
+      "швед",
+      "Swede",
+      "Он швед.",
+      "He is a Swede."
+    ],
+    "reason": "Remove adjective Swedish from person noun."
+  },
+  {
+    "deck": "15260217",
+    "row": 499,
+    "before": [
+      "пучок",
+      "bundle, bunch",
+      "Пучок волос.",
+      "A bundle of hair."
+    ],
+    "after": [
+      "пучок",
+      "bundle, bunch, tuft",
+      "Пучок волос.",
+      "A tuft of hair."
+    ],
+    "reason": "Use natural hair collocation."
+  },
+  {
+    "deck": "15260218",
+    "row": 1,
+    "before": [
+      "непреодолимый",
+      "insurmountable",
+      "Задача казалась непреодолимой.",
+      "The task seemed insurmountable."
+    ],
+    "after": [
+      "непреодолимый",
+      "insurmountable",
+      "Препятствие казалось непреодолимым.",
+      "The obstacle seemed insurmountable."
+    ],
+    "reason": "Use natural collocation."
+  },
+  {
+    "deck": "15260218",
+    "row": 49,
+    "before": [
+      "ревновать",
+      "to be jealous",
+      "Он ревнует жену.",
+      "He is jealous of his wife."
+    ],
+    "after": [
+      "ревновать",
+      "to be jealous (romantically)",
+      "Он ревнует.",
+      "He is jealous."
+    ],
+    "reason": "Jealous of his wife misleadingly suggests envy."
+  },
+  {
+    "deck": "15260218",
+    "row": 67,
+    "before": [
+      "смещение",
+      "shift, displacement",
+      "Это смещение власти.",
+      "This is a shift of power."
+    ],
+    "after": [
+      "смещение",
+      "shift, displacement",
+      "Смещение границы заметно на карте.",
+      "The shift of the border is visible on the map."
+    ],
+    "reason": "Replace unnatural смещение власти."
+  },
+  {
+    "deck": "15260218",
+    "row": 94,
+    "before": [
+      "параграф",
+      "paragraph",
+      "Прочитай этот параграф.",
+      "Read this paragraph."
+    ],
+    "after": [
+      "параграф",
+      "section, paragraph",
+      "Прочитай этот параграф.",
+      "Read this section."
+    ],
+    "reason": "Textbook параграф usually means a numbered section."
+  },
+  {
+    "deck": "15260218",
+    "row": 131,
+    "before": [
+      "гм",
+      "uh",
+      "Гм, не знаю.",
+      "Uh, I don't know."
+    ],
+    "after": [
+      "гм",
+      "hmm",
+      "Гм, не знаю.",
+      "Hmm, I don't know."
+    ],
+    "reason": "Match the hesitation sound."
+  },
+  {
+    "deck": "15260218",
+    "row": 138,
+    "before": [
+      "сортир",
+      "toilet",
+      "Где тут сортир?",
+      "Where is the toilet here?"
+    ],
+    "after": [
+      "сортир",
+      "toilet (coarse colloquial)",
+      "Где тут сортир?",
+      "Where is the toilet here?"
+    ],
+    "reason": "Mark register."
+  },
+  {
+    "deck": "15260218",
+    "row": 169,
+    "before": [
+      "просматриваться",
+      "visible",
+      "Дом просматривается из окна.",
+      "The house is visible from the window."
+    ],
+    "after": [
+      "просматриваться",
+      "to be visible",
+      "Дом просматривается из окна.",
+      "The house is visible from the window."
+    ],
+    "reason": "Retain verbal construction in gloss."
+  },
+  {
+    "deck": "15260218",
+    "row": 173,
+    "before": [
+      "гей",
+      "gay",
+      "Он открыто гей.",
+      "He is openly gay."
+    ],
+    "after": [
+      "гей",
+      "gay man",
+      "Он гей.",
+      "He is a gay man."
+    ],
+    "reason": "Correct noun gloss and calqued Russian example."
+  },
+  {
+    "deck": "15260218",
+    "row": 220,
+    "before": [
+      "нащупать",
+      "feel for, find by touch",
+      "Нащупай ключ.",
+      "Feel for the key."
+    ],
+    "after": [
+      "нащупать",
+      "find by touch",
+      "Нащупай ключ.",
+      "Find the key by touch."
+    ],
+    "reason": "Perfective means finding, not merely feeling for."
+  },
+  {
+    "deck": "15260218",
+    "row": 238,
+    "before": [
+      "сборный",
+      "national team",
+      "Это сборная команда.",
+      "This is the national team."
+    ],
+    "after": [
+      "сборный",
+      "combined, prefabricated",
+      "Это сборный дом.",
+      "This is a prefabricated house."
+    ],
+    "reason": "Adjective alone does not mean national team."
+  },
+  {
+    "deck": "15260218",
+    "row": 244,
+    "before": [
+      "трещать",
+      "creak, crackle",
+      "Дерево трещит.",
+      "The wood is creaking."
+    ],
+    "after": [
+      "трещать",
+      "crackle, crack",
+      "Дрова трещат в печи.",
+      "The firewood is crackling in the stove."
+    ],
+    "reason": "Distinguish cracking from creaking."
+  },
+  {
+    "deck": "15260218",
+    "row": 270,
+    "before": [
+      "мозговой",
+      "brain",
+      "Это мозговой центр.",
+      "This is a brain center."
+    ],
+    "after": [
+      "мозговой",
+      "brain, cerebral",
+      "Это мозговая деятельность.",
+      "This is brain activity."
+    ],
+    "reason": "Мозговой центр is normally a think tank, not literal brain center. Avoid untaught tissue."
+  },
+  {
+    "deck": "15260218",
+    "row": 292,
+    "before": [
+      "уполномоченный",
+      "authorized representative, commissioner",
+      "Он уполномоченный представитель.",
+      "He is an authorized representative."
+    ],
+    "after": [
+      "уполномоченный",
+      "authorized; commissioner",
+      "Он уполномоченный представитель.",
+      "He is an authorized representative."
+    ],
+    "reason": "Separate adjective from representative noun phrase."
+  },
+  {
+    "deck": "15260218",
+    "row": 296,
+    "before": [
+      "ловля",
+      "fishing",
+      "Ему нравится ловля рыбы.",
+      "He likes fishing."
+    ],
+    "after": [
+      "ловля",
+      "catching; fishing",
+      "Ловля рыбы запрещена.",
+      "Fishing is forbidden."
+    ],
+    "reason": "Add general catching sense."
+  },
+  {
+    "deck": "15260218",
+    "row": 302,
+    "before": [
+      "манер",
+      "manner",
+      "У него нет манер.",
+      "He has no manners."
+    ],
+    "after": [
+      "манер",
+      "manner, style",
+      "Он говорит на старый манер.",
+      "He speaks in the old manner."
+    ],
+    "reason": "Манер is not plural manners from манера."
+  },
+  {
+    "deck": "15260218",
+    "row": 328,
+    "before": [
+      "одиночный",
+      "solitary",
+      "Это одиночная камера.",
+      "This is a solitary cell."
+    ],
+    "after": [
+      "одиночный",
+      "single, solitary",
+      "Я услышал одиночный выстрел.",
+      "I heard a single shot."
+    ],
+    "reason": "Use natural English collocation. Avoid untaught confinement. Use prior vocabulary with a natural collocation."
+  },
+  {
+    "deck": "15260218",
+    "row": 330,
+    "before": [
+      "магистр",
+      "master's graduate",
+      "Он уже магистр.",
+      "He is a master's graduate."
+    ],
+    "after": [
+      "магистр",
+      "holder of a master's degree",
+      "Он уже магистр.",
+      "He is already a holder of a master's degree."
+    ],
+    "reason": "Natural English degree-holder wording."
+  },
+  {
+    "deck": "15260218",
+    "row": 334,
+    "before": [
+      "блядь",
+      "fuck",
+      "Блядь, опять!",
+      "Fuck, not again!"
+    ],
+    "after": [
+      "блядь",
+      "fuck (vulgar interjection)",
+      "Блядь, опять!",
+      "Fuck, not again!"
+    ],
+    "reason": "Mark register."
+  },
+  {
+    "deck": "15260218",
+    "row": 377,
+    "before": [
+      "инфаркт",
+      "heart attack",
+      "У него инфаркт.",
+      "He has a heart attack."
+    ],
+    "after": [
+      "инфаркт",
+      "heart attack",
+      "У него был инфаркт.",
+      "He had a heart attack."
+    ],
+    "reason": "Avoid unnatural present simple for an acute event."
+  },
+  {
+    "deck": "15260218",
+    "row": 408,
+    "before": [
+      "раскопка",
+      "excavation",
+      "Где раскопка?",
+      "Where is the excavation?"
+    ],
+    "after": [
+      "раскопка",
+      "excavation",
+      "Здесь идут раскопки.",
+      "Excavations are taking place here."
+    ],
+    "reason": "Use idiomatic plural for archaeological work."
+  },
+  {
+    "deck": "15260218",
+    "row": 437,
+    "before": [
+      "мах",
+      "sweep, swing",
+      "Он сделал мах рукой.",
+      "He made a sweeping gesture."
+    ],
+    "after": [
+      "мах",
+      "sweep, swing",
+      "Он сделал мах ногой.",
+      "He made a swing with his leg."
+    ],
+    "reason": "Use target directly in translated example."
+  },
+  {
+    "deck": "15260218",
+    "row": 438,
+    "before": [
+      "самолюбие",
+      "vanity",
+      "У него большое самолюбие.",
+      "He has great vanity."
+    ],
+    "after": [
+      "самолюбие",
+      "pride, self-esteem",
+      "Это задело его самолюбие.",
+      "This hurt his pride."
+    ],
+    "reason": "Самолюбие is not necessarily vanity."
+  },
+  {
+    "deck": "15260218",
+    "row": 460,
+    "before": [
+      "архиепископ",
+      "archbishop",
+      "Архиепископ в храме.",
+      "The archbishop is in the temple."
+    ],
+    "after": [
+      "архиепископ",
+      "archbishop",
+      "Архиепископ в храме.",
+      "The archbishop is in the church."
+    ],
+    "reason": "Translate храм according to Christian context."
+  },
+  {
+    "deck": "15260218",
+    "row": 462,
+    "before": [
+      "теорема",
+      "theorem",
+      "Это большая теорема.",
+      "This is a big theorem."
+    ],
+    "after": [
+      "теорема",
+      "theorem",
+      "Это важная теорема.",
+      "This is an important theorem."
+    ],
+    "reason": "Natural collocation."
+  },
+  {
+    "deck": "15260218",
+    "row": 468,
+    "before": [
+      "разуметься",
+      "of course",
+      "Это, разумеется, правда.",
+      "This is, of course, true."
+    ],
+    "after": [
+      "разуметься",
+      "to be meant; of course (разумеется)",
+      "Это, разумеется, правда.",
+      "This is, of course, true."
+    ],
+    "reason": "Distinguish verb from lexicalized introductory expression."
+  },
+  {
+    "deck": "15260218",
+    "row": 484,
+    "before": [
+      "дебаты",
+      "debate",
+      "Дебаты уже идут.",
+      "The debate already started."
+    ],
+    "after": [
+      "дебаты",
+      "debate",
+      "Дебаты уже идут.",
+      "The debate is already taking place."
+    ],
+    "reason": "Translate ongoing state rather than past start. Avoid untaught underway."
+  },
+  {
+    "deck": "15260221",
+    "row": 33,
+    "before": [
+      "насчитываться",
+      "to number, to amount to",
+      "В городе насчитывается миллион жителей.",
+      "The city numbers a million residents."
+    ],
+    "after": [
+      "насчитываться",
+      "to number, to amount to",
+      "Население города насчитывается в миллионах.",
+      "The population of the city numbers in the millions."
+    ],
+    "reason": "Use natural English subject for number."
+  },
+  {
+    "deck": "15260221",
+    "row": 74,
+    "before": [
+      "котелок",
+      "kettle, pot",
+      "Вода кипит в котелке.",
+      "The water is boiling in the kettle."
+    ],
+    "after": [
+      "котелок",
+      "small cooking pot",
+      "Вода кипит в котелке.",
+      "The water is boiling in the small cooking pot."
+    ],
+    "reason": "Distinguish котелок from чайник."
+  },
+  {
+    "deck": "15260221",
+    "row": 103,
+    "before": [
+      "радужный",
+      "rainbow-colored, iridescent",
+      "На стене радужные цвета.",
+      "There are rainbow colors on the wall."
+    ],
+    "after": [
+      "радужный",
+      "rainbow, rainbow-colored, iridescent",
+      "На стене радужные цвета.",
+      "There are rainbow colors on the wall."
+    ],
+    "reason": "Include the actual attributive target form used."
+  },
+  {
+    "deck": "15260221",
+    "row": 106,
+    "before": [
+      "взывать",
+      "to appeal, to implore",
+      "Он взывает о помощи.",
+      "He appeals for help."
+    ],
+    "after": [
+      "взывать",
+      "to appeal, to implore",
+      "Он взывает к нашей совести.",
+      "He appeals to our conscience."
+    ],
+    "reason": "Correct Russian government: взывать к."
+  },
+  {
+    "deck": "15260221",
+    "row": 145,
+    "before": [
+      "работоспособность",
+      "working capacity, efficiency",
+      "Его работоспособность высока.",
+      "His work capacity is high."
+    ],
+    "after": [
+      "работоспособность",
+      "capacity for work",
+      "Его работоспособность высока.",
+      "His capacity for work is high."
+    ],
+    "reason": "Distinguish work capacity from efficiency and align target."
+  },
+  {
+    "deck": "15260221",
+    "row": 154,
+    "before": [
+      "переводиться",
+      "to be translated",
+      "Книга плохо переводится.",
+      "This book is hard to translate."
+    ],
+    "after": [
+      "переводиться",
+      "to be translated",
+      "Книга переводится на английский.",
+      "The book is being translated into English."
+    ],
+    "reason": "Ensure exact correspondence and target construction."
+  },
+  {
+    "deck": "15260221",
+    "row": 177,
+    "before": [
+      "дуэль",
+      "duel",
+      "Он вызвал его на дуэль.",
+      "He called him to a duel."
+    ],
+    "after": [
+      "дуэль",
+      "duel",
+      "Он вызвал его на дуэль.",
+      "He challenged him to a duel."
+    ],
+    "reason": "Correct English collocation."
+  },
+  {
+    "deck": "15260221",
+    "row": 186,
+    "before": [
+      "прописка",
+      "registration, residence permit",
+      "У меня нет прописки.",
+      "I have no registration."
+    ],
+    "after": [
+      "прописка",
+      "residence registration",
+      "У меня нет прописки.",
+      "I have no residence registration."
+    ],
+    "reason": "Avoid conflating registration with immigration permit."
+  },
+  {
+    "deck": "15260221",
+    "row": 225,
+    "before": [
+      "чреватый",
+      "fraught with danger, liable to cause",
+      "Это чревато опасностью.",
+      "This is fraught with danger."
+    ],
+    "after": [
+      "чреватый",
+      "fraught with; liable to cause",
+      "Это чревато опасностью.",
+      "This is fraught with danger."
+    ],
+    "reason": "Danger comes from the complement, not the adjective itself."
+  },
+  {
+    "deck": "15260221",
+    "row": 227,
+    "before": [
+      "дядюшка",
+      "uncle",
+      "Дядюшка приехал к нам.",
+      "Uncle is here."
+    ],
+    "after": [
+      "дядюшка",
+      "uncle",
+      "Дядюшка приехал к нам.",
+      "Uncle came to visit us."
+    ],
+    "reason": "Restore action and destination."
+  },
+  {
+    "deck": "15260221",
+    "row": 280,
+    "before": [
+      "раскачиваться",
+      "swing, sway",
+      "Не раскачивайся на стуле.",
+      "Don't swing on the chair."
+    ],
+    "after": [
+      "раскачиваться",
+      "rock, swing, sway",
+      "Не раскачивайся на стуле.",
+      "Don't rock on the chair."
+    ],
+    "reason": "Natural chair collocation."
+  },
+  {
+    "deck": "15260221",
+    "row": 310,
+    "before": [
+      "спасательный",
+      "rescue, lifesaving",
+      "Это спасательный круг.",
+      "This is a rescue ring."
+    ],
+    "after": [
+      "спасательный",
+      "rescue, lifesaving",
+      "Это спасательная операция.",
+      "This is a rescue operation."
+    ],
+    "reason": "Avoid calque rescue ring."
+  },
+  {
+    "deck": "15260221",
+    "row": 315,
+    "before": [
+      "иранский",
+      "Iranian, Persian",
+      "Это иранский город.",
+      "This is an Iranian city."
+    ],
+    "after": [
+      "иранский",
+      "Iranian",
+      "Это иранский город.",
+      "This is an Iranian city."
+    ],
+    "reason": "Persian is not interchangeable with Iranian."
+  },
+  {
+    "deck": "15260221",
+    "row": 332,
+    "before": [
+      "клин",
+      "wedge, blade",
+      "Держи клин.",
+      "Hold the wedge."
+    ],
+    "after": [
+      "клин",
+      "wedge",
+      "Держи клин.",
+      "Hold the wedge."
+    ],
+    "reason": "Blade is клинок, not клин."
+  },
+  {
+    "deck": "15260221",
+    "row": 334,
+    "before": [
+      "беглый",
+      "fugitive, fleeting",
+      "Он беглый.",
+      "He is a fugitive."
+    ],
+    "after": [
+      "беглый",
+      "fugitive, fleeting",
+      "Он беглый заключённый.",
+      "He is a fugitive prisoner."
+    ],
+    "reason": "Supply a noun for the adjective."
+  },
+  {
+    "deck": "15260221",
+    "row": 367,
+    "before": [
+      "женитьба",
+      "marriage, wedding",
+      "Его женитьба состоится скоро.",
+      "His wedding will take place soon."
+    ],
+    "after": [
+      "женитьба",
+      "marriage (of a man)",
+      "После женитьбы он переехал.",
+      "After his marriage he moved."
+    ],
+    "reason": "Distinguish marriage from wedding ceremony."
+  },
+  {
+    "deck": "15260221",
+    "row": 370,
+    "before": [
+      "комбинезон",
+      "jumpsuit, overall",
+      "Надень комбинезон.",
+      "Put on the jumpsuit."
+    ],
+    "after": [
+      "комбинезон",
+      "jumpsuit, overalls",
+      "Надень комбинезон.",
+      "Put on the jumpsuit."
+    ],
+    "reason": "Use plural overalls for garment."
+  },
+  {
+    "deck": "15260221",
+    "row": 378,
+    "before": [
+      "презрительно",
+      "contemptuously, scornfully",
+      "Он презрительно смотрит.",
+      "He looks contemptuously."
+    ],
+    "after": [
+      "презрительно",
+      "contemptuously, scornfully",
+      "Он презрительно смотрит на нас.",
+      "He looks at us contemptuously."
+    ],
+    "reason": "Supply object for natural English."
+  },
+  {
+    "deck": "15260221",
+    "row": 384,
+    "before": [
+      "свекровь",
+      "mother-in-law",
+      "Моя свекровь дома.",
+      "My mother-in-law is at home."
+    ],
+    "after": [
+      "свекровь",
+      "mother-in-law (husband's mother)",
+      "Моя свекровь дома.",
+      "My mother-in-law is at home."
+    ],
+    "reason": "Preserve distinction from тёща."
+  },
+  {
+    "deck": "15260221",
+    "row": 391,
+    "before": [
+      "оправдаться",
+      "justify, vindicate",
+      "Он не смог оправдаться.",
+      "He could not justify himself."
+    ],
+    "after": [
+      "оправдаться",
+      "justify oneself, vindicate oneself",
+      "Он не смог оправдаться.",
+      "He could not justify himself."
+    ],
+    "reason": "Preserve reflexive meaning."
+  },
+  {
+    "deck": "15260221",
+    "row": 394,
+    "before": [
+      "заготовка",
+      "stock, blank",
+      "Это зимняя заготовка.",
+      "This is winter stock."
+    ],
+    "after": [
+      "заготовка",
+      "blank, workpiece; food preserves",
+      "Это деревянная заготовка.",
+      "This is a wooden blank."
+    ],
+    "reason": "Replace unnatural winter stock phrase."
+  },
+  {
+    "deck": "15260221",
+    "row": 395,
+    "before": [
+      "расстреливать",
+      "to shoot, to execute by shooting",
+      "Их будут расстреливать.",
+      "They will shoot them."
+    ],
+    "after": [
+      "расстреливать",
+      "to execute by shooting",
+      "Их будут расстреливать.",
+      "They will execute them by shooting."
+    ],
+    "reason": "Preserve lethal execution sense."
+  },
+  {
+    "deck": "15260221",
+    "row": 422,
+    "before": [
+      "причастный",
+      "involved, participant",
+      "Он причастен к этому.",
+      "He is involved in this."
+    ],
+    "after": [
+      "причастный",
+      "involved",
+      "Он причастен к этому.",
+      "He is involved in this."
+    ],
+    "reason": "Remove noun participant from adjective gloss."
+  },
+  {
+    "deck": "15260221",
+    "row": 436,
+    "before": [
+      "жалобно",
+      "plaintively, mournfully",
+      "Она жалобно смотрит.",
+      "She looks plaintively."
+    ],
+    "after": [
+      "жалобно",
+      "plaintively, mournfully",
+      "Она жалобно смотрит на меня.",
+      "She looks at me plaintively."
+    ],
+    "reason": "Natural English construction."
+  },
+  {
+    "deck": "15260221",
+    "row": 444,
+    "before": [
+      "клип",
+      "clip, music video",
+      "Я видел новый клип.",
+      "I saw a new clip."
+    ],
+    "after": [
+      "клип",
+      "clip, music video",
+      "Я видел новый клип.",
+      "I saw a new music video."
+    ],
+    "reason": "Use intended music-video meaning."
+  },
+  {
+    "deck": "15260221",
+    "row": 493,
+    "before": [
+      "бишь",
+      "what is it again, that is",
+      "Как бишь его зовут?",
+      "What is his name again?"
+    ],
+    "after": [
+      "бишь",
+      "again (when trying to remember)",
+      "Как бишь его зовут?",
+      "What is his name again?"
+    ],
+    "reason": "Remove unrelated that is gloss."
+  },
+  {
+    "deck": "15260224",
+    "row": 4,
+    "before": [
+      "одержимый",
+      "possessed, obsessed",
+      "Он одержим страхом.",
+      "He is obsessed with fear."
+    ],
+    "after": [
+      "одержимый",
+      "possessed, obsessed",
+      "Он одержим страхом.",
+      "He is possessed by fear."
+    ],
+    "reason": "Natural matching collocation."
+  },
+  {
+    "deck": "15260224",
+    "row": 23,
+    "before": [
+      "шарф",
+      "scarf",
+      "У неё шарф на шее.",
+      "She has a scarf on her neck."
+    ],
+    "after": [
+      "шарф",
+      "scarf",
+      "У неё шарф на шее.",
+      "She has a scarf around her neck."
+    ],
+    "reason": "Natural preposition."
+  },
+  {
+    "deck": "15260224",
+    "row": 48,
+    "before": [
+      "форточка",
+      "small window",
+      "Открой форточку.",
+      "Open the small window."
+    ],
+    "after": [
+      "форточка",
+      "small ventilation window",
+      "Открой форточку.",
+      "Open the small ventilation window."
+    ],
+    "reason": "Preserve ventilation-specific meaning."
+  },
+  {
+    "deck": "15260224",
+    "row": 53,
+    "before": [
+      "мигрант",
+      "migrant, immigrant",
+      "Мигрант нашёл новую работу.",
+      "The migrant found a new job."
+    ],
+    "after": [
+      "мигрант",
+      "migrant",
+      "Мигрант нашёл новую работу.",
+      "The migrant found a new job."
+    ],
+    "reason": "Migrant is broader than immigrant."
+  },
+  {
+    "deck": "15260224",
+    "row": 86,
+    "before": [
+      "сношение",
+      "intercourse, relations",
+      "У них было интимное сношение.",
+      "They had intimate intercourse."
+    ],
+    "after": [
+      "сношение",
+      "intercourse, relations",
+      "У них было сношение.",
+      "They had intercourse."
+    ],
+    "reason": "Use standard collocation. Avoid untaught adjective."
+  },
+  {
+    "deck": "15260224",
+    "row": 94,
+    "before": [
+      "малолетний",
+      "underage, juvenile",
+      "Это малолетний ребёнок.",
+      "This is an underage child."
+    ],
+    "after": [
+      "малолетний",
+      "young, underage",
+      "У него малолетний сын.",
+      "He has a young son."
+    ],
+    "reason": "Avoid redundant underage child."
+  },
+  {
+    "deck": "15260224",
+    "row": 99,
+    "before": [
+      "коммуникативный",
+      "communicative",
+      "Она очень коммуникативная.",
+      "She is very communicative."
+    ],
+    "after": [
+      "коммуникативный",
+      "communicative",
+      "Это коммуникативный навык.",
+      "This is a communicative skill."
+    ],
+    "reason": "Distinguish communicative from sociable."
+  },
+  {
+    "deck": "15260224",
+    "row": 110,
+    "before": [
+      "вывернуть",
+      "turn inside out, wring out",
+      "Выверни карман.",
+      "Turn the pocket inside out."
+    ],
+    "after": [
+      "вывернуть",
+      "turn inside out",
+      "Выверни карман.",
+      "Turn the pocket inside out."
+    ],
+    "reason": "Wring out is выжать."
+  },
+  {
+    "deck": "15260224",
+    "row": 159,
+    "before": [
+      "лошадка",
+      "little horse, pony",
+      "Маленькая лошадка бежит.",
+      "The little horse is running."
+    ],
+    "after": [
+      "лошадка",
+      "little horse",
+      "Маленькая лошадка бежит.",
+      "The little horse is running."
+    ],
+    "reason": "Diminutive does not specifically mean pony."
+  },
+  {
+    "deck": "15260224",
+    "row": 172,
+    "before": [
+      "почесать",
+      "scratch, itch",
+      "Почеши мне спину.",
+      "Scratch my back."
+    ],
+    "after": [
+      "почесать",
+      "scratch",
+      "Почеши мне спину.",
+      "Scratch my back."
+    ],
+    "reason": "Itch is not the transitive scratching action."
+  },
+  {
+    "deck": "15260224",
+    "row": 182,
+    "before": [
+      "мох",
+      "moss, lichen",
+      "Мох покрыл камень.",
+      "Moss covered the stone."
+    ],
+    "after": [
+      "мох",
+      "moss",
+      "Мох покрыл камень.",
+      "Moss covered the stone."
+    ],
+    "reason": "Lichen is лишайник."
+  },
+  {
+    "deck": "15260224",
+    "row": 184,
+    "before": [
+      "иероглиф",
+      "hieroglyph",
+      "Я не читаю эти иероглифы.",
+      "I cannot read these hieroglyphs."
+    ],
+    "after": [
+      "иероглиф",
+      "hieroglyph",
+      "Я не умею читать эти иероглифы.",
+      "I cannot read these hieroglyphs."
+    ],
+    "reason": "Match inability rather than simple negation."
+  },
+  {
+    "deck": "15260224",
+    "row": 293,
+    "before": [
+      "выкупить",
+      "to redeem, to buy out",
+      "Он хочет выкупить дом.",
+      "He wants to buy out the house."
+    ],
+    "after": [
+      "выкупить",
+      "to buy back, to redeem",
+      "Он хочет выкупить свой дом обратно.",
+      "He wants to buy back his house."
+    ],
+    "reason": "Buy out a house is not idiomatic."
+  },
+  {
+    "deck": "15260224",
+    "row": 310,
+    "before": [
+      "осмотреться",
+      "to look around, to examine",
+      "Я осмотрелся.",
+      "I looked around."
+    ],
+    "after": [
+      "осмотреться",
+      "to look around",
+      "Я осмотрелся.",
+      "I looked around."
+    ],
+    "reason": "Remove transitive examine sense from reflexive verb."
+  },
+  {
+    "deck": "15260224",
+    "row": 320,
+    "before": [
+      "смешаться",
+      "to mix, to blend",
+      "Краски смешались.",
+      "The paints mix."
+    ],
+    "after": [
+      "смешаться",
+      "to mix, to blend",
+      "Краски смешались.",
+      "The paints have mixed."
+    ],
+    "reason": "Preserve past completed mixing."
+  },
+  {
+    "deck": "15260224",
+    "row": 349,
+    "before": [
+      "резина",
+      "rubber, eraser",
+      "Мяч из резины.",
+      "The ball is made of rubber."
+    ],
+    "after": [
+      "резина",
+      "rubber",
+      "Мяч из резины.",
+      "The ball is made of rubber."
+    ],
+    "reason": "Eraser is ластик or резинка, not резина."
+  },
+  {
+    "deck": "15260224",
+    "row": 370,
+    "before": [
+      "ржать",
+      "to neigh, to bray",
+      "Лошадь может ржать.",
+      "The horse can neigh."
+    ],
+    "after": [
+      "ржать",
+      "to neigh; to laugh loudly (coarse)",
+      "Лошадь может ржать.",
+      "The horse can neigh."
+    ],
+    "reason": "Bray is normally an ass sound."
+  },
+  {
+    "deck": "15260224",
+    "row": 383,
+    "before": [
+      "гастроль",
+      "guest performance",
+      "Сегодня гастроль театра.",
+      "The theater gives a guest performance today."
+    ],
+    "after": [
+      "гастроль",
+      "guest performance; tour",
+      "Гастроли театра начались.",
+      "The theater tour has begun."
+    ],
+    "reason": "Use customary plural гастроли."
+  },
+  {
+    "deck": "15260224",
+    "row": 386,
+    "before": [
+      "рассудить",
+      "judge, reason out",
+      "Судья рассудит спор.",
+      "The judge will judge the dispute."
+    ],
+    "after": [
+      "рассудить",
+      "judge, settle",
+      "Судья рассудит их.",
+      "The judge will judge between them."
+    ],
+    "reason": "Correct verb argument structure."
+  },
+  {
+    "deck": "15260224",
+    "row": 392,
+    "before": [
+      "баржа",
+      "barge",
+      "Баржа идёт по реке.",
+      "The barge goes down the river."
+    ],
+    "after": [
+      "баржа",
+      "barge",
+      "Баржа идёт по реке.",
+      "The barge travels along the river."
+    ],
+    "reason": "Do not add downstream direction."
+  },
+  {
+    "deck": "15260224",
+    "row": 402,
+    "before": [
+      "ощупь",
+      "feel one's way, by touch",
+      "Я иду на ощупь.",
+      "I feel my way."
+    ],
+    "after": [
+      "ощупь",
+      "by touch (на ощупь)",
+      "Я нашёл ключ на ощупь.",
+      "I found the key by touch."
+    ],
+    "reason": "Align phrase gloss and example."
+  },
+  {
+    "deck": "15260224",
+    "row": 427,
+    "before": [
+      "созвездие",
+      "constellation, star cluster",
+      "Это созвездие.",
+      "This is a constellation."
+    ],
+    "after": [
+      "созвездие",
+      "constellation",
+      "Это созвездие.",
+      "This is a constellation."
+    ],
+    "reason": "A constellation is not a physical star cluster."
+  },
+  {
+    "deck": "15260224",
+    "row": 441,
+    "before": [
+      "лепить",
+      "to mold, to sculpt",
+      "Она лепит снег.",
+      "She molds snow."
+    ],
+    "after": [
+      "лепить",
+      "to mold, to sculpt",
+      "Она лепит фигуру из снега.",
+      "She molds a figure out of snow."
+    ],
+    "reason": "Natural object and material construction."
+  },
+  {
+    "deck": "15260224",
+    "row": 446,
+    "before": [
+      "сквер",
+      "square, park",
+      "Мы в сквере.",
+      "We are in the park."
+    ],
+    "after": [
+      "сквер",
+      "small public garden, small park",
+      "Мы в сквере.",
+      "We are in the small park."
+    ],
+    "reason": "Distinguish green space from bare square."
+  },
+  {
+    "deck": "15260224",
+    "row": 474,
+    "before": [
+      "сервисный",
+      "service, servicing",
+      "Это сервисный ключ.",
+      "This is a service key."
+    ],
+    "after": [
+      "сервисный",
+      "service, servicing",
+      "Это сервисный центр.",
+      "This is a service center."
+    ],
+    "reason": "Use clear common collocation."
+  },
+  {
+    "deck": "15260224",
+    "row": 487,
+    "before": [
+      "шорты",
+      "shorts, Bermuda shorts",
+      "Где шорты?",
+      "Where are the shorts?"
+    ],
+    "after": [
+      "шорты",
+      "shorts",
+      "Где шорты?",
+      "Where are the shorts?"
+    ],
+    "reason": "Bermuda shorts are a narrower type."
+  }
+]

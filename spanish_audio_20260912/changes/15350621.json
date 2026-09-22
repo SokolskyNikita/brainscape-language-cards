@@ -1,0 +1,31 @@
+[
+  {
+    "row": 409,
+    "cardId": 491508767,
+    "before": {
+      "question": "# Translate:\n\nnumero\n\n## Footnote\n\nElla consiguió su número fácilmente.",
+      "answer": "number\n\n## Footnote\n\nShe got his number easily.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "numero",
+      "qMdClarifier": "",
+      "qMdFootnote": "Ella consiguió su número fácilmente.",
+      "aMdPrompt": "",
+      "aMdBody": "number",
+      "aMdClarifier": "",
+      "aMdFootnote": "She got his number easily."
+    },
+    "after": {
+      "question": "# Translate:\n\nnúmero\n\n## Footnote\n\nElla consiguió su número fácilmente.",
+      "answer": "number\n\n## Footnote\n\nShe got his number easily.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "número",
+      "qMdClarifier": "",
+      "qMdFootnote": "Ella consiguió su número fácilmente.",
+      "aMdPrompt": "",
+      "aMdBody": "number",
+      "aMdClarifier": "",
+      "aMdFootnote": "She got his number easily."
+    },
+    "reason": "Correct noun stress before Spanish audio."
+  }
+]

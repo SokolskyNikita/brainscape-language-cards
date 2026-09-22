@@ -1,0 +1,321 @@
+[
+  {
+    "row": 94,
+    "cardId": 491521773,
+    "before": {
+      "question": "# Translate:\n\nChristmas\n\n## Footnote\n\nThe Christmas spirit is in the air.",
+      "answer": "navideño\n\n## Footnote\n\nEl espíritu navideño está en el aire.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "Christmas",
+      "qMdClarifier": "",
+      "qMdFootnote": "The Christmas spirit is in the air.",
+      "aMdPrompt": "",
+      "aMdBody": "navideño",
+      "aMdClarifier": "",
+      "aMdFootnote": "El espíritu navideño está en el aire."
+    },
+    "after": {
+      "question": "# Translate:\n\nChristmas (adjective)\n\n## Footnote\n\nThe Christmas spirit is in the air.",
+      "answer": "navideño\n\n## Footnote\n\nEl espíritu navideño está en el aire.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "Christmas (adjective)",
+      "qMdClarifier": "",
+      "qMdFootnote": "The Christmas spirit is in the air.",
+      "aMdPrompt": "",
+      "aMdBody": "navideño",
+      "aMdClarifier": "",
+      "aMdFootnote": "El espíritu navideño está en el aire."
+    },
+    "reason": "Navideño is adjectival."
+  },
+  {
+    "row": 136,
+    "cardId": 491521816,
+    "before": {
+      "question": "# Translate:\n\nto stray / to go off\n\n## Footnote\n\nI don't want to see you stray from the path.",
+      "answer": "salirte\n\n## Footnote\n\nNo quiero verte salirte del camino.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "to stray / to go off",
+      "qMdClarifier": "",
+      "qMdFootnote": "I don't want to see you stray from the path.",
+      "aMdPrompt": "",
+      "aMdBody": "salirte",
+      "aMdClarifier": "",
+      "aMdFootnote": "No quiero verte salirte del camino."
+    },
+    "after": {
+      "question": "# Translate:\n\nto stray / to go off\n\n## Footnote\n\nI don't want you to stray from the path.",
+      "answer": "salirte\n\n## Footnote\n\nNo quiero que te salgas del camino.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "to stray / to go off",
+      "qMdClarifier": "",
+      "qMdFootnote": "I don't want you to stray from the path.",
+      "aMdPrompt": "",
+      "aMdBody": "salirte",
+      "aMdClarifier": "",
+      "aMdFootnote": "No quiero que te salgas del camino."
+    },
+    "reason": "Remove doubled clitic verte salirte."
+  },
+  {
+    "row": 141,
+    "cardId": 491521821,
+    "before": {
+      "question": "# Translate:\n\nmagnificent\n\n## Footnote\n\nThe show was magnificent.",
+      "answer": "magnifico\n\n## Footnote\n\nEl espectáculo fue magnifico.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "magnificent",
+      "qMdClarifier": "",
+      "qMdFootnote": "The show was magnificent.",
+      "aMdPrompt": "",
+      "aMdBody": "magnifico",
+      "aMdClarifier": "",
+      "aMdFootnote": "El espectáculo fue magnifico."
+    },
+    "after": {
+      "question": "# Translate:\n\nmagnificent\n\n## Footnote\n\nThe show was magnificent.",
+      "answer": "magnífico\n\n## Footnote\n\nEl espectáculo fue magnífico.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "magnificent",
+      "qMdClarifier": "",
+      "qMdFootnote": "The show was magnificent.",
+      "aMdPrompt": "",
+      "aMdBody": "magnífico",
+      "aMdClarifier": "",
+      "aMdFootnote": "El espectáculo fue magnífico."
+    },
+    "reason": "Correct adjective accent."
+  },
+  {
+    "row": 142,
+    "cardId": 491521822,
+    "before": {
+      "question": "# Translate:\n\nto make you laugh\n\n## Footnote\n\nI love to make you laugh.",
+      "answer": "reírte\n\n## Footnote\n\nMe encanta hacerte reírte.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "to make you laugh",
+      "qMdClarifier": "",
+      "qMdFootnote": "I love to make you laugh.",
+      "aMdPrompt": "",
+      "aMdBody": "reírte",
+      "aMdClarifier": "",
+      "aMdFootnote": "Me encanta hacerte reírte."
+    },
+    "after": {
+      "question": "# Translate:\n\nto laugh\n\n## Footnote\n\nYou shouldn't laugh at him.",
+      "answer": "reírte\n\n## Footnote\n\nNo deberías reírte de él.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "to laugh",
+      "qMdClarifier": "",
+      "qMdFootnote": "You shouldn't laugh at him.",
+      "aMdPrompt": "",
+      "aMdBody": "reírte",
+      "aMdClarifier": "",
+      "aMdFootnote": "No deberías reírte de él."
+    },
+    "reason": "Reírte means laugh; hacerte reírte was ungrammatical."
+  },
+  {
+    "row": 158,
+    "cardId": 491521838,
+    "before": {
+      "question": "# Translate:\n\nI had fun\n\n## Footnote\n\nAt the party, I had fun.",
+      "answer": "divertí\n\n## Footnote\n\nEn la fiesta, me divertí.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "I had fun",
+      "qMdClarifier": "",
+      "qMdFootnote": "At the party, I had fun.",
+      "aMdPrompt": "",
+      "aMdBody": "divertí",
+      "aMdClarifier": "",
+      "aMdFootnote": "En la fiesta, me divertí."
+    },
+    "after": {
+      "question": "# Translate:\n\nI had fun\n\n## Footnote\n\nAt the party, I had fun.",
+      "answer": "me divertí\n\n## Footnote\n\nEn la fiesta, me divertí.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "I had fun",
+      "qMdClarifier": "",
+      "qMdFootnote": "At the party, I had fun.",
+      "aMdPrompt": "",
+      "aMdBody": "me divertí",
+      "aMdClarifier": "",
+      "aMdFootnote": "En la fiesta, me divertí."
+    },
+    "reason": "Have fun requires divertirse."
+  },
+  {
+    "row": 267,
+    "cardId": 491521947,
+    "before": {
+      "question": "# Translate:\n\nget out (imperative, tú)\n\n## Footnote\n\nGet out of my room!",
+      "answer": "sácate\n\n## Footnote\n\nSácate de mi cuarto!",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "get out (imperative, tú)",
+      "qMdClarifier": "",
+      "qMdFootnote": "Get out of my room!",
+      "aMdPrompt": "",
+      "aMdBody": "sácate",
+      "aMdClarifier": "",
+      "aMdFootnote": "Sácate de mi cuarto!"
+    },
+    "after": {
+      "question": "# Translate:\n\ntake off (imperative, tú)\n\n## Footnote\n\nTake off your shoes.",
+      "answer": "sácate\n\n## Footnote\n\nSácate los zapatos.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "take off (imperative, tú)",
+      "qMdClarifier": "",
+      "qMdFootnote": "Take off your shoes.",
+      "aMdPrompt": "",
+      "aMdBody": "sácate",
+      "aMdClarifier": "",
+      "aMdFootnote": "Sácate los zapatos."
+    },
+    "reason": "Teach a natural sácate construction."
+  },
+  {
+    "row": 309,
+    "cardId": 734812925,
+    "before": {
+      "question": "# Translate:\n\nI moved\n\n## Footnote\n\nI moved to a new city.",
+      "answer": "mudé\n\n## Footnote\n\nMe mudé a una ciudad nueva.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "I moved",
+      "qMdClarifier": "",
+      "qMdFootnote": "I moved to a new city.",
+      "aMdPrompt": "",
+      "aMdBody": "mudé",
+      "aMdClarifier": "",
+      "aMdFootnote": "Me mudé a una ciudad nueva."
+    },
+    "after": {
+      "question": "# Translate:\n\nI moved\n\n## Footnote\n\nI moved to a new city.",
+      "answer": "me mudé\n\n## Footnote\n\nMe mudé a una ciudad nueva.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "I moved",
+      "qMdClarifier": "",
+      "qMdFootnote": "I moved to a new city.",
+      "aMdPrompt": "",
+      "aMdBody": "me mudé",
+      "aMdClarifier": "",
+      "aMdFootnote": "Me mudé a una ciudad nueva."
+    },
+    "reason": "Moving residence requires mudarse."
+  },
+  {
+    "row": 327,
+    "cardId": 491522007,
+    "before": {
+      "question": "# Translate:\n\nsuicided\n\n## Footnote\n\nThe suspect had committed suicide.",
+      "answer": "suicidado\n\n## Footnote\n\nEl sospechoso se había suicidado.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "suicided",
+      "qMdClarifier": "",
+      "qMdFootnote": "The suspect had committed suicide.",
+      "aMdPrompt": "",
+      "aMdBody": "suicidado",
+      "aMdClarifier": "",
+      "aMdFootnote": "El sospechoso se había suicidado."
+    },
+    "after": {
+      "question": "# Translate:\n\ndied by suicide\n\n## Footnote\n\nThe suspect had committed suicide.",
+      "answer": "suicidado\n\n## Footnote\n\nEl sospechoso se había suicidado.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "died by suicide",
+      "qMdClarifier": "",
+      "qMdFootnote": "The suspect had committed suicide.",
+      "aMdPrompt": "",
+      "aMdBody": "suicidado",
+      "aMdClarifier": "",
+      "aMdFootnote": "El sospechoso se había suicidado."
+    },
+    "reason": "Replace unnatural English headword suicided."
+  },
+  {
+    "row": 340,
+    "cardId": 491522020,
+    "before": {
+      "question": "# Translate:\n\nto regret\n\n## Footnote\n\nYou're going to regret this.",
+      "answer": "arrepentir\n\n## Footnote\n\nTe vas a arrepentir de esto.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "to regret",
+      "qMdClarifier": "",
+      "qMdFootnote": "You're going to regret this.",
+      "aMdPrompt": "",
+      "aMdBody": "arrepentir",
+      "aMdClarifier": "",
+      "aMdFootnote": "Te vas a arrepentir de esto."
+    },
+    "after": {
+      "question": "# Translate:\n\nto regret\n\n## Footnote\n\nYou're going to regret this.",
+      "answer": "arrepentirse\n\n## Footnote\n\nTe vas a arrepentir de esto.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "to regret",
+      "qMdClarifier": "",
+      "qMdFootnote": "You're going to regret this.",
+      "aMdPrompt": "",
+      "aMdBody": "arrepentirse",
+      "aMdClarifier": "",
+      "aMdFootnote": "Te vas a arrepentir de esto."
+    },
+    "reason": "Regret requires reflexive infinitive."
+  },
+  {
+    "row": 440,
+    "cardId": 491522120,
+    "before": {
+      "question": "# Translate:\n\nstop (imperative, tú)\n\n## Footnote\n\nPlease stop talking now.",
+      "answer": "deténte\n\n## Footnote\n\nPor favor, deténte de hablar ahora.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "stop (imperative, tú)",
+      "qMdClarifier": "",
+      "qMdFootnote": "Please stop talking now.",
+      "aMdPrompt": "",
+      "aMdBody": "deténte",
+      "aMdClarifier": "",
+      "aMdFootnote": "Por favor, deténte de hablar ahora."
+    },
+    "after": {
+      "question": "# Translate:\n\nstop (imperative, tú)\n\n## Footnote\n\nStop here, please.",
+      "answer": "detente\n\n## Footnote\n\nDetente aquí, por favor.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "stop (imperative, tú)",
+      "qMdClarifier": "",
+      "qMdFootnote": "Stop here, please.",
+      "aMdPrompt": "",
+      "aMdBody": "detente",
+      "aMdClarifier": "",
+      "aMdFootnote": "Detente aquí, por favor."
+    },
+    "reason": "Correct stress/spelling and remove calque detenerse de hablar."
+  },
+  {
+    "row": 470,
+    "cardId": 734812958,
+    "before": {
+      "question": "# Translate:\n\napproximation\n\n## Footnote\n\nThis is a rough estimate.",
+      "answer": "aproximación\n\n## Footnote\n\nEsta es una estimación aproximada.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "approximation",
+      "qMdClarifier": "",
+      "qMdFootnote": "This is a rough estimate.",
+      "aMdPrompt": "",
+      "aMdBody": "aproximación",
+      "aMdClarifier": "",
+      "aMdFootnote": "Esta es una estimación aproximada."
+    },
+    "after": {
+      "question": "# Translate:\n\napproximation\n\n## Footnote\n\nThis is a rough approximation.",
+      "answer": "aproximación\n\n## Footnote\n\nEsta es una aproximación general.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "approximation",
+      "qMdClarifier": "",
+      "qMdFootnote": "This is a rough approximation.",
+      "aMdPrompt": "",
+      "aMdBody": "aproximación",
+      "aMdClarifier": "",
+      "aMdFootnote": "Esta es una aproximación general."
+    },
+    "reason": "Use noun aproximación."
+  }
+]

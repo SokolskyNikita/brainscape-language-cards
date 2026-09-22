@@ -1,0 +1,500 @@
+и → and
+в → in, at
+не → not
+на → on
+я → I
+что → what, that
+быть → to be
+с → with
+он → he
+а → but, and
+это → this, it
+как → how, as
+то → that, that one
+этот → this
+по → by, according to
+к → to, towards
+но → but
+они → they
+мы → we
+она → she
+который → which, that
+из → from, out of
+у → have, at
+свой → one's own
+вы → you (pl./formal)
+весь → all, whole
+за → behind, for
+для → for
+от → from
+о → about
+так → so
+мочь → to be able, can
+ты → you (informal)
+же → though
+год → year
+человек → person
+один → one, alone
+такой → such
+тот → that, that one
+или → or
+если → if
+только → only, just
+бы → would
+себя → oneself
+время → time
+когда → when
+уже → already
+другой → other, another
+сказать → to say
+до → until, up to
+мой → my, mine
+наш → our, ours
+чтобы → so that, to
+говорить → to speak, to talk
+самый → the very, most
+знать → to know
+вот → here
+очень → very
+нет → no, there isn't
+кто → who
+при → at, with
+да → yes
+стать → to become
+день → day
+первый → first
+даже → even
+можно → can, may
+жизнь → life
+ни → neither, nor
+сам → oneself
+дело → matter, business
+два → two
+новый → new
+раз → time, once
+хотеть → to want
+ли → whether
+какой → what, which
+там → there
+много → many, much
+работа → work, job
+иметь → to have
+после → after
+где → where
+вопрос → question
+рука → hand, arm
+город → city, town
+под → under
+каждый → each, every
+слово → word
+место → place
+без → without
+ну → well
+просто → just, simply
+более → more
+друг → friend
+большой → big, large
+надо → must, need to
+чем → than
+ваш → your, yours
+сделать → to do, to make
+идти → to go, to walk
+здесь → here
+делать → to do, to make
+сейчас → now
+видеть → to see
+потом → then, later
+ничто → nothing
+через → through, in
+мир → world
+теперь → now
+несколько → several, a few
+думать → to think
+потому → that's why
+случай → case
+сторона → side
+хороший → good
+тоже → too, also
+глаз → eye
+тогда → then
+тут → here
+дом → house, home
+страна → country
+сила → strength
+последний → last
+работать → to work
+также → also
+лицо → face
+жить → to live
+часть → part
+хотя → although
+женщина → woman
+система → system
+всегда → always
+являться → to be
+вид → kind, type
+голова → head
+проблема → problem
+конец → end
+ведь → after all, because
+между → between
+конечно → of course
+смотреть → to look, to watch
+пока → for now, bye
+отношение → relation
+получить → to get, to receive
+дать → to give
+русский → Russian
+три → three
+второй → second
+именно → exactly
+перед → before, in front of
+лишь → only, just
+образ → way, image
+понять → to understand
+поэтому → that's why, so
+почему → why
+понимать → to understand
+любой → any
+однако → however
+хорошо → well, OK
+никто → nobody, no one
+час → hour
+начать → to start, to begin
+найти → to find
+считать → to consider, to count
+взять → to take
+над → above, over
+земля → ground, land
+сегодня → today
+вообще → at all, in general
+книга → book
+пойти → to go
+возможность → chance, possibility
+некоторый → some
+оказаться → to turn out
+прийти → to come
+компания → company
+история → story, history
+любить → to love, to like
+высокий → tall, high
+нужно → need to
+почти → almost
+остаться → to stay, to remain
+твой → your, yours
+результат → result
+например → for example
+право → right
+группа → group
+писать → to write
+сидеть → to sit
+путь → way, path
+машина → car
+находиться → to be located
+увидеть → to see
+война → war
+казаться → to seem
+стоять → to stand
+имя → name
+решить → to decide, to solve
+никогда → never
+стоить → to cost, to be worth
+маленький → small, little
+ответ → answer
+вода → water
+решение → decision, solution
+бог → god
+совсем → completely, at all
+язык → language, tongue
+далеко → far
+нужный → needed, necessary
+давать → to give
+ответить → to answer
+полный → full, complete
+российский → Russian
+народ → people, nation
+власть → power, authority
+сразу → right away
+уровень → level
+выйти → to go out
+ночь → night
+пора → it's time
+часто → often
+спросить → to ask
+развитие → development
+программа → program
+начало → beginning, start
+никакой → no, none
+оно → it
+главный → main, chief
+дверь → door
+вместе → together
+момент → moment
+закон → law
+число → number, date
+цель → goal
+принять → to accept, to take
+следующий → next
+написать → to write
+отец → father
+правда → truth
+нога → leg, foot
+старый → old
+помощь → help
+информация → information
+уж → really
+тысяча → thousand
+про → about
+подобный → similar, such
+разный → different
+общий → common, general
+месяц → month
+пройти → to pass, to go through
+кроме → except, besides
+минута → minute
+мало → little, few
+всё → everything, all
+процесс → process
+ситуация → situation
+смочь → to be able, to manage
+автор → author
+начинать → to start, to begin
+форма → form
+голос → voice
+многий → many
+собственный → own
+мысль → thought
+свет → light
+качество → quality
+школа → school
+всякий → every, any
+действие → action
+мужчина → man
+область → region, area
+внимание → attention
+следовать → to follow
+использовать → to use
+дорога → road, way
+связь → connection
+взгляд → look, view
+условие → condition
+молодой → young
+скоро → soon
+снова → again
+любовь → love
+основной → main, basic
+становиться → to become
+важный → important
+ждать → to wait
+вдруг → suddenly
+игра → game
+читать → to read
+статья → article
+организация → organization
+средство → means
+существовать → to exist
+душа → soul
+пытаться → to try
+тело → body
+посмотреть → to look, to watch
+общество → society
+жена → wife
+государство → state
+оставаться → to stay, to remain
+совершенно → absolutely, completely
+письмо → letter, mail
+состояние → state, condition
+вечер → evening
+настоящий → real, genuine
+назад → back, ago
+смысл → meaning, sense
+мера → measure, extent
+семья → family
+простой → simple
+вещь → thing
+вернуться → to return, to come back
+затем → then, afterwards
+причина → reason, cause
+утро → morning
+мать → mother
+рынок → market
+действительно → really, indeed
+происходить → to happen, to go on
+данный → this, the given
+девушка → girl
+вести → to lead, to drive
+сколько → how much, how many
+тема → topic
+стол → table, desk
+проект → project
+улица → street
+государственный → state, government
+помнить → to remember
+называть → to call, to name
+точка → point, period
+появиться → to appear, to show up
+хотеться → to feel like, to want
+нельзя → cannot, must not
+белый → white
+центр → center
+опять → again
+равный → equal
+против → against
+куда → where, where to
+неделя → week
+идея → idea
+особенно → especially
+прийтись → to have to
+комната → room
+иной → other, different
+цена → price
+наконец → finally, at last
+известный → famous, well-known
+среди → among
+сын → son
+деятельность → activity
+узнать → to find out
+играть → to play
+правило → rule
+советский → Soviet
+движение → movement
+заниматься → to do, to be busy with
+точно → exactly, precisely
+огромный → huge, enormous
+мама → mom, mother
+задача → task, problem
+великий → great
+количество → quantity, amount
+чувство → feeling
+иногда → sometimes
+слишком → too
+смерть → death
+достаточно → enough
+лежать → to lie
+помочь → to help
+мнение → opinion, view
+труд → labor, work
+пять → five
+третий → third
+бывать → to be, to visit
+заметить → to notice
+готовый → ready, prepared
+быстро → quickly, fast
+сильный → strong
+порядок → order
+чувствовать → to feel
+создать → to create
+пример → example
+положение → situation, position
+век → century
+продолжать → to continue
+подумать → to think, to consider
+муж → husband
+поскольку → since, as
+уйти → to leave
+хоть → at least, even if
+военный → military
+речь → speech, talk
+план → plan
+совет → advice, council
+политический → political
+стена → wall
+представлять → to imagine
+слышать → to hear
+ходить → to go, to walk
+окно → window
+рядом → nearby, next to
+прежде → before, previously
+показать → to show
+опыт → experience
+тип → type, kind
+оба → both
+около → near, about
+отвечать → to answer
+интерес → interest
+современный → modern
+плохой → bad
+сердце → heart
+управление → management
+наука → science
+сообщение → message
+значит → so, means
+просить → to ask
+немного → a little, a bit
+газета → newspaper
+интересный → interesting, intriguing
+живой → alive
+поставить → to put
+необходимый → necessary
+материал → material
+роль → role
+открыть → to open
+представить → to imagine
+вполне → quite
+будто → as if, as though
+рассказать → to tell
+выходить → to go out
+рано → early
+оставить → to leave
+получать → to get
+давно → long ago
+армия → army
+рабочий → worker
+четыре → four
+бояться → to be afraid
+различный → different, various
+долго → for a long time
+привести → to bring
+президент → president
+либо → either, or
+событие → event
+менее → less
+красный → red
+социальный → social
+искать → to look for
+большинство → most
+бизнес → business
+пусть → let, may
+легко → easily
+правительство → government
+прямо → straight
+глава → head
+член → member
+суд → court
+возможно → maybe
+принимать → to accept
+рубль → ruble
+б → would
+миллион → million
+целый → whole, entire
+приходить → to come
+фильм → movie
+обычно → usually
+спать → to sleep
+небольшой → small
+культура → culture
+текст → text
+брать → to take
+документ → document
+принцип → principle
+разговор → conversation
+телефон → phone
+произойти → to happen
+правый → right
+способ → way
+течение → course
+провести → to spend
+вокруг → around
+проходить → to pass, to go by
+купить → buy, purchase
+родитель → parent
+сей → this
+ряд → row
+ещё → still, yet
+единственный → only
+метр → meter
+сайт → website
+партия → party
+позволять → to allow
+образование → education
+зачем → why

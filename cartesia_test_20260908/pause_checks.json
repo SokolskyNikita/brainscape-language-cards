@@ -1,0 +1,125 @@
+[
+  {
+    "file": "01.mp3",
+    "pauses_seconds": [
+      0.929138
+    ]
+  },
+  {
+    "file": "02.mp3",
+    "pauses_seconds": [
+      0.856735
+    ]
+  },
+  {
+    "file": "03.mp3",
+    "pauses_seconds": [
+      0.920862
+    ]
+  },
+  {
+    "file": "04.mp3",
+    "pauses_seconds": [
+      0.835374
+    ]
+  },
+  {
+    "file": "05.mp3",
+    "pauses_seconds": [
+      0.505533
+    ]
+  },
+  {
+    "file": "06.mp3",
+    "pauses_seconds": [
+      0.955442,
+      0.320408
+    ]
+  },
+  {
+    "file": "07.mp3",
+    "pauses_seconds": [
+      0.886122
+    ]
+  },
+  {
+    "file": "08.mp3",
+    "pauses_seconds": [
+      0.960499
+    ]
+  },
+  {
+    "file": "09.mp3",
+    "pauses_seconds": [
+      0.963152
+    ]
+  },
+  {
+    "file": "10.mp3",
+    "pauses_seconds": [
+      0.875238
+    ]
+  },
+  {
+    "file": "11.mp3",
+    "pauses_seconds": [
+      0.973288
+    ]
+  },
+  {
+    "file": "12.mp3",
+    "pauses_seconds": [
+      0.823719
+    ]
+  },
+  {
+    "file": "13.mp3",
+    "pauses_seconds": [
+      0.933515,
+      0.257868
+    ]
+  },
+  {
+    "file": "14.mp3",
+    "pauses_seconds": [
+      0.861973
+    ]
+  },
+  {
+    "file": "15.mp3",
+    "pauses_seconds": [
+      0.815896
+    ]
+  },
+  {
+    "file": "16.mp3",
+    "pauses_seconds": [
+      0.889728
+    ]
+  },
+  {
+    "file": "17.mp3",
+    "pauses_seconds": [
+      0.787732,
+      0.268254
+    ]
+  },
+  {
+    "file": "18.mp3",
+    "pauses_seconds": [
+      0.842222
+    ]
+  },
+  {
+    "file": "19.mp3",
+    "pauses_seconds": [
+      0.858186
+    ]
+  },
+  {
+    "file": "20.mp3",
+    "pauses_seconds": [
+      0.983855
+    ]
+  }
+]

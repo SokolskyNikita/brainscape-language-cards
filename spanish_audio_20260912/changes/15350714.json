@@ -1,0 +1,437 @@
+[
+  {
+    "row": 3,
+    "cardId": 491521139,
+    "before": {
+      "question": "# Translate:\n\nto shoot yourself\n\n## Footnote\n\nDon't shoot yourself in the foot.",
+      "answer": "dispararte\n\n## Footnote\n\nNo te dispares en el pie.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "to shoot yourself",
+      "qMdClarifier": "",
+      "qMdFootnote": "Don't shoot yourself in the foot.",
+      "aMdPrompt": "",
+      "aMdBody": "dispararte",
+      "aMdClarifier": "",
+      "aMdFootnote": "No te dispares en el pie."
+    },
+    "after": {
+      "question": "# Translate:\n\nto shoot yourself\n\n## Footnote\n\nYou could shoot yourself in the foot.",
+      "answer": "dispararte\n\n## Footnote\n\nPodrías dispararte en el pie.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "to shoot yourself",
+      "qMdClarifier": "",
+      "qMdFootnote": "You could shoot yourself in the foot.",
+      "aMdPrompt": "",
+      "aMdBody": "dispararte",
+      "aMdClarifier": "",
+      "aMdFootnote": "Podrías dispararte en el pie."
+    },
+    "reason": "Use infinitive dispararte."
+  },
+  {
+    "row": 32,
+    "cardId": 734812380,
+    "before": {
+      "question": "# Translate:\n\nsense of smell\n\n## Footnote\n\nI love the smell of coffee.",
+      "answer": "sense of smell\n\n## Footnote\n\nDogs have a good sense of smell.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "sense of smell",
+      "qMdClarifier": "",
+      "qMdFootnote": "I love the smell of coffee.",
+      "aMdPrompt": "",
+      "aMdBody": "sense of smell",
+      "aMdClarifier": "",
+      "aMdFootnote": "Dogs have a good sense of smell."
+    },
+    "after": {
+      "question": "# Translate:\n\nsense of smell\n\n## Footnote\n\nDogs have a good sense of smell.",
+      "answer": "olfato\n\n## Footnote\n\nLos perros tienen buen olfato.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "sense of smell",
+      "qMdClarifier": "",
+      "qMdFootnote": "Dogs have a good sense of smell.",
+      "aMdPrompt": "",
+      "aMdBody": "olfato",
+      "aMdClarifier": "",
+      "aMdFootnote": "Los perros tienen buen olfato."
+    },
+    "reason": "Restore Spanish olfato; Spanish fields were English."
+  },
+  {
+    "row": 42,
+    "cardId": 491521178,
+    "before": {
+      "question": "# Translate:\n\nyou joke\n\n## Footnote\n\nI want you to joke, to be funny.",
+      "answer": "bromees\n\n## Footnote\n\nQuiero que bromees, que seas chistoso.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "you joke",
+      "qMdClarifier": "",
+      "qMdFootnote": "I want you to joke, to be funny.",
+      "aMdPrompt": "",
+      "aMdBody": "bromees",
+      "aMdClarifier": "",
+      "aMdFootnote": "Quiero que bromees, que seas chistoso."
+    },
+    "after": {
+      "question": "# Translate:\n\nyou joke (subjunctive)\n\n## Footnote\n\nI want you to joke, to be funny.",
+      "answer": "bromees\n\n## Footnote\n\nQuiero que bromees, que seas chistoso.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "you joke (subjunctive)",
+      "qMdClarifier": "",
+      "qMdFootnote": "I want you to joke, to be funny.",
+      "aMdPrompt": "",
+      "aMdBody": "bromees",
+      "aMdClarifier": "",
+      "aMdFootnote": "Quiero que bromees, que seas chistoso."
+    },
+    "reason": "Label bromees correctly."
+  },
+  {
+    "row": 58,
+    "cardId": 491521194,
+    "before": {
+      "question": "# Translate:\n\nto ask him/her/it\n\n## Footnote\n\nI decided to ask him directly.",
+      "answer": "preguntárselo\n\n## Footnote\n\nDecidí preguntárselo directamente.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "to ask him/her/it",
+      "qMdClarifier": "",
+      "qMdFootnote": "I decided to ask him directly.",
+      "aMdPrompt": "",
+      "aMdBody": "preguntárselo",
+      "aMdClarifier": "",
+      "aMdFootnote": "Decidí preguntárselo directamente."
+    },
+    "after": {
+      "question": "# Translate:\n\nto ask him or her about it\n\n## Footnote\n\nI decided to ask him directly.",
+      "answer": "preguntárselo\n\n## Footnote\n\nDecidí preguntárselo directamente.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "to ask him or her about it",
+      "qMdClarifier": "",
+      "qMdFootnote": "I decided to ask him directly.",
+      "aMdPrompt": "",
+      "aMdBody": "preguntárselo",
+      "aMdClarifier": "",
+      "aMdFootnote": "Decidí preguntárselo directamente."
+    },
+    "reason": "Translate the direct and indirect objects in preguntárselo."
+  },
+  {
+    "row": 100,
+    "cardId": 491521236,
+    "before": {
+      "question": "# Translate:\n\nyou have (subjunctive, vosotros)\n\n## Footnote\n\nI didn't like that you guys won.",
+      "answer": "hayáis\n\n## Footnote\n\nNo me gustó que lo hayáis ganado.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "you have (subjunctive, vosotros)",
+      "qMdClarifier": "",
+      "qMdFootnote": "I didn't like that you guys won.",
+      "aMdPrompt": "",
+      "aMdBody": "hayáis",
+      "aMdClarifier": "",
+      "aMdFootnote": "No me gustó que lo hayáis ganado."
+    },
+    "after": {
+      "question": "# Translate:\n\nyou have (subjunctive, vosotros)\n\n## Footnote\n\nI'm glad you have won.",
+      "answer": "hayáis\n\n## Footnote\n\nMe alegra que hayáis ganado.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "you have (subjunctive, vosotros)",
+      "qMdClarifier": "",
+      "qMdFootnote": "I'm glad you have won.",
+      "aMdPrompt": "",
+      "aMdBody": "hayáis",
+      "aMdClarifier": "",
+      "aMdFootnote": "Me alegra que hayáis ganado."
+    },
+    "reason": "Natural tense sequence with hayáis."
+  },
+  {
+    "row": 153,
+    "cardId": 491521291,
+    "before": {
+      "question": "# Translate:\n\nsay goodbye (imperative, tú)\n\n## Footnote\n\nTime to say goodbye to everyone.",
+      "answer": "despídete\n\n## Footnote\n\nEs hora de despedirte de todos.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "say goodbye (imperative, tú)",
+      "qMdClarifier": "",
+      "qMdFootnote": "Time to say goodbye to everyone.",
+      "aMdPrompt": "",
+      "aMdBody": "despídete",
+      "aMdClarifier": "",
+      "aMdFootnote": "Es hora de despedirte de todos."
+    },
+    "after": {
+      "question": "# Translate:\n\nsay goodbye (imperative, tú)\n\n## Footnote\n\nSay goodbye to everyone.",
+      "answer": "despídete\n\n## Footnote\n\nDespídete de todos.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "say goodbye (imperative, tú)",
+      "qMdClarifier": "",
+      "qMdFootnote": "Say goodbye to everyone.",
+      "aMdPrompt": "",
+      "aMdBody": "despídete",
+      "aMdClarifier": "",
+      "aMdFootnote": "Despídete de todos."
+    },
+    "reason": "Match imperative despídete."
+  },
+  {
+    "row": 164,
+    "cardId": 491521302,
+    "before": {
+      "question": "# Translate:\n\nmove away (imperative, usted)\n\n## Footnote\n\nPlease move away from the edge.",
+      "answer": "aleje\n\n## Footnote\n\nPor favor, aléjese del borde.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "move away (imperative, usted)",
+      "qMdClarifier": "",
+      "qMdFootnote": "Please move away from the edge.",
+      "aMdPrompt": "",
+      "aMdBody": "aleje",
+      "aMdClarifier": "",
+      "aMdFootnote": "Por favor, aléjese del borde."
+    },
+    "after": {
+      "question": "# Translate:\n\nmove away (something; imperative, usted)\n\n## Footnote\n\nMove the table away from the wall, please.",
+      "answer": "aleje\n\n## Footnote\n\nAleje la mesa de la pared, por favor.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "move away (something; imperative, usted)",
+      "qMdClarifier": "",
+      "qMdFootnote": "Move the table away from the wall, please.",
+      "aMdPrompt": "",
+      "aMdBody": "aleje",
+      "aMdClarifier": "",
+      "aMdFootnote": "Aleje la mesa de la pared, por favor."
+    },
+    "reason": "Use transitive aleje rather than reflexive aléjese."
+  },
+  {
+    "row": 174,
+    "cardId": 491521312,
+    "before": {
+      "question": "# Translate:\n\njaguar, leopard\n\n## Footnote\n\nThe jaguar prowled through the jungle.",
+      "answer": "jaguar\n\n## Footnote\n\nEl jaguar merodeaba por la selva.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "jaguar, leopard",
+      "qMdClarifier": "",
+      "qMdFootnote": "The jaguar prowled through the jungle.",
+      "aMdPrompt": "",
+      "aMdBody": "jaguar",
+      "aMdClarifier": "",
+      "aMdFootnote": "El jaguar merodeaba por la selva."
+    },
+    "after": {
+      "question": "# Translate:\n\njaguar\n\n## Footnote\n\nThe jaguar prowled through the jungle.",
+      "answer": "jaguar\n\n## Footnote\n\nEl jaguar merodeaba por la selva.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "jaguar",
+      "qMdClarifier": "",
+      "qMdFootnote": "The jaguar prowled through the jungle.",
+      "aMdPrompt": "",
+      "aMdBody": "jaguar",
+      "aMdClarifier": "",
+      "aMdFootnote": "El jaguar merodeaba por la selva."
+    },
+    "reason": "Jaguar does not mean leopard."
+  },
+  {
+    "row": 180,
+    "cardId": 491521318,
+    "before": {
+      "question": "# Translate:\n\ncover me (imperative, tú)\n\n## Footnote\n\nCover me, I'm reloading!",
+      "answer": "cúbreme\n\n## Footnote\n\nCúbreme, estoy recargando!",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "cover me (imperative, tú)",
+      "qMdClarifier": "",
+      "qMdFootnote": "Cover me, I'm reloading!",
+      "aMdPrompt": "",
+      "aMdBody": "cúbreme",
+      "aMdClarifier": "",
+      "aMdFootnote": "Cúbreme, estoy recargando!"
+    },
+    "after": {
+      "question": "# Translate:\n\ncover me (imperative, tú)\n\n## Footnote\n\nCover me, I'm reloading!",
+      "answer": "cúbreme\n\n## Footnote\n\n¡Cúbreme, estoy recargando!",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "cover me (imperative, tú)",
+      "qMdClarifier": "",
+      "qMdFootnote": "Cover me, I'm reloading!",
+      "aMdPrompt": "",
+      "aMdBody": "cúbreme",
+      "aMdClarifier": "",
+      "aMdFootnote": "¡Cúbreme, estoy recargando!"
+    },
+    "reason": "Normalize sentence punctuation and remove extraneous quotation marks."
+  },
+  {
+    "row": 195,
+    "cardId": 491521334,
+    "before": {
+      "question": "# Translate:\n\nto approach\n\n## Footnote\n\nTime to approach the shy cat.",
+      "answer": "acercar\n\n## Footnote\n\nEs hora de acercarse al gato tímido.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "to approach",
+      "qMdClarifier": "",
+      "qMdFootnote": "Time to approach the shy cat.",
+      "aMdPrompt": "",
+      "aMdBody": "acercar",
+      "aMdClarifier": "",
+      "aMdFootnote": "Es hora de acercarse al gato tímido."
+    },
+    "after": {
+      "question": "# Translate:\n\nto bring closer\n\n## Footnote\n\nCan you bring the chair closer?",
+      "answer": "acercar\n\n## Footnote\n\n¿Puedes acercar la silla?",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "to bring closer",
+      "qMdClarifier": "",
+      "qMdFootnote": "Can you bring the chair closer?",
+      "aMdPrompt": "",
+      "aMdBody": "acercar",
+      "aMdClarifier": "",
+      "aMdFootnote": "¿Puedes acercar la silla?"
+    },
+    "reason": "Demonstrate transitive acercar."
+  },
+  {
+    "row": 281,
+    "cardId": 491521421,
+    "before": {
+      "question": "# Translate:\n\nI approached\n\n## Footnote\n\nI approached the timid cat slowly.",
+      "answer": "acerqué\n\n## Footnote\n\nMe acerqué lentamente al gato tímido.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "I approached",
+      "qMdClarifier": "",
+      "qMdFootnote": "I approached the timid cat slowly.",
+      "aMdPrompt": "",
+      "aMdBody": "acerqué",
+      "aMdClarifier": "",
+      "aMdFootnote": "Me acerqué lentamente al gato tímido."
+    },
+    "after": {
+      "question": "# Translate:\n\nI approached\n\n## Footnote\n\nI approached the timid cat slowly.",
+      "answer": "me acerqué\n\n## Footnote\n\nMe acerqué lentamente al gato tímido.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "I approached",
+      "qMdClarifier": "",
+      "qMdFootnote": "I approached the timid cat slowly.",
+      "aMdPrompt": "",
+      "aMdBody": "me acerqué",
+      "aMdClarifier": "",
+      "aMdFootnote": "Me acerqué lentamente al gato tímido."
+    },
+    "reason": "Reflexive pronoun required."
+  },
+  {
+    "row": 391,
+    "cardId": 491521531,
+    "before": {
+      "question": "# Translate:\n\ncasually\n\n## Footnote\n\nHe casually bumped into an old friend.",
+      "answer": "casualmente\n\n## Footnote\n\nÉl casualmente se encontró con un viejo amigo.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "casually",
+      "qMdClarifier": "",
+      "qMdFootnote": "He casually bumped into an old friend.",
+      "aMdPrompt": "",
+      "aMdBody": "casualmente",
+      "aMdClarifier": "",
+      "aMdFootnote": "Él casualmente se encontró con un viejo amigo."
+    },
+    "after": {
+      "question": "# Translate:\n\nby chance, coincidentally\n\n## Footnote\n\nHe met an old friend by chance.",
+      "answer": "casualmente\n\n## Footnote\n\nÉl casualmente se encontró con un viejo amigo.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "by chance, coincidentally",
+      "qMdClarifier": "",
+      "qMdFootnote": "He met an old friend by chance.",
+      "aMdPrompt": "",
+      "aMdBody": "casualmente",
+      "aMdClarifier": "",
+      "aMdFootnote": "Él casualmente se encontró con un viejo amigo."
+    },
+    "reason": "Casualmente means by chance, not in a casual manner."
+  },
+  {
+    "row": 462,
+    "cardId": 491521603,
+    "before": {
+      "question": "# Translate:\n\nstuck\n\n## Footnote\n\nThe key got stuck in the lock.",
+      "answer": "atorado\n\n## Footnote\n\nLa llave se atoró en la cerradura.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "stuck",
+      "qMdClarifier": "",
+      "qMdFootnote": "The key got stuck in the lock.",
+      "aMdPrompt": "",
+      "aMdBody": "atorado",
+      "aMdClarifier": "",
+      "aMdFootnote": "La llave se atoró en la cerradura."
+    },
+    "after": {
+      "question": "# Translate:\n\nstuck\n\n## Footnote\n\nThe key is stuck in the lock.",
+      "answer": "atorado\n\n## Footnote\n\nLa llave está atorada en la cerradura.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "stuck",
+      "qMdClarifier": "",
+      "qMdFootnote": "The key is stuck in the lock.",
+      "aMdPrompt": "",
+      "aMdBody": "atorado",
+      "aMdClarifier": "",
+      "aMdFootnote": "La llave está atorada en la cerradura."
+    },
+    "reason": "Use adjective atorado."
+  },
+  {
+    "row": 475,
+    "cardId": 734812415,
+    "before": {
+      "question": "# Translate:\n\ntransplant\n\n## Footnote\n\nHe needs a heart transplant soon.",
+      "answer": "transplante\n\n## Footnote\n\nNecesita un transplante de corazón pronto.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "transplant",
+      "qMdClarifier": "",
+      "qMdFootnote": "He needs a heart transplant soon.",
+      "aMdPrompt": "",
+      "aMdBody": "transplante",
+      "aMdClarifier": "",
+      "aMdFootnote": "Necesita un transplante de corazón pronto."
+    },
+    "after": {
+      "question": "# Translate:\n\ntransplant\n\n## Footnote\n\nHe needs a heart transplant soon.",
+      "answer": "trasplante\n\n## Footnote\n\nNecesita un trasplante de corazón pronto.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "transplant",
+      "qMdClarifier": "",
+      "qMdFootnote": "He needs a heart transplant soon.",
+      "aMdPrompt": "",
+      "aMdBody": "trasplante",
+      "aMdClarifier": "",
+      "aMdFootnote": "Necesita un trasplante de corazón pronto."
+    },
+    "reason": "Correct standard spelling trasplante."
+  },
+  {
+    "row": 484,
+    "cardId": 734812432,
+    "before": {
+      "question": "# Translate:\n\ndon't worry (imperative, vosotros)\n\n## Footnote\n\nDon't worry about the small things.",
+      "answer": "preocupéis\n\n## Footnote\n\nNo os preocupéis por las cosas pequeñas.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "don't worry (imperative, vosotros)",
+      "qMdClarifier": "",
+      "qMdFootnote": "Don't worry about the small things.",
+      "aMdPrompt": "",
+      "aMdBody": "preocupéis",
+      "aMdClarifier": "",
+      "aMdFootnote": "No os preocupéis por las cosas pequeñas."
+    },
+    "after": {
+      "question": "# Translate:\n\nyou worry (subjunctive, vosotros)\n\n## Footnote\n\nDon't worry about the small things.",
+      "answer": "preocupéis\n\n## Footnote\n\nNo os preocupéis por las cosas pequeñas.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "you worry (subjunctive, vosotros)",
+      "qMdClarifier": "",
+      "qMdFootnote": "Don't worry about the small things.",
+      "aMdPrompt": "",
+      "aMdBody": "preocupéis",
+      "aMdClarifier": "",
+      "aMdFootnote": "No os preocupéis por las cosas pequeñas."
+    },
+    "reason": "Clarify form preocupéis; negative command is demonstrated in the example."
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "row": 214,
+    "cardId": 491505283,
+    "before": {
+      "question": "# Translate:\n\ne\n\n## Footnote\n\nÓscar and Ignacio trabajan juntos.",
+      "answer": "and\n\n## Footnote\n\nÓscar and Ignacio work together.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "e",
+      "qMdClarifier": "",
+      "qMdFootnote": "Óscar and Ignacio trabajan juntos.",
+      "aMdPrompt": "",
+      "aMdBody": "and",
+      "aMdClarifier": "",
+      "aMdFootnote": "Óscar and Ignacio work together."
+    },
+    "after": {
+      "question": "# Translate:\n\ne\n\n## Footnote\n\nÓscar e Ignacio trabajan juntos.",
+      "answer": "and\n\n## Footnote\n\nÓscar and Ignacio work together.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "e",
+      "qMdClarifier": "",
+      "qMdFootnote": "Óscar e Ignacio trabajan juntos.",
+      "aMdPrompt": "",
+      "aMdBody": "and",
+      "aMdClarifier": "",
+      "aMdFootnote": "Óscar and Ignacio work together."
+    },
+    "reason": "Remove English contamination before Spanish audio."
+  }
+]

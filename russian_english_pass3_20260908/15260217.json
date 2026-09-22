@@ -1,0 +1,358 @@
+{
+  "deck": "15260217",
+  "reviewed": 500,
+  "changes": [
+    {
+      "row": 13,
+      "before": [
+        "ложа",
+        "box",
+        "Мы выбрали ложу в театре.",
+        "We chose a box at the theater."
+      ],
+      "after": [
+        "ложа",
+        "box (in a theater)",
+        "Мы выбрали ложу в театре.",
+        "We chose a box at the theater."
+      ],
+      "reason": "Clarify specialized seating meaning."
+    },
+    {
+      "row": 25,
+      "before": [
+        "разгромить",
+        "defeat, rout",
+        "Мы разгромили врага.",
+        "We defeated the enemy."
+      ],
+      "after": [
+        "разгромить",
+        "to rout, to defeat decisively",
+        "Мы разгромили врага.",
+        "We defeated the enemy decisively."
+      ],
+      "reason": "Preserve complete defeat, not any win."
+    },
+    {
+      "row": 29,
+      "before": [
+        "тематический",
+        "thematic, topical",
+        "Это тематический вечер.",
+        "This is a thematic evening."
+      ],
+      "after": [
+        "тематический",
+        "themed, thematic",
+        "Это тематический вечер.",
+        "This is a themed evening."
+      ],
+      "reason": "Use natural English adjective for an event."
+    },
+    {
+      "row": 34,
+      "before": [
+        "лирика",
+        "lyric poetry, lyrics",
+        "Она пишет красивую лирику.",
+        "She writes beautiful lyric poetry."
+      ],
+      "after": [
+        "лирика",
+        "lyric poetry",
+        "Она пишет красивую лирику.",
+        "She writes beautiful lyric poetry."
+      ],
+      "reason": "Song lyrics are normally текст песни, not лирика."
+    },
+    {
+      "row": 46,
+      "before": [
+        "косяк",
+        "mistake, joint",
+        "Это мой большой косяк.",
+        "This is my big mistake."
+      ],
+      "after": [
+        "косяк",
+        "mistake (slang); joint (cannabis); doorjamb; shoal",
+        "Это мой большой косяк.",
+        "This is my big mistake."
+      ],
+      "reason": "Disambiguate slang meanings."
+    },
+    {
+      "row": 57,
+      "before": [
+        "эль",
+        "ale, beer",
+        "Он пьёт эль в баре.",
+        "He drinks ale at the bar."
+      ],
+      "after": [
+        "эль",
+        "ale",
+        "Он пьёт эль в баре.",
+        "He drinks ale at the bar."
+      ],
+      "reason": "Ale is a specific beer type."
+    },
+    {
+      "row": 111,
+      "before": [
+        "драйвер",
+        "driver, software driver",
+        "Нужен новый драйвер.",
+        "We need a new driver."
+      ],
+      "after": [
+        "драйвер",
+        "driver (software)",
+        "Нужен новый драйвер.",
+        "We need a new driver."
+      ],
+      "reason": "Avoid ordinary vehicle-driver interpretation."
+    },
+    {
+      "row": 144,
+      "before": [
+        "ступня",
+        "foot, sole",
+        "У меня болит ступня.",
+        "My foot hurts."
+      ],
+      "after": [
+        "ступня",
+        "foot",
+        "У меня болит ступня.",
+        "My foot hurts."
+      ],
+      "reason": "Sole specifically means подошва."
+    },
+    {
+      "row": 156,
+      "before": [
+        "прилив",
+        "tide, high tide",
+        "Скоро будет прилив.",
+        "The tide will come soon."
+      ],
+      "after": [
+        "прилив",
+        "rising tide, high tide",
+        "Скоро будет прилив.",
+        "High tide will come soon."
+      ],
+      "reason": "Distinguish incoming tide from tides generally."
+    },
+    {
+      "row": 162,
+      "before": [
+        "стопка",
+        "shot, stack",
+        "Налей стопку.",
+        "Pour a shot."
+      ],
+      "after": [
+        "стопка",
+        "shot glass; shot (of alcohol); stack",
+        "Налей стопку.",
+        "Pour a shot."
+      ],
+      "reason": "Include the vessel, not only its contents."
+    },
+    {
+      "row": 255,
+      "before": [
+        "сторонний",
+        "outsider, third party",
+        "Он здесь сторонний человек.",
+        "He is an outsider here."
+      ],
+      "after": [
+        "сторонний",
+        "outside, external; outsider (сторонний человек)",
+        "Он здесь сторонний человек.",
+        "He is an outsider here."
+      ],
+      "reason": "Preserve adjective and explain noun construction."
+    },
+    {
+      "row": 276,
+      "before": [
+        "уткнуться",
+        "to bury, to stick",
+        "Он уткнулся в книгу.",
+        "He buried himself in the book."
+      ],
+      "after": [
+        "уткнуться",
+        "to bury oneself in; to press one’s face against",
+        "Он уткнулся в книгу.",
+        "He buried himself in the book."
+      ],
+      "reason": "Avoid generic transitive bury/stick."
+    },
+    {
+      "row": 286,
+      "before": [
+        "застрелить",
+        "to shoot, to shoot dead",
+        "Его застрелили.",
+        "They shot him dead."
+      ],
+      "after": [
+        "застрелить",
+        "to shoot dead",
+        "Его застрелили.",
+        "They shot him dead."
+      ],
+      "reason": "Shooting without death does not convey застрелить."
+    },
+    {
+      "row": 294,
+      "before": [
+        "погружение",
+        "immersion, diving",
+        "Погружение началось.",
+        "The diving has begun."
+      ],
+      "after": [
+        "погружение",
+        "immersion, diving",
+        "Погружение в воду началось.",
+        "Immersion in the water has begun."
+      ],
+      "reason": "Natural count/event example."
+    },
+    {
+      "row": 322,
+      "before": [
+        "восклицать",
+        "exclaim, cry out",
+        "Не восклицай.",
+        "Don't exclaim."
+      ],
+      "after": [
+        "восклицать",
+        "exclaim, cry out",
+        "Он восклицает: «Как красиво!»",
+        "He exclaims, “How beautiful!”"
+      ],
+      "reason": "Replace unnatural prohibition with demonstrated exclamation."
+    },
+    {
+      "row": 323,
+      "before": [
+        "краевой",
+        "regional, territorial",
+        "Краевой центр далеко.",
+        "The regional center is far."
+      ],
+      "after": [
+        "краевой",
+        "regional, territorial",
+        "Краевой центр далеко.",
+        "The regional center is far away."
+      ],
+      "reason": "Natural distance phrasing."
+    },
+    {
+      "row": 375,
+      "before": [
+        "аспирант",
+        "graduate student, postgraduate",
+        "Он аспирант.",
+        "He is a graduate student."
+      ],
+      "after": [
+        "аспирант",
+        "doctoral student, postgraduate research student",
+        "Он аспирант.",
+        "He is a doctoral student."
+      ],
+      "reason": "Аспирант is more specific than any graduate student."
+    },
+    {
+      "row": 396,
+      "before": [
+        "иголка",
+        "needle, pin",
+        "Где иголка?",
+        "Where is the needle?"
+      ],
+      "after": [
+        "иголка",
+        "needle",
+        "Где иголка?",
+        "Where is the needle?"
+      ],
+      "reason": "Pin is normally булавка."
+    },
+    {
+      "row": 424,
+      "before": [
+        "единомышленник",
+        "like-minded person",
+        "Он мой единомышленник.",
+        "He is a like-minded person who shares my views."
+      ],
+      "after": [
+        "единомышленник",
+        "like-minded person",
+        "Он мой единомышленник.",
+        "He is a like-minded person."
+      ],
+      "reason": "Remove redundant explanation in example."
+    },
+    {
+      "row": 452,
+      "before": [
+        "срезать",
+        "cut off, slice",
+        "Надо срезать край.",
+        "Cut off the edge."
+      ],
+      "after": [
+        "срезать",
+        "cut off, slice",
+        "Надо срезать край.",
+        "We need to cut off the edge."
+      ],
+      "reason": "Restore necessity expressed by надо."
+    },
+    {
+      "row": 466,
+      "before": [
+        "побудить",
+        "encourage, prompt",
+        "Надо побудить его.",
+        "Encourage him."
+      ],
+      "after": [
+        "побудить",
+        "encourage, prompt",
+        "Надо побудить его.",
+        "We need to encourage him."
+      ],
+      "reason": "Restore necessity expressed by надо."
+    },
+    {
+      "row": 493,
+      "before": [
+        "резиденция",
+        "residence",
+        "Его резиденция далеко.",
+        "His residence is far."
+      ],
+      "after": [
+        "резиденция",
+        "residence",
+        "Его резиденция далеко.",
+        "His residence is far away."
+      ],
+      "reason": "Natural English distance phrasing."
+    }
+  ]
+}

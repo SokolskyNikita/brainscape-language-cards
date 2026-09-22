@@ -1,0 +1,601 @@
+{
+  "deck": "15260281",
+  "reviewed": 500,
+  "changes": [
+    {
+      "deck": "15260281",
+      "row": 37,
+      "card_number": 7037,
+      "before": [
+        "native",
+        "туземец",
+        "He is a native.",
+        "Он туземец."
+      ],
+      "after": [
+        "native",
+        "коренной житель; туземец (устаревающее, часто пренебрежительное)",
+        "He is a native.",
+        "Он туземец."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Mark ethnocentric term."
+    },
+    {
+      "deck": "15260281",
+      "row": 84,
+      "card_number": 7084,
+      "before": [
+        "elective",
+        "выборный",
+        "This is an elective council.",
+        "Это выборный совет."
+      ],
+      "after": [
+        "elective",
+        "выборный; факультативный (об учебном курсе)",
+        "This is an elective council.",
+        "Это выборный совет."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Identify elective political versus optional course senses."
+    },
+    {
+      "deck": "15260281",
+      "row": 93,
+      "card_number": 7093,
+      "before": [
+        "father-in-law",
+        "тесть",
+        "My father-in-law loves fishing.",
+        "Мой тесть обожает рыбалку."
+      ],
+      "after": [
+        "father-in-law",
+        "тесть (отец жены); свёкор (отец мужа)",
+        "My father-in-law loves fishing.",
+        "Мой тесть обожает рыбалку."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Distinguish relationships."
+    },
+    {
+      "deck": "15260281",
+      "row": 108,
+      "card_number": 7108,
+      "before": [
+        "shutdown",
+        "отключение",
+        "There is a sudden shutdown.",
+        "Есть внезапное отключение."
+      ],
+      "after": [
+        "shutdown",
+        "отключение",
+        "A sudden shutdown occurred.",
+        "Произошло внезапное отключение."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Natural event sentence."
+    },
+    {
+      "deck": "15260281",
+      "row": 117,
+      "card_number": 7117,
+      "before": [
+        "confidential",
+        "доверительный",
+        "This was a confidential talk.",
+        "Это был доверительный разговор."
+      ],
+      "after": [
+        "confidential",
+        "конфиденциальный; доверительный (о разговоре)",
+        "This was a confidential talk.",
+        "Это был доверительный разговор."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Secret information sense differs from intimate talk."
+    },
+    {
+      "deck": "15260281",
+      "row": 140,
+      "card_number": 7140,
+      "before": [
+        "the Lord's",
+        "господень",
+        "This is the Lord's will.",
+        "Это воля Господня."
+      ],
+      "after": [
+        "the Lord's",
+        "Господень",
+        "This is the Lord's will.",
+        "Это воля Господня."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Capitalize divine possessive adjective."
+    },
+    {
+      "deck": "15260281",
+      "row": 141,
+      "card_number": 7141,
+      "before": [
+        "raw material",
+        "сырье",
+        "Cotton is a key raw material.",
+        "Хлопок - главное сырье."
+      ],
+      "after": [
+        "raw material",
+        "сырьё",
+        "Cotton is a key raw material.",
+        "Хлопок — важное сырьё."
+      ],
+      "fields": [
+        "Russian translation",
+        "Russian example"
+      ],
+      "reason": "Use ё; key means important rather than the main raw material."
+    },
+    {
+      "deck": "15260281",
+      "row": 142,
+      "card_number": 7142,
+      "before": [
+        "Hindu",
+        "индус",
+        "He is a Hindu.",
+        "Он индус."
+      ],
+      "after": [
+        "Hindu",
+        "индуист (последователь индуизма); индус",
+        "He is a Hindu.",
+        "Он индуист."
+      ],
+      "fields": [
+        "Russian translation",
+        "Russian example"
+      ],
+      "reason": "Distinguish religion from nationality."
+    },
+    {
+      "deck": "15260281",
+      "row": 145,
+      "card_number": 7145,
+      "before": [
+        "graduate school",
+        "аспирантура",
+        "She studies in graduate school.",
+        "Она учится в аспирантуре."
+      ],
+      "after": [
+        "graduate school",
+        "магистратура; аспирантура (последипломное обучение)",
+        "She studies in graduate school.",
+        "Она учится в аспирантуре."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Graduate school includes master’s degree programs. Separate accepted target alternatives."
+    },
+    {
+      "deck": "15260281",
+      "row": 151,
+      "card_number": 7151,
+      "before": [
+        "doctoral",
+        "докторский",
+        "The doctoral thesis is ready.",
+        "Докторская диссертация готова."
+      ],
+      "after": [
+        "doctoral",
+        "относящийся к докторской степени (PhD часто соответствует российской кандидатской); докторский",
+        "The doctoral thesis is ready.",
+        "Докторская диссертация готова."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Do not equate every doctoral thesis with Russian higher doctorate."
+    },
+    {
+      "deck": "15260281",
+      "row": 159,
+      "card_number": 7159,
+      "before": [
+        "rejoice",
+        "ликовать",
+        "They rejoice at victory.",
+        "Они ликуют после победы."
+      ],
+      "after": [
+        "rejoice",
+        "ликовать",
+        "They rejoice.",
+        "Они ликуют."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Preserve cause, not merely time after victory. Use prior-deck vocabulary."
+    },
+    {
+      "deck": "15260281",
+      "row": 175,
+      "card_number": 7175,
+      "before": [
+        "broom",
+        "веник",
+        "She has a broom.",
+        "У неё есть веник."
+      ],
+      "after": [
+        "broom",
+        "метла; веник",
+        "She has a broom.",
+        "У неё есть веник."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Include long-handled broom."
+    },
+    {
+      "deck": "15260281",
+      "row": 177,
+      "card_number": 7177,
+      "before": [
+        "editorial",
+        "редакционный",
+        "The editorial group has a meeting.",
+        "У редакционной группы встреча."
+      ],
+      "after": [
+        "editorial",
+        "редакционная статья; редакционный (прилагательное)",
+        "The editorial group has a meeting.",
+        "У редакционной группы встреча."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Include noun sense."
+    },
+    {
+      "deck": "15260281",
+      "row": 196,
+      "card_number": 7196,
+      "before": [
+        "bastard",
+        "ублюдок",
+        "He is a real bastard.",
+        "Он настоящий ублюдок."
+      ],
+      "after": [
+        "bastard",
+        "ублюдок (грубое)",
+        "He is a real bastard.",
+        "Он настоящий ублюдок."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Mark insult register."
+    },
+    {
+      "deck": "15260281",
+      "row": 216,
+      "card_number": 7216,
+      "before": [
+        "cleaner",
+        "уборщица",
+        "The cleaner came early.",
+        "Уборщица пришла рано."
+      ],
+      "after": [
+        "cleaner",
+        "уборщик, уборщица; чистящее средство",
+        "The cleaner came early.",
+        "Уборщица пришла рано."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Cleaner is not necessarily female or a person."
+    },
+    {
+      "deck": "15260281",
+      "row": 242,
+      "card_number": 7242,
+      "before": [
+        "drill",
+        "строевой",
+        "This is drill training.",
+        "Это строевая подготовка."
+      ],
+      "after": [
+        "drill",
+        "строевая подготовка; дрель; строевой (прилагательное)",
+        "This is drill training.",
+        "Это строевая подготовка."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Include noun meanings."
+    },
+    {
+      "deck": "15260281",
+      "row": 246,
+      "card_number": 7246,
+      "before": [
+        "gain experience",
+        "набираться",
+        "I want to gain experience.",
+        "Я хочу набираться опыта."
+      ],
+      "after": [
+        "gain experience",
+        "набираться опыта",
+        "I want to gain experience.",
+        "Я хочу набираться опыта."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Include complete phrase."
+    },
+    {
+      "deck": "15260281",
+      "row": 284,
+      "card_number": 7284,
+      "before": [
+        "lime",
+        "липа",
+        "The old lime is in the park.",
+        "Старая липа в парке."
+      ],
+      "after": [
+        "lime",
+        "лайм (плод); известь; липа (британское, дерево)",
+        "The old lime is in the park.",
+        "Старая липа в парке."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Identify British tree sense."
+    },
+    {
+      "deck": "15260281",
+      "row": 304,
+      "card_number": 7304,
+      "before": [
+        "inflate",
+        "надуть",
+        "Inflate the tire with a pump.",
+        "Надуйте шину насосом."
+      ],
+      "after": [
+        "inflate",
+        "накачать; надуть",
+        "Inflate the tire with a pump.",
+        "Накачайте шину насосом."
+      ],
+      "fields": [
+        "Russian translation",
+        "Russian example"
+      ],
+      "reason": "Use idiomatic tire inflation verb."
+    },
+    {
+      "deck": "15260281",
+      "row": 310,
+      "card_number": 7310,
+      "before": [
+        "hard drive",
+        "винчестер",
+        "My hard drive is full.",
+        "Мой винчестер заполнен."
+      ],
+      "after": [
+        "hard drive",
+        "жёсткий диск; винчестер (разговорное, устаревающее)",
+        "My hard drive is full.",
+        "Мой винчестер заполнен."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Include neutral technical term."
+    },
+    {
+      "deck": "15260281",
+      "row": 331,
+      "card_number": 7331,
+      "before": [
+        "conservatory",
+        "консерватория",
+        "She studies at the conservatory.",
+        "Она учится в консерватории."
+      ],
+      "after": [
+        "conservatory",
+        "консерватория (музыка); оранжерея, застеклённая пристройка (британское)",
+        "She studies at the conservatory.",
+        "Она учится в консерватории."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Distinguish common British building sense."
+    },
+    {
+      "deck": "15260281",
+      "row": 341,
+      "card_number": 7341,
+      "before": [
+        "cache",
+        "тайник",
+        "They found a hidden cache underground.",
+        "Они нашли тайник под землей."
+      ],
+      "after": [
+        "cache",
+        "тайник",
+        "They found a cache underground.",
+        "Они нашли тайник под землей."
+      ],
+      "fields": [
+        "English example"
+      ],
+      "reason": "Remove untranslated redundant hidden."
+    },
+    {
+      "deck": "15260281",
+      "row": 365,
+      "card_number": 7365,
+      "before": [
+        "Fritz",
+        "фриц",
+        "Fritz was a German soldier.",
+        "Фриц был немецким солдатом."
+      ],
+      "after": [
+        "Fritz",
+        "Фриц (имя); фриц (пренебрежительное прозвище немца)",
+        "Fritz was a German soldier.",
+        "Фриц был немецким солдатом."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Distinguish personal name from ethnic nickname."
+    },
+    {
+      "deck": "15260281",
+      "row": 417,
+      "card_number": 7417,
+      "before": [
+        "borscht",
+        "борщ",
+        "I like borscht.",
+        "Я люблю борщ."
+      ],
+      "after": [
+        "borscht",
+        "борщ",
+        "I like borscht.",
+        "Мне нравится борщ."
+      ],
+      "fields": [
+        "Russian example"
+      ],
+      "reason": "Match like."
+    },
+    {
+      "deck": "15260281",
+      "row": 454,
+      "card_number": 7454,
+      "before": [
+        "coursework",
+        "учебные задания",
+        "I finished my coursework yesterday.",
+        "Я закончил свои учебные задания вчера."
+      ],
+      "after": [
+        "coursework",
+        "учебные задания",
+        "I finished my coursework yesterday.",
+        "Я выполнил свои учебные задания вчера."
+      ],
+      "fields": [
+        "Russian example"
+      ],
+      "reason": "Natural coursework completion collocation."
+    },
+    {
+      "deck": "15260281",
+      "row": 476,
+      "card_number": 7476,
+      "before": [
+        "fanatic",
+        "фанатик",
+        "He is a football fanatic.",
+        "Он фанатик футбола."
+      ],
+      "after": [
+        "fanatic",
+        "фанатик",
+        "He is a religious fanatic.",
+        "Он религиозный фанатик."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Natural фанатик collocation rather than фанатик футбола."
+    },
+    {
+      "deck": "15260281",
+      "row": 491,
+      "card_number": 7491,
+      "before": [
+        "extramural",
+        "заочный",
+        "This is an extramural course.",
+        "Это заочный курс."
+      ],
+      "after": [
+        "extramural",
+        "внеучебный, заочный (об образовании вне обычных занятий)",
+        "This is an extramural course.",
+        "Это заочный курс."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Extramural is broader than correspondence study."
+    },
+    {
+      "deck": "15260281",
+      "row": 497,
+      "card_number": 7497,
+      "before": [
+        "salute",
+        "салют",
+        "The salute marked the victory.",
+        "Салют отметил победу."
+      ],
+      "after": [
+        "salute",
+        "салют",
+        "They gave a salute in honor of the victory.",
+        "Они дали салют в честь победы."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Natural salute example."
+    }
+  ]
+}

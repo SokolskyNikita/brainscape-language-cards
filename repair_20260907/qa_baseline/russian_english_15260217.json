@@ -1,0 +1,90 @@
+{
+  "pack": "russian_english",
+  "deck": "15260217",
+  "band": "8000->8500",
+  "sha256": "50c4c72fb9535ff0ca677c7a4a8913d4d79aebf08a75386bfdc966bf99805bba",
+  "errors": [],
+  "candidates": [
+    {
+      "row": 27,
+      "q": "представать",
+      "a": "appear, stand before",
+      "qe": "Он скоро предстанет перед судом.",
+      "ae": "He will soon appear before the court.",
+      "issues": {
+        "ru_target": "представать | Он скоро предстанет перед судом."
+      }
+    },
+    {
+      "row": 83,
+      "q": "развлекаться",
+      "a": "to have fun, to entertain oneself",
+      "qe": "Ребёнок любит развлекаться.",
+      "ae": "The child likes to have fun.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "ребёнок",
+            "band": "8000->8500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 95,
+      "q": "распустить",
+      "a": "dissolve, disband",
+      "qe": "Сахар распустится в воде.",
+      "ae": "The sugar will dissolve in water.",
+      "issues": {
+        "ru_target": "распустить | Сахар распустится в воде.",
+        "ru_vocab": [
+          {
+            "word": "распустится",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 121,
+      "q": "угощать",
+      "a": "treat, regale",
+      "qe": "Я угощу тебя чаем.",
+      "ae": "I'll treat you to tea.",
+      "issues": {
+        "ru_target": "угощать | Я угощу тебя чаем."
+      }
+    },
+    {
+      "row": 159,
+      "q": "беззащитный",
+      "a": "defenseless, vulnerable",
+      "qe": "Ребёнок был беззащитен.",
+      "ae": "The child was defenseless.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "ребёнок",
+            "band": "8000->8500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 276,
+      "q": "уткнуться",
+      "a": "to bury, to stick",
+      "qe": "Он уткнулся в книгу.",
+      "ae": "He buried himself in the book.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "himself",
+            "band": "absent"
+          }
+        ]
+      }
+    }
+  ]
+}

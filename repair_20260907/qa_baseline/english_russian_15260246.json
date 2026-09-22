@@ -1,0 +1,84 @@
+{
+  "pack": "english_russian",
+  "deck": "15260246",
+  "band": "1->500",
+  "sha256": "be38da9942c1dfe0149795f5a5b75098c25f4e6f45bf9de9bdebe5c557e43a4c",
+  "errors": [],
+  "candidates": [
+    {
+      "row": 352,
+      "q": "at least",
+      "a": "хоть",
+      "qe": "At least you tried.",
+      "ae": "Хоть вы и попытались.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "попытались",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 364,
+      "q": "show",
+      "a": "показать",
+      "qe": "Let me show you the book.",
+      "ae": "Позвольте мне показать вам книгу.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "позвольте",
+            "band": "500->1000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 383,
+      "q": "introduce",
+      "a": "представить",
+      "qe": "Let me introduce my friend.",
+      "ae": "Позвольте мне представить моего друга.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "позвольте",
+            "band": "500->1000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 425,
+      "q": "telephone",
+      "a": "телефон",
+      "qe": "I heard the telephone.",
+      "ae": "Я услышал телефон.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "услышал",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 452,
+      "q": "desire",
+      "a": "желание",
+      "qe": "She felt a strong desire.",
+      "ae": "Она почувствовала сильное желание.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "почувствовала",
+            "band": "absent"
+          }
+        ]
+      }
+    }
+  ]
+}

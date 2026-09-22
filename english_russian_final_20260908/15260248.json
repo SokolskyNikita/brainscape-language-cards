@@ -1,0 +1,349 @@
+{
+  "deck": "15260248",
+  "reviewed": 500,
+  "changes": [
+    {
+      "deck": "15260248",
+      "row": 14,
+      "card_number": 514,
+      "before": [
+        "to arrive",
+        "приехать",
+        "They want to arrive today.",
+        "Они хотят приехать сегодня."
+      ],
+      "after": [
+        "to arrive",
+        "приехать (на транспорте); прибыть",
+        "They want to arrive today.",
+        "Они хотят приехать сегодня."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Clarify means of arrival."
+    },
+    {
+      "deck": "15260248",
+      "row": 22,
+      "card_number": 522,
+      "before": [
+        "home",
+        "домой",
+        "I am going home now.",
+        "Я иду домой сейчас."
+      ],
+      "after": [
+        "home",
+        "домой (направление); дома (местонахождение); дом",
+        "I am going home now.",
+        "Я иду домой сейчас."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Home is not always directional домой."
+    },
+    {
+      "deck": "15260248",
+      "row": 30,
+      "card_number": 530,
+      "before": [
+        "to manage",
+        "успеть",
+        "I managed to do this before evening.",
+        "Я успел сделать это до вечера."
+      ],
+      "after": [
+        "to manage",
+        "успеть (сделать вовремя); суметь",
+        "I managed to do this before evening.",
+        "Я успел сделать это до вечера."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Clarify time-limited manage sense."
+    },
+    {
+      "deck": "15260248",
+      "row": 62,
+      "card_number": 562,
+      "before": [
+        "free",
+        "свободный",
+        "He is a free man.",
+        "Он свободный человек."
+      ],
+      "after": [
+        "free",
+        "свободный; бесплатный",
+        "He is a free man.",
+        "Он свободный человек."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Distinguish liberty from no-cost sense."
+    },
+    {
+      "deck": "15260248",
+      "row": 141,
+      "card_number": 641,
+      "before": [
+        "isn't it",
+        "разве",
+        "Isn't it so?",
+        "Разве не так?"
+      ],
+      "after": [
+        "isn't it",
+        "не так ли?; разве не ...?",
+        "Isn't it so?",
+        "Разве не так?"
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Give normal tag-question equivalent and distinguish negative question."
+    },
+    {
+      "deck": "15260248",
+      "row": 174,
+      "card_number": 674,
+      "before": [
+        "to turn out",
+        "получиться",
+        "This did not turn out well.",
+        "Это не получилось хорошо."
+      ],
+      "after": [
+        "to turn out",
+        "получиться",
+        "It turned out well.",
+        "Это хорошо получилось."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Replace clumsy negated predicate."
+    },
+    {
+      "deck": "15260248",
+      "row": 214,
+      "card_number": 714,
+      "before": [
+        "to put",
+        "ставить",
+        "I put the book on the table.",
+        "Я ставлю книгу на стол."
+      ],
+      "after": [
+        "to put",
+        "ставить (вертикально или на место); класть",
+        "Where do I put the car?",
+        "Где мне ставить машину?"
+      ],
+      "fields": [
+        "Russian translation",
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Use ставить naturally in parking context."
+    },
+    {
+      "deck": "15260248",
+      "row": 255,
+      "card_number": 755,
+      "before": [
+        "certain",
+        "некий",
+        "A certain man came.",
+        "Пришёл некий человек."
+      ],
+      "after": [
+        "certain",
+        "некий (какой-то); определённый; уверенный",
+        "A certain man came.",
+        "Пришёл некий человек."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Distinguish senses of certain."
+    },
+    {
+      "deck": "15260248",
+      "row": 286,
+      "card_number": 786,
+      "before": [
+        "combat",
+        "боевой",
+        "He has combat experience.",
+        "У него боевой опыт."
+      ],
+      "after": [
+        "combat",
+        "бой; боевой (прилагательное)",
+        "He has combat experience.",
+        "У него боевой опыт."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Preserve noun and attributive distinction."
+    },
+    {
+      "deck": "15260248",
+      "row": 315,
+      "card_number": 815,
+      "before": [
+        "happy",
+        "счастливый",
+        "She is happy today.",
+        "Она счастливая сегодня."
+      ],
+      "after": [
+        "happy",
+        "счастливый",
+        "She is happy today.",
+        "Она сегодня счастлива."
+      ],
+      "fields": [
+        "Russian example"
+      ],
+      "reason": "Natural short adjective for emotional state."
+    },
+    {
+      "deck": "15260248",
+      "row": 326,
+      "card_number": 826,
+      "before": [
+        "ear",
+        "ухо",
+        "I hear with my ear.",
+        "Я слышу ухом."
+      ],
+      "after": [
+        "ear",
+        "ухо",
+        "His ear is red.",
+        "Его ухо красное."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Natural body-part example. Keep supporting vocabulary in prior decks."
+    },
+    {
+      "deck": "15260248",
+      "row": 350,
+      "card_number": 850,
+      "before": [
+        "to make",
+        "заставить",
+        "He wanted to make her stay.",
+        "Он хотел заставить её остаться."
+      ],
+      "after": [
+        "to make",
+        "заставить (make someone do something); сделать",
+        "He wanted to make her stay.",
+        "Он хотел заставить её остаться."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Clarify causative make."
+    },
+    {
+      "deck": "15260248",
+      "row": 378,
+      "card_number": 878,
+      "before": [
+        "share",
+        "акция",
+        "I bought a share today.",
+        "Я купил акцию сегодня."
+      ],
+      "after": [
+        "share",
+        "акция (ценная бумага); доля",
+        "I bought a share today.",
+        "Я купил акцию сегодня."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Distinguish equity from ordinary share."
+    },
+    {
+      "deck": "15260248",
+      "row": 413,
+      "card_number": 913,
+      "before": [
+        "compliance",
+        "соответствие",
+        "There is compliance with the law.",
+        "Есть соответствие закону."
+      ],
+      "after": [
+        "compliance",
+        "соблюдение; соответствие",
+        "Compliance with the law is important.",
+        "Соблюдение закона важно."
+      ],
+      "fields": [
+        "Russian translation",
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Use natural compliance equivalent and example."
+    },
+    {
+      "deck": "15260248",
+      "row": 459,
+      "card_number": 959,
+      "before": [
+        "northern",
+        "северный",
+        "The northern country is here.",
+        "Северная страна здесь."
+      ],
+      "after": [
+        "northern",
+        "северный",
+        "This is a northern city.",
+        "Это северный город."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Replace unnatural northern country is here."
+    },
+    {
+      "deck": "15260248",
+      "row": 481,
+      "card_number": 981,
+      "before": [
+        "convert",
+        "обратить",
+        "He wants to convert him.",
+        "Он хочет обратить его."
+      ],
+      "after": [
+        "convert",
+        "обратить (в веру); преобразовать",
+        "He wants to convert him.",
+        "Он хочет обратить его."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Clarify religious conversion sense."
+    }
+  ]
+}

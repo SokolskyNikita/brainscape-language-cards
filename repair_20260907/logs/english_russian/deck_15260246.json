@@ -1,0 +1,399 @@
+{
+  "deck": "15260246",
+  "pack": "english_russian",
+  "reviewed": 500,
+  "changed": 26,
+  "notes": "Full first pass plus independent full second pass; complete original-to-final change log.",
+  "changes": [
+    {
+      "row": 100,
+      "before": {
+        "qMdBody": "therefore",
+        "aMdBody": "потому",
+        "qMdFootnote": "I know this, therefore I go.",
+        "aMdFootnote": "Я знаю это, потому я иду."
+      },
+      "after": {
+        "qMdBody": "therefore",
+        "aMdBody": "поэтому",
+        "qMdFootnote": "I know this, therefore I go.",
+        "aMdFootnote": "Я знаю это, поэтому я иду."
+      }
+    },
+    {
+      "row": 174,
+      "before": {
+        "qMdBody": "name",
+        "aMdBody": "имя",
+        "qMdFootnote": "What is your name?",
+        "aMdFootnote": "Как твоё имя?"
+      },
+      "after": {
+        "qMdBody": "name",
+        "aMdBody": "имя",
+        "qMdFootnote": "Write your name.",
+        "aMdFootnote": "Напишите своё имя."
+      }
+    },
+    {
+      "row": 188,
+      "before": {
+        "qMdBody": "full",
+        "aMdBody": "полный",
+        "qMdFootnote": "The room is full.",
+        "aMdFootnote": "Комната полная."
+      },
+      "after": {
+        "qMdBody": "full",
+        "aMdBody": "полный",
+        "qMdFootnote": "The room is full.",
+        "aMdFootnote": "Комната полна."
+      }
+    },
+    {
+      "row": 204,
+      "before": {
+        "qMdBody": "moment",
+        "aMdBody": "момент",
+        "qMdFootnote": "Wait a moment.",
+        "aMdFootnote": "Ждите момент."
+      },
+      "after": {
+        "qMdBody": "moment",
+        "aMdBody": "момент",
+        "qMdFootnote": "This moment is important.",
+        "aMdFootnote": "Этот момент важен."
+      }
+    },
+    {
+      "row": 206,
+      "before": {
+        "qMdBody": "number",
+        "aMdBody": "число",
+        "qMdFootnote": "This number is high.",
+        "aMdFootnote": "Это число высокое."
+      },
+      "after": {
+        "qMdBody": "number",
+        "aMdBody": "число",
+        "qMdFootnote": "This is a big number.",
+        "aMdFootnote": "Это большое число."
+      }
+    },
+    {
+      "row": 223,
+      "before": {
+        "qMdBody": "pass",
+        "aMdBody": "пройти",
+        "qMdFootnote": "We passed the house.",
+        "aMdFootnote": "Мы прошли дом."
+      },
+      "after": {
+        "qMdBody": "pass",
+        "aMdBody": "пройти",
+        "qMdFootnote": "We passed by the house.",
+        "aMdFootnote": "Мы прошли мимо дома."
+      }
+    },
+    {
+      "row": 224,
+      "before": {
+        "qMdBody": "except",
+        "aMdBody": "кроме",
+        "qMdFootnote": "I work every day except this.",
+        "aMdFootnote": "Я работаю каждый день, кроме этого."
+      },
+      "after": {
+        "qMdBody": "except",
+        "aMdBody": "кроме",
+        "qMdFootnote": "I work every day except this day.",
+        "aMdFootnote": "Я работаю каждый день, кроме этого дня."
+      }
+    },
+    {
+      "row": 225,
+      "before": {
+        "qMdBody": "minute",
+        "aMdBody": "минута",
+        "qMdFootnote": "Wait a minute.",
+        "aMdFootnote": "Ждите минуту."
+      },
+      "after": {
+        "qMdBody": "minute",
+        "aMdBody": "минута",
+        "qMdFootnote": "One minute is enough.",
+        "aMdFootnote": "Одной минуты достаточно."
+      }
+    },
+    {
+      "row": 238,
+      "before": {
+        "qMdBody": "every",
+        "aMdBody": "всякий",
+        "qMdFootnote": "Every person is there.",
+        "aMdFootnote": "Всякий человек там."
+      },
+      "after": {
+        "qMdBody": "every",
+        "aMdBody": "каждый",
+        "qMdFootnote": "Every person knows this.",
+        "aMdFootnote": "Каждый человек знает это."
+      }
+    },
+    {
+      "row": 247,
+      "before": {
+        "qMdBody": "look",
+        "aMdBody": "взгляд",
+        "qMdFootnote": "I see his look.",
+        "aMdFootnote": "Я вижу его взгляд."
+      },
+      "after": {
+        "qMdBody": "look",
+        "aMdBody": "взгляд",
+        "qMdFootnote": "I remember his look.",
+        "aMdFootnote": "Я помню его взгляд."
+      }
+    },
+    {
+      "row": 280,
+      "before": {
+        "qMdBody": "return",
+        "aMdBody": "вернуться",
+        "qMdFootnote": "I return to the house.",
+        "aMdFootnote": "Я вернулся в дом."
+      },
+      "after": {
+        "qMdBody": "return",
+        "aMdBody": "вернуться",
+        "qMdFootnote": "I returned to the house.",
+        "aMdFootnote": "Я вернулся в дом."
+      }
+    },
+    {
+      "row": 302,
+      "before": {
+        "qMdBody": "equal",
+        "aMdBody": "равный",
+        "qMdFootnote": "We are equal.",
+        "aMdFootnote": "Мы равные."
+      },
+      "after": {
+        "qMdBody": "equal",
+        "aMdBody": "равный",
+        "qMdFootnote": "We are equal.",
+        "aMdFootnote": "Мы равны."
+      }
+    },
+    {
+      "row": 307,
+      "before": {
+        "qMdBody": "to fall",
+        "aMdBody": "прийтись",
+        "qMdFootnote": "The task fell on me.",
+        "aMdFootnote": "Задача пришлась на меня."
+      },
+      "after": {
+        "qMdBody": "to fall",
+        "aMdBody": "упасть",
+        "qMdFootnote": "The book fell on the table.",
+        "aMdFootnote": "Книга упала на стол."
+      }
+    },
+    {
+      "row": 310,
+      "before": {
+        "qMdBody": "price",
+        "aMdBody": "цена",
+        "qMdFootnote": "The price is too high.",
+        "aMdFootnote": "Цена очень высокая."
+      },
+      "after": {
+        "qMdBody": "price",
+        "aMdBody": "цена",
+        "qMdFootnote": "The price is too high.",
+        "aMdFootnote": "Цена слишком высокая."
+      }
+    },
+    {
+      "row": 332,
+      "before": {
+        "qMdBody": "to lie",
+        "aMdBody": "лежать",
+        "qMdFootnote": "She lies there.",
+        "aMdFootnote": "Она лежит там."
+      },
+      "after": {
+        "qMdBody": "to lie",
+        "aMdBody": "лежать",
+        "qMdFootnote": "She is lying there.",
+        "aMdFootnote": "Она лежит там."
+      }
+    },
+    {
+      "row": 352,
+      "before": {
+        "qMdBody": "at least",
+        "aMdBody": "хоть",
+        "qMdFootnote": "At least you tried.",
+        "aMdFootnote": "Хоть вы и попытались."
+      },
+      "after": {
+        "qMdBody": "at least",
+        "aMdBody": "по крайней мере",
+        "qMdFootnote": "At least you know this.",
+        "aMdFootnote": "По крайней мере, вы знаете это."
+      }
+    },
+    {
+      "row": 353,
+      "before": {
+        "qMdBody": "military",
+        "aMdBody": "военный",
+        "qMdFootnote": "He is a military man.",
+        "aMdFootnote": "Он военный человек."
+      },
+      "after": {
+        "qMdBody": "military",
+        "aMdBody": "военный",
+        "qMdFootnote": "He is in the military.",
+        "aMdFootnote": "Он военный."
+      }
+    },
+    {
+      "row": 364,
+      "before": {
+        "qMdBody": "show",
+        "aMdBody": "показать",
+        "qMdFootnote": "Let me show you the book.",
+        "aMdFootnote": "Позвольте мне показать вам книгу."
+      },
+      "after": {
+        "qMdBody": "show",
+        "aMdBody": "показать",
+        "qMdFootnote": "Show me the book.",
+        "aMdFootnote": "Покажи мне книгу."
+      }
+    },
+    {
+      "row": 368,
+      "before": {
+        "qMdBody": "interest",
+        "aMdBody": "интерес",
+        "qMdFootnote": "I have an interest in this.",
+        "aMdFootnote": "У меня интерес к этому."
+      },
+      "after": {
+        "qMdBody": "interest",
+        "aMdBody": "интерес",
+        "qMdFootnote": "I have an interest in this.",
+        "aMdFootnote": "У меня есть интерес к этому."
+      }
+    },
+    {
+      "row": 378,
+      "before": {
+        "qMdBody": "alive",
+        "aMdBody": "живой",
+        "qMdFootnote": "He is still alive.",
+        "aMdFootnote": "Он ещё живой."
+      },
+      "after": {
+        "qMdBody": "alive",
+        "aMdBody": "живой",
+        "qMdFootnote": "He is still alive.",
+        "aMdFootnote": "Он ещё жив."
+      }
+    },
+    {
+      "row": 379,
+      "before": {
+        "qMdBody": "put",
+        "aMdBody": "поставить",
+        "qMdFootnote": "I put the book on the table.",
+        "aMdFootnote": "Я поставил книгу на стол."
+      },
+      "after": {
+        "qMdBody": "put",
+        "aMdBody": "положить",
+        "qMdFootnote": "I put the book on the table.",
+        "aMdFootnote": "Я положил книгу на стол."
+      }
+    },
+    {
+      "row": 383,
+      "before": {
+        "qMdBody": "introduce",
+        "aMdBody": "представить",
+        "qMdFootnote": "Let me introduce my friend.",
+        "aMdFootnote": "Позвольте мне представить моего друга."
+      },
+      "after": {
+        "qMdBody": "introduce",
+        "aMdBody": "представить",
+        "qMdFootnote": "I want to introduce my friend.",
+        "aMdFootnote": "Я хочу представить моего друга."
+      }
+    },
+    {
+      "row": 384,
+      "before": {
+        "qMdBody": "fully",
+        "aMdBody": "вполне",
+        "qMdFootnote": "He was fully ready.",
+        "aMdFootnote": "Он был вполне готов."
+      },
+      "after": {
+        "qMdBody": "fully",
+        "aMdBody": "полностью",
+        "qMdFootnote": "He was fully ready.",
+        "aMdFootnote": "Он был полностью готов."
+      }
+    },
+    {
+      "row": 425,
+      "before": {
+        "qMdBody": "telephone",
+        "aMdBody": "телефон",
+        "qMdFootnote": "I heard the telephone.",
+        "aMdFootnote": "Я услышал телефон."
+      },
+      "after": {
+        "qMdBody": "telephone",
+        "aMdBody": "телефон",
+        "qMdFootnote": "The telephone is here.",
+        "aMdFootnote": "Телефон здесь."
+      }
+    },
+    {
+      "row": 452,
+      "before": {
+        "qMdBody": "desire",
+        "aMdBody": "желание",
+        "qMdFootnote": "She felt a strong desire.",
+        "aMdFootnote": "Она почувствовала сильное желание."
+      },
+      "after": {
+        "qMdBody": "desire",
+        "aMdBody": "желание",
+        "qMdFootnote": "She has a strong desire.",
+        "aMdFootnote": "У неё сильное желание."
+      }
+    },
+    {
+      "row": 479,
+      "before": {
+        "qMdBody": "succeed",
+        "aMdBody": "удаться",
+        "qMdFootnote": "This can succeed.",
+        "aMdFootnote": "Это может удаться."
+      },
+      "after": {
+        "qMdBody": "succeed",
+        "aMdBody": "удаться",
+        "qMdFootnote": "The plan may succeed.",
+        "aMdFootnote": "План может удаться."
+      }
+    }
+  ]
+}

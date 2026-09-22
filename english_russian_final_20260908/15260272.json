@@ -1,0 +1,711 @@
+{
+  "deck": "15260272",
+  "reviewed": 500,
+  "changes": [
+    {
+      "deck": "15260272",
+      "row": 29,
+      "card_number": 5529,
+      "before": [
+        "substantial",
+        "содержательный",
+        "The book is substantial.",
+        "Книга содержательная."
+      ],
+      "after": [
+        "substantial",
+        "значительный, существенный; содержательный (о содержании)",
+        "The book is substantial.",
+        "Книга содержательная."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Identify substantial book sense."
+    },
+    {
+      "deck": "15260272",
+      "row": 93,
+      "card_number": 5593,
+      "before": [
+        "groat",
+        "грош",
+        "I found a groat in my pocket.",
+        "Я нашёл грош в своём кармане."
+      ],
+      "after": [
+        "groat",
+        "гроут (старинная британская монета)",
+        "I found a groat in my pocket.",
+        "Я нашёл гроут в своём кармане."
+      ],
+      "fields": [
+        "Russian translation",
+        "Russian example"
+      ],
+      "reason": "Groat is a particular British coin, not Slavic грош."
+    },
+    {
+      "deck": "15260272",
+      "row": 106,
+      "card_number": 5606,
+      "before": [
+        "Nobel",
+        "нобелевский",
+        "This is a Nobel award.",
+        "Это Нобелевская награда."
+      ],
+      "after": [
+        "Nobel",
+        "нобелевский",
+        "He is a Nobel laureate.",
+        "Он нобелевский лауреат."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Use established award name. Use prior-deck vocabulary."
+    },
+    {
+      "deck": "15260272",
+      "row": 113,
+      "card_number": 5613,
+      "before": [
+        "compiler",
+        "составитель",
+        "She is the compiler of this dictionary.",
+        "Она составитель этого словаря."
+      ],
+      "after": [
+        "compiler",
+        "составитель; компилятор (программирование)",
+        "She is the compiler of this dictionary.",
+        "Она составитель этого словаря."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Identify person versus software sense."
+    },
+    {
+      "deck": "15260272",
+      "row": 124,
+      "card_number": 5624,
+      "before": [
+        "heat up",
+        "раскалить",
+        "Let's heat up the metal.",
+        "Давай раскалим металл."
+      ],
+      "after": [
+        "heat up",
+        "раскалить (до высокой температуры); нагреть",
+        "Let's heat up the metal.",
+        "Давай раскалим металл."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Heat up need not mean heat until intensely hot."
+    },
+    {
+      "deck": "15260272",
+      "row": 129,
+      "card_number": 5629,
+      "before": [
+        "gates",
+        "врата",
+        "The gates are open.",
+        "Врата открыты."
+      ],
+      "after": [
+        "gates",
+        "ворота; врата (книжное, поэтическое)",
+        "The gates are open.",
+        "Врата открыты."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Mark literary form."
+    },
+    {
+      "deck": "15260272",
+      "row": 132,
+      "card_number": 5632,
+      "before": [
+        "ecstatic",
+        "восторженный",
+        "She was ecstatic.",
+        "Она была восторженна."
+      ],
+      "after": [
+        "ecstatic",
+        "в восторге; восторженный",
+        "She was ecstatic.",
+        "Она была в восторге."
+      ],
+      "fields": [
+        "Russian translation",
+        "Russian example"
+      ],
+      "reason": "Use idiomatic ecstatic predicate."
+    },
+    {
+      "deck": "15260272",
+      "row": 141,
+      "card_number": 5641,
+      "before": [
+        "hateful",
+        "ненавистный",
+        "His words were truly hateful.",
+        "Его слова были действительно ненавистны."
+      ],
+      "after": [
+        "hateful",
+        "ненавистный (вызывающий ненависть); злобный (полный ненависти)",
+        "This place was hateful to him.",
+        "Это место было ему ненавистно."
+      ],
+      "fields": [
+        "Russian translation",
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Distinguish causing hatred from expressing hatred."
+    },
+    {
+      "deck": "15260272",
+      "row": 144,
+      "card_number": 5644,
+      "before": [
+        "shallow",
+        "мелко",
+        "The river is shallow.",
+        "В реке мелко."
+      ],
+      "after": [
+        "shallow",
+        "мелкий; мелко (о глубине, в сказуемом)",
+        "The river is shallow.",
+        "В реке мелко."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Include adjective form."
+    },
+    {
+      "deck": "15260272",
+      "row": 157,
+      "card_number": 5657,
+      "before": [
+        "walkie-talkie",
+        "рация",
+        "We talked through the walkie-talkie.",
+        "Мы говорили через рацию."
+      ],
+      "after": [
+        "walkie-talkie",
+        "рация",
+        "We talked through the walkie-talkie.",
+        "Мы говорили по рации."
+      ],
+      "fields": [
+        "Russian example"
+      ],
+      "reason": "Natural radio preposition."
+    },
+    {
+      "deck": "15260272",
+      "row": 165,
+      "card_number": 5665,
+      "before": [
+        "reservation",
+        "сомнение",
+        "I have one reservation.",
+        "У меня есть одно сомнение."
+      ],
+      "after": [
+        "reservation",
+        "оговорка, сомнение; бронирование",
+        "I have one reservation.",
+        "У меня есть одно сомнение."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Distinguish reservation senses."
+    },
+    {
+      "deck": "15260272",
+      "row": 179,
+      "card_number": 5679,
+      "before": [
+        "die",
+        "сдохнуть",
+        "The old dog will soon die.",
+        "Старая собака скоро сдохнет."
+      ],
+      "after": [
+        "die",
+        "умереть; сдохнуть (грубое)",
+        "The old dog will soon die.",
+        "Старая собака скоро сдохнет."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Mark register."
+    },
+    {
+      "deck": "15260272",
+      "row": 186,
+      "card_number": 5686,
+      "before": [
+        "to tend",
+        "норовить",
+        "He tends to leave early.",
+        "Он норовит уйти рано."
+      ],
+      "after": [
+        "to tend",
+        "иметь склонность; норовить (часто неодобрительное)",
+        "He tends to leave early.",
+        "Он норовит уйти рано."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Mark implied persistent intent in норовить."
+    },
+    {
+      "deck": "15260272",
+      "row": 197,
+      "card_number": 5697,
+      "before": [
+        "cousin",
+        "двоюродный брат",
+        "My cousin came yesterday.",
+        "Мой двоюродный брат приехал вчера."
+      ],
+      "after": [
+        "cousin",
+        "двоюродный брат; двоюродная сестра",
+        "My cousin came yesterday.",
+        "Мой двоюродный брат приехал вчера."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Cousin is gender-neutral."
+    },
+    {
+      "deck": "15260272",
+      "row": 201,
+      "card_number": 5701,
+      "before": [
+        "lyrics",
+        "слова песни",
+        "She writes new lyrics.",
+        "Она пишет новые слова песни."
+      ],
+      "after": [
+        "lyrics",
+        "слова песни",
+        "She writes lyrics for songs.",
+        "Она пишет слова для песен."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Natural lyrics phrase."
+    },
+    {
+      "deck": "15260272",
+      "row": 210,
+      "card_number": 5710,
+      "before": [
+        "mistake",
+        "ошибка",
+        "He made a big mistake yesterday.",
+        "Он сделал большую ошибку вчера."
+      ],
+      "after": [
+        "mistake",
+        "ошибка",
+        "He noticed a big mistake yesterday.",
+        "Он заметил большую ошибку вчера."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Natural совершить/допустить ошибку collocation. Use prior-deck vocabulary."
+    },
+    {
+      "deck": "15260272",
+      "row": 217,
+      "card_number": 5717,
+      "before": [
+        "prisoner",
+        "пленник",
+        "The prisoner wants freedom.",
+        "Пленник хочет свободы."
+      ],
+      "after": [
+        "prisoner",
+        "заключённый; пленник",
+        "The prisoner wants freedom.",
+        "Пленник хочет свободы."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Prisoner includes jailed people as well as captives."
+    },
+    {
+      "deck": "15260272",
+      "row": 250,
+      "card_number": 5750,
+      "before": [
+        "landowner",
+        "помещик",
+        "The landowner has a large house.",
+        "У помещика большой дом."
+      ],
+      "after": [
+        "landowner",
+        "землевладелец; помещик (историческое)",
+        "The landowner has a large house.",
+        "У помещика большой дом."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Mark historical estate-owner sense."
+    },
+    {
+      "deck": "15260272",
+      "row": 262,
+      "card_number": 5762,
+      "before": [
+        "explanatory",
+        "толковый",
+        "This is an explanatory dictionary.",
+        "Это толковый словарь."
+      ],
+      "after": [
+        "explanatory",
+        "пояснительный; толковый (о словаре)",
+        "This is an explanatory dictionary.",
+        "Это толковый словарь."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Dictionary-specific equivalent does not apply generally."
+    },
+    {
+      "deck": "15260272",
+      "row": 291,
+      "card_number": 5791,
+      "before": [
+        "a bit",
+        "малость",
+        "I am a bit tired.",
+        "Я малость устал."
+      ],
+      "after": [
+        "a bit",
+        "немного; малость (разговорное)",
+        "I am a bit tired.",
+        "Я малость устал."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Mark colloquial adverb."
+    },
+    {
+      "deck": "15260272",
+      "row": 337,
+      "card_number": 5837,
+      "before": [
+        "incidentally",
+        "попутно",
+        "I found this incidentally.",
+        "Я нашёл это попутно."
+      ],
+      "after": [
+        "incidentally",
+        "кстати; случайно; попутно",
+        "I found this incidentally.",
+        "Я нашёл это попутно."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Include ordinary discourse and incidental senses."
+    },
+    {
+      "deck": "15260272",
+      "row": 339,
+      "card_number": 5839,
+      "before": [
+        "traffic policeman",
+        "гаишник",
+        "The traffic policeman issued a fine.",
+        "Гаишник выписал штраф."
+      ],
+      "after": [
+        "traffic policeman",
+        "сотрудник дорожной полиции; гаишник (разговорное)",
+        "The traffic policeman issued a fine.",
+        "Гаишник выписал штраф."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Mark colloquial occupational name."
+    },
+    {
+      "deck": "15260272",
+      "row": 362,
+      "card_number": 5862,
+      "before": [
+        "godfather",
+        "крестный",
+        "He is my son's godfather.",
+        "Он крестный моего сына."
+      ],
+      "after": [
+        "godfather",
+        "крёстный отец",
+        "He is my son's godfather.",
+        "Он крёстный отец моего сына."
+      ],
+      "fields": [
+        "Russian translation",
+        "Russian example"
+      ],
+      "reason": "Use complete phrase and ё."
+    },
+    {
+      "deck": "15260272",
+      "row": 364,
+      "card_number": 5864,
+      "before": [
+        "dock",
+        "док",
+        "The ship is at the dock.",
+        "Корабль в доке."
+      ],
+      "after": [
+        "dock",
+        "док; причал",
+        "The ship is in the dock.",
+        "Корабль в доке."
+      ],
+      "fields": [
+        "Russian translation",
+        "English example"
+      ],
+      "reason": "A ship at a dock need not be in a dry dock. Match the Russian dock location."
+    },
+    {
+      "deck": "15260272",
+      "row": 372,
+      "card_number": 5872,
+      "before": [
+        "defendant",
+        "подсудимый",
+        "The defendant is in court.",
+        "Подсудимый в суде."
+      ],
+      "after": [
+        "defendant",
+        "подсудимый (уголовное дело); ответчик (гражданское дело)",
+        "The defendant is in court.",
+        "Подсудимый в суде."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Distinguish criminal and civil defendant."
+    },
+    {
+      "deck": "15260272",
+      "row": 388,
+      "card_number": 5888,
+      "before": [
+        "Gypsy",
+        "цыган",
+        "The Gypsy played the violin.",
+        "Цыган играл на скрипке."
+      ],
+      "after": [
+        "Gypsy",
+        "цыган (английское Gypsy может восприниматься как оскорбительное)",
+        "The Gypsy played the violin.",
+        "Цыган играл на скрипке."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Mark English ethnonym register."
+    },
+    {
+      "deck": "15260272",
+      "row": 414,
+      "card_number": 5914,
+      "before": [
+        "sway",
+        "покачиваться",
+        "The trees sway gently in the wind.",
+        "Деревья покачиваются на ветру."
+      ],
+      "after": [
+        "sway",
+        "покачиваться",
+        "The trees sway in the wind.",
+        "Деревья покачиваются на ветру."
+      ],
+      "fields": [
+        "English example"
+      ],
+      "reason": "Remove untranslated gently."
+    },
+    {
+      "deck": "15260272",
+      "row": 429,
+      "card_number": 5929,
+      "before": [
+        "graduate student",
+        "аспирант",
+        "The graduate student defended the thesis.",
+        "Аспирант защитил диссертацию."
+      ],
+      "after": [
+        "graduate student",
+        "аспирант; студент магистратуры",
+        "The graduate student defended the thesis.",
+        "Аспирант защитил диссертацию."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Graduate student includes master’s students."
+    },
+    {
+      "deck": "15260272",
+      "row": 434,
+      "card_number": 5934,
+      "before": [
+        "led",
+        "ведомый",
+        "The group was led by a guide.",
+        "Группа была ведома проводником."
+      ],
+      "after": [
+        "led",
+        "ведомый",
+        "The group, led by a guide, went into the forest.",
+        "Группа, ведомая проводником, вошла в лес."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Replace unnatural группа была ведома. Use natural participial phrase with the listed target."
+    },
+    {
+      "deck": "15260272",
+      "row": 444,
+      "card_number": 5944,
+      "before": [
+        "downpour",
+        "ливень",
+        "The sudden downpour started.",
+        "Внезапный ливень начался."
+      ],
+      "after": [
+        "downpour",
+        "ливень",
+        "A sudden downpour began.",
+        "Начался внезапный ливень."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Natural word order and article."
+    },
+    {
+      "deck": "15260272",
+      "row": 464,
+      "card_number": 5964,
+      "before": [
+        "infect",
+        "заразить",
+        "Mosquitoes can infect a human with disease.",
+        "Комары могут заразить человека."
+      ],
+      "after": [
+        "infect",
+        "заразить",
+        "Mosquitoes can infect a human.",
+        "Комары могут заразить человека."
+      ],
+      "fields": [
+        "English example"
+      ],
+      "reason": "Remove redundant and untranslated with disease."
+    },
+    {
+      "deck": "15260272",
+      "row": 468,
+      "card_number": 5968,
+      "before": [
+        "suggestion",
+        "внушение",
+        "Hypnosis relies on suggestion.",
+        "Гипноз основан на внушении."
+      ],
+      "after": [
+        "suggestion",
+        "предложение; внушение (психология)",
+        "Hypnosis relies on suggestion.",
+        "Гипноз основан на внушении."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Identify psychological sense."
+    },
+    {
+      "deck": "15260272",
+      "row": 478,
+      "card_number": 5978,
+      "before": [
+        "lift up",
+        "задрать",
+        "He likes to lift up his shirt.",
+        "Он любит задрать рубашку."
+      ],
+      "after": [
+        "lift up",
+        "задрать",
+        "He decided to lift up his shirt.",
+        "Он решил задрать рубашку."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Natural perfective complement."
+    }
+  ]
+}

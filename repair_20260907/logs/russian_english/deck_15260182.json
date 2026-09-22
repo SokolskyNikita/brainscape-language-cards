@@ -1,0 +1,444 @@
+{
+  "deck": "15260182",
+  "pack": "russian_english",
+  "reviewed": 500,
+  "changed": 29,
+  "notes": "Full first pass plus independent full second pass; complete original-to-final change log.",
+  "changes": [
+    {
+      "row": 13,
+      "before": {
+        "qMdBody": "то",
+        "aMdBody": "that, that one",
+        "qMdFootnote": "Это не то.",
+        "aMdFootnote": "That's not that one."
+      },
+      "after": {
+        "qMdBody": "то",
+        "aMdBody": "that one",
+        "qMdFootnote": "То — моё.",
+        "aMdFootnote": "That one is mine."
+      }
+    },
+    {
+      "row": 17,
+      "before": {
+        "qMdBody": "но",
+        "aMdBody": "but",
+        "qMdFootnote": "Не я, но он.",
+        "aMdFootnote": "Not me, but him."
+      },
+      "after": {
+        "qMdBody": "но",
+        "aMdBody": "but",
+        "qMdFootnote": "Я дома, но он — нет.",
+        "aMdFootnote": "I'm home, but he isn't."
+      }
+    },
+    {
+      "row": 23,
+      "before": {
+        "qMdBody": "у",
+        "aMdBody": "have, at",
+        "qMdFootnote": "У него дом.",
+        "aMdFootnote": "He has a house."
+      },
+      "after": {
+        "qMdBody": "у",
+        "aMdBody": "at; have (possession construction)",
+        "qMdFootnote": "У него дом.",
+        "aMdFootnote": "He has a house."
+      }
+    },
+    {
+      "row": 34,
+      "before": {
+        "qMdBody": "же",
+        "aMdBody": "though",
+        "qMdFootnote": "Это же он.",
+        "aMdFootnote": "That's him, though."
+      },
+      "after": {
+        "qMdBody": "же",
+        "aMdBody": "after all",
+        "qMdFootnote": "Это же он.",
+        "aMdFootnote": "That's him, after all."
+      }
+    },
+    {
+      "row": 44,
+      "before": {
+        "qMdBody": "себя",
+        "aMdBody": "oneself",
+        "qMdFootnote": "Это для себя.",
+        "aMdFootnote": "That's for myself."
+      },
+      "after": {
+        "qMdBody": "себя",
+        "aMdBody": "oneself",
+        "qMdFootnote": "Я сделал это для себя.",
+        "aMdFootnote": "I did it for myself."
+      }
+    },
+    {
+      "row": 61,
+      "before": {
+        "qMdBody": "при",
+        "aMdBody": "at, with",
+        "qMdFootnote": "Не при нём.",
+        "aMdFootnote": "Not with him."
+      },
+      "after": {
+        "qMdBody": "при",
+        "aMdBody": "in the presence of",
+        "qMdFootnote": "Не при нём.",
+        "aMdFootnote": "Not in his presence."
+      }
+    },
+    {
+      "row": 70,
+      "before": {
+        "qMdBody": "сам",
+        "aMdBody": "oneself",
+        "qMdFootnote": "Сам знаю.",
+        "aMdFootnote": "I know it myself."
+      },
+      "after": {
+        "qMdBody": "сам",
+        "aMdBody": "myself",
+        "qMdFootnote": "Сам знаю.",
+        "aMdFootnote": "I know it myself."
+      }
+    },
+    {
+      "row": 143,
+      "before": {
+        "qMdBody": "пока",
+        "aMdBody": "for now, bye",
+        "qMdFootnote": "Пока нет.",
+        "aMdFootnote": "Not for now."
+      },
+      "after": {
+        "qMdBody": "пока",
+        "aMdBody": "yet",
+        "qMdFootnote": "Пока нет.",
+        "aMdFootnote": "Not yet."
+      }
+    },
+    {
+      "row": 159,
+      "before": {
+        "qMdBody": "однако",
+        "aMdBody": "however",
+        "qMdFootnote": "Однако он дома.",
+        "aMdFootnote": "He's home, however."
+      },
+      "after": {
+        "qMdBody": "однако",
+        "aMdBody": "however",
+        "qMdFootnote": "Однако он дома.",
+        "aMdFootnote": "However, he is home."
+      }
+    },
+    {
+      "row": 160,
+      "before": {
+        "qMdBody": "хорошо",
+        "aMdBody": "well, OK",
+        "qMdFootnote": "Он хорошо знает.",
+        "aMdFootnote": "He knows well."
+      },
+      "after": {
+        "qMdBody": "хорошо",
+        "aMdBody": "well",
+        "qMdFootnote": "Он хорошо знает это.",
+        "aMdFootnote": "He knows it well."
+      }
+    },
+    {
+      "row": 172,
+      "before": {
+        "qMdBody": "пойти",
+        "aMdBody": "to go",
+        "qMdFootnote": "Пойти домой?",
+        "aMdFootnote": "Go home?"
+      },
+      "after": {
+        "qMdBody": "пойти",
+        "aMdBody": "to go",
+        "qMdFootnote": "Пойти к нему?",
+        "aMdFootnote": "Should I go to him?"
+      }
+    },
+    {
+      "row": 198,
+      "before": {
+        "qMdBody": "имя",
+        "aMdBody": "name",
+        "qMdFootnote": "Как твоё имя?",
+        "aMdFootnote": "What's your name?"
+      },
+      "after": {
+        "qMdBody": "имя",
+        "aMdBody": "name",
+        "qMdFootnote": "Я не знаю его имени.",
+        "aMdFootnote": "I don't know his name."
+      }
+    },
+    {
+      "row": 213,
+      "before": {
+        "qMdBody": "полный",
+        "aMdBody": "full, complete",
+        "qMdFootnote": "Дом полный.",
+        "aMdFootnote": "The house is full."
+      },
+      "after": {
+        "qMdBody": "полный",
+        "aMdBody": "full, complete",
+        "qMdFootnote": "Полная комната людей.",
+        "aMdFootnote": "A room full of people."
+      }
+    },
+    {
+      "row": 248,
+      "before": {
+        "qMdBody": "подобный",
+        "aMdBody": "similar, such",
+        "qMdFootnote": "Ничего подобного.",
+        "aMdFootnote": "Nothing similar."
+      },
+      "after": {
+        "qMdBody": "подобный",
+        "aMdBody": "similar, such",
+        "qMdFootnote": "В подобном случае.",
+        "aMdFootnote": "In a similar case."
+      }
+    },
+    {
+      "row": 259,
+      "before": {
+        "qMdBody": "смочь",
+        "aMdBody": "to be able, to manage",
+        "qMdFootnote": "Я не смог.",
+        "aMdFootnote": "I was not able."
+      },
+      "after": {
+        "qMdBody": "смочь",
+        "aMdBody": "to manage",
+        "qMdFootnote": "Я смог прийти.",
+        "aMdFootnote": "I managed to come."
+      }
+    },
+    {
+      "row": 268,
+      "before": {
+        "qMdBody": "качество",
+        "aMdBody": "quality",
+        "qMdFootnote": "Нет качества.",
+        "aMdFootnote": "There's no quality."
+      },
+      "after": {
+        "qMdBody": "качество",
+        "aMdBody": "quality",
+        "qMdFootnote": "Хорошее качество.",
+        "aMdFootnote": "Good quality."
+      }
+    },
+    {
+      "row": 296,
+      "before": {
+        "qMdBody": "душа",
+        "aMdBody": "soul",
+        "qMdFootnote": "От души.",
+        "aMdFootnote": "From the soul."
+      },
+      "after": {
+        "qMdBody": "душа",
+        "aMdBody": "soul",
+        "qMdFootnote": "Душа важна.",
+        "aMdFootnote": "The soul is important."
+      }
+    },
+    {
+      "row": 308,
+      "before": {
+        "qMdBody": "настоящий",
+        "aMdBody": "real, genuine",
+        "qMdFootnote": "Это настоящий?",
+        "aMdFootnote": "Is this real?"
+      },
+      "after": {
+        "qMdBody": "настоящий",
+        "aMdBody": "real, genuine",
+        "qMdFootnote": "Это настоящий рубль?",
+        "aMdFootnote": "Is this a real ruble?"
+      }
+    },
+    {
+      "row": 325,
+      "before": {
+        "qMdBody": "вести",
+        "aMdBody": "to lead, to drive",
+        "qMdFootnote": "Я веду.",
+        "aMdFootnote": "I'm driving."
+      },
+      "after": {
+        "qMdBody": "вести",
+        "aMdBody": "to lead, to drive",
+        "qMdFootnote": "Я веду машину.",
+        "aMdFootnote": "I'm driving a car."
+      }
+    },
+    {
+      "row": 379,
+      "before": {
+        "qMdBody": "бывать",
+        "aMdBody": "to be, to visit",
+        "qMdFootnote": "Я там бываю.",
+        "aMdFootnote": "I visit there."
+      },
+      "after": {
+        "qMdBody": "бывать",
+        "aMdBody": "to visit",
+        "qMdFootnote": "Он бывает у нас.",
+        "aMdFootnote": "He visits us sometimes."
+      }
+    },
+    {
+      "row": 393,
+      "before": {
+        "qMdBody": "поскольку",
+        "aMdBody": "since, as",
+        "qMdFootnote": "Поскольку он дома.",
+        "aMdFootnote": "Since he's home."
+      },
+      "after": {
+        "qMdBody": "поскольку",
+        "aMdBody": "since, as",
+        "qMdFootnote": "Я останусь, поскольку он дома.",
+        "aMdFootnote": "I'll stay since he's home."
+      }
+    },
+    {
+      "row": 397,
+      "before": {
+        "qMdBody": "речь",
+        "aMdBody": "speech, talk",
+        "qMdFootnote": "О чём речь?",
+        "aMdFootnote": "What's the talk about?"
+      },
+      "after": {
+        "qMdBody": "речь",
+        "aMdBody": "discussion",
+        "qMdFootnote": "Речь о нём.",
+        "aMdFootnote": "The discussion is about him."
+      }
+    },
+    {
+      "row": 407,
+      "before": {
+        "qMdBody": "прежде",
+        "aMdBody": "before, previously",
+        "qMdFootnote": "Я никогда не видел этого прежде.",
+        "aMdFootnote": "I've never seen this before."
+      },
+      "after": {
+        "qMdBody": "прежде",
+        "aMdBody": "before, previously",
+        "qMdFootnote": "Прежде я этого не видел.",
+        "aMdFootnote": "I hadn't seen it before."
+      }
+    },
+    {
+      "row": 417,
+      "before": {
+        "qMdBody": "сердце",
+        "aMdBody": "heart",
+        "qMdFootnote": "От всего сердца.",
+        "aMdFootnote": "From the heart."
+      },
+      "after": {
+        "qMdBody": "сердце",
+        "aMdBody": "heart",
+        "qMdFootnote": "От всего сердца.",
+        "aMdFootnote": "With all my heart."
+      }
+    },
+    {
+      "row": 467,
+      "before": {
+        "qMdBody": "б",
+        "aMdBody": "would",
+        "qMdFootnote": "Если б я знал.",
+        "aMdFootnote": "I would have known."
+      },
+      "after": {
+        "qMdBody": "б",
+        "aMdBody": "would",
+        "qMdFootnote": "Я б пришёл.",
+        "aMdFootnote": "I would come."
+      }
+    },
+    {
+      "row": 477,
+      "before": {
+        "qMdBody": "брать",
+        "aMdBody": "to take",
+        "qMdFootnote": "Я беру.",
+        "aMdFootnote": "I'll take it."
+      },
+      "after": {
+        "qMdBody": "брать",
+        "aMdBody": "to take",
+        "qMdFootnote": "Я беру это.",
+        "aMdFootnote": "I'm taking it."
+      }
+    },
+    {
+      "row": 485,
+      "before": {
+        "qMdBody": "течение",
+        "aMdBody": "course",
+        "qMdFootnote": "В течение дня.",
+        "aMdFootnote": "In the course of the day."
+      },
+      "after": {
+        "qMdBody": "течение",
+        "aMdBody": "course, duration",
+        "qMdFootnote": "В течение дня.",
+        "aMdFootnote": "During the course of the day."
+      }
+    },
+    {
+      "row": 489,
+      "before": {
+        "qMdBody": "купить",
+        "aMdBody": "buy, purchase",
+        "qMdFootnote": "Я куплю новую машину.",
+        "aMdFootnote": "I will buy a new car."
+      },
+      "after": {
+        "qMdBody": "купить",
+        "aMdBody": "to buy, to purchase",
+        "qMdFootnote": "Я куплю новую машину.",
+        "aMdFootnote": "I will buy a new car."
+      }
+    },
+    {
+      "row": 499,
+      "before": {
+        "qMdBody": "образование",
+        "aMdBody": "education",
+        "qMdFootnote": "У него образование.",
+        "aMdFootnote": "He's got an education."
+      },
+      "after": {
+        "qMdBody": "образование",
+        "aMdBody": "education",
+        "qMdFootnote": "Какое у него образование?",
+        "aMdFootnote": "What education does he have?"
+      }
+    }
+  ]
+}

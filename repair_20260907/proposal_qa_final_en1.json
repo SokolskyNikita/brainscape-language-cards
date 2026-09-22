@@ -1,0 +1,88 @@
+[
+  {
+    "deck": "15260246",
+    "row": 204,
+    "q": "moment",
+    "a": "момент",
+    "qe": "Wait one moment.",
+    "ae": "Подождите один момент.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "подождите",
+          "band": "1500->2000"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260246",
+    "row": 206,
+    "q": "number",
+    "a": "число",
+    "qe": "This is a large number.",
+    "ae": "Это большое число.",
+    "issues": {
+      "en_vocab": [
+        {
+          "word": "large",
+          "band": "500->1000"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260246",
+    "row": 225,
+    "q": "minute",
+    "a": "минута",
+    "qe": "Wait one minute.",
+    "ae": "Подождите одну минуту.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "подождите",
+          "band": "1500->2000"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260248",
+    "row": 401,
+    "q": "to strive",
+    "a": "стремиться",
+    "qe": "We strive to help.",
+    "ae": "Мы стремимся помочь.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "помочь",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260248",
+    "row": 500,
+    "q": "to set off",
+    "a": "отправиться",
+    "qe": "We will set off tomorrow.",
+    "ae": "Мы отправимся завтра.",
+    "issues": {
+      "en_vocab": [
+        {
+          "word": "tomorrow",
+          "band": "500->1000"
+        }
+      ],
+      "ru_vocab": [
+        {
+          "word": "завтра",
+          "band": "500->1000"
+        }
+      ]
+    }
+  }
+]

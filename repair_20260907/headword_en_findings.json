@@ -1,0 +1,57 @@
+[
+  {
+    "deck": "15260287",
+    "row": 18,
+    "current_pair": {
+      "question": "International",
+      "answer": "интернационал"
+    },
+    "correct_headword": "The Internationale",
+    "correct_gloss": "интернационал",
+    "reason": "The Russian gloss names the song, but the English headword is the malformed adjective/noun ‘International’; the song title is ‘The Internationale’."
+  },
+  {
+    "deck": "22976521",
+    "row": 42,
+    "current_pair": {
+      "question": "cardboard, carton",
+      "answer": "картонный"
+    },
+    "correct_headword": "cardboard",
+    "correct_gloss": "картонный",
+    "reason": "The example and Russian adjective translate cardboard; ‘carton’ is an extra container noun and is not a synonym of картонный."
+  },
+  {
+    "deck": "22976521",
+    "row": 461,
+    "current_pair": {
+      "question": "cast iron, iron",
+      "answer": "чугунный"
+    },
+    "correct_headword": "cast iron",
+    "correct_gloss": "чугунный",
+    "reason": "чугунный means cast iron; plain ‘iron’ means железо/железный and is a false extra synonym here."
+  },
+  {
+    "deck": "22976521",
+    "row": 384,
+    "current_pair": {
+      "question": "romantic, novelist",
+      "answer": "романтик"
+    },
+    "correct_headword": "romantic",
+    "correct_gloss": "романтик",
+    "reason": "романтик means a romantic person; a novelist is романист, so ‘novelist’ is a clearly wrong extra synonym."
+  },
+  {
+    "deck": "22976521",
+    "row": 228,
+    "current_pair": {
+      "question": "total, in total",
+      "answer": "итого"
+    },
+    "correct_headword": "in total",
+    "correct_gloss": "итого",
+    "reason": "The example uses the adverbial phrase ‘in total’; standalone ‘total’ is an adjective or noun and is an extra mismatched synonym for итого."
+  }
+]

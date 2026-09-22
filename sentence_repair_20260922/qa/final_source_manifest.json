@@ -1,0 +1,282 @@
+[
+  {
+    "pack": "english_russian",
+    "deck": "15260246",
+    "cards": 500,
+    "source": "sentence_repair_20260922/staged/english_russian/deck_15260246.csv",
+    "sha256": "2a7a66e887591c0924068b610f0cdd483fe881dbb8efeb7ef8571bb4f8ac45b3"
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260248",
+    "cards": 500,
+    "source": "sentence_repair_20260922/staged/english_russian/deck_15260248.csv",
+    "sha256": "5f45ccc78aab0129d2d6df20e977366d89c8861da27a08ca5c52ddb82d591ae2"
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260251",
+    "cards": 500,
+    "source": "sentence_repair_20260922/staged/english_russian/deck_15260251.csv",
+    "sha256": "446d3417f724ef2f6a0dc495aaaf356d24103b5c33311a899f4d363b4c58841b"
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260255",
+    "cards": 500,
+    "source": "sentence_repair_20260922/staged/english_russian/deck_15260255.csv",
+    "sha256": "3f676ab01fade74bcda7b1eba6c9aaaeb559d6081a890e6a4ef22fd892453414"
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260256",
+    "cards": 500,
+    "source": "sentence_repair_20260922/staged/english_russian/deck_15260256.csv",
+    "sha256": "365667bcdd4d24ef15f0768c902d0a50bc92cc5cd1d8229cebd6b3fc4b5a2ddb"
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260257",
+    "cards": 500,
+    "source": "sentence_repair_20260922/staged/english_russian/deck_15260257.csv",
+    "sha256": "9e4a1f708534f4ef1d8b65a4587d6e7f30291c93340e541fab9f537f6761af95"
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260260",
+    "cards": 500,
+    "source": "sentence_repair_20260922/staged/english_russian/deck_15260260.csv",
+    "sha256": "ad2ee569378cc5f14d41766b00f18408e8e4bb55615e777a27c6f7b664462fc1"
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260263",
+    "cards": 500,
+    "source": "sentence_repair_20260922/staged/english_russian/deck_15260263.csv",
+    "sha256": "1d2abd34c70adcb0a107f549a23274110c5bb1b3c97c0ce20816a3974b2aaa35"
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260266",
+    "cards": 500,
+    "source": "sentence_repair_20260922/staged/english_russian/deck_15260266.csv",
+    "sha256": "fbdfdb91c79bec64bcf490e87a4cf31728a048321e6aa95c728f42504ab74447"
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260268",
+    "cards": 500,
+    "source": "sentence_repair_20260922/staged/english_russian/deck_15260268.csv",
+    "sha256": "54cb051068bc5adedfaed55f8db1ddb311d470b6e24659ae31257647159651d8"
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260269",
+    "cards": 500,
+    "source": "sentence_repair_20260922/staged/english_russian/deck_15260269.csv",
+    "sha256": "263f1fb9c45bff0b39681044d09a3cc03222f78715a94c57de80b9c7f7e73e3c"
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260272",
+    "cards": 500,
+    "source": "sentence_repair_20260922/staged/english_russian/deck_15260272.csv",
+    "sha256": "f3444be51492d9937a987f03e561f72e55b8d9938ec8b3aa2c31cd9580214258"
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260277",
+    "cards": 500,
+    "source": "sentence_repair_20260922/staged/english_russian/deck_15260277.csv",
+    "sha256": "ce8c96ee52a33aae04b1bc4f804e4c4b1da67aac133320de0816623fa55836d5"
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260280",
+    "cards": 500,
+    "source": "sentence_repair_20260922/staged/english_russian/deck_15260280.csv",
+    "sha256": "0304d9452e01b5486b32a0271b9531cfc9d2ba1d0bfbe7f5b3dbac7c3b806a68"
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260281",
+    "cards": 500,
+    "source": "sentence_repair_20260922/staged/english_russian/deck_15260281.csv",
+    "sha256": "80fc23a127a88b4405da3f0bea95f473427ea552f89cb66dd0eb3013e680bde2"
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260282",
+    "cards": 500,
+    "source": "sentence_repair_20260922/staged/english_russian/deck_15260282.csv",
+    "sha256": "3719150c0599c861a4472bbdca3c254f06fe9fe4ca3adbe19b6f7e53a7b93ce3"
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260283",
+    "cards": 500,
+    "source": "sentence_repair_20260922/staged/english_russian/deck_15260283.csv",
+    "sha256": "ea621ec013c281f08357f055cc692ec023bee700345bad236b4bea0493252556"
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260285",
+    "cards": 500,
+    "source": "sentence_repair_20260922/staged/english_russian/deck_15260285.csv",
+    "sha256": "c46df47fc39c9053a911142f05216e96af61803bb5aef84eea6af0d8a1b11d6e"
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260287",
+    "cards": 500,
+    "source": "sentence_repair_20260922/staged/english_russian/deck_15260287.csv",
+    "sha256": "d99b475dd4f78d59dc8828d25f1b2d4c3b3bdf194755904629725a30aebebee3"
+  },
+  {
+    "pack": "english_russian",
+    "deck": "22976521",
+    "cards": 500,
+    "source": "sentence_repair_20260922/staged/english_russian/deck_22976521.csv",
+    "sha256": "0bdc44d1d1a01355a120fdb51dc006e932a778399f48e6b094eacd8e5b7fbcd5"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260182",
+    "cards": 500,
+    "source": "sentence_repair_20260922/staged/russian_english/deck_15260182.csv",
+    "sha256": "f1965c1122deb3fbf35bca86886b119b96835579d8025bdbb4ecc0384c81433d"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260185",
+    "cards": 500,
+    "source": "sentence_repair_20260922/staged/russian_english/deck_15260185.csv",
+    "sha256": "32bb967fd5963f07af5a2ed75fa1ac41fae98570878a77ec3257765e8746c64d"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260188",
+    "cards": 500,
+    "source": "sentence_repair_20260922/staged/russian_english/deck_15260188.csv",
+    "sha256": "b057cb2cd88a80363efba61961c87d1be1e2c3da78831b7a4111207f512b10eb"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260190",
+    "cards": 500,
+    "source": "sentence_repair_20260922/staged/russian_english/deck_15260190.csv",
+    "sha256": "96d0443665d8e5a49fa148ea436a56f3ab246249cf3cebc0e2b129ad531a341c"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260191",
+    "cards": 500,
+    "source": "sentence_repair_20260922/staged/russian_english/deck_15260191.csv",
+    "sha256": "5141b005420cbe797bc1ea1c22bfd21d5ae8efba41b7a0b012bb48e05e0eefc5"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260192",
+    "cards": 500,
+    "source": "sentence_repair_20260922/staged/russian_english/deck_15260192.csv",
+    "sha256": "d6a4bb82d28ec04d4d2a67f4e461991bd5d76eba8c46ebd3666e1b8d59bdc853"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260194",
+    "cards": 500,
+    "source": "sentence_repair_20260922/staged/russian_english/deck_15260194.csv",
+    "sha256": "1ba0d1beebd484480292bfcce85c62b7a728d7da5b786ac41949df6ec538fb02"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260196",
+    "cards": 500,
+    "source": "sentence_repair_20260922/staged/russian_english/deck_15260196.csv",
+    "sha256": "665932c4addfaa9bce15f86bbfae2ebab29cee11419cf21f859cd12b74037115"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260198",
+    "cards": 500,
+    "source": "sentence_repair_20260922/staged/russian_english/deck_15260198.csv",
+    "sha256": "b4de9ac3cf070b25199e75f405a812cfb1084cacab877d65a98c2d57b738ca8a"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260200",
+    "cards": 500,
+    "source": "sentence_repair_20260922/staged/russian_english/deck_15260200.csv",
+    "sha256": "73ee83fdb9dc1b9df6c146730a08c3672195ebd37dc1d53c06613666cc4d3f6c"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260204",
+    "cards": 500,
+    "source": "sentence_repair_20260922/staged/russian_english/deck_15260204.csv",
+    "sha256": "007c7219a3ac18d970f4a5991854251283510683871738195705f1a841b8390b"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260207",
+    "cards": 500,
+    "source": "sentence_repair_20260922/staged/russian_english/deck_15260207.csv",
+    "sha256": "5730640901d3975083b98212a173e42d3a0b46c9b774c036ebb39508ec08463a"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260210",
+    "cards": 500,
+    "source": "sentence_repair_20260922/staged/russian_english/deck_15260210.csv",
+    "sha256": "819852a3f9cd9f95116a21429b4d8940d349dddd1020c7f0950b05210a814650"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260213",
+    "cards": 500,
+    "source": "sentence_repair_20260922/staged/russian_english/deck_15260213.csv",
+    "sha256": "e0e0bf8c799f553fc203b7569e36cdde9a17c05416ee10cc27b3d200be303eb4"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260214",
+    "cards": 500,
+    "source": "sentence_repair_20260922/staged/russian_english/deck_15260214.csv",
+    "sha256": "f849809abb4531ddc03522f1e57215572bbcad1c13bbc0d9bbdd64e25c09ad50"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260215",
+    "cards": 500,
+    "source": "sentence_repair_20260922/staged/russian_english/deck_15260215.csv",
+    "sha256": "b71bc5c2f7aad7d68068c0a3a33dfd54a8b6e488e50a83094c8dcf9a021b0633"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260217",
+    "cards": 500,
+    "source": "sentence_repair_20260922/staged/russian_english/deck_15260217.csv",
+    "sha256": "cf1a8ce0e84bb38fb62bfc4ef9d06170565e864ff3281e2685b68f423ecfbb9a"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260218",
+    "cards": 500,
+    "source": "sentence_repair_20260922/staged/russian_english/deck_15260218.csv",
+    "sha256": "0f61b27223e892e6fad409b75e164cc14ebc6da5dc4f3dc39aa391fcd020cce3"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260221",
+    "cards": 500,
+    "source": "sentence_repair_20260922/staged/russian_english/deck_15260221.csv",
+    "sha256": "f34da1c209a9021e0299dc8b7bbaa0a587e7283d4d7780f6ad3b5a24ceaa11b7"
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260224",
+    "cards": 500,
+    "source": "sentence_repair_20260922/staged/russian_english/deck_15260224.csv",
+    "sha256": "4f1f6ee40c49dcd57238bd12d468c2f152e7737f46b6e11121e1146532aa4919"
+  }
+]

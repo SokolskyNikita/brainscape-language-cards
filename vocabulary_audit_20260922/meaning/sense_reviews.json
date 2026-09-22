@@ -1,0 +1,7616 @@
+[
+  {
+    "pack": "english_russian",
+    "overall": 134,
+    "head": "before",
+    "example": "I saw him before the meeting.",
+    "ru": "перед",
+    "word": "saw",
+    "action": "resolve_sense",
+    "sense": "see",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      93
+    ],
+    "current_target_lemmas": [
+      "see"
+    ],
+    "reason": "Past of see, not the cutting tool or cutting verb."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 700,
+    "head": "once",
+    "example": "Once, I saw him here.",
+    "ru": "однажды",
+    "word": "saw",
+    "action": "resolve_sense",
+    "sense": "see",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      93
+    ],
+    "current_target_lemmas": [
+      "see"
+    ],
+    "reason": "Past of see, not the cutting tool or cutting verb."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 713,
+    "head": "performance",
+    "example": "I saw a performance.",
+    "ru": "представление",
+    "word": "saw",
+    "action": "resolve_sense",
+    "sense": "see",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      93
+    ],
+    "current_target_lemmas": [
+      "see"
+    ],
+    "reason": "Past of see, not the cutting tool or cutting verb."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 788,
+    "head": "yesterday",
+    "example": "I saw you yesterday.",
+    "ru": "вчера",
+    "word": "saw",
+    "action": "resolve_sense",
+    "sense": "see",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      93
+    ],
+    "current_target_lemmas": [
+      "see"
+    ],
+    "reason": "Past of see, not the cutting tool or cutting verb."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 920,
+    "head": "advertisement",
+    "example": "I saw your advertisement.",
+    "ru": "реклама",
+    "word": "saw",
+    "action": "resolve_sense",
+    "sense": "see",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      93
+    ],
+    "current_target_lemmas": [
+      "see"
+    ],
+    "reason": "Past of see, not the cutting tool or cutting verb."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 1041,
+    "head": "something",
+    "example": "I saw something strange.",
+    "ru": "нечто",
+    "word": "saw",
+    "action": "resolve_sense",
+    "sense": "see",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      93
+    ],
+    "current_target_lemmas": [
+      "see"
+    ],
+    "reason": "Past of see, not the cutting tool or cutting verb."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 1581,
+    "head": "palace",
+    "example": "We saw the palace.",
+    "ru": "дворец",
+    "word": "saw",
+    "action": "resolve_sense",
+    "sense": "see",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      93
+    ],
+    "current_target_lemmas": [
+      "see"
+    ],
+    "reason": "Past of see, not the cutting tool or cutting verb."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 1887,
+    "head": "monastery",
+    "example": "He saw the ancient monastery.",
+    "ru": "монастырь",
+    "word": "saw",
+    "action": "resolve_sense",
+    "sense": "see",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      93
+    ],
+    "current_target_lemmas": [
+      "see"
+    ],
+    "reason": "Past of see, not the cutting tool or cutting verb."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 2516,
+    "head": "dragon",
+    "example": "I saw a dragon.",
+    "ru": "дракон",
+    "word": "saw",
+    "action": "resolve_sense",
+    "sense": "see",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      93
+    ],
+    "current_target_lemmas": [
+      "see"
+    ],
+    "reason": "Past of see, not the cutting tool or cutting verb."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 2711,
+    "head": "prophet",
+    "example": "The prophet saw the war.",
+    "ru": "пророк",
+    "word": "saw",
+    "action": "resolve_sense",
+    "sense": "see",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      93
+    ],
+    "current_target_lemmas": [
+      "see"
+    ],
+    "reason": "Past of see, not the cutting tool or cutting verb."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 2783,
+    "head": "gallery",
+    "example": "We saw pictures in the gallery.",
+    "ru": "галерея",
+    "word": "saw",
+    "action": "resolve_sense",
+    "sense": "see",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      93
+    ],
+    "current_target_lemmas": [
+      "see"
+    ],
+    "reason": "Past of see, not the cutting tool or cutting verb."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 3124,
+    "head": "snake",
+    "example": "I saw a snake in the grass.",
+    "ru": "змея",
+    "word": "saw",
+    "action": "resolve_sense",
+    "sense": "see",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      93
+    ],
+    "current_target_lemmas": [
+      "see"
+    ],
+    "reason": "Past of see, not the cutting tool or cutting verb."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 3163,
+    "head": "cosmonaut",
+    "example": "The cosmonaut saw a star.",
+    "ru": "космонавт",
+    "word": "saw",
+    "action": "resolve_sense",
+    "sense": "see",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      93
+    ],
+    "current_target_lemmas": [
+      "see"
+    ],
+    "reason": "Past of see, not the cutting tool or cutting verb."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 3370,
+    "head": "ghost",
+    "example": "I saw a ghost.",
+    "ru": "призрак",
+    "word": "saw",
+    "action": "resolve_sense",
+    "sense": "see",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      93
+    ],
+    "current_target_lemmas": [
+      "see"
+    ],
+    "reason": "Past of see, not the cutting tool or cutting verb."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 3622,
+    "head": "premier",
+    "example": "He saw the premier yesterday.",
+    "ru": "премьер",
+    "word": "saw",
+    "action": "resolve_sense",
+    "sense": "see",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      93
+    ],
+    "current_target_lemmas": [
+      "see"
+    ],
+    "reason": "Past of see, not the cutting tool or cutting verb."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 3740,
+    "head": "steamer",
+    "example": "I saw the steamer at dawn.",
+    "ru": "пароход",
+    "word": "saw",
+    "action": "resolve_sense",
+    "sense": "see",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      93
+    ],
+    "current_target_lemmas": [
+      "see"
+    ],
+    "reason": "Past of see, not the cutting tool or cutting verb."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 3819,
+    "head": "to come to",
+    "example": "I saw him come to slowly.",
+    "ru": "очнуться",
+    "word": "saw",
+    "action": "resolve_sense",
+    "sense": "see",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      93
+    ],
+    "current_target_lemmas": [
+      "see"
+    ],
+    "reason": "Past of see, not the cutting tool or cutting verb."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 3840,
+    "head": "tiger",
+    "example": "I saw a tiger.",
+    "ru": "тигр",
+    "word": "saw",
+    "action": "resolve_sense",
+    "sense": "see",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      93
+    ],
+    "current_target_lemmas": [
+      "see"
+    ],
+    "reason": "Past of see, not the cutting tool or cutting verb."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 3961,
+    "head": "deer",
+    "example": "I saw a deer on the road.",
+    "ru": "олень",
+    "word": "saw",
+    "action": "resolve_sense",
+    "sense": "see",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      93
+    ],
+    "current_target_lemmas": [
+      "see"
+    ],
+    "reason": "Past of see, not the cutting tool or cutting verb."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 4835,
+    "head": "from afar",
+    "example": "I saw him from afar.",
+    "ru": "издали",
+    "word": "saw",
+    "action": "resolve_sense",
+    "sense": "see",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      93
+    ],
+    "current_target_lemmas": [
+      "see"
+    ],
+    "reason": "Past of see, not the cutting tool or cutting verb."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 5058,
+    "head": "ridge",
+    "example": "We saw the mountain ridge.",
+    "ru": "хребет",
+    "word": "saw",
+    "action": "resolve_sense",
+    "sense": "see",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      93
+    ],
+    "current_target_lemmas": [
+      "see"
+    ],
+    "reason": "Past of see, not the cutting tool or cutting verb."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 5279,
+    "head": "eyewitness",
+    "example": "The eyewitness saw the man.",
+    "ru": "очевидец",
+    "word": "saw",
+    "action": "resolve_sense",
+    "sense": "see",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      93
+    ],
+    "current_target_lemmas": [
+      "see"
+    ],
+    "reason": "Past of see, not the cutting tool or cutting verb."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 5305,
+    "head": "confusion",
+    "example": "I saw her confusion.",
+    "ru": "замешательство",
+    "word": "saw",
+    "action": "resolve_sense",
+    "sense": "see",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      93
+    ],
+    "current_target_lemmas": [
+      "see"
+    ],
+    "reason": "Past of see, not the cutting tool or cutting verb."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 5325,
+    "head": "waterfall",
+    "example": "We saw a waterfall.",
+    "ru": "водопад",
+    "word": "saw",
+    "action": "resolve_sense",
+    "sense": "see",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      93
+    ],
+    "current_target_lemmas": [
+      "see"
+    ],
+    "reason": "Past of see, not the cutting tool or cutting verb."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 5760,
+    "head": "eclipse",
+    "example": "We saw the eclipse yesterday.",
+    "ru": "затмение",
+    "word": "saw",
+    "action": "resolve_sense",
+    "sense": "see",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      93
+    ],
+    "current_target_lemmas": [
+      "see"
+    ],
+    "reason": "Past of see, not the cutting tool or cutting verb."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 6020,
+    "head": "imaginary",
+    "example": "He saw an imaginary enemy.",
+    "ru": "мнимый",
+    "word": "saw",
+    "action": "resolve_sense",
+    "sense": "see",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      93
+    ],
+    "current_target_lemmas": [
+      "see"
+    ],
+    "reason": "Past of see, not the cutting tool or cutting verb."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 6448,
+    "head": "scorpion",
+    "example": "I saw a scorpion.",
+    "ru": "скорпион",
+    "word": "saw",
+    "action": "resolve_sense",
+    "sense": "see",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      93
+    ],
+    "current_target_lemmas": [
+      "see"
+    ],
+    "reason": "Past of see, not the cutting tool or cutting verb."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 7287,
+    "head": "splendor",
+    "example": "I saw the splendor of the palace.",
+    "ru": "великолепие",
+    "word": "saw",
+    "action": "resolve_sense",
+    "sense": "see",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      93
+    ],
+    "current_target_lemmas": [
+      "see"
+    ],
+    "reason": "Past of see, not the cutting tool or cutting verb."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 7554,
+    "head": "saw",
+    "example": "He has a new saw.",
+    "ru": "пила",
+    "word": "saw",
+    "action": "retain_default",
+    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 7833,
+    "head": "robbery",
+    "example": "I saw a robbery.",
+    "ru": "ограбление",
+    "word": "saw",
+    "action": "resolve_sense",
+    "sense": "see",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      93
+    ],
+    "current_target_lemmas": [
+      "see"
+    ],
+    "reason": "Past of see, not the cutting tool or cutting verb."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 7844,
+    "head": "to saw",
+    "example": "He began to saw the wood.",
+    "ru": "пилить",
+    "word": "saw",
+    "action": "retain_default",
+    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 8025,
+    "head": "blackness",
+    "example": "I saw only blackness.",
+    "ru": "чернота",
+    "word": "saw",
+    "action": "resolve_sense",
+    "sense": "see",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      93
+    ],
+    "current_target_lemmas": [
+      "see"
+    ],
+    "reason": "Past of see, not the cutting tool or cutting verb."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 8190,
+    "head": "substitution",
+    "example": "I saw the substitution.",
+    "ru": "подмена",
+    "word": "saw",
+    "action": "resolve_sense",
+    "sense": "see",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      93
+    ],
+    "current_target_lemmas": [
+      "see"
+    ],
+    "reason": "Past of see, not the cutting tool or cutting verb."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 8528,
+    "head": "canyon",
+    "example": "We saw a canyon.",
+    "ru": "каньон",
+    "word": "saw",
+    "action": "resolve_sense",
+    "sense": "see",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      93
+    ],
+    "current_target_lemmas": [
+      "see"
+    ],
+    "reason": "Past of see, not the cutting tool or cutting verb."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 8563,
+    "head": "gazelle",
+    "example": "I saw a gazelle.",
+    "ru": "газель",
+    "word": "saw",
+    "action": "resolve_sense",
+    "sense": "see",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      93
+    ],
+    "current_target_lemmas": [
+      "see"
+    ],
+    "reason": "Past of see, not the cutting tool or cutting verb."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 8644,
+    "head": "cascade",
+    "example": "We saw a cascade.",
+    "ru": "каскад",
+    "word": "saw",
+    "action": "resolve_sense",
+    "sense": "see",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      93
+    ],
+    "current_target_lemmas": [
+      "see"
+    ],
+    "reason": "Past of see, not the cutting tool or cutting verb."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 8696,
+    "head": "mangy",
+    "example": "I saw a mangy dog.",
+    "ru": "паршивый",
+    "word": "saw",
+    "action": "resolve_sense",
+    "sense": "see",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      93
+    ],
+    "current_target_lemmas": [
+      "see"
+    ],
+    "reason": "Past of see, not the cutting tool or cutting verb."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 8933,
+    "head": "astronaut",
+    "example": "The astronaut saw Earth.",
+    "ru": "астронавт",
+    "word": "saw",
+    "action": "resolve_sense",
+    "sense": "see",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      93
+    ],
+    "current_target_lemmas": [
+      "see"
+    ],
+    "reason": "Past of see, not the cutting tool or cutting verb."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 9263,
+    "head": "eminence",
+    "example": "I saw His Eminence.",
+    "ru": "выдающееся положение; возвышенность; высокопреосвященство (титул: His Eminence)",
+    "word": "saw",
+    "action": "resolve_sense",
+    "sense": "see",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      93
+    ],
+    "current_target_lemmas": [
+      "see"
+    ],
+    "reason": "Past of see, not the cutting tool or cutting verb."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 9366,
+    "head": "film adaptation",
+    "example": "I saw the film adaptation of the book.",
+    "ru": "экранизация",
+    "word": "saw",
+    "action": "resolve_sense",
+    "sense": "see",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      93
+    ],
+    "current_target_lemmas": [
+      "see"
+    ],
+    "reason": "Past of see, not the cutting tool or cutting verb."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 9584,
+    "head": "in the distance, far away",
+    "example": "I saw a house in the distance.",
+    "ru": "вдалеке",
+    "word": "saw",
+    "action": "resolve_sense",
+    "sense": "see",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      93
+    ],
+    "current_target_lemmas": [
+      "see"
+    ],
+    "reason": "Past of see, not the cutting tool or cutting verb."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 9717,
+    "head": "poster, playbill",
+    "example": "I saw a poster on the wall.",
+    "ru": "афиша",
+    "word": "saw",
+    "action": "resolve_sense",
+    "sense": "see",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      93
+    ],
+    "current_target_lemmas": [
+      "see"
+    ],
+    "reason": "Past of see, not the cutting tool or cutting verb."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 9769,
+    "head": "little shop, small store",
+    "example": "I saw a little shop.",
+    "ru": "магазинчик",
+    "word": "saw",
+    "action": "resolve_sense",
+    "sense": "see",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      93
+    ],
+    "current_target_lemmas": [
+      "see"
+    ],
+    "reason": "Past of see, not the cutting tool or cutting verb."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 9900,
+    "head": "to stride, to step",
+    "example": "I saw him stride forward.",
+    "ru": "шагать; зашагать (начать шагать)",
+    "word": "saw",
+    "action": "resolve_sense",
+    "sense": "see",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      93
+    ],
+    "current_target_lemmas": [
+      "see"
+    ],
+    "reason": "Past of see, not the cutting tool or cutting verb."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 194,
+    "head": "to see",
+    "example": "I saw him.",
+    "ru": "увидеть",
+    "word": "saw",
+    "action": "resolve_sense",
+    "sense": "see",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      93
+    ],
+    "current_target_lemmas": [
+      "see"
+    ],
+    "reason": "Past of see, not the cutting tool or cutting verb."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 804,
+    "head": "once, one day",
+    "example": "I saw him once.",
+    "ru": "однажды",
+    "word": "saw",
+    "action": "resolve_sense",
+    "sense": "see",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      93
+    ],
+    "current_target_lemmas": [
+      "see"
+    ],
+    "reason": "Past of see, not the cutting tool or cutting verb."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 1071,
+    "head": "advertisement, advertising",
+    "example": "I saw your advertisement on the internet.",
+    "ru": "реклама",
+    "word": "saw",
+    "action": "resolve_sense",
+    "sense": "see",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      93
+    ],
+    "current_target_lemmas": [
+      "see"
+    ],
+    "reason": "Past of see, not the cutting tool or cutting verb."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 3509,
+    "head": "underwater, submarine",
+    "example": "We saw the underwater world.",
+    "ru": "подводный",
+    "word": "saw",
+    "action": "resolve_sense",
+    "sense": "see",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      93
+    ],
+    "current_target_lemmas": [
+      "see"
+    ],
+    "reason": "Past of see, not the cutting tool or cutting verb."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 3836,
+    "head": "lightning, zipper",
+    "example": "I saw lightning.",
+    "ru": "молния",
+    "word": "saw",
+    "action": "resolve_sense",
+    "sense": "see",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      93
+    ],
+    "current_target_lemmas": [
+      "see"
+    ],
+    "reason": "Past of see, not the cutting tool or cutting verb."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 4060,
+    "head": "scout, intelligence agent",
+    "example": "The scout saw the enemy.",
+    "ru": "разведчик",
+    "word": "saw",
+    "action": "resolve_sense",
+    "sense": "see",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      93
+    ],
+    "current_target_lemmas": [
+      "see"
+    ],
+    "reason": "Past of see, not the cutting tool or cutting verb."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 4246,
+    "head": "hare",
+    "example": "I saw a hare.",
+    "ru": "заяц",
+    "word": "saw",
+    "action": "resolve_sense",
+    "sense": "see",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      93
+    ],
+    "current_target_lemmas": [
+      "see"
+    ],
+    "reason": "Past of see, not the cutting tool or cutting verb."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 4694,
+    "head": "poster, placard",
+    "example": "I saw a poster on the wall.",
+    "ru": "плакат",
+    "word": "saw",
+    "action": "resolve_sense",
+    "sense": "see",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      93
+    ],
+    "current_target_lemmas": [
+      "see"
+    ],
+    "reason": "Past of see, not the cutting tool or cutting verb."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 6245,
+    "head": "exhibition",
+    "example": "I saw this exhibition.",
+    "ru": "экспозиция",
+    "word": "saw",
+    "action": "resolve_sense",
+    "sense": "see",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      93
+    ],
+    "current_target_lemmas": [
+      "see"
+    ],
+    "reason": "Past of see, not the cutting tool or cutting verb."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 7614,
+    "head": "smirk",
+    "example": "I saw his smirk.",
+    "ru": "усмешка",
+    "word": "saw",
+    "action": "resolve_sense",
+    "sense": "see",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      93
+    ],
+    "current_target_lemmas": [
+      "see"
+    ],
+    "reason": "Past of see, not the cutting tool or cutting verb."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 7825,
+    "head": "to see",
+    "example": "I saw him there.",
+    "ru": "увидать",
+    "word": "saw",
+    "action": "resolve_sense",
+    "sense": "see",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      93
+    ],
+    "current_target_lemmas": [
+      "see"
+    ],
+    "reason": "Past of see, not the cutting tool or cutting verb."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 8003,
+    "head": "alien, extraterrestrial",
+    "example": "We saw an alien.",
+    "ru": "инопланетянин",
+    "word": "saw",
+    "action": "resolve_sense",
+    "sense": "see",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      93
+    ],
+    "current_target_lemmas": [
+      "see"
+    ],
+    "reason": "Past of see, not the cutting tool or cutting verb."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 8112,
+    "head": "general practitioner",
+    "example": "I saw the general practitioner.",
+    "ru": "терапевт",
+    "word": "saw",
+    "action": "resolve_sense",
+    "sense": "see",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      93
+    ],
+    "current_target_lemmas": [
+      "see"
+    ],
+    "reason": "Past of see, not the cutting tool or cutting verb."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 8721,
+    "head": "ghost",
+    "example": "I saw a ghost.",
+    "ru": "привидение",
+    "word": "saw",
+    "action": "resolve_sense",
+    "sense": "see",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      93
+    ],
+    "current_target_lemmas": [
+      "see"
+    ],
+    "reason": "Past of see, not the cutting tool or cutting verb."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 9444,
+    "head": "clip, music video",
+    "example": "I saw a new music video.",
+    "ru": "клип",
+    "word": "saw",
+    "action": "resolve_sense",
+    "sense": "see",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      93
+    ],
+    "current_target_lemmas": [
+      "see"
+    ],
+    "reason": "Past of see, not the cutting tool or cutting verb."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 307,
+    "head": "to fall",
+    "example": "The book fell on the table.",
+    "ru": "упасть",
+    "word": "fell",
+    "action": "resolve_sense",
+    "sense": "fall",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      307,
+      904
+    ],
+    "current_target_lemmas": [
+      "fall"
+    ],
+    "reason": "Past of fall, not fell = cut/knock down."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 1020,
+    "head": "tear",
+    "example": "A tear fell.",
+    "ru": "слеза",
+    "word": "fell",
+    "action": "resolve_sense",
+    "sense": "fall",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      307,
+      904
+    ],
+    "current_target_lemmas": [
+      "fall"
+    ],
+    "reason": "Past of fall, not fell = cut/knock down."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 2769,
+    "head": "pit",
+    "example": "He fell into a deep pit.",
+    "ru": "яма",
+    "word": "fell",
+    "action": "resolve_sense",
+    "sense": "fall",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      307,
+      904
+    ],
+    "current_target_lemmas": [
+      "fall"
+    ],
+    "reason": "Past of fall, not fell = cut/knock down."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 2945,
+    "head": "to fall ill",
+    "example": "She fell ill yesterday.",
+    "ru": "заболеть",
+    "word": "fell",
+    "action": "resolve_sense",
+    "sense": "fall",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      307,
+      904
+    ],
+    "current_target_lemmas": [
+      "fall"
+    ],
+    "reason": "Past of fall, not fell = cut/knock down."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 3656,
+    "head": "buttocks",
+    "example": "He fell on his buttocks.",
+    "ru": "ягодицы",
+    "word": "fell",
+    "action": "resolve_sense",
+    "sense": "fall",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      307,
+      904
+    ],
+    "current_target_lemmas": [
+      "fall"
+    ],
+    "reason": "Past of fall, not fell = cut/knock down."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 3736,
+    "head": "trap",
+    "example": "He fell into the trap easily.",
+    "ru": "ловушка",
+    "word": "fell",
+    "action": "resolve_sense",
+    "sense": "fall",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      307,
+      904
+    ],
+    "current_target_lemmas": [
+      "fall"
+    ],
+    "reason": "Past of fall, not fell = cut/knock down."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 4599,
+    "head": "curtain",
+    "example": "The curtain fell after the performance.",
+    "ru": "занавес",
+    "word": "fell",
+    "action": "resolve_sense",
+    "sense": "fall",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      307,
+      904
+    ],
+    "current_target_lemmas": [
+      "fall"
+    ],
+    "reason": "Past of fall, not fell = cut/knock down."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 4687,
+    "head": "to fell",
+    "example": "They will fell the trees.",
+    "ru": "валить",
+    "word": "fell",
+    "action": "retain_default",
+    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 4938,
+    "head": "crumb",
+    "example": "A crumb fell on the table.",
+    "ru": "крошка",
+    "word": "fell",
+    "action": "resolve_sense",
+    "sense": "fall",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      307,
+      904
+    ],
+    "current_target_lemmas": [
+      "fall"
+    ],
+    "reason": "Past of fall, not fell = cut/knock down."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 5005,
+    "head": "oops",
+    "example": "Oops, the cup fell.",
+    "ru": "ой",
+    "word": "fell",
+    "action": "resolve_sense",
+    "sense": "fall",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      307,
+      904
+    ],
+    "current_target_lemmas": [
+      "fall"
+    ],
+    "reason": "Past of fall, not fell = cut/knock down."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 5238,
+    "head": "vase",
+    "example": "The vase fell on the table.",
+    "ru": "ваза",
+    "word": "fell",
+    "action": "resolve_sense",
+    "sense": "fall",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      307,
+      904
+    ],
+    "current_target_lemmas": [
+      "fall"
+    ],
+    "reason": "Past of fall, not fell = cut/knock down."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 5243,
+    "head": "faint",
+    "example": "She fell in a faint.",
+    "ru": "обморок",
+    "word": "fell",
+    "action": "resolve_sense",
+    "sense": "fall",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      307,
+      904
+    ],
+    "current_target_lemmas": [
+      "fall"
+    ],
+    "reason": "Past of fall, not fell = cut/knock down."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 6032,
+    "head": "to fall silent",
+    "example": "The crowd fell silent.",
+    "ru": "умолкнуть",
+    "word": "fell",
+    "action": "resolve_sense",
+    "sense": "fall",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      307,
+      904
+    ],
+    "current_target_lemmas": [
+      "fall"
+    ],
+    "reason": "Past of fall, not fell = cut/knock down."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 6689,
+    "head": "petal",
+    "example": "A flower petal fell.",
+    "ru": "лепесток",
+    "word": "fell",
+    "action": "resolve_sense",
+    "sense": "fall",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      307,
+      904
+    ],
+    "current_target_lemmas": [
+      "fall"
+    ],
+    "reason": "Past of fall, not fell = cut/knock down."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 7214,
+    "head": "strand",
+    "example": "A strand of hair fell over her face.",
+    "ru": "прядь",
+    "word": "fell",
+    "action": "resolve_sense",
+    "sense": "fall",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      307,
+      904
+    ],
+    "current_target_lemmas": [
+      "fall"
+    ],
+    "reason": "Past of fall, not fell = cut/knock down."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 8028,
+    "head": "snowflake",
+    "example": "A snowflake fell on her nose.",
+    "ru": "снежинка",
+    "word": "fell",
+    "action": "resolve_sense",
+    "sense": "fall",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      307,
+      904
+    ],
+    "current_target_lemmas": [
+      "fall"
+    ],
+    "reason": "Past of fall, not fell = cut/knock down."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 8061,
+    "head": "to fall down",
+    "example": "He fell down on the floor.",
+    "ru": "упасть",
+    "word": "fell",
+    "action": "resolve_sense",
+    "sense": "fall",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      307,
+      904
+    ],
+    "current_target_lemmas": [
+      "fall"
+    ],
+    "reason": "Past of fall, not fell = cut/knock down."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 8274,
+    "head": "sideways",
+    "example": "The vase fell sideways.",
+    "ru": "набок",
+    "word": "fell",
+    "action": "resolve_sense",
+    "sense": "fall",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      307,
+      904
+    ],
+    "current_target_lemmas": [
+      "fall"
+    ],
+    "reason": "Past of fall, not fell = cut/knock down."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 8537,
+    "head": "meteorite",
+    "example": "A meteorite fell in the field.",
+    "ru": "метеорит",
+    "word": "fell",
+    "action": "resolve_sense",
+    "sense": "fall",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      307,
+      904
+    ],
+    "current_target_lemmas": [
+      "fall"
+    ],
+    "reason": "Past of fall, not fell = cut/knock down."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 8676,
+    "head": "unceasingly",
+    "example": "The rain fell unceasingly.",
+    "ru": "беспрестанно",
+    "word": "fell",
+    "action": "resolve_sense",
+    "sense": "fall",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      307,
+      904
+    ],
+    "current_target_lemmas": [
+      "fall"
+    ],
+    "reason": "Past of fall, not fell = cut/knock down."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 9598,
+    "head": "petal",
+    "example": "A petal fell down.",
+    "ru": "лепесток",
+    "word": "fell",
+    "action": "resolve_sense",
+    "sense": "fall",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      307,
+      904
+    ],
+    "current_target_lemmas": [
+      "fall"
+    ],
+    "reason": "Past of fall, not fell = cut/knock down."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 9995,
+    "head": "to fell, to knock down",
+    "example": "They will fell the old tree.",
+    "ru": "повалить",
+    "word": "fell",
+    "action": "retain_default",
+    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 1053,
+    "head": "to fall",
+    "example": "I almost fell.",
+    "ru": "упасть",
+    "word": "fell",
+    "action": "resolve_sense",
+    "sense": "fall",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      307,
+      904
+    ],
+    "current_target_lemmas": [
+      "fall"
+    ],
+    "reason": "Past of fall, not fell = cut/knock down."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 2954,
+    "head": "branch",
+    "example": "The branch fell.",
+    "ru": "ветка",
+    "word": "fell",
+    "action": "resolve_sense",
+    "sense": "fall",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      307,
+      904
+    ],
+    "current_target_lemmas": [
+      "fall"
+    ],
+    "reason": "Past of fall, not fell = cut/knock down."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 3040,
+    "head": "shell",
+    "example": "The shell fell far away.",
+    "ru": "снаряд",
+    "word": "fell",
+    "action": "resolve_sense",
+    "sense": "fall",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      307,
+      904
+    ],
+    "current_target_lemmas": [
+      "fall"
+    ],
+    "reason": "Past of fall, not fell = cut/knock down."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 3693,
+    "head": "fall out, drop out",
+    "example": "A tooth fell out.",
+    "ru": "выпасть",
+    "word": "fell",
+    "action": "resolve_sense",
+    "sense": "fall",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      307,
+      904
+    ],
+    "current_target_lemmas": [
+      "fall"
+    ],
+    "reason": "Past of fall, not fell = cut/knock down."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 3694,
+    "head": "to fall in love, to grow fond of",
+    "example": "She fell in love with him.",
+    "ru": "полюбить",
+    "word": "fell",
+    "action": "resolve_sense",
+    "sense": "fall",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      307,
+      904
+    ],
+    "current_target_lemmas": [
+      "fall"
+    ],
+    "reason": "Past of fall, not fell = cut/knock down."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 3852,
+    "head": "to fall ill, to get sick",
+    "example": "She fell ill yesterday.",
+    "ru": "заболеть",
+    "word": "fell",
+    "action": "resolve_sense",
+    "sense": "fall",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      307,
+      904
+    ],
+    "current_target_lemmas": [
+      "fall"
+    ],
+    "reason": "Past of fall, not fell = cut/knock down."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 3890,
+    "head": "to fall silent",
+    "example": "Everyone fell silent.",
+    "ru": "замолчать",
+    "word": "fell",
+    "action": "resolve_sense",
+    "sense": "fall",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      307,
+      904
+    ],
+    "current_target_lemmas": [
+      "fall"
+    ],
+    "reason": "Past of fall, not fell = cut/knock down."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 4209,
+    "head": "leaf, sheet",
+    "example": "A leaf fell from the tree.",
+    "ru": "листок",
+    "word": "fell",
+    "action": "resolve_sense",
+    "sense": "fall",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      307,
+      904
+    ],
+    "current_target_lemmas": [
+      "fall"
+    ],
+    "reason": "Past of fall, not fell = cut/knock down."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 4882,
+    "head": "butt, ass",
+    "example": "He fell on his butt.",
+    "ru": "задница",
+    "word": "fell",
+    "action": "resolve_sense",
+    "sense": "fall",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      307,
+      904
+    ],
+    "current_target_lemmas": [
+      "fall"
+    ],
+    "reason": "Past of fall, not fell = cut/knock down."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 4960,
+    "head": "to fall in love, to become enamored",
+    "example": "I fell in love with her.",
+    "ru": "влюбиться",
+    "word": "fell",
+    "action": "resolve_sense",
+    "sense": "fall",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      307,
+      904
+    ],
+    "current_target_lemmas": [
+      "fall"
+    ],
+    "reason": "Past of fall, not fell = cut/knock down."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 5023,
+    "head": "currency",
+    "example": "The currency exchange rate fell.",
+    "ru": "валютный",
+    "word": "fell",
+    "action": "resolve_sense",
+    "sense": "fall",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      307,
+      904
+    ],
+    "current_target_lemmas": [
+      "fall"
+    ],
+    "reason": "Past of fall, not fell = cut/knock down."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 5132,
+    "head": "to fall through, to fail",
+    "example": "The meeting fell through.",
+    "ru": "сорваться",
+    "word": "fell",
+    "action": "resolve_sense",
+    "sense": "fall",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      307,
+      904
+    ],
+    "current_target_lemmas": [
+      "fall"
+    ],
+    "reason": "Past of fall, not fell = cut/knock down."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 5518,
+    "head": "ass, arse (vulgar)",
+    "example": "He fell on his ass.",
+    "ru": "жопа",
+    "word": "fell",
+    "action": "resolve_sense",
+    "sense": "fall",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      307,
+      904
+    ],
+    "current_target_lemmas": [
+      "fall"
+    ],
+    "reason": "Past of fall, not fell = cut/knock down."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 5605,
+    "head": "prolonged, extended",
+    "example": "Prolonged rain fell all night.",
+    "ru": "продолжительный",
+    "word": "fell",
+    "action": "resolve_sense",
+    "sense": "fall",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      307,
+      904
+    ],
+    "current_target_lemmas": [
+      "fall"
+    ],
+    "reason": "Past of fall, not fell = cut/knock down."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 6302,
+    "head": "curtain",
+    "example": "The curtain fell.",
+    "ru": "занавес",
+    "word": "fell",
+    "action": "resolve_sense",
+    "sense": "fall",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      307,
+      904
+    ],
+    "current_target_lemmas": [
+      "fall"
+    ],
+    "reason": "Past of fall, not fell = cut/knock down."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 6436,
+    "head": "to fell",
+    "example": "It is hard to fell a tree.",
+    "ru": "валить",
+    "word": "fell",
+    "action": "retain_default",
+    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 6603,
+    "head": "wrestler, fighter",
+    "example": "The wrestler fell on the ground.",
+    "ru": "борец",
+    "word": "fell",
+    "action": "resolve_sense",
+    "sense": "fall",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      307,
+      904
+    ],
+    "current_target_lemmas": [
+      "fall"
+    ],
+    "reason": "Past of fall, not fell = cut/knock down."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 6606,
+    "head": "fall apart, collapse",
+    "example": "The chair fell apart.",
+    "ru": "развалиться",
+    "word": "fell",
+    "action": "resolve_sense",
+    "sense": "fall",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      307,
+      904
+    ],
+    "current_target_lemmas": [
+      "fall"
+    ],
+    "reason": "Past of fall, not fell = cut/knock down."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 6693,
+    "head": "hail",
+    "example": "Hail fell yesterday.",
+    "ru": "град",
+    "word": "fell",
+    "action": "resolve_sense",
+    "sense": "fall",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      307,
+      904
+    ],
+    "current_target_lemmas": [
+      "fall"
+    ],
+    "reason": "Past of fall, not fell = cut/knock down."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 6987,
+    "head": "to fall into",
+    "example": "He fell into despair.",
+    "ru": "впасть",
+    "word": "fell",
+    "action": "resolve_sense",
+    "sense": "fall",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      307,
+      904
+    ],
+    "current_target_lemmas": [
+      "fall"
+    ],
+    "reason": "Past of fall, not fell = cut/knock down."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 7718,
+    "head": "cone, bump",
+    "example": "A cone fell from the pine.",
+    "ru": "шишка",
+    "word": "fell",
+    "action": "resolve_sense",
+    "sense": "fall",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      307,
+      904
+    ],
+    "current_target_lemmas": [
+      "fall"
+    ],
+    "reason": "Past of fall, not fell = cut/knock down."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 7775,
+    "head": "scrap, tuft",
+    "example": "A scrap of paper fell.",
+    "ru": "клочок",
+    "word": "fell",
+    "action": "resolve_sense",
+    "sense": "fall",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      307,
+      904
+    ],
+    "current_target_lemmas": [
+      "fall"
+    ],
+    "reason": "Past of fall, not fell = cut/knock down."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 8060,
+    "head": "oar, paddle",
+    "example": "The oar fell into the water.",
+    "ru": "весло",
+    "word": "fell",
+    "action": "resolve_sense",
+    "sense": "fall",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      307,
+      904
+    ],
+    "current_target_lemmas": [
+      "fall"
+    ],
+    "reason": "Past of fall, not fell = cut/knock down."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 8281,
+    "head": "reel, bobbin",
+    "example": "The reel fell.",
+    "ru": "катушка",
+    "word": "fell",
+    "action": "resolve_sense",
+    "sense": "fall",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      307,
+      904
+    ],
+    "current_target_lemmas": [
+      "fall"
+    ],
+    "reason": "Past of fall, not fell = cut/knock down."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 8536,
+    "head": "to fall silent",
+    "example": "The crowd fell silent.",
+    "ru": "умолкнуть",
+    "word": "fell",
+    "action": "resolve_sense",
+    "sense": "fall",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      307,
+      904
+    ],
+    "current_target_lemmas": [
+      "fall"
+    ],
+    "reason": "Past of fall, not fell = cut/knock down."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 9035,
+    "head": "plate (flat piece), sheet",
+    "example": "The plate fell on the table.",
+    "ru": "пластина",
+    "word": "fell",
+    "action": "resolve_sense",
+    "sense": "fall",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      307,
+      904
+    ],
+    "current_target_lemmas": [
+      "fall"
+    ],
+    "reason": "Past of fall, not fell = cut/knock down."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 9113,
+    "head": "ditch, trench",
+    "example": "The car fell into the ditch.",
+    "ru": "канава",
+    "word": "fell",
+    "action": "resolve_sense",
+    "sense": "fall",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      307,
+      904
+    ],
+    "current_target_lemmas": [
+      "fall"
+    ],
+    "reason": "Past of fall, not fell = cut/knock down."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 9260,
+    "head": "beam, girder",
+    "example": "The beam fell.",
+    "ru": "балка",
+    "word": "fell",
+    "action": "resolve_sense",
+    "sense": "fall",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      307,
+      904
+    ],
+    "current_target_lemmas": [
+      "fall"
+    ],
+    "reason": "Past of fall, not fell = cut/knock down."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 9598,
+    "head": "petal",
+    "example": "A petal fell on the table.",
+    "ru": "лепесток",
+    "word": "fell",
+    "action": "resolve_sense",
+    "sense": "fall",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      307,
+      904
+    ],
+    "current_target_lemmas": [
+      "fall"
+    ],
+    "reason": "Past of fall, not fell = cut/knock down."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 191,
+    "head": "immediately",
+    "example": "He left immediately.",
+    "ru": "сразу",
+    "word": "left",
+    "action": "resolve_sense",
+    "sense": "leave",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      351,
+      492
+    ],
+    "current_target_lemmas": [
+      "leave"
+    ],
+    "reason": "Past of leave, not left-hand direction."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 841,
+    "head": "left",
+    "example": "This is the left hand.",
+    "ru": "левый",
+    "word": "left",
+    "action": "retain_default",
+    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 1950,
+    "head": "subsequently",
+    "example": "He subsequently left home.",
+    "ru": "впоследствии",
+    "word": "left",
+    "action": "resolve_sense",
+    "sense": "leave",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      351,
+      492
+    ],
+    "current_target_lemmas": [
+      "leave"
+    ],
+    "reason": "Past of leave, not left-hand direction."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 2065,
+    "head": "allegedly",
+    "example": "He allegedly left.",
+    "ru": "якобы",
+    "word": "left",
+    "action": "resolve_sense",
+    "sense": "leave",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      351,
+      492
+    ],
+    "current_target_lemmas": [
+      "leave"
+    ],
+    "reason": "Past of leave, not left-hand direction."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 2546,
+    "head": "so as to",
+    "example": "He left so as to work.",
+    "ru": "чтобы; дабы (книжное, устаревающее)",
+    "word": "left",
+    "action": "resolve_sense",
+    "sense": "leave",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      351,
+      492
+    ],
+    "current_target_lemmas": [
+      "leave"
+    ],
+    "reason": "Past of leave, not left-hand direction."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 2623,
+    "head": "inconspicuously",
+    "example": "He inconspicuously left the room.",
+    "ru": "незаметно",
+    "word": "left",
+    "action": "resolve_sense",
+    "sense": "leave",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      351,
+      492
+    ],
+    "current_target_lemmas": [
+      "leave"
+    ],
+    "reason": "Past of leave, not left-hand direction."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 2893,
+    "head": "for a long time",
+    "example": "He left for a long time.",
+    "ru": "надолго",
+    "word": "left",
+    "action": "resolve_sense",
+    "sense": "leave",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      351,
+      492
+    ],
+    "current_target_lemmas": [
+      "leave"
+    ],
+    "reason": "Past of leave, not left-hand direction."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 3463,
+    "head": "to the left",
+    "example": "He goes to the left.",
+    "ru": "налево",
+    "word": "left",
+    "action": "retain_default",
+    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 3635,
+    "head": "glove",
+    "example": "She lost her left glove yesterday.",
+    "ru": "перчатка",
+    "word": "left",
+    "action": "retain_default",
+    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 3837,
+    "head": "moreover",
+    "example": "She refused, and moreover, she left early.",
+    "ru": "притом",
+    "word": "left",
+    "action": "resolve_sense",
+    "sense": "leave",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      351,
+      492
+    ],
+    "current_target_lemmas": [
+      "leave"
+    ],
+    "reason": "Past of leave, not left-hand direction."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 4162,
+    "head": "hastily",
+    "example": "She hastily left the room.",
+    "ru": "поспешно",
+    "word": "left",
+    "action": "resolve_sense",
+    "sense": "leave",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      351,
+      492
+    ],
+    "current_target_lemmas": [
+      "leave"
+    ],
+    "reason": "Past of leave, not left-hand direction."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 4638,
+    "head": "predecessor",
+    "example": "His predecessor left yesterday.",
+    "ru": "предшественник",
+    "word": "left",
+    "action": "resolve_sense",
+    "sense": "leave",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      351,
+      492
+    ],
+    "current_target_lemmas": [
+      "leave"
+    ],
+    "reason": "Past of leave, not left-hand direction."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 5104,
+    "head": "tunnel",
+    "example": "The train left the tunnel.",
+    "ru": "тоннель",
+    "word": "left",
+    "action": "resolve_sense",
+    "sense": "leave",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      351,
+      492
+    ],
+    "current_target_lemmas": [
+      "leave"
+    ],
+    "reason": "Past of leave, not left-hand direction."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 5161,
+    "head": "secretly",
+    "example": "She secretly left the house.",
+    "ru": "тайно",
+    "word": "left",
+    "action": "resolve_sense",
+    "sense": "leave",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      351,
+      492
+    ],
+    "current_target_lemmas": [
+      "leave"
+    ],
+    "reason": "Past of leave, not left-hand direction."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 5575,
+    "head": "in the morning",
+    "example": "He left in the morning.",
+    "ru": "утром",
+    "word": "left",
+    "action": "resolve_sense",
+    "sense": "leave",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      351,
+      492
+    ],
+    "current_target_lemmas": [
+      "leave"
+    ],
+    "reason": "Past of leave, not left-hand direction."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 5794,
+    "head": "nostril",
+    "example": "His left nostril is closed.",
+    "ru": "ноздря",
+    "word": "left",
+    "action": "retain_default",
+    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 7014,
+    "head": "unnoticed",
+    "example": "He left unnoticed.",
+    "ru": "незамеченный",
+    "word": "left",
+    "action": "resolve_sense",
+    "sense": "leave",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      351,
+      492
+    ],
+    "current_target_lemmas": [
+      "leave"
+    ],
+    "reason": "Past of leave, not left-hand direction."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 7283,
+    "head": "demonstratively",
+    "example": "She demonstratively left.",
+    "ru": "демонстративно",
+    "word": "left",
+    "action": "resolve_sense",
+    "sense": "leave",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      351,
+      492
+    ],
+    "current_target_lemmas": [
+      "leave"
+    ],
+    "reason": "Past of leave, not left-hand direction."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 8140,
+    "head": "in a flash",
+    "example": "He left in a flash.",
+    "ru": "мигом",
+    "word": "left",
+    "action": "resolve_sense",
+    "sense": "leave",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      351,
+      492
+    ],
+    "current_target_lemmas": [
+      "leave"
+    ],
+    "reason": "Past of leave, not left-hand direction."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 977,
+    "head": "left",
+    "example": "The left hand.",
+    "ru": "левый",
+    "word": "left",
+    "action": "retain_default",
+    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 1204,
+    "head": "train",
+    "example": "The train already left.",
+    "ru": "поезд",
+    "word": "left",
+    "action": "resolve_sense",
+    "sense": "leave",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      351,
+      492
+    ],
+    "current_target_lemmas": [
+      "leave"
+    ],
+    "reason": "Past of leave, not left-hand direction."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 1700,
+    "head": "suddenly",
+    "example": "He left suddenly.",
+    "ru": "внезапно",
+    "word": "left",
+    "action": "resolve_sense",
+    "sense": "leave",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      351,
+      492
+    ],
+    "current_target_lemmas": [
+      "leave"
+    ],
+    "reason": "Past of leave, not left-hand direction."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 1865,
+    "head": "side",
+    "example": "The left side.",
+    "ru": "бок",
+    "word": "left",
+    "action": "retain_default",
+    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 1932,
+    "head": "silently",
+    "example": "He left silently.",
+    "ru": "молча",
+    "word": "left",
+    "action": "resolve_sense",
+    "sense": "leave",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      351,
+      492
+    ],
+    "current_target_lemmas": [
+      "leave"
+    ],
+    "reason": "Past of leave, not left-hand direction."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 2758,
+    "head": "on the left",
+    "example": "He's on the left.",
+    "ru": "слева",
+    "word": "left",
+    "action": "retain_default",
+    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 2761,
+    "head": "expedition",
+    "example": "They left on an expedition.",
+    "ru": "экспедиция",
+    "word": "left",
+    "action": "resolve_sense",
+    "sense": "leave",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      351,
+      492
+    ],
+    "current_target_lemmas": [
+      "leave"
+    ],
+    "reason": "Past of leave, not left-hand direction."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 2968,
+    "head": "apparently",
+    "example": "Apparently he already left.",
+    "ru": "видать",
+    "word": "left",
+    "action": "resolve_sense",
+    "sense": "leave",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      351,
+      492
+    ],
+    "current_target_lemmas": [
+      "leave"
+    ],
+    "reason": "Past of leave, not left-hand direction."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 3074,
+    "head": "immediately",
+    "example": "He left immediately.",
+    "ru": "тотчас",
+    "word": "left",
+    "action": "resolve_sense",
+    "sense": "leave",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      351,
+      492
+    ],
+    "current_target_lemmas": [
+      "leave"
+    ],
+    "reason": "Past of leave, not left-hand direction."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 3260,
+    "head": "in order to",
+    "example": "He left in order to rest.",
+    "ru": "дабы",
+    "word": "left",
+    "action": "resolve_sense",
+    "sense": "leave",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      351,
+      492
+    ],
+    "current_target_lemmas": [
+      "leave"
+    ],
+    "reason": "Past of leave, not left-hand direction."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 3382,
+    "head": "unnoticed",
+    "example": "He left unnoticed.",
+    "ru": "незаметно",
+    "word": "left",
+    "action": "resolve_sense",
+    "sense": "leave",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      351,
+      492
+    ],
+    "current_target_lemmas": [
+      "leave"
+    ],
+    "reason": "Past of leave, not left-hand direction."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 3772,
+    "head": "for a long time",
+    "example": "He left for a long time.",
+    "ru": "надолго",
+    "word": "left",
+    "action": "resolve_sense",
+    "sense": "leave",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      351,
+      492
+    ],
+    "current_target_lemmas": [
+      "leave"
+    ],
+    "reason": "Past of leave, not left-hand direction."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 3902,
+    "head": "despite, in spite of",
+    "example": "Despite the rain we left.",
+    "ru": "вопреки",
+    "word": "left",
+    "action": "resolve_sense",
+    "sense": "leave",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      351,
+      492
+    ],
+    "current_target_lemmas": [
+      "leave"
+    ],
+    "reason": "Past of leave, not left-hand direction."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 4610,
+    "head": "to the left, left",
+    "example": "Go to the left.",
+    "ru": "налево",
+    "word": "left",
+    "action": "retain_default",
+    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 5008,
+    "head": "steamer",
+    "example": "The steamer already left.",
+    "ru": "пароход",
+    "word": "left",
+    "action": "resolve_sense",
+    "sense": "leave",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      351,
+      492
+    ],
+    "current_target_lemmas": [
+      "leave"
+    ],
+    "reason": "Past of leave, not left-hand direction."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 5639,
+    "head": "hastily, hurriedly",
+    "example": "She hastily left.",
+    "ru": "поспешно",
+    "word": "left",
+    "action": "resolve_sense",
+    "sense": "leave",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      351,
+      492
+    ],
+    "current_target_lemmas": [
+      "leave"
+    ],
+    "reason": "Past of leave, not left-hand direction."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 5672,
+    "head": "faction, fraction",
+    "example": "The left faction.",
+    "ru": "фракция",
+    "word": "left",
+    "action": "retain_default",
+    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 5806,
+    "head": "to the left, left",
+    "example": "Look to the left.",
+    "ru": "влево",
+    "word": "left",
+    "action": "retain_default",
+    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 5864,
+    "head": "flank, wing",
+    "example": "The left flank.",
+    "ru": "фланг",
+    "word": "left",
+    "action": "retain_default",
+    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 6405,
+    "head": "alone together, in private",
+    "example": "We were left alone together.",
+    "ru": "наедине",
+    "word": "left",
+    "action": "retain_default",
+    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 7164,
+    "head": "secretly, covertly",
+    "example": "She secretly left.",
+    "ru": "тайно",
+    "word": "left",
+    "action": "resolve_sense",
+    "sense": "leave",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      351,
+      492
+    ],
+    "current_target_lemmas": [
+      "leave"
+    ],
+    "reason": "Past of leave, not left-hand direction."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 7837,
+    "head": "the next morning",
+    "example": "He left the next morning.",
+    "ru": "наутро",
+    "word": "left",
+    "action": "resolve_sense",
+    "sense": "leave",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      351,
+      492
+    ],
+    "current_target_lemmas": [
+      "leave"
+    ],
+    "reason": "Past of leave, not left-hand direction."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 8373,
+    "head": "maid, servant",
+    "example": "The maid left.",
+    "ru": "служанка",
+    "word": "left",
+    "action": "resolve_sense",
+    "sense": "leave",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      351,
+      492
+    ],
+    "current_target_lemmas": [
+      "leave"
+    ],
+    "reason": "Past of leave, not left-hand direction."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 9096,
+    "head": "election, selection",
+    "example": "After the election he left.",
+    "ru": "избрание",
+    "word": "left",
+    "action": "resolve_sense",
+    "sense": "leave",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      351,
+      492
+    ],
+    "current_target_lemmas": [
+      "leave"
+    ],
+    "reason": "Past of leave, not left-hand direction."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 9174,
+    "head": "marriage (of a woman)",
+    "example": "After her marriage she left.",
+    "ru": "замужество",
+    "word": "left",
+    "action": "resolve_sense",
+    "sense": "leave",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      351,
+      492
+    ],
+    "current_target_lemmas": [
+      "leave"
+    ],
+    "reason": "Past of leave, not left-hand direction."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 9297,
+    "head": "snort, snuffle",
+    "example": "He snorted and left.",
+    "ru": "фыркнуть",
+    "word": "left",
+    "action": "resolve_sense",
+    "sense": "leave",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      351,
+      492
+    ],
+    "current_target_lemmas": [
+      "leave"
+    ],
+    "reason": "Past of leave, not left-hand direction."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 7924,
+    "head": "bet",
+    "example": "This bet is mine.",
+    "ru": "пари",
+    "word": "mine",
+    "action": "resolve_sense",
+    "sense": "possessive",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      5
+    ],
+    "current_target_lemmas": [
+      "i",
+      "my",
+      "mine"
+    ],
+    "reason": "Possessive pronoun, not an explosive device or excavation."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 13,
+    "head": "that one",
+    "example": "That one is mine.",
+    "ru": "то",
+    "word": "mine",
+    "action": "resolve_sense",
+    "sense": "possessive",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      5
+    ],
+    "current_target_lemmas": [
+      "i",
+      "my",
+      "mine"
+    ],
+    "reason": "Possessive pronoun, not an explosive device or excavation."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 51,
+    "head": "my, mine",
+    "example": "That's mine.",
+    "ru": "мой",
+    "word": "mine",
+    "action": "resolve_sense",
+    "sense": "possessive",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      5
+    ],
+    "current_target_lemmas": [
+      "i",
+      "my",
+      "mine"
+    ],
+    "reason": "Possessive pronoun, not an explosive device or excavation."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 537,
+    "head": "acquaintance, familiar",
+    "example": "That's an acquaintance of mine.",
+    "ru": "знакомый",
+    "word": "mine",
+    "action": "resolve_sense",
+    "sense": "possessive",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      5
+    ],
+    "current_target_lemmas": [
+      "i",
+      "my",
+      "mine"
+    ],
+    "reason": "Possessive pronoun, not an explosive device or excavation."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 1020,
+    "head": "but, on the plus side",
+    "example": "It's small, but it's mine.",
+    "ru": "зато",
+    "word": "mine",
+    "action": "resolve_sense",
+    "sense": "possessive",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      5
+    ],
+    "current_target_lemmas": [
+      "i",
+      "my",
+      "mine"
+    ],
+    "reason": "Possessive pronoun, not an explosive device or excavation."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 2589,
+    "head": "mine",
+    "example": "Danger — a mine!",
+    "ru": "мина",
+    "word": "mine",
+    "action": "retain_default",
+    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 5641,
+    "head": "mine, shaft",
+    "example": "The mine is closed.",
+    "ru": "шахта",
+    "word": "mine",
+    "action": "retain_default",
+    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 181,
+    "head": "solution",
+    "example": "We found the solution.",
+    "ru": "решение",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 406,
+    "head": "easily",
+    "example": "She easily found the answer.",
+    "ru": "легко",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 510,
+    "head": "dollar",
+    "example": "I found a dollar.",
+    "ru": "доллар",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 552,
+    "head": "internet",
+    "example": "I found this on the internet.",
+    "ru": "интернет",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 964,
+    "head": "forum",
+    "example": "I found answers on the forum.",
+    "ru": "форум",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 1363,
+    "head": "found",
+    "example": "They want to found a new school.",
+    "ru": "основать",
+    "word": "found",
+    "action": "retain_default",
+    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 1540,
+    "head": "peace",
+    "example": "She found peace in nature.",
+    "ru": "покой",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 1650,
+    "head": "to be found",
+    "example": "The key will be found.",
+    "ru": "найтись",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 1833,
+    "head": "corpse",
+    "example": "They found a corpse.",
+    "ru": "труп",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 1851,
+    "head": "drug",
+    "example": "He found drugs.",
+    "ru": "наркотик; лекарство",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 1865,
+    "head": "bone",
+    "example": "The dog found a bone.",
+    "ru": "кость",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 1922,
+    "head": "bomb",
+    "example": "They found a bomb.",
+    "ru": "бомба",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 2022,
+    "head": "note",
+    "example": "She found a note under the door.",
+    "ru": "записка",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 2292,
+    "head": "bear",
+    "example": "The bear found a large fish.",
+    "ru": "медведь",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 2453,
+    "head": "replacement",
+    "example": "I found a good replacement.",
+    "ru": "замена",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 2554,
+    "head": "feather",
+    "example": "She found a bird's feather outside.",
+    "ru": "перо",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 2569,
+    "head": "nerve",
+    "example": "The doctor found the nerve.",
+    "ru": "нерв",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 2645,
+    "head": "kopeck",
+    "example": "I found a kopeck on the street.",
+    "ru": "копейка",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 2670,
+    "head": "fragment",
+    "example": "I found a fragment of the letter.",
+    "ru": "фрагмент",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 2692,
+    "head": "stick",
+    "example": "He found a big stick outside.",
+    "ru": "палка",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 2705,
+    "head": "piece of paper",
+    "example": "I found a piece of paper.",
+    "ru": "бумажка",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 2746,
+    "head": "programmer",
+    "example": "The programmer found an error quickly.",
+    "ru": "программист",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 2784,
+    "head": "coin",
+    "example": "I found a coin under the sofa.",
+    "ru": "монета",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 2949,
+    "head": "supplier",
+    "example": "We found a new supplier.",
+    "ru": "поставщик",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 2954,
+    "head": "manuscript",
+    "example": "She found an old manuscript.",
+    "ru": "рукопись",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 2999,
+    "head": "recipe",
+    "example": "I found a new recipe.",
+    "ru": "рецепт",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 3070,
+    "head": "mushroom",
+    "example": "I found a mushroom in the forest.",
+    "ru": "гриб",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 3591,
+    "head": "dwelling",
+    "example": "They found an ancient dwelling underground.",
+    "ru": "жилище",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 3633,
+    "head": "treasure",
+    "example": "We found treasure in the house.",
+    "ru": "сокровище",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 3821,
+    "head": "compatriot",
+    "example": "She found a compatriot in the city.",
+    "ru": "соотечественник",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 3932,
+    "head": "cassette",
+    "example": "I found an old cassette.",
+    "ru": "кассета",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 3986,
+    "head": "detective",
+    "example": "The detective found the answer quickly.",
+    "ru": "детектив",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 4003,
+    "head": "niche",
+    "example": "He found his niche in art.",
+    "ru": "ниша",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 4040,
+    "head": "deposit",
+    "example": "They found a gold deposit.",
+    "ru": "месторождение",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 4048,
+    "head": "compromise",
+    "example": "We found a compromise.",
+    "ru": "компромисс",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 4073,
+    "head": "special service",
+    "example": "The special service found the man.",
+    "ru": "спецслужба (разведка или безопасность); специальная служба",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 4115,
+    "head": "bowels",
+    "example": "They found gold in the earth's bowels.",
+    "ru": "кишечник; недра (переносное)",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 4285,
+    "head": "TV channel",
+    "example": "I found a new TV channel.",
+    "ru": "телеканал",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 4415,
+    "head": "cockroach",
+    "example": "I found a cockroach in the soup.",
+    "ru": "таракан",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 4485,
+    "head": "shelter",
+    "example": "They found shelter from the storm.",
+    "ru": "убежище",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 4876,
+    "head": "chest",
+    "example": "He found treasure in the old chest.",
+    "ru": "сундук",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 4890,
+    "head": "uranium",
+    "example": "They found uranium.",
+    "ru": "уран",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 5017,
+    "head": "attic",
+    "example": "I found old books in the attic.",
+    "ru": "чердак",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 5024,
+    "head": "tape recorder",
+    "example": "I found my old tape recorder.",
+    "ru": "магнитофон",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 5063,
+    "head": "cent",
+    "example": "I found a cent outside.",
+    "ru": "цент",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 5101,
+    "head": "consolation",
+    "example": "She found consolation in his words.",
+    "ru": "утешение",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 5249,
+    "head": "banknote",
+    "example": "I found a banknote on the street.",
+    "ru": "купюра",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 5593,
+    "head": "groat",
+    "example": "I found a groat in my pocket.",
+    "ru": "гроут (старинная британская монета)",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 5664,
+    "head": "tumor",
+    "example": "The doctor found a tumor.",
+    "ru": "опухоль",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 5837,
+    "head": "incidentally",
+    "example": "I found this incidentally.",
+    "ru": "кстати; случайно; попутно",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 5959,
+    "head": "like-minded person",
+    "example": "I found a like-minded person.",
+    "ru": "единомышленник",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 6161,
+    "head": "dungeon",
+    "example": "They found a dungeon in the castle.",
+    "ru": "подземелье",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 6188,
+    "head": "contemplation",
+    "example": "She found peace in quiet contemplation.",
+    "ru": "созерцание",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 6391,
+    "head": "artifact",
+    "example": "They found an ancient artifact underground.",
+    "ru": "артефакт",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 6661,
+    "head": "migrant",
+    "example": "The migrant found work.",
+    "ru": "мигрант",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 6695,
+    "head": "fellow traveler",
+    "example": "He found a fellow traveler.",
+    "ru": "попутчик",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 6708,
+    "head": "pebble",
+    "example": "I found a smooth pebble.",
+    "ru": "камешек",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 6788,
+    "head": "little shop",
+    "example": "I found a little shop.",
+    "ru": "магазинчик",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 6863,
+    "head": "by touch",
+    "example": "He found the key by touch.",
+    "ru": "на ощупь",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 7114,
+    "head": "companion",
+    "example": "He found a faithful companion.",
+    "ru": "спутник",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 7132,
+    "head": "burial mound",
+    "example": "They found an ancient burial mound.",
+    "ru": "курган",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 7160,
+    "head": "overnight stay",
+    "example": "We found a place for an overnight stay.",
+    "ru": "ночлег",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 7318,
+    "head": "little restaurant",
+    "example": "We found a cozy little restaurant.",
+    "ru": "ресторанчик",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 7341,
+    "head": "cache",
+    "example": "They found a cache underground.",
+    "ru": "тайник",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 7381,
+    "head": "little bag",
+    "example": "She found coins in the little bag.",
+    "ru": "мешочек",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 7481,
+    "head": "to found",
+    "example": "He wants to found a new city.",
+    "ru": "основать",
+    "word": "found",
+    "action": "retain_default",
+    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 7552,
+    "head": "pearl",
+    "example": "She found a pearl.",
+    "ru": "жемчужина",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 7586,
+    "head": "floppy disk",
+    "example": "I found an old floppy disk.",
+    "ru": "дискета",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 7612,
+    "head": "fossil",
+    "example": "They found a fossil.",
+    "ru": "ископаемое",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 7791,
+    "head": "operative",
+    "example": "The operative found the man.",
+    "ru": "оперативник",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 7932,
+    "head": "sought",
+    "example": "The sought document was finally found.",
+    "ru": "искомый",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 8201,
+    "head": "typo",
+    "example": "I found a typo in the letter.",
+    "ru": "опечатка",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 8634,
+    "head": "cipher",
+    "example": "He found the cipher.",
+    "ru": "шифр",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 8666,
+    "head": "contraband",
+    "example": "They found contraband.",
+    "ru": "контрабанда",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 8709,
+    "head": "Kurgan",
+    "example": "They found artifacts inside the kurgan.",
+    "ru": "курган",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 8741,
+    "head": "grotto",
+    "example": "We found a mysterious sea grotto.",
+    "ru": "грот",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 8859,
+    "head": "mummy",
+    "example": "They found a mummy.",
+    "ru": "мумия",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 8956,
+    "head": "secluded",
+    "example": "They found a secluded spot for lunch.",
+    "ru": "укромный",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 8966,
+    "head": "videocassette",
+    "example": "I found an old videocassette yesterday.",
+    "ru": "видеокассета",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 9103,
+    "head": "oasis",
+    "example": "They found an oasis in the desert.",
+    "ru": "оазис",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 9116,
+    "head": "VCR",
+    "example": "I found an old VCR in the attic.",
+    "ru": "видеомагнитофон",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 9160,
+    "head": "bedbug",
+    "example": "I found a bedbug in my room.",
+    "ru": "клоп",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 9165,
+    "head": "clot",
+    "example": "The doctor found a clot.",
+    "ru": "сгусток",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 9178,
+    "head": "cartridge case",
+    "example": "He found a cartridge case outside.",
+    "ru": "гильза",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 9181,
+    "head": "stub",
+    "example": "I found an old ticket stub.",
+    "ru": "корешок",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 9550,
+    "head": "insufficiency, deficiency",
+    "example": "The doctor found heart insufficiency.",
+    "ru": "недостаточность",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 9553,
+    "head": "migrant, immigrant",
+    "example": "The migrant found work.",
+    "ru": "мигрант",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 9609,
+    "head": "fellow traveler, companion",
+    "example": "He found a fellow traveler.",
+    "ru": "попутчик",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 9640,
+    "head": "pebble, small stone",
+    "example": "I found a pebble.",
+    "ru": "камешек",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 9825,
+    "head": "treasure, stash",
+    "example": "They found ancient treasure.",
+    "ru": "клад",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 9873,
+    "head": "rod, bar",
+    "example": "I found a rod.",
+    "ru": "прут",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 9902,
+    "head": "by touch, to the touch",
+    "example": "He found the key by touch.",
+    "ru": "на ощупь",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 164,
+    "head": "to find",
+    "example": "I found it.",
+    "ru": "найти",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 792,
+    "head": "to find, to discover",
+    "example": "We found it.",
+    "ru": "обнаружить",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 2208,
+    "head": "box, case",
+    "example": "I found a cat in the box.",
+    "ru": "коробка",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 2257,
+    "head": "corpse",
+    "example": "They found a corpse there.",
+    "ru": "труп",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 2640,
+    "head": "nowhere, anywhere",
+    "example": "He is nowhere to be found.",
+    "ru": "нигде",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 3502,
+    "head": "piece of paper, note",
+    "example": "I found a piece of paper.",
+    "ru": "бумажка",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 3617,
+    "head": "coin",
+    "example": "I found a coin.",
+    "ru": "монета",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 3937,
+    "head": "to find",
+    "example": "I found the key.",
+    "ru": "отыскать",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 4027,
+    "head": "mushroom, fungus",
+    "example": "I found a mushroom in the forest.",
+    "ru": "гриб",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 4047,
+    "head": "original",
+    "example": "I found the original of the painting.",
+    "ru": "оригинал",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 4196,
+    "head": "find, catch",
+    "example": "I found him at home.",
+    "ru": "застать",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 5511,
+    "head": "intelligence agency",
+    "example": "The intelligence agency found him.",
+    "ru": "спецслужба",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 5755,
+    "head": "to be found, to turn up",
+    "example": "The keys were found.",
+    "ru": "обнаружиться",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 6113,
+    "head": "shelter",
+    "example": "We found shelter.",
+    "ru": "убежище",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 7007,
+    "head": "cent, penny",
+    "example": "I found a cent on the ground.",
+    "ru": "цент",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 7120,
+    "head": "find, locate",
+    "example": "The police found him.",
+    "ru": "разыскать",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 7902,
+    "head": "shelter",
+    "example": "We found shelter.",
+    "ru": "укрытие",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 8017,
+    "head": "bruise, contusion",
+    "example": "She found a bruise on her arm.",
+    "ru": "синяк",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 8182,
+    "head": "fragment, snippet",
+    "example": "I found a fragment of paper.",
+    "ru": "обрывок",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 8194,
+    "head": "remains, relics",
+    "example": "They found remains here.",
+    "ru": "останки",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 9553,
+    "head": "migrant",
+    "example": "The migrant found a new job.",
+    "ru": "мигрант",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 9825,
+    "head": "treasure, stash",
+    "example": "They found a treasure.",
+    "ru": "клад",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 9902,
+    "head": "by touch (на ощупь)",
+    "example": "I found the key by touch.",
+    "ru": "ощупь",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 530,
+    "head": "to manage",
+    "example": "I managed to do this before evening.",
+    "ru": "успеть (сделать вовремя); суметь",
+    "word": "managed",
+    "action": "resolve_sense",
+    "sense": "succeed",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      530,
+      1732
+    ],
+    "current_target_lemmas": [
+      "manage"
+    ],
+    "reason": "Manage to accomplish something, not control/operate machinery."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 1747,
+    "head": "convince",
+    "example": "I managed to convince my friend.",
+    "ru": "убедить",
+    "word": "managed",
+    "action": "resolve_sense",
+    "sense": "succeed",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      530,
+      1732
+    ],
+    "current_target_lemmas": [
+      "manage"
+    ],
+    "reason": "Manage to accomplish something, not control/operate machinery."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 1778,
+    "head": "to agree",
+    "example": "We managed to agree on a time.",
+    "ru": "договориться",
+    "word": "managed",
+    "action": "resolve_sense",
+    "sense": "succeed",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      530,
+      1732
+    ],
+    "current_target_lemmas": [
+      "manage"
+    ],
+    "reason": "Manage to accomplish something, not control/operate machinery."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 2762,
+    "head": "to escape",
+    "example": "He managed to escape.",
+    "ru": "убежать",
+    "word": "managed",
+    "action": "resolve_sense",
+    "sense": "succeed",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      530,
+      1732
+    ],
+    "current_target_lemmas": [
+      "manage"
+    ],
+    "reason": "Manage to accomplish something, not control/operate machinery."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 3187,
+    "head": "to catch",
+    "example": "I managed to catch him at home.",
+    "ru": "застать",
+    "word": "managed",
+    "action": "resolve_sense",
+    "sense": "succeed",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      530,
+      1732
+    ],
+    "current_target_lemmas": [
+      "manage"
+    ],
+    "reason": "Manage to accomplish something, not control/operate machinery."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 3328,
+    "head": "get free",
+    "example": "He managed to get free.",
+    "ru": "освободиться",
+    "word": "managed",
+    "action": "resolve_sense",
+    "sense": "succeed",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      530,
+      1732
+    ],
+    "current_target_lemmas": [
+      "manage"
+    ],
+    "reason": "Manage to accomplish something, not control/operate machinery."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 3493,
+    "head": "to pull out",
+    "example": "He managed to pull out the tooth.",
+    "ru": "вырвать",
+    "word": "managed",
+    "action": "resolve_sense",
+    "sense": "succeed",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      530,
+      1732
+    ],
+    "current_target_lemmas": [
+      "manage"
+    ],
+    "reason": "Manage to accomplish something, not control/operate machinery."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 3922,
+    "head": "persuade",
+    "example": "I managed to persuade my friend.",
+    "ru": "уговорить",
+    "word": "managed",
+    "action": "resolve_sense",
+    "sense": "succeed",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      530,
+      1732
+    ],
+    "current_target_lemmas": [
+      "manage"
+    ],
+    "reason": "Manage to accomplish something, not control/operate machinery."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 3945,
+    "head": "obtain",
+    "example": "They managed to obtain water.",
+    "ru": "добыть",
+    "word": "managed",
+    "action": "resolve_sense",
+    "sense": "succeed",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      530,
+      1732
+    ],
+    "current_target_lemmas": [
+      "manage"
+    ],
+    "reason": "Manage to accomplish something, not control/operate machinery."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 4571,
+    "head": "break through",
+    "example": "She managed to break through the wall.",
+    "ru": "прорваться",
+    "word": "managed",
+    "action": "resolve_sense",
+    "sense": "succeed",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      530,
+      1732
+    ],
+    "current_target_lemmas": [
+      "manage"
+    ],
+    "reason": "Manage to accomplish something, not control/operate machinery."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 5600,
+    "head": "to pull in",
+    "example": "He managed to pull in his stomach.",
+    "ru": "втянуть",
+    "word": "managed",
+    "action": "resolve_sense",
+    "sense": "succeed",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      530,
+      1732
+    ],
+    "current_target_lemmas": [
+      "manage"
+    ],
+    "reason": "Manage to accomplish something, not control/operate machinery."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 5886,
+    "head": "to be managed",
+    "example": "This machine is easily managed.",
+    "ru": "управляться",
+    "word": "managed",
+    "action": "retain_default",
+    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 5916,
+    "head": "squeeze out",
+    "example": "I managed to squeeze out the paint.",
+    "ru": "выдавить",
+    "word": "managed",
+    "action": "resolve_sense",
+    "sense": "succeed",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      530,
+      1732
+    ],
+    "current_target_lemmas": [
+      "manage"
+    ],
+    "reason": "Manage to accomplish something, not control/operate machinery."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 7824,
+    "head": "hack",
+    "example": "They managed to hack the system.",
+    "ru": "взломать",
+    "word": "managed",
+    "action": "resolve_sense",
+    "sense": "succeed",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      530,
+      1732
+    ],
+    "current_target_lemmas": [
+      "manage"
+    ],
+    "reason": "Manage to accomplish something, not control/operate machinery."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 8637,
+    "head": "to peel off",
+    "example": "I managed to peel off the paint.",
+    "ru": "содрать",
+    "word": "managed",
+    "action": "resolve_sense",
+    "sense": "succeed",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      530,
+      1732
+    ],
+    "current_target_lemmas": [
+      "manage"
+    ],
+    "reason": "Manage to accomplish something, not control/operate machinery."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 9478,
+    "head": "to eat one's fill",
+    "example": "She managed to eat her fill.",
+    "ru": "наесться",
+    "word": "managed",
+    "action": "resolve_sense",
+    "sense": "succeed",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      530,
+      1732
+    ],
+    "current_target_lemmas": [
+      "manage"
+    ],
+    "reason": "Manage to accomplish something, not control/operate machinery."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 259,
+    "head": "to manage",
+    "example": "I managed to come.",
+    "ru": "смочь",
+    "word": "managed",
+    "action": "resolve_sense",
+    "sense": "succeed",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      530,
+      1732
+    ],
+    "current_target_lemmas": [
+      "manage"
+    ],
+    "reason": "Manage to accomplish something, not control/operate machinery."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 1382,
+    "head": "to manage to",
+    "example": "I managed.",
+    "ru": "суметь",
+    "word": "managed",
+    "action": "resolve_sense",
+    "sense": "succeed",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      530,
+      1732
+    ],
+    "current_target_lemmas": [
+      "manage"
+    ],
+    "reason": "Manage to accomplish something, not control/operate machinery."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 6484,
+    "head": "to escape",
+    "example": "We managed to escape.",
+    "ru": "спастись",
+    "word": "managed",
+    "action": "resolve_sense",
+    "sense": "succeed",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      530,
+      1732
+    ],
+    "current_target_lemmas": [
+      "manage"
+    ],
+    "reason": "Manage to accomplish something, not control/operate machinery."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 7742,
+    "head": "manage",
+    "example": "She managed to leave.",
+    "ru": "умудриться",
+    "word": "managed",
+    "action": "resolve_sense",
+    "sense": "succeed",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      530,
+      1732
+    ],
+    "current_target_lemmas": [
+      "manage"
+    ],
+    "reason": "Manage to accomplish something, not control/operate machinery."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 7874,
+    "head": "outdo, surpass",
+    "example": "He managed to outdo them.",
+    "ru": "превзойти",
+    "word": "managed",
+    "action": "resolve_sense",
+    "sense": "succeed",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      530,
+      1732
+    ],
+    "current_target_lemmas": [
+      "manage"
+    ],
+    "reason": "Manage to accomplish something, not control/operate machinery."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 1034,
+    "head": "stream",
+    "example": "A stream of people entered the building.",
+    "ru": "поток",
+    "word": "entered",
+    "action": "resolve_sense",
+    "sense": "go_in",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      503,
+      609
+    ],
+    "current_target_lemmas": [
+      "enter"
+    ],
+    "reason": "Go into a place/group, not enter a name/data in a record."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 5120,
+    "head": "canon",
+    "example": "This book entered the canon.",
+    "ru": "канон",
+    "word": "entered",
+    "action": "resolve_sense",
+    "sense": "go_in",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      503,
+      609
+    ],
+    "current_target_lemmas": [
+      "enter"
+    ],
+    "reason": "Go into a place/group, not enter a name/data in a record."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 5315,
+    "head": "wicket gate",
+    "example": "She entered through the wicket gate.",
+    "ru": "калитка",
+    "word": "entered",
+    "action": "resolve_sense",
+    "sense": "go_in",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      503,
+      609
+    ],
+    "current_target_lemmas": [
+      "enter"
+    ],
+    "reason": "Go into a place/group, not enter a name/data in a record."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 5823,
+    "head": "noiselessly",
+    "example": "She noiselessly entered the room.",
+    "ru": "бесшумно",
+    "word": "entered",
+    "action": "resolve_sense",
+    "sense": "go_in",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      503,
+      609
+    ],
+    "current_target_lemmas": [
+      "enter"
+    ],
+    "reason": "Go into a place/group, not enter a name/data in a record."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 7047,
+    "head": "tsarevich",
+    "example": "The tsarevich entered the hall.",
+    "ru": "царевич",
+    "word": "entered",
+    "action": "resolve_sense",
+    "sense": "go_in",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      503,
+      609
+    ],
+    "current_target_lemmas": [
+      "enter"
+    ],
+    "reason": "Go into a place/group, not enter a name/data in a record."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 7272,
+    "head": "invader",
+    "example": "The invader entered the city.",
+    "ru": "захватчик",
+    "word": "entered",
+    "action": "resolve_sense",
+    "sense": "go_in",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      503,
+      609
+    ],
+    "current_target_lemmas": [
+      "enter"
+    ],
+    "reason": "Go into a place/group, not enter a name/data in a record."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 7309,
+    "head": "flotilla",
+    "example": "A flotilla entered the harbor.",
+    "ru": "флотилия",
+    "word": "entered",
+    "action": "resolve_sense",
+    "sense": "go_in",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      503,
+      609
+    ],
+    "current_target_lemmas": [
+      "enter"
+    ],
+    "reason": "Go into a place/group, not enter a name/data in a record."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 7659,
+    "head": "stealthily",
+    "example": "He stealthily entered the room.",
+    "ru": "украдкой",
+    "word": "entered",
+    "action": "resolve_sense",
+    "sense": "go_in",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      503,
+      609
+    ],
+    "current_target_lemmas": [
+      "enter"
+    ],
+    "reason": "Go into a place/group, not enter a name/data in a record."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 8681,
+    "head": "to be entered",
+    "example": "The name is entered here.",
+    "ru": "вноситься",
+    "word": "entered",
+    "action": "retain_default",
+    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 9109,
+    "head": "master's",
+    "example": "He entered the master's house.",
+    "ru": "хозяйский",
+    "word": "entered",
+    "action": "resolve_sense",
+    "sense": "go_in",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      503,
+      609
+    ],
+    "current_target_lemmas": [
+      "enter"
+    ],
+    "reason": "Go into a place/group, not enter a name/data in a record."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 3193,
+    "head": "cave",
+    "example": "We entered the cave.",
+    "ru": "пещера",
+    "word": "entered",
+    "action": "resolve_sense",
+    "sense": "go_in",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      503,
+      609
+    ],
+    "current_target_lemmas": [
+      "enter"
+    ],
+    "reason": "Go into a place/group, not enter a name/data in a record."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 7182,
+    "head": "bay, cove",
+    "example": "We entered the bay.",
+    "ru": "бухта",
+    "word": "entered",
+    "action": "resolve_sense",
+    "sense": "go_in",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      503,
+      609
+    ],
+    "current_target_lemmas": [
+      "enter"
+    ],
+    "reason": "Go into a place/group, not enter a name/data in a record."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 7861,
+    "head": "princess (wife of a князь, or a female ruler)",
+    "example": "The princess entered the hall.",
+    "ru": "княгиня",
+    "word": "entered",
+    "action": "resolve_sense",
+    "sense": "go_in",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      503,
+      609
+    ],
+    "current_target_lemmas": [
+      "enter"
+    ],
+    "reason": "Go into a place/group, not enter a name/data in a record."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 7864,
+    "head": "jungle",
+    "example": "We entered the jungle.",
+    "ru": "джунгли",
+    "word": "entered",
+    "action": "resolve_sense",
+    "sense": "go_in",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      503,
+      609
+    ],
+    "current_target_lemmas": [
+      "enter"
+    ],
+    "reason": "Go into a place/group, not enter a name/data in a record."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 7910,
+    "head": "countess",
+    "example": "The countess entered the hall.",
+    "ru": "графиня",
+    "word": "entered",
+    "action": "resolve_sense",
+    "sense": "go_in",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      503,
+      609
+    ],
+    "current_target_lemmas": [
+      "enter"
+    ],
+    "reason": "Go into a place/group, not enter a name/data in a record."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 7959,
+    "head": "marquis",
+    "example": "The marquis entered the hall.",
+    "ru": "маркиз",
+    "word": "entered",
+    "action": "resolve_sense",
+    "sense": "go_in",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      503,
+      609
+    ],
+    "current_target_lemmas": [
+      "enter"
+    ],
+    "reason": "Go into a place/group, not enter a name/data in a record."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 8114,
+    "head": "harbor, haven",
+    "example": "The ship entered the harbor.",
+    "ru": "гавань",
+    "word": "entered",
+    "action": "resolve_sense",
+    "sense": "go_in",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      503,
+      609
+    ],
+    "current_target_lemmas": [
+      "enter"
+    ],
+    "reason": "Go into a place/group, not enter a name/data in a record."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 8217,
+    "head": "noiselessly, silently",
+    "example": "He entered noiselessly.",
+    "ru": "бесшумно",
+    "word": "entered",
+    "action": "resolve_sense",
+    "sense": "go_in",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      503,
+      609
+    ],
+    "current_target_lemmas": [
+      "enter"
+    ],
+    "reason": "Go into a place/group, not enter a name/data in a record."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 8525,
+    "head": "strait",
+    "example": "The ship entered the strait.",
+    "ru": "пролив",
+    "word": "entered",
+    "action": "resolve_sense",
+    "sense": "go_in",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      503,
+      609
+    ],
+    "current_target_lemmas": [
+      "enter"
+    ],
+    "reason": "Go into a place/group, not enter a name/data in a record."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 1419,
+    "head": "to be held",
+    "example": "The meeting will be held tomorrow.",
+    "ru": "проводиться",
+    "word": "held",
+    "action": "retain_default",
+    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 1427,
+    "head": "palm",
+    "example": "She held the book in her palm.",
+    "ru": "ладонь",
+    "word": "held",
+    "action": "resolve_sense",
+    "sense": "hold_physical",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      511
+    ],
+    "current_target_lemmas": [
+      "hold"
+    ],
+    "reason": "Hold/grasp, not hold/conduct an event."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 1941,
+    "head": "firmly",
+    "example": "He firmly held my hand.",
+    "ru": "крепко",
+    "word": "held",
+    "action": "resolve_sense",
+    "sense": "hold_physical",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      511
+    ],
+    "current_target_lemmas": [
+      "hold"
+    ],
+    "reason": "Hold/grasp, not hold/conduct an event."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 2286,
+    "head": "steering wheel",
+    "example": "He held the steering wheel.",
+    "ru": "руль",
+    "word": "held",
+    "action": "resolve_sense",
+    "sense": "hold_physical",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      511
+    ],
+    "current_target_lemmas": [
+      "hold"
+    ],
+    "reason": "Hold/grasp, not hold/conduct an event."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 3368,
+    "head": "gently",
+    "example": "He gently held her hand.",
+    "ru": "нежно",
+    "word": "held",
+    "action": "resolve_sense",
+    "sense": "hold_physical",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      511
+    ],
+    "current_target_lemmas": [
+      "hold"
+    ],
+    "reason": "Hold/grasp, not hold/conduct an event."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 3592,
+    "head": "brush",
+    "example": "She held the brush.",
+    "ru": "кисть",
+    "word": "held",
+    "action": "resolve_sense",
+    "sense": "hold_physical",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      511
+    ],
+    "current_target_lemmas": [
+      "hold"
+    ],
+    "reason": "Hold/grasp, not hold/conduct an event."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 3843,
+    "head": "tenderly",
+    "example": "He tenderly held her hand.",
+    "ru": "ласково",
+    "word": "held",
+    "action": "resolve_sense",
+    "sense": "hold_physical",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      511
+    ],
+    "current_target_lemmas": [
+      "hold"
+    ],
+    "reason": "Hold/grasp, not hold/conduct an event."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 5157,
+    "head": "feast",
+    "example": "We held a feast.",
+    "ru": "пир",
+    "word": "held",
+    "action": "retain_default",
+    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 6458,
+    "head": "forcibly",
+    "example": "They forcibly held him.",
+    "ru": "насильно",
+    "word": "held",
+    "action": "resolve_sense",
+    "sense": "hold_physical",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      511
+    ],
+    "current_target_lemmas": [
+      "hold"
+    ],
+    "reason": "Hold/grasp, not hold/conduct an event."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 6480,
+    "head": "rope",
+    "example": "He held the rope.",
+    "ru": "канат",
+    "word": "held",
+    "action": "resolve_sense",
+    "sense": "hold_physical",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      511
+    ],
+    "current_target_lemmas": [
+      "hold"
+    ],
+    "reason": "Hold/grasp, not hold/conduct an event."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 8029,
+    "head": "buttstock",
+    "example": "He held the buttstock.",
+    "ru": "приклад",
+    "word": "held",
+    "action": "resolve_sense",
+    "sense": "hold_physical",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      511
+    ],
+    "current_target_lemmas": [
+      "hold"
+    ],
+    "reason": "Hold/grasp, not hold/conduct an event."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 8206,
+    "head": "scepter",
+    "example": "The king held a scepter.",
+    "ru": "скипетр",
+    "word": "held",
+    "action": "resolve_sense",
+    "sense": "hold_physical",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      511
+    ],
+    "current_target_lemmas": [
+      "hold"
+    ],
+    "reason": "Hold/grasp, not hold/conduct an event."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 8364,
+    "head": "hem",
+    "example": "She held up her dress's hem.",
+    "ru": "подол",
+    "word": "held",
+    "action": "resolve_sense",
+    "sense": "hold_physical",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      511
+    ],
+    "current_target_lemmas": [
+      "hold"
+    ],
+    "reason": "Hold/grasp, not hold/conduct an event."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 9985,
+    "head": "nobility, gentry",
+    "example": "The nobility held power.",
+    "ru": "дворянство",
+    "word": "held",
+    "action": "retain_default",
+    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 1712,
+    "head": "to be held",
+    "example": "The meeting will be held tomorrow.",
+    "ru": "проводиться",
+    "word": "held",
+    "action": "retain_default",
+    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 7158,
+    "head": "feast, banquet",
+    "example": "We held a feast.",
+    "ru": "пир",
+    "word": "held",
+    "action": "retain_default",
+    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 9639,
+    "head": "Communist Party",
+    "example": "The Communist Party held a rally.",
+    "ru": "компартия",
+    "word": "held",
+    "action": "retain_default",
+    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 3948,
+    "head": "couple",
+    "example": "A couple walked by, holding hands.",
+    "ru": "парочка",
+    "word": "holding",
+    "action": "resolve_sense",
+    "sense": "hold_physical",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      511
+    ],
+    "current_target_lemmas": [
+      "hold"
+    ],
+    "reason": "Holding hands, not a holding company."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 5620,
+    "head": "holding",
+    "example": "The company is a global holding.",
+    "ru": "холдинг",
+    "word": "holding",
+    "action": "retain_default",
+    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 1133,
+    "head": "holding, conducting",
+    "example": "Holding the meeting is important.",
+    "ru": "проведение",
+    "word": "holding",
+    "action": "retain_default",
+    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 7912,
+    "head": "holding company",
+    "example": "This is a large holding company.",
+    "ru": "холдинг",
+    "word": "holding",
+    "action": "retain_default",
+    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 5798,
+    "head": "calling",
+    "example": "This work is her calling.",
+    "ru": "призвание",
+    "word": "calling",
+    "action": "retain_default",
+    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 781,
+    "head": "to call, to summon",
+    "example": "I am calling for help.",
+    "ru": "вызывать",
+    "word": "calling",
+    "action": "resolve_sense",
+    "sense": "call_for",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      2510
+    ],
+    "current_target_lemmas": [
+      "call"
+    ],
+    "reason": "Calling/appealing for help or peace, not a vocation."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 2934,
+    "head": "to call for, to urge",
+    "example": "They're calling for peace.",
+    "ru": "призывать",
+    "word": "calling",
+    "action": "resolve_sense",
+    "sense": "call_for",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      2510
+    ],
+    "current_target_lemmas": [
+      "call"
+    ],
+    "reason": "Calling/appealing for help or peace, not a vocation."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 8183,
+    "head": "calling, vocation",
+    "example": "This is my calling.",
+    "ru": "призвание",
+    "word": "calling",
+    "action": "retain_default",
+    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 2721,
+    "head": "setting",
+    "example": "This setting is important.",
+    "ru": "настройка",
+    "word": "setting",
+    "action": "retain_default",
+    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 2189,
+    "head": "to set in",
+    "example": "Winter is setting in.",
+    "ru": "наступать",
+    "word": "setting",
+    "action": "resolve_sense",
+    "sense": "set_in",
+    "exact_reference_positions": [],
+    "base_reference_positions": [],
+    "current_target_lemmas": [
+      "set"
+    ],
+    "reason": "Winter setting in is not a configuration setting; only current-target support accepted here."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 3524,
+    "head": "setting, adjustment",
+    "example": "Check this setting.",
+    "ru": "настройка",
+    "word": "setting",
+    "action": "retain_default",
+    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 4716,
+    "head": "to set, to descend",
+    "example": "The sun is setting.",
+    "ru": "опускаться",
+    "word": "setting",
+    "action": "retain_default",
+    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 7038,
+    "head": "setting (of a celestial body), approach",
+    "example": "We waited for the setting of the sun.",
+    "ru": "заход",
+    "word": "setting",
+    "action": "retain_default",
+    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 4437,
+    "head": "to be realized",
+    "example": "The plan was realized.",
+    "ru": "реализоваться",
+    "word": "realized",
+    "action": "retain_default",
+    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 9576,
+    "head": "to realize too late",
+    "example": "He realized it too late.",
+    "ru": "спохватиться слишком поздно",
+    "word": "realized",
+    "action": "resolve_sense",
+    "sense": "understand",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      2176,
+      3889
+    ],
+    "current_target_lemmas": [
+      "realize"
+    ],
+    "reason": "Realize = understand, not realize/implement a plan."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 2751,
+    "head": "to realize",
+    "example": "I realized that.",
+    "ru": "осознать",
+    "word": "realized",
+    "action": "resolve_sense",
+    "sense": "understand",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      2176,
+      3889
+    ],
+    "current_target_lemmas": [
+      "realize"
+    ],
+    "reason": "Realize = understand, not realize/implement a plan."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 6043,
+    "head": "to be realized",
+    "example": "The plan was realized.",
+    "ru": "реализоваться",
+    "word": "realized",
+    "action": "retain_default",
+    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 9576,
+    "head": "realize, catch oneself",
+    "example": "He realized it too late.",
+    "ru": "спохватиться",
+    "word": "realized",
+    "action": "resolve_sense",
+    "sense": "understand",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      2176,
+      3889
+    ],
+    "current_target_lemmas": [
+      "realize"
+    ],
+    "reason": "Realize = understand, not realize/implement a plan."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 6674,
+    "head": "finishing",
+    "example": "The room's finishing is complete.",
+    "ru": "отделка",
+    "word": "finishing",
+    "action": "retain_default",
+    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 3791,
+    "head": "to finish, to complete",
+    "example": "I am finishing work.",
+    "ru": "заканчивать",
+    "word": "finishing",
+    "action": "resolve_sense",
+    "sense": "complete",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      979,
+      2551
+    ],
+    "current_target_lemmas": [
+      "finish"
+    ],
+    "reason": "Complete work, not a surface finish/trim."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 9571,
+    "head": "finishing, trim",
+    "example": "The finishing work on the house is complete.",
+    "ru": "отделка",
+    "word": "finishing",
+    "action": "retain_default",
+    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 7034,
+    "head": "recognized",
+    "example": "He was recognized as a good player.",
+    "ru": "признанный",
+    "word": "recognized",
+    "action": "retain_default",
+    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 6663,
+    "head": "from afar",
+    "example": "I recognized him from afar.",
+    "ru": "издали",
+    "word": "recognized",
+    "action": "resolve_sense",
+    "sense": "identify",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      1060,
+      9601,
+      9630
+    ],
+    "current_target_lemmas": [
+      "recognize"
+    ],
+    "reason": "Identify a person, not acknowledge/acclaim someone."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 2848,
+    "head": "living room",
+    "example": "We sat in the living room.",
+    "ru": "гостиная",
+    "word": "living",
+    "action": "retain_default",
+    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 5151,
+    "head": "bliss",
+    "example": "Living here is bliss.",
+    "ru": "блаженство",
+    "word": "living",
+    "action": "resolve_sense",
+    "sense": "alive_or_residing",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      112,
+      1948
+    ],
+    "current_target_lemmas": [
+      "live"
+    ],
+    "reason": "Living/alive/residing, not the room-name compound living room."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 9197,
+    "head": "deplorable",
+    "example": "Their living conditions were deplorable.",
+    "ru": "плачевный",
+    "word": "living",
+    "action": "resolve_sense",
+    "sense": "alive_or_residing",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      112,
+      1948
+    ],
+    "current_target_lemmas": [
+      "live"
+    ],
+    "reason": "Living/alive/residing, not the room-name compound living room."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 963,
+    "head": "creature, being",
+    "example": "A living creature.",
+    "ru": "существо",
+    "word": "living",
+    "action": "resolve_sense",
+    "sense": "alive_or_residing",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      112,
+      1948
+    ],
+    "current_target_lemmas": [
+      "live"
+    ],
+    "reason": "Living/alive/residing, not the room-name compound living room."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 3714,
+    "head": "living room, lounge",
+    "example": "We are in the living room.",
+    "ru": "гостиная",
+    "word": "living",
+    "action": "retain_default",
+    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 4509,
+    "head": "living",
+    "example": "Living here is expensive.",
+    "ru": "проживание",
+    "word": "living",
+    "action": "resolve_sense",
+    "sense": "alive_or_residing",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      112,
+      1948
+    ],
+    "current_target_lemmas": [
+      "live"
+    ],
+    "reason": "Living/alive/residing, not the room-name compound living room."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 8862,
+    "head": "moving",
+    "example": "Fear is the moving force.",
+    "ru": "движущий",
+    "word": "moving",
+    "action": "retain_default",
+    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 9971,
+    "head": "pastor, minister",
+    "example": "The pastor delivered a moving sermon.",
+    "ru": "пастор",
+    "word": "moving",
+    "action": "resolve_sense",
+    "sense": "emotionally_touching",
+    "exact_reference_positions": [],
+    "base_reference_positions": [],
+    "current_target_lemmas": [],
+    "reason": "Moving sermon means emotionally touching; physical movement and a moving/driving force do not teach this sense."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 1083,
+    "head": "to move",
+    "example": "We're barely moving.",
+    "ru": "двигаться",
+    "word": "moving",
+    "action": "resolve_sense",
+    "sense": "physical_motion",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      3970,
+      4099,
+      9631
+    ],
+    "current_target_lemmas": [
+      "move"
+    ],
+    "reason": "Physical movement, not moving = driving/causal force or emotionally touching."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 9261,
+    "head": "to move, to relocate",
+    "example": "We are moving tomorrow.",
+    "ru": "переезжать",
+    "word": "moving",
+    "action": "resolve_sense",
+    "sense": "physical_motion",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      3970,
+      4099,
+      9631
+    ],
+    "current_target_lemmas": [
+      "move"
+    ],
+    "reason": "Physical movement, not moving = driving/causal force or emotionally touching."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 5134,
+    "head": "enumerate",
+    "example": "Please enumerate the names.",
+    "ru": "перечислять",
+    "word": "names",
+    "action": "resolve_sense",
+    "sense": "identifiers",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      174,
+      476
+    ],
+    "current_target_lemmas": [
+      "name"
+    ],
+    "reason": "Personal names or naming, not insults in call names."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 5430,
+    "head": "to confuse",
+    "example": "I did not confuse the names.",
+    "ru": "перепутать",
+    "word": "names",
+    "action": "resolve_sense",
+    "sense": "identifiers",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      174,
+      476
+    ],
+    "current_target_lemmas": [
+      "name"
+    ],
+    "reason": "Personal names or naming, not insults in call names."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 6083,
+    "head": "listed",
+    "example": "The listed names are here.",
+    "ru": "перечисленный",
+    "word": "names",
+    "action": "resolve_sense",
+    "sense": "identifiers",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      174,
+      476
+    ],
+    "current_target_lemmas": [
+      "name"
+    ],
+    "reason": "Personal names or naming, not insults in call names."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 7146,
+    "head": "noun",
+    "example": "A noun names a person or thing.",
+    "ru": "существительное",
+    "word": "names",
+    "action": "resolve_sense",
+    "sense": "identifiers",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      174,
+      476
+    ],
+    "current_target_lemmas": [
+      "name"
+    ],
+    "reason": "Personal names or naming, not insults in call names."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 7899,
+    "head": "read out",
+    "example": "She will read out the winners' names.",
+    "ru": "зачитать",
+    "word": "names",
+    "action": "resolve_sense",
+    "sense": "identifiers",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      174,
+      476
+    ],
+    "current_target_lemmas": [
+      "name"
+    ],
+    "reason": "Personal names or naming, not insults in call names."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 8074,
+    "head": "to call names",
+    "example": "He called him names.",
+    "ru": "обозвать",
+    "word": "names",
+    "action": "retain_default",
+    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 9696,
+    "head": "confuse, mix up",
+    "example": "Do not confuse the names.",
+    "ru": "спутать",
+    "word": "names",
+    "action": "resolve_sense",
+    "sense": "identifiers",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      174,
+      476
+    ],
+    "current_target_lemmas": [
+      "name"
+    ],
+    "reason": "Personal names or naming, not insults in call names."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 4335,
+    "head": "list, enumerate",
+    "example": "We need to list the names.",
+    "ru": "перечислить",
+    "word": "names",
+    "action": "resolve_sense",
+    "sense": "identifiers",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      174,
+      476
+    ],
+    "current_target_lemmas": [
+      "name"
+    ],
+    "reason": "Personal names or naming, not insults in call names."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 7114,
+    "head": "to enumerate, to list",
+    "example": "He lists the names.",
+    "ru": "перечислять",
+    "word": "names",
+    "action": "resolve_sense",
+    "sense": "identifiers",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      174,
+      476
+    ],
+    "current_target_lemmas": [
+      "name"
+    ],
+    "reason": "Personal names or naming, not insults in call names."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 7610,
+    "head": "to mix up, to confuse",
+    "example": "I mixed up the names.",
+    "ru": "перепутать",
+    "word": "names",
+    "action": "resolve_sense",
+    "sense": "identifiers",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      174,
+      476
+    ],
+    "current_target_lemmas": [
+      "name"
+    ],
+    "reason": "Personal names or naming, not insults in call names."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 8615,
+    "head": "listed",
+    "example": "The names are already listed.",
+    "ru": "перечисленный",
+    "word": "names",
+    "action": "resolve_sense",
+    "sense": "identifiers",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      174,
+      476
+    ],
+    "current_target_lemmas": [
+      "name"
+    ],
+    "reason": "Personal names or naming, not insults in call names."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 9696,
+    "head": "confuse, mix up",
+    "example": "I mixed up the names.",
+    "ru": "спутать",
+    "word": "names",
+    "action": "resolve_sense",
+    "sense": "identifiers",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      174,
+      476
+    ],
+    "current_target_lemmas": [
+      "name"
+    ],
+    "reason": "Personal names or naming, not insults in call names."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 9919,
+    "head": "enumeration, listing",
+    "example": "This is an enumeration of names.",
+    "ru": "перечисление",
+    "word": "names",
+    "action": "resolve_sense",
+    "sense": "identifiers",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      174,
+      476
+    ],
+    "current_target_lemmas": [
+      "name"
+    ],
+    "reason": "Personal names or naming, not insults in call names."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 773,
+    "head": "yard",
+    "example": "The boy played in the yard.",
+    "ru": "двор",
+    "word": "played",
+    "action": "resolve_sense",
+    "sense": "recreation",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      317,
+      1619
+    ],
+    "current_target_lemmas": [
+      "play"
+    ],
+    "reason": "Recreational or musical play, not play out/enact a scene."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 2855,
+    "head": "guitar",
+    "example": "He played the guitar.",
+    "ru": "гитара",
+    "word": "played",
+    "action": "resolve_sense",
+    "sense": "recreation",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      317,
+      1619
+    ],
+    "current_target_lemmas": [
+      "play"
+    ],
+    "reason": "Recreational or musical play, not play out/enact a scene."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 3324,
+    "head": "orchestra",
+    "example": "The orchestra played music.",
+    "ru": "оркестр",
+    "word": "played",
+    "action": "resolve_sense",
+    "sense": "recreation",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      317,
+      1619
+    ],
+    "current_target_lemmas": [
+      "play"
+    ],
+    "reason": "Recreational or musical play, not play out/enact a scene."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 3472,
+    "head": "actress",
+    "example": "The actress played well.",
+    "ru": "актриса",
+    "word": "played",
+    "action": "retain_default",
+    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 3963,
+    "head": "drum",
+    "example": "He played the drum.",
+    "ru": "барабан",
+    "word": "played",
+    "action": "resolve_sense",
+    "sense": "recreation",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      317,
+      1619
+    ],
+    "current_target_lemmas": [
+      "play"
+    ],
+    "reason": "Recreational or musical play, not play out/enact a scene."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 4091,
+    "head": "harp",
+    "example": "She played the harp.",
+    "ru": "арфа",
+    "word": "played",
+    "action": "resolve_sense",
+    "sense": "recreation",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      317,
+      1619
+    ],
+    "current_target_lemmas": [
+      "play"
+    ],
+    "reason": "Recreational or musical play, not play out/enact a scene."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 4408,
+    "head": "ensemble",
+    "example": "The ensemble played.",
+    "ru": "ансамбль",
+    "word": "played",
+    "action": "resolve_sense",
+    "sense": "recreation",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      317,
+      1619
+    ],
+    "current_target_lemmas": [
+      "play"
+    ],
+    "reason": "Recreational or musical play, not play out/enact a scene."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 4789,
+    "head": "violin",
+    "example": "She played the violin.",
+    "ru": "скрипка",
+    "word": "played",
+    "action": "resolve_sense",
+    "sense": "recreation",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      317,
+      1619
+    ],
+    "current_target_lemmas": [
+      "play"
+    ],
+    "reason": "Recreational or musical play, not play out/enact a scene."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 5313,
+    "head": "tabletop",
+    "example": "We played a tabletop game.",
+    "ru": "столешница; настольный (прилагательное)",
+    "word": "played",
+    "action": "resolve_sense",
+    "sense": "recreation",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      317,
+      1619
+    ],
+    "current_target_lemmas": [
+      "play"
+    ],
+    "reason": "Recreational or musical play, not play out/enact a scene."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 5380,
+    "head": "grand piano",
+    "example": "She played the grand piano beautifully.",
+    "ru": "рояль",
+    "word": "played",
+    "action": "resolve_sense",
+    "sense": "recreation",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      317,
+      1619
+    ],
+    "current_target_lemmas": [
+      "play"
+    ],
+    "reason": "Recreational or musical play, not play out/enact a scene."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 5888,
+    "head": "Gypsy",
+    "example": "The Gypsy played the violin.",
+    "ru": "цыган (английское Gypsy может восприниматься как оскорбительное)",
+    "word": "played",
+    "action": "resolve_sense",
+    "sense": "recreation",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      317,
+      1619
+    ],
+    "current_target_lemmas": [
+      "play"
+    ],
+    "reason": "Recreational or musical play, not play out/enact a scene."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 5918,
+    "head": "kids",
+    "example": "The kids played joyfully outside.",
+    "ru": "ребятишки",
+    "word": "played",
+    "action": "resolve_sense",
+    "sense": "recreation",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      317,
+      1619
+    ],
+    "current_target_lemmas": [
+      "play"
+    ],
+    "reason": "Recreational or musical play, not play out/enact a scene."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 5960,
+    "head": "noisily",
+    "example": "They played noisily outside.",
+    "ru": "шумно",
+    "word": "played",
+    "action": "resolve_sense",
+    "sense": "recreation",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      317,
+      1619
+    ],
+    "current_target_lemmas": [
+      "play"
+    ],
+    "reason": "Recreational or musical play, not play out/enact a scene."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 6128,
+    "head": "boisterous",
+    "example": "The boisterous children played outside.",
+    "ru": "шумный, буйный",
+    "word": "played",
+    "action": "resolve_sense",
+    "sense": "recreation",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      317,
+      1619
+    ],
+    "current_target_lemmas": [
+      "play"
+    ],
+    "reason": "Recreational or musical play, not play out/enact a scene."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 6431,
+    "head": "chord",
+    "example": "He played a beautiful chord.",
+    "ru": "аккорд",
+    "word": "played",
+    "action": "resolve_sense",
+    "sense": "recreation",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      317,
+      1619
+    ],
+    "current_target_lemmas": [
+      "play"
+    ],
+    "reason": "Recreational or musical play, not play out/enact a scene."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 6919,
+    "head": "brilliantly",
+    "example": "She played brilliantly.",
+    "ru": "блестяще",
+    "word": "played",
+    "action": "retain_default",
+    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 7068,
+    "head": "flute",
+    "example": "She played the flute beautifully.",
+    "ru": "флейта",
+    "word": "played",
+    "action": "resolve_sense",
+    "sense": "recreation",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      317,
+      1619
+    ],
+    "current_target_lemmas": [
+      "play"
+    ],
+    "reason": "Recreational or musical play, not play out/enact a scene."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 7254,
+    "head": "guitarist",
+    "example": "The guitarist played well.",
+    "ru": "гитарист",
+    "word": "played",
+    "action": "resolve_sense",
+    "sense": "recreation",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      317,
+      1619
+    ],
+    "current_target_lemmas": [
+      "play"
+    ],
+    "reason": "Recreational or musical play, not play out/enact a scene."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 7967,
+    "head": "etude",
+    "example": "He played the etude daily.",
+    "ru": "этюд",
+    "word": "played",
+    "action": "resolve_sense",
+    "sense": "recreation",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      317,
+      1619
+    ],
+    "current_target_lemmas": [
+      "play"
+    ],
+    "reason": "Recreational or musical play, not play out/enact a scene."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 8614,
+    "head": "pianist",
+    "example": "The pianist played well.",
+    "ru": "пианист",
+    "word": "played",
+    "action": "resolve_sense",
+    "sense": "recreation",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      317,
+      1619
+    ],
+    "current_target_lemmas": [
+      "play"
+    ],
+    "reason": "Recreational or musical play, not play out/enact a scene."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 8740,
+    "head": "accordion",
+    "example": "He played the accordion beautifully.",
+    "ru": "аккордеон; баян (кнопочный аккордеон)",
+    "word": "played",
+    "action": "resolve_sense",
+    "sense": "recreation",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      317,
+      1619
+    ],
+    "current_target_lemmas": [
+      "play"
+    ],
+    "reason": "Recreational or musical play, not play out/enact a scene."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 8908,
+    "head": "billiards",
+    "example": "We played billiards all evening long.",
+    "ru": "бильярд",
+    "word": "played",
+    "action": "resolve_sense",
+    "sense": "recreation",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      317,
+      1619
+    ],
+    "current_target_lemmas": [
+      "play"
+    ],
+    "reason": "Recreational or musical play, not play out/enact a scene."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 9251,
+    "head": "to be played out",
+    "example": "The scene is being played out.",
+    "ru": "разыгрываться",
+    "word": "played",
+    "action": "retain_default",
+    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 9326,
+    "head": "drummer",
+    "example": "The drummer played loudly.",
+    "ru": "барабанщик",
+    "word": "played",
+    "action": "resolve_sense",
+    "sense": "recreation",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      317,
+      1619
+    ],
+    "current_target_lemmas": [
+      "play"
+    ],
+    "reason": "Recreational or musical play, not play out/enact a scene."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 9383,
+    "head": "masterfully",
+    "example": "He masterfully played this role.",
+    "ru": "мастерски",
+    "word": "played",
+    "action": "retain_default",
+    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 4570,
+    "head": "note, musical note",
+    "example": "She played a wrong note.",
+    "ru": "нота",
+    "word": "played",
+    "action": "resolve_sense",
+    "sense": "recreation",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      317,
+      1619
+    ],
+    "current_target_lemmas": [
+      "play"
+    ],
+    "reason": "Recreational or musical play, not play out/enact a scene."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 6509,
+    "head": "bass",
+    "example": "He played the bass beautifully.",
+    "ru": "бас",
+    "word": "played",
+    "action": "resolve_sense",
+    "sense": "recreation",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      317,
+      1619
+    ],
+    "current_target_lemmas": [
+      "play"
+    ],
+    "reason": "Recreational or musical play, not play out/enact a scene."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 6596,
+    "head": "violin, fiddle",
+    "example": "She played the violin beautifully.",
+    "ru": "скрипка",
+    "word": "played",
+    "action": "resolve_sense",
+    "sense": "recreation",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      317,
+      1619
+    ],
+    "current_target_lemmas": [
+      "play"
+    ],
+    "reason": "Recreational or musical play, not play out/enact a scene."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 8935,
+    "head": "excitement, competitive spirit",
+    "example": "He played with excitement.",
+    "ru": "азарт",
+    "word": "played",
+    "action": "retain_default",
+    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 2756,
+    "head": "cursed",
+    "example": "The cursed book brought them death.",
+    "ru": "проклятый",
+    "word": "brought",
+    "action": "retain_default",
+    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 6141,
+    "head": "waitress",
+    "example": "The waitress brought tea.",
+    "ru": "официантка",
+    "word": "brought",
+    "action": "resolve_sense",
+    "sense": "transport",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      395,
+      717
+    ],
+    "current_target_lemmas": [
+      "bring"
+    ],
+    "reason": "Bring/deliver, not bring up = raise a child."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 6149,
+    "head": "messenger",
+    "example": "The messenger brought urgent news.",
+    "ru": "посланник",
+    "word": "brought",
+    "action": "resolve_sense",
+    "sense": "transport",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      395,
+      717
+    ],
+    "current_target_lemmas": [
+      "bring"
+    ],
+    "reason": "Bring/deliver, not bring up = raise a child."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 6185,
+    "head": "plague",
+    "example": "The plague brought death.",
+    "ru": "чума",
+    "word": "brought",
+    "action": "retain_default",
+    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 6702,
+    "head": "deliverance",
+    "example": "Prayer brought her deliverance.",
+    "ru": "избавление",
+    "word": "brought",
+    "action": "retain_default",
+    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 7418,
+    "head": "to be brought up",
+    "example": "She was brought up in this house.",
+    "ru": "воспитываться",
+    "word": "brought",
+    "action": "retain_default",
+    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 7692,
+    "head": "euphoria",
+    "example": "Winning the lottery brought euphoria.",
+    "ru": "эйфория",
+    "word": "brought",
+    "action": "retain_default",
+    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 9325,
+    "head": "Nazism",
+    "example": "Nazism brought great evil.",
+    "ru": "нацизм",
+    "word": "brought",
+    "action": "retain_default",
+    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 9989,
+    "head": "adjutant, aide-de-camp",
+    "example": "The adjutant brought the letter.",
+    "ru": "адъютант",
+    "word": "brought",
+    "action": "resolve_sense",
+    "sense": "transport",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      395,
+      717
+    ],
+    "current_target_lemmas": [
+      "bring"
+    ],
+    "reason": "Bring/deliver, not bring up = raise a child."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 6477,
+    "head": "messenger",
+    "example": "The messenger brought a letter.",
+    "ru": "вестник",
+    "word": "brought",
+    "action": "resolve_sense",
+    "sense": "transport",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      395,
+      717
+    ],
+    "current_target_lemmas": [
+      "bring"
+    ],
+    "reason": "Bring/deliver, not bring up = raise a child."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 8368,
+    "head": "weakening",
+    "example": "The weakening of the wind brought calm.",
+    "ru": "ослабление",
+    "word": "brought",
+    "action": "retain_default",
+    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 9683,
+    "head": "parting, separation",
+    "example": "The parting brought pain.",
+    "ru": "расставание",
+    "word": "brought",
+    "action": "retain_default",
+    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
+  }
+]

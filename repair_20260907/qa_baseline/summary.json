@@ -1,0 +1,11 @@
+{
+  "decks": 40,
+  "structural_errors": 0,
+  "candidate_cards": 1347,
+  "candidate_types": {
+    "en_target": 75,
+    "en_vocab": 589,
+    "ru_vocab": 1065,
+    "ru_target": 154
+  }
+}

@@ -1,0 +1,282 @@
+[
+  {
+    "pack": "russian_english",
+    "file": "deck_15260182.csv",
+    "sha256": "038243409e59c8776bfcb558a2668dcafaed7a4ab359f1130a694901f08f0114",
+    "cards": 500,
+    "checked": 25
+  },
+  {
+    "pack": "russian_english",
+    "file": "deck_15260185.csv",
+    "sha256": "da72a91b77909263c46b9afe2509e82eff13eabf3ecfadc9890837c8698d604b",
+    "cards": 500,
+    "checked": 25
+  },
+  {
+    "pack": "russian_english",
+    "file": "deck_15260188.csv",
+    "sha256": "ef15bee3ff2f248df11273bd998f546bf675efd35fd7ea55c5e4592022a57d8e",
+    "cards": 500,
+    "checked": 25
+  },
+  {
+    "pack": "russian_english",
+    "file": "deck_15260190.csv",
+    "sha256": "1653af3cf94739d3068ac30250406abc9cd215d64c9c6e3ae8205026546da2b8",
+    "cards": 500,
+    "checked": 25
+  },
+  {
+    "pack": "russian_english",
+    "file": "deck_15260191.csv",
+    "sha256": "7893e0ac26efae750c3ded1f9ebfeff196b6aed1ef121c91993196bbbdb5ea26",
+    "cards": 500,
+    "checked": 25
+  },
+  {
+    "pack": "russian_english",
+    "file": "deck_15260192.csv",
+    "sha256": "e4984630fd625d398fad8e0135a6c03a0cead4d757dc199b1739e43e78635ce4",
+    "cards": 500,
+    "checked": 25
+  },
+  {
+    "pack": "russian_english",
+    "file": "deck_15260194.csv",
+    "sha256": "589ad90fb8ba34b92952eaf86b5c20ae211ec412123bb27ca021f42c39e22b22",
+    "cards": 500,
+    "checked": 25
+  },
+  {
+    "pack": "russian_english",
+    "file": "deck_15260196.csv",
+    "sha256": "139068cf2bce8d294fd8b6844087ff334cad5b59f4cf5880c086ba900af3ece6",
+    "cards": 500,
+    "checked": 25
+  },
+  {
+    "pack": "russian_english",
+    "file": "deck_15260198.csv",
+    "sha256": "cdeabf56574e210ac09a17ef8f1ca043bd511d26b00389b8837897321eb4ff41",
+    "cards": 500,
+    "checked": 25
+  },
+  {
+    "pack": "russian_english",
+    "file": "deck_15260200.csv",
+    "sha256": "cd05e81fb3eaf4de4a68629a84fafdbb28be0992b3c3f61ea0da15a0e6411ac0",
+    "cards": 500,
+    "checked": 25
+  },
+  {
+    "pack": "russian_english",
+    "file": "deck_15260204.csv",
+    "sha256": "6a109e22979e5e07de51c0912ab670f453616f6bb66debad54c8084e21bd5076",
+    "cards": 500,
+    "checked": 25
+  },
+  {
+    "pack": "russian_english",
+    "file": "deck_15260207.csv",
+    "sha256": "b4d6181ebe12670826470eed5c35427a6cd0df33aaae7057af0808f7b111b620",
+    "cards": 500,
+    "checked": 25
+  },
+  {
+    "pack": "russian_english",
+    "file": "deck_15260210.csv",
+    "sha256": "04e58e9ca2944ed43030c27c69754aa477d14effce2e24e529e5ab44c79d5ccd",
+    "cards": 500,
+    "checked": 25
+  },
+  {
+    "pack": "russian_english",
+    "file": "deck_15260213.csv",
+    "sha256": "f111756315b82f7a7f6dff82f05b10e29fa21ae070820eb65743f543911e9925",
+    "cards": 500,
+    "checked": 25
+  },
+  {
+    "pack": "russian_english",
+    "file": "deck_15260214.csv",
+    "sha256": "c952fdb807e21b50d9599e117816e1962a871afe4e921dff6bb5537bbe9eb96f",
+    "cards": 500,
+    "checked": 25
+  },
+  {
+    "pack": "russian_english",
+    "file": "deck_15260215.csv",
+    "sha256": "f0911a7fd835eb5b4498bbbcb5602b2ef3921a569c9d4f9734a9a4dc39aaa2c9",
+    "cards": 500,
+    "checked": 25
+  },
+  {
+    "pack": "russian_english",
+    "file": "deck_15260217.csv",
+    "sha256": "50c4c72fb9535ff0ca677c7a4a8913d4d79aebf08a75386bfdc966bf99805bba",
+    "cards": 500,
+    "checked": 25
+  },
+  {
+    "pack": "russian_english",
+    "file": "deck_15260218.csv",
+    "sha256": "17c08b8023d9b528d92e802872d0faaf6a2f938b92bb3c6b3394cd0f79edf67f",
+    "cards": 500,
+    "checked": 25
+  },
+  {
+    "pack": "russian_english",
+    "file": "deck_15260221.csv",
+    "sha256": "063785dbd4b4097d82e7ddc02867917f8cf1b3aeb838b3f7e536ee70a94b908f",
+    "cards": 500,
+    "checked": 25
+  },
+  {
+    "pack": "russian_english",
+    "file": "deck_15260224.csv",
+    "sha256": "aff413e7b3451c65f59bdf03e01be90e30a9bdd96bdcc107b86351ac0fa0552f",
+    "cards": 500,
+    "checked": 25
+  },
+  {
+    "pack": "english_russian",
+    "file": "deck_15260246.csv",
+    "sha256": "be38da9942c1dfe0149795f5a5b75098c25f4e6f45bf9de9bdebe5c557e43a4c",
+    "cards": 500,
+    "checked": 25
+  },
+  {
+    "pack": "english_russian",
+    "file": "deck_15260248.csv",
+    "sha256": "ad99cd4776bfd77b2dce96a57bd9638c9e72726f367cb6731b1bba79c70e0921",
+    "cards": 500,
+    "checked": 25
+  },
+  {
+    "pack": "english_russian",
+    "file": "deck_15260251.csv",
+    "sha256": "dc769743b6f6714060b37a04a0092e5fd3265f0c0b70450d23b20b5b36af07c8",
+    "cards": 500,
+    "checked": 25
+  },
+  {
+    "pack": "english_russian",
+    "file": "deck_15260255.csv",
+    "sha256": "0d07e1afa1725ed3dae1c16c87d207bd87a9fd0d139ec926467ea38072da9b63",
+    "cards": 500,
+    "checked": 25
+  },
+  {
+    "pack": "english_russian",
+    "file": "deck_15260256.csv",
+    "sha256": "fb0544e439e6326729bc323a0925575dd2d2a02738cc79728a89c3a5f1922427",
+    "cards": 500,
+    "checked": 25
+  },
+  {
+    "pack": "english_russian",
+    "file": "deck_15260257.csv",
+    "sha256": "67064de3beca5255d3e4e76ac1dded4531abaf481288d21554129735316fd90e",
+    "cards": 500,
+    "checked": 25
+  },
+  {
+    "pack": "english_russian",
+    "file": "deck_15260260.csv",
+    "sha256": "7cef39c968f7fb26aab68b691f51fda8e76fcac9458c769e9fe407a740f93cb5",
+    "cards": 500,
+    "checked": 25
+  },
+  {
+    "pack": "english_russian",
+    "file": "deck_15260263.csv",
+    "sha256": "334a8f72ae0764232bcac768f4d51d2245b14b62ee6cfcff736ddb221119a1fe",
+    "cards": 500,
+    "checked": 25
+  },
+  {
+    "pack": "english_russian",
+    "file": "deck_15260266.csv",
+    "sha256": "72d403ce159305a3233fc42c406a701101e4e741d2dbd6fe19da9d800a261473",
+    "cards": 500,
+    "checked": 25
+  },
+  {
+    "pack": "english_russian",
+    "file": "deck_15260268.csv",
+    "sha256": "908c206279790c0f779d6c47ca4a279e48e1cc6ea08f26146692361f0fdf88e9",
+    "cards": 500,
+    "checked": 25
+  },
+  {
+    "pack": "english_russian",
+    "file": "deck_15260269.csv",
+    "sha256": "dc6dc9966e7a68ec243f8a6281e35eec9de4490bd421fdfb798eec4772b4be8c",
+    "cards": 500,
+    "checked": 25
+  },
+  {
+    "pack": "english_russian",
+    "file": "deck_15260272.csv",
+    "sha256": "65b0a5f8f659fd488289854f833d734577a7bd94060b9c741d865a75f9cd3273",
+    "cards": 500,
+    "checked": 25
+  },
+  {
+    "pack": "english_russian",
+    "file": "deck_15260277.csv",
+    "sha256": "5801cc7bde028426799729742d59801add6e9c9fd9efec5f5040135f0ff18006",
+    "cards": 500,
+    "checked": 25
+  },
+  {
+    "pack": "english_russian",
+    "file": "deck_15260280.csv",
+    "sha256": "bab4c4938b98579364863ca51cda8a1c8b1201a17f5435103ae132acf31ad27b",
+    "cards": 500,
+    "checked": 25
+  },
+  {
+    "pack": "english_russian",
+    "file": "deck_15260281.csv",
+    "sha256": "8831b672bd3f170a8eb96eb4f3a98201e51f625eb4d384752e54f809a7358015",
+    "cards": 500,
+    "checked": 25
+  },
+  {
+    "pack": "english_russian",
+    "file": "deck_15260282.csv",
+    "sha256": "130a1bc0ef70699b3b64787b474bb31027483b0722b3079fe62d5b4d9ef8e641",
+    "cards": 500,
+    "checked": 25
+  },
+  {
+    "pack": "english_russian",
+    "file": "deck_15260283.csv",
+    "sha256": "55e1950447d2d710cdd3facaa64eae58a05649d87fda5385e8a62598e0c74ea4",
+    "cards": 500,
+    "checked": 25
+  },
+  {
+    "pack": "english_russian",
+    "file": "deck_15260285.csv",
+    "sha256": "9e9d8796d9bff3423d16499f4a35decf920d9ba7d5c0ad9cab4c94261e238ec3",
+    "cards": 500,
+    "checked": 25
+  },
+  {
+    "pack": "english_russian",
+    "file": "deck_15260287.csv",
+    "sha256": "b2157b9f14d53f768b61bcab6240079ceb351dce62b24f3fa850866c9aafb4e7",
+    "cards": 500,
+    "checked": 25
+  },
+  {
+    "pack": "english_russian",
+    "file": "deck_22976521.csv",
+    "sha256": "24eea4c85961d16ac843f9b5a129c216aa4a1c33e08f572878f02209b7178f71",
+    "cards": 500,
+    "checked": 25
+  }
+]

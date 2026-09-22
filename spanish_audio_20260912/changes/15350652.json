@@ -1,0 +1,60 @@
+[
+  {
+    "row": 183,
+    "cardId": 491514622,
+    "before": {
+      "question": "# Translate:\n\npe\n\n## Footnote\n\nElla tiene el pelo largo y rizado.",
+      "answer": "hair\n\n## Footnote\n\nShe has long, curly hair.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "pe",
+      "qMdClarifier": "",
+      "qMdFootnote": "Ella tiene el pelo largo y rizado.",
+      "aMdPrompt": "",
+      "aMdBody": "hair",
+      "aMdClarifier": "",
+      "aMdFootnote": "She has long, curly hair."
+    },
+    "after": {
+      "question": "# Translate:\n\npelo\n\n## Footnote\n\nElla tiene el pelo largo y rizado.",
+      "answer": "hair\n\n## Footnote\n\nShe has long, curly hair.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "pelo",
+      "qMdClarifier": "",
+      "qMdFootnote": "Ella tiene el pelo largo y rizado.",
+      "aMdPrompt": "",
+      "aMdBody": "hair",
+      "aMdClarifier": "",
+      "aMdFootnote": "She has long, curly hair."
+    },
+    "reason": "Repair truncated Spanish headword before audio."
+  },
+  {
+    "row": 270,
+    "cardId": 491514711,
+    "before": {
+      "question": "# Translate:\n\ncrio\n\n## Footnote\n\nMozart aprendió a tocar el piano siendo un crío.",
+      "answer": "kid, child\n\n## Footnote\n\nMozart learned to play the piano as a child.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "crio",
+      "qMdClarifier": "",
+      "qMdFootnote": "Mozart aprendió a tocar el piano siendo un crío.",
+      "aMdPrompt": "",
+      "aMdBody": "kid, child",
+      "aMdClarifier": "",
+      "aMdFootnote": "Mozart learned to play the piano as a child."
+    },
+    "after": {
+      "question": "# Translate:\n\ncrío\n\n## Footnote\n\nMozart aprendió a tocar el piano siendo un crío.",
+      "answer": "kid, child\n\n## Footnote\n\nMozart learned to play the piano as a child.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "crío",
+      "qMdClarifier": "",
+      "qMdFootnote": "Mozart aprendió a tocar el piano siendo un crío.",
+      "aMdPrompt": "",
+      "aMdBody": "kid, child",
+      "aMdClarifier": "",
+      "aMdFootnote": "Mozart learned to play the piano as a child."
+    },
+    "reason": "Correct child vs bred stress before audio."
+  }
+]

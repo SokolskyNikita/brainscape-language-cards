@@ -1,0 +1,1397 @@
+{
+  "pack": "english_russian",
+  "deck": "15260255",
+  "band": "1500->2000",
+  "sha256": "0d07e1afa1725ed3dae1c16c87d207bd87a9fd0d139ec926467ea38072da9b63",
+  "errors": [],
+  "candidates": [
+    {
+      "row": 1,
+      "q": "practical",
+      "a": "практический",
+      "qe": "She prefers practical solutions.",
+      "ae": "Она предпочитает практические решения.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "prefers",
+            "band": "1500->2000"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "предпочитает",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 9,
+      "q": "layer",
+      "a": "слой",
+      "qe": "Add another layer of paint.",
+      "ae": "Добавьте еще один слой краски.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "paint",
+            "band": "1500->2000"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "краски",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 14,
+      "q": "shift",
+      "a": "смена",
+      "qe": "I start my night shift soon.",
+      "ae": "Я скоро начинаю свою ночную смену.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "начинаю",
+            "band": "4000->4500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 16,
+      "q": "meat",
+      "a": "мясо",
+      "qe": "I bought meat for dinner.",
+      "ae": "Я купил мясо на ужин.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "dinner",
+            "band": "1500->2000"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "ужин",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 18,
+      "q": "park",
+      "a": "парк",
+      "qe": "Let's meet at the park.",
+      "ae": "Давайте встретимся в парке.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "встретимся",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 26,
+      "q": "to engage in",
+      "a": "заняться",
+      "qe": "I decided to engage in sport.",
+      "ae": "Я решил заняться спортом.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "decided",
+            "band": "1500->2000"
+          },
+          {
+            "word": "sport",
+            "band": "1500->2000"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "спортом",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 30,
+      "q": "to introduce oneself",
+      "a": "представляться",
+      "qe": "I want to introduce myself.",
+      "ae": "Я хочу представиться.",
+      "issues": {
+        "en_target": "to introduce oneself | I want to introduce myself.",
+        "ru_target": "представляться | Я хочу представиться.",
+        "ru_vocab": [
+          {
+            "word": "представиться",
+            "band": "3000->3500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 33,
+      "q": "agreement",
+      "a": "соглашение",
+      "qe": "We made an agreement yesterday.",
+      "ae": "Мы заключили соглашение вчера.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "заключили",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 47,
+      "q": "cooperation",
+      "a": "сотрудничество",
+      "qe": "Successful projects need cooperation.",
+      "ae": "Успешным проектам нужно сотрудничество.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "successful",
+            "band": "1500->2000"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "успешным",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 58,
+      "q": "to sigh",
+      "a": "вздохнуть",
+      "qe": "She paused to sigh deeply.",
+      "ae": "Она остановилась, чтобы глубоко вздохнуть.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "paused",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 62,
+      "q": "standard",
+      "a": "стандарт",
+      "qe": "Gold is a standard of wealth.",
+      "ae": "Золото — стандарт богатства.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "gold",
+            "band": "1500->2000"
+          },
+          {
+            "word": "wealth",
+            "band": "1500->2000"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "золото",
+            "band": "1500->2000"
+          },
+          {
+            "word": "богатства",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 64,
+      "q": "to succeed",
+      "a": "удаваться",
+      "qe": "He will succeed.",
+      "ae": "Ему это удастся.",
+      "issues": {
+        "ru_target": "удаваться | Ему это удастся."
+      }
+    },
+    {
+      "row": 65,
+      "q": "passion",
+      "a": "страсть",
+      "qe": "Her passion for music was obvious.",
+      "ae": "Её страсть к музыке была очевидна.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "obvious",
+            "band": "1500->2000"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "очевидна",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 68,
+      "q": "oil",
+      "a": "масло",
+      "qe": "I need oil for dinner.",
+      "ae": "Мне нужно масло на ужин.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "dinner",
+            "band": "1500->2000"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "ужин",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 78,
+      "q": "suit",
+      "a": "костюм",
+      "qe": "He wore a suit to the interview.",
+      "ae": "Он надел костюм на интервью.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "надел",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 82,
+      "q": "sport",
+      "a": "спорт",
+      "qe": "I love watching sport on TV.",
+      "ae": "Я люблю смотреть спорт по телевизору.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "tv",
+            "band": "3000->3500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 83,
+      "q": "exchange",
+      "a": "обмен",
+      "qe": "We agreed to an exchange.",
+      "ae": "Мы договорились об обмене.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "договорились",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 84,
+      "q": "ban",
+      "a": "запретить",
+      "qe": "They decided to ban this book.",
+      "ae": "Они решили запретить эту книгу.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "decided",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 92,
+      "q": "refusal",
+      "a": "отказ",
+      "qe": "His refusal was unexpected.",
+      "ae": "Его отказ был неожиданным.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "unexpected",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 93,
+      "q": "care",
+      "a": "забота",
+      "qe": "Her care for the plants is important.",
+      "ae": "Её забота о растениях важна.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "plants",
+            "band": "1500->2000"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "растениях",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 94,
+      "q": "judicial",
+      "a": "судебный",
+      "qe": "The judicial system needs reform.",
+      "ae": "Судебная система нуждается в реформе.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "нуждается",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 95,
+      "q": "knife",
+      "a": "нож",
+      "qe": "He took the knife carefully.",
+      "ae": "Он осторожно взял нож.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "carefully",
+            "band": "1500->2000"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "осторожно",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 100,
+      "q": "thinking",
+      "a": "мышление",
+      "qe": "Thinking is necessary for success.",
+      "ae": "Мышление необходимо для успеха.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "необходимо",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 101,
+      "q": "Saturday",
+      "a": "суббота",
+      "qe": "I rest every Saturday.",
+      "ae": "Я отдыхаю каждую субботу.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "rest",
+            "band": "1500->2000"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "отдыхаю",
+            "band": "2000->2500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 121,
+      "q": "campaign",
+      "a": "кампания",
+      "qe": "The campaign was successful.",
+      "ae": "Кампания была успешной.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "successful",
+            "band": "1500->2000"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "успешной",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 133,
+      "q": "drunk",
+      "a": "пьяный",
+      "qe": "He was drunk at the party.",
+      "ae": "Он был пьяный на вечеринке.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "вечеринке",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 144,
+      "q": "ring",
+      "a": "кольцо",
+      "qe": "She wears a gold ring.",
+      "ae": "Она носит золотое кольцо.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "gold",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 152,
+      "q": "to undertake",
+      "a": "приняться",
+      "qe": "She decided to undertake the work.",
+      "ae": "Она решила приняться за работу.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "decided",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 153,
+      "q": "to refuse",
+      "a": "отказываться",
+      "qe": "He decided to refuse the offer.",
+      "ae": "Он решил отказаться от предложения.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "decided",
+            "band": "1500->2000"
+          }
+        ],
+        "ru_target": "отказываться | Он решил отказаться от предложения."
+      }
+    },
+    {
+      "row": 157,
+      "q": "to wait",
+      "a": "подождать",
+      "qe": "I decided to wait at home.",
+      "ae": "Я решил подождать дома.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "decided",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 172,
+      "q": "to rush",
+      "a": "броситься",
+      "qe": "He decided to rush into the fight.",
+      "ae": "Он решил броситься в бой.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "decided",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 177,
+      "q": "grab",
+      "a": "схватить",
+      "qe": "Grab your bag.",
+      "ae": "Схвати свою сумку.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "bag",
+            "band": "1500->2000"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "сумку",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 181,
+      "q": "walk",
+      "a": "гулять",
+      "qe": "Let's walk in the park today.",
+      "ae": "Давайте гулять в парке сегодня.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "park",
+            "band": "1500->2000"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "парке",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 184,
+      "q": "conclude",
+      "a": "заключить",
+      "qe": "They will conclude the agreement tomorrow.",
+      "ae": "Они заключат соглашение завтра.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "agreement",
+            "band": "1500->2000"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "соглашение",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 186,
+      "q": "to commit",
+      "a": "совершать",
+      "qe": "He decided to commit a crime.",
+      "ae": "Он решил совершить преступление.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "decided",
+            "band": "1500->2000"
+          }
+        ],
+        "ru_target": "совершать | Он решил совершить преступление."
+      }
+    },
+    {
+      "row": 189,
+      "q": "unique",
+      "a": "уникальный",
+      "qe": "Her talent is unique.",
+      "ae": "Её талант уникальный.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "talent",
+            "band": "1500->2000"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "талант",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 194,
+      "q": "apply",
+      "a": "применять",
+      "qe": "Apply this theory.",
+      "ae": "Примените эту теорию.",
+      "issues": {
+        "ru_target": "применять | Примените эту теорию.",
+        "ru_vocab": [
+          {
+            "word": "примените",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 201,
+      "q": "advertising",
+      "a": "рекламный",
+      "qe": "This is an advertising campaign.",
+      "ae": "Это рекламная кампания.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "campaign",
+            "band": "1500->2000"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "кампания",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 206,
+      "q": "exam",
+      "a": "экзамен",
+      "qe": "I passed the exam successfully.",
+      "ae": "Я успешно сдал экзамен.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "successfully",
+            "band": "1500->2000"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "успешно",
+            "band": "1500->2000"
+          },
+          {
+            "word": "сдал",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 207,
+      "q": "derive",
+      "a": "вывести",
+      "qe": "We can derive the formula easily.",
+      "ae": "Мы можем легко вывести формулу.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "formula",
+            "band": "1500->2000"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "формулу",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 220,
+      "q": "successful",
+      "a": "успешный",
+      "qe": "He is a successful entrepreneur.",
+      "ae": "Он успешный предприниматель.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "entrepreneur",
+            "band": "1500->2000"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "предприниматель",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 228,
+      "q": "instruction",
+      "a": "указание",
+      "qe": "Follow the instruction carefully.",
+      "ae": "Следуйте указанию внимательно.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "carefully",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 231,
+      "q": "atmosphere",
+      "a": "атмосфера",
+      "qe": "The atmosphere protects the Earth.",
+      "ae": "Атмосфера защищает Землю.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "protects",
+            "band": "1500->2000"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "защищает",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 246,
+      "q": "to influence",
+      "a": "влиять",
+      "qe": "Music has the power to influence emotions.",
+      "ae": "Музыка имеет силу влиять на эмоции.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "emotions",
+            "band": "1500->2000"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "эмоции",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 249,
+      "q": "deal",
+      "a": "сделка",
+      "qe": "We signed a great deal yesterday.",
+      "ae": "Мы заключили отличную сделку вчера.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "заключили",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 252,
+      "q": "aspect",
+      "a": "аспект",
+      "qe": "Consider every aspect carefully.",
+      "ae": "Тщательно рассмотрите каждый аспект.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "carefully",
+            "band": "1500->2000"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "тщательно",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 258,
+      "q": "to confess",
+      "a": "признаться",
+      "qe": "He decided to confess his love.",
+      "ae": "Он решил признаться в своей любви.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "decided",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 260,
+      "q": "infinite",
+      "a": "бесконечный",
+      "qe": "The universe seems infinite in size.",
+      "ae": "Вселенная кажется бесконечной в размерах.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "universe",
+            "band": "1500->2000"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "вселенная",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 267,
+      "q": "emperor",
+      "a": "император",
+      "qe": "The emperor had absolute power.",
+      "ae": "У императора была абсолютная власть.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "absolute",
+            "band": "1500->2000"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "абсолютная",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 268,
+      "q": "universe",
+      "a": "вселенная",
+      "qe": "The universe is infinitely huge.",
+      "ae": "Вселенная бесконечно огромна.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "infinitely",
+            "band": "3000->3500"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "бесконечно",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 277,
+      "q": "fifteen",
+      "a": "пятнадцать",
+      "qe": "She turned fifteen.",
+      "ae": "Ей исполнилось пятнадцать.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "исполнилось",
+            "band": "3000->3500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 289,
+      "q": "to rejoice",
+      "a": "радоваться",
+      "qe": "We gathered to rejoice in victory.",
+      "ae": "Мы собрались, чтобы радоваться победе.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "собрались",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 295,
+      "q": "agent",
+      "a": "агент",
+      "qe": "The agent finished the deal successfully.",
+      "ae": "Агент успешно закончил сделку.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "deal",
+            "band": "1500->2000"
+          },
+          {
+            "word": "successfully",
+            "band": "1500->2000"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "успешно",
+            "band": "1500->2000"
+          },
+          {
+            "word": "сделку",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 299,
+      "q": "origin",
+      "a": "происхождение",
+      "qe": "The origin of the universe is unknown.",
+      "ae": "Происхождение вселенной неизвестно.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "universe",
+            "band": "1500->2000"
+          },
+          {
+            "word": "unknown",
+            "band": "1500->2000"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "вселенной",
+            "band": "1500->2000"
+          },
+          {
+            "word": "неизвестно",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 302,
+      "q": "to demand",
+      "a": "потребовать",
+      "qe": "He demanded an explanation.",
+      "ae": "Он потребовал объяснение.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "explanation",
+            "band": "1500->2000"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "объяснение",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 315,
+      "q": "luck",
+      "a": "удача",
+      "qe": "Good luck on your exam!",
+      "ae": "Удачи на экзамене!",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "exam",
+            "band": "1500->2000"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "экзамене",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 345,
+      "q": "to be carried out",
+      "a": "осуществляться",
+      "qe": "The plan will be carried out soon.",
+      "ae": "План скоро осуществится.",
+      "issues": {
+        "ru_target": "осуществляться | План скоро осуществится.",
+        "ru_vocab": [
+          {
+            "word": "осуществится",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 346,
+      "q": "incomprehensible",
+      "a": "непонятный",
+      "qe": "His explanation was incomprehensible.",
+      "ae": "Его объяснение было непонятным.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "explanation",
+            "band": "1500->2000"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "объяснение",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 351,
+      "q": "drug",
+      "a": "наркотик",
+      "qe": "He was caught selling drugs.",
+      "ae": "Он был пойман на продаже наркотиков.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "caught",
+            "band": "1500->2000"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "пойман",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 355,
+      "q": "to close",
+      "a": "закрывать",
+      "qe": "Remember to close the window.",
+      "ae": "Не забудь закрыть окно.",
+      "issues": {
+        "ru_target": "закрывать | Не забудь закрыть окно.",
+        "ru_vocab": [
+          {
+            "word": "закрыть",
+            "band": "2000->2500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 359,
+      "q": "psychology",
+      "a": "психология",
+      "qe": "I study psychology at university.",
+      "ae": "Я изучаю психологию в университете.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "изучаю",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 366,
+      "q": "association",
+      "a": "ассоциация",
+      "qe": "He joined the local association.",
+      "ae": "Он вступил в местную ассоциацию.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "joined",
+            "band": "1500->2000"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "вступил",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 390,
+      "q": "unusual",
+      "a": "необычный",
+      "qe": "She wore an unusual dress today.",
+      "ae": "Она носила необычное платье сегодня.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "dress",
+            "band": "1500->2000"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "платье",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 392,
+      "q": "to invite",
+      "a": "приглашать",
+      "qe": "I decided to invite my friends.",
+      "ae": "Я решил пригласить моих друзей.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "decided",
+            "band": "1500->2000"
+          }
+        ],
+        "ru_target": "приглашать | Я решил пригласить моих друзей."
+      }
+    },
+    {
+      "row": 397,
+      "q": "to put on",
+      "a": "надеть",
+      "qe": "She put on a dress.",
+      "ae": "Она надела платье.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "dress",
+            "band": "1500->2000"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "платье",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 409,
+      "q": "throat",
+      "a": "горло",
+      "qe": "His throat is dry.",
+      "ae": "У него сухое горло.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "dry",
+            "band": "1500->2000"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "сухое",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 437,
+      "q": "to dial",
+      "a": "набрать",
+      "qe": "I need to dial her number.",
+      "ae": "Мне нужно набрать её номер.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "номер",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 441,
+      "q": "firmly",
+      "a": "крепко",
+      "qe": "He closed the door firmly.",
+      "ae": "Он крепко закрыл дверь.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "закрыл",
+            "band": "2000->2500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 445,
+      "q": "tremble",
+      "a": "дрожать",
+      "qe": "He trembles from the cold.",
+      "ae": "Он дрожит от холода.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "холода",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 451,
+      "q": "dialogue",
+      "a": "диалог",
+      "qe": "The movie's dialogue was long.",
+      "ae": "Диалог в фильме был длинным.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "длинным",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 455,
+      "q": "fog",
+      "a": "туман",
+      "qe": "The fog hides the sun.",
+      "ae": "Туман скрывает солнце.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "hides",
+            "band": "1500->2000"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "скрывает",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 462,
+      "q": "exclaim",
+      "a": "воскликнуть",
+      "qe": "She will exclaim in surprise.",
+      "ae": "Она воскликнет от удивления.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "surprise",
+            "band": "1500->2000"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "удивления",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 469,
+      "q": "card",
+      "a": "карточка",
+      "qe": "This is my bank card.",
+      "ae": "Это моя банковская карточка.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "банковская",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 483,
+      "q": "Don",
+      "a": "дон",
+      "qe": "The Don is a long river.",
+      "ae": "Дон — длинная река.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "длинная",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 487,
+      "q": "violence",
+      "a": "насилие",
+      "qe": "Violence solves nothing.",
+      "ae": "Насилие ничего не решает.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "решает",
+            "band": "absent"
+          }
+        ]
+      }
+    }
+  ]
+}

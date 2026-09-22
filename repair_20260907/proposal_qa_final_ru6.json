@@ -1,0 +1,222 @@
+[
+  {
+    "deck": "15260218",
+    "row": 156,
+    "q": "плитка",
+    "a": "tile",
+    "qe": "Ванная отделана плиткой.",
+    "ae": "The bathroom is finished with tile.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "отделана",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260218",
+    "row": 457,
+    "q": "переселение",
+    "a": "resettlement",
+    "qe": "Переселение уже идёт.",
+    "ae": "The resettlement is already underway.",
+    "issues": {
+      "en_vocab": [
+        {
+          "word": "underway",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260218",
+    "row": 475,
+    "q": "бомбардировка",
+    "a": "bombing",
+    "qe": "Бомбардировка уже идёт.",
+    "ae": "The bombing is already underway.",
+    "issues": {
+      "en_vocab": [
+        {
+          "word": "underway",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260221",
+    "row": 124,
+    "q": "выпускаться",
+    "a": "to be published, to be released",
+    "qe": "Журнал выпускается ежемесячно.",
+    "ae": "The magazine is published monthly.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "ежемесячно",
+          "band": "9500->10000"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260221",
+    "row": 206,
+    "q": "отображение",
+    "a": "display, representation",
+    "qe": "Отображение данных неверно.",
+    "ae": "The display of the data is incorrect.",
+    "issues": {
+      "en_vocab": [
+        {
+          "word": "data",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260224",
+    "row": 44,
+    "q": "регистр",
+    "a": "register",
+    "qe": "У неё высокий регистр голоса.",
+    "ae": "She has a high vocal register.",
+    "issues": {
+      "en_vocab": [
+        {
+          "word": "vocal",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260224",
+    "row": 76,
+    "q": "спохватиться",
+    "a": "suddenly realize, catch oneself",
+    "qe": "Он спохватился слишком поздно.",
+    "ae": "He realized it too late.",
+    "issues": {
+      "en_target": "suddenly realize, catch oneself | He realized it too late."
+    }
+  },
+  {
+    "deck": "15260224",
+    "row": 123,
+    "q": "наследование",
+    "a": "inheritance",
+    "qe": "Наследование регулируется законом.",
+    "ae": "Inheritance is governed by law.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "регулируется",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260224",
+    "row": 199,
+    "q": "страховщик",
+    "a": "insurer, underwriter",
+    "qe": "Страховщик отказал в выплате.",
+    "ae": "The insurer denied the payout.",
+    "issues": {
+      "en_vocab": [
+        {
+          "word": "payout",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260224",
+    "row": 279,
+    "q": "профилактический",
+    "a": "preventive, prophylactic",
+    "qe": "Это профилактический осмотр.",
+    "ae": "This is a preventive checkup.",
+    "issues": {
+      "en_vocab": [
+        {
+          "word": "checkup",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260224",
+    "row": 354,
+    "q": "паста",
+    "a": "paste, pasta",
+    "qe": "Это зубная паста.",
+    "ae": "This is toothpaste.",
+    "issues": {
+      "en_target": "paste, pasta | This is toothpaste.",
+      "en_vocab": [
+        {
+          "word": "toothpaste",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260224",
+    "row": 402,
+    "q": "ощупь",
+    "a": "by touch, by feel",
+    "qe": "Я ищу выключатель на ощупь.",
+    "ae": "I am searching for the switch by touch.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "выключатель",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260224",
+    "row": 410,
+    "q": "реставрация",
+    "a": "restoration, renovation",
+    "qe": "Реставрация дома идёт.",
+    "ae": "Restoration of the house is underway.",
+    "issues": {
+      "en_vocab": [
+        {
+          "word": "underway",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260224",
+    "row": 469,
+    "q": "уклон",
+    "a": "slope, bias",
+    "qe": "Здесь крутой уклон.",
+    "ae": "There is a steep slope here.",
+    "issues": {
+      "en_vocab": [
+        {
+          "word": "steep",
+          "band": "absent"
+        }
+      ]
+    }
+  }
+]

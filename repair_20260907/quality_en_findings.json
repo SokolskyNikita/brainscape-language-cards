@@ -1,0 +1,533 @@
+{
+  "pack": "english_russian",
+  "scope": "Independent semantic QA of every changed tuple in repair_20260907/logs/english_russian/*.json",
+  "snapshot": {
+    "decks": 20,
+    "changed_rows_reviewed": 1686,
+    "note": "Logs were rewritten during review; findings below were checked against the later snapshot with per-deck change counts 20,203,142,91,67,61,88,71,63,47,45,54,50,76,92,121,78,97,92,128."
+  },
+  "concept_replacements_to_revert": [
+    {
+      "deck": "15260246", "row": 42,
+      "issue": "The valid source card another→другой was replaced wholesale by the unrelated concept term→срок.",
+      "replacement": {"q": "another", "a": "другой", "qe": "I want another book.", "ae": "Я хочу другую книгу."}
+    },
+    {
+      "deck": "15260248", "row": 401,
+      "issue": "The valid source card to strive→стремиться was replaced by unrelated to step on→наступить.",
+      "replacement": {"q": "to strive", "a": "стремиться", "qe": "We strive to help.", "ae": "Мы стремимся помочь."}
+    },
+    {
+      "deck": "15260248", "row": 500,
+      "issue": "The valid source card to set off→отправиться was replaced by unrelated everywhere→везде.",
+      "replacement": {"q": "to set off", "a": "отправиться", "qe": "We will set off tomorrow.", "ae": "Мы отправимся завтра."}
+    },
+    {
+      "deck": "15260263", "row": 113,
+      "issue": "The valid source card to be late→опоздать was replaced by unrelated jealousy→ревность.",
+      "replacement": {"q": "to be late", "a": "опоздать", "qe": "He tried not to be late.", "ae": "Он пытался не опоздать."}
+    },
+    {
+      "deck": "15260263", "row": 117,
+      "issue": "The valid source card to be guided→руководствоваться was replaced by unrelated to present→предъявлять.",
+      "replacement": {"q": "to be guided", "a": "руководствоваться", "qe": "Learn to be guided by the rule.", "ae": "Научитесь руководствоваться правилом."}
+    },
+    {
+      "deck": "15260263", "row": 155,
+      "issue": "The valid source card traditionally→традиционно was replaced by unrelated all kinds of→всякий.",
+      "replacement": {"q": "traditionally", "a": "традиционно", "qe": "Traditionally we eat at home.", "ae": "Традиционно мы едим дома."}
+    },
+    {
+      "deck": "15260263", "row": 175,
+      "issue": "The valid source card to attack→нападать was replaced by unrelated unconscious→без сознания.",
+      "replacement": {"q": "to attack", "a": "нападать", "qe": "The dog will attack him.", "ae": "Собака будет нападать на него."}
+    },
+    {
+      "deck": "15260263", "row": 183,
+      "issue": "The valid source card accuse→обвинить was replaced by unrelated to step→шагнуть.",
+      "replacement": {"q": "accuse", "a": "обвинить", "qe": "They will accuse him.", "ae": "Они обвинят его."}
+    },
+    {
+      "deck": "15260263", "row": 197,
+      "issue": "The valid source card millennium→тысячелетие was replaced by unrelated echelon→эшелон.",
+      "replacement": {"q": "millennium", "a": "тысячелетие", "qe": "This is a new millennium.", "ae": "Это новое тысячелетие."}
+    },
+    {
+      "deck": "15260269", "row": 363,
+      "issue": "The valid source card notable→знатный was replaced by unrelated correction→исправление.",
+      "replacement": {"q": "notable", "a": "знатный", "qe": "He is a notable guest.", "ae": "Он знатный гость."}
+    },
+    {
+      "deck": "15260269", "row": 370,
+      "issue": "The valid source card silvery→серебристый was replaced by unrelated related→связанный.",
+      "replacement": {"q": "silvery", "a": "серебристый", "qe": "She has silvery hair.", "ae": "У неё серебристые волосы."}
+    },
+    {
+      "deck": "15260269", "row": 379,
+      "issue": "The valid source card Sunday→воскресенье was replaced by unrelated to settle in→устроиться.",
+      "replacement": {"q": "Sunday", "a": "воскресенье", "qe": "We relax every Sunday.", "ae": "Мы отдыхаем каждое воскресенье."}
+    },
+    {
+      "deck": "15260272", "row": 363,
+      "issue": "The valid source card to sew→сшить was replaced by unrelated to join→присоединяться.",
+      "replacement": {"q": "to sew", "a": "сшить", "qe": "I need to sew a dress.", "ae": "Мне нужно сшить платье."}
+    },
+    {
+      "deck": "15260277", "row": 67,
+      "issue": "The valid source card surgical→хирургический was replaced by unrelated privileged→привилегированный.",
+      "replacement": {"q": "surgical", "a": "хирургический", "qe": "He underwent surgical treatment yesterday.", "ae": "Он прошёл хирургическое лечение вчера."}
+    },
+    {
+      "deck": "15260277", "row": 412,
+      "issue": "The valid source card inquire→осведомиться was replaced by unrelated to be interrupted→прерываться.",
+      "replacement": {"q": "inquire", "a": "осведомиться", "qe": "May I inquire about your health?", "ae": "Могу ли я осведомиться о вашем здоровье?"}
+    }
+  ],
+  "findings": [
+    {
+      "deck": "15260248", "row": 58, "severity": "material",
+      "issue": "English 'has success' is an unnatural calque even though the Russian collocation is valid.",
+      "replacement": {"q": "success", "a": "успех", "qe": "His work is a success.", "ae": "Его работа имеет успех."}
+    },
+    {
+      "deck": "15260248", "row": 86, "severity": "material",
+      "issue": "'Does not have consciousness' is not idiomatic English and does not teach the normal loss-of-consciousness construction.",
+      "replacement": {"q": "consciousness", "a": "сознание", "qe": "He lost consciousness.", "ae": "Он потерял сознание."}
+    },
+    {
+      "deck": "15260248", "row": 219, "severity": "material",
+      "issue": "'I know his absence' / 'Я знаю его отсутствие' is not a natural or clear proposition in either language.",
+      "replacement": {"q": "absence", "a": "отсутствие", "qe": "His absence is clear.", "ae": "Его отсутствие очевидно."}
+    },
+    {
+      "deck": "15260248", "row": 373, "severity": "material",
+      "issue": "'Это золотое' is an incomplete substantivized adjective and does not naturally match predicate 'golden'.",
+      "replacement": {"q": "golden", "a": "золотой", "qe": "This color is golden.", "ae": "Этот цвет золотой."}
+    },
+    {
+      "deck": "15260248", "row": 410, "severity": "material",
+      "issue": "'This is folk' / 'Это народное' leaves both adjectives without a noun and is not a usable matched example.",
+      "replacement": {"q": "folk", "a": "народ", "qe": "The folk know this.", "ae": "Народ знает это."}
+    },
+    {
+      "deck": "15260248", "row": 426, "severity": "material",
+      "issue": "'This is informational' / 'Это информационное' is incomplete and the Russian reads as an omitted noun.",
+      "replacement": {"q": "informational", "a": "информационный", "qe": "This is informational material.", "ae": "Это информационный материал."}
+    },
+    {
+      "deck": "15260251", "row": 248, "severity": "material",
+      "issue": "A one-time English intention is paired with imperfective переходить, producing an aspect mismatch.",
+      "replacement": {"q": "to cross", "a": "переходить", "qe": "I cross this street every day.", "ae": "Я перехожу эту улицу каждый день."}
+    },
+    {
+      "deck": "15260251", "row": 301, "severity": "material",
+      "issue": "'Leading person' / 'ведущий человек' is an unnatural collocation in both languages.",
+      "replacement": {"q": "leading", "a": "ведущий", "qe": "She has a leading role.", "ae": "У неё ведущая роль."}
+    },
+    {
+      "deck": "15260251", "row": 302, "severity": "material",
+      "issue": "The one-time imperative 'Repeat' is paired with imperfective polite повторяйте; a habitual sentence teaches the listed aspect cleanly.",
+      "replacement": {"q": "repeat", "a": "повторять", "qe": "He repeats the question.", "ae": "Он повторяет вопрос."}
+    },
+    {
+      "deck": "15260251", "row": 399, "severity": "material",
+      "issue": "English 'address this question' means deal with it, while обратиться к вопросу means turn to the topic.",
+      "replacement": {"q": "to address", "a": "обратиться", "qe": "I want to address him.", "ae": "Я хочу обратиться к нему."}
+    },
+    {
+      "deck": "15260251", "row": 415, "severity": "material",
+      "issue": "'Let us discuss tomorrow' is a bounded proposal but Russian uses imperfective infinitive обсуждать after давайте.",
+      "replacement": {"q": "discuss", "a": "обсуждать", "qe": "We discuss this every day.", "ae": "Мы обсуждаем это каждый день."}
+    },
+    {
+      "deck": "15260251", "row": 451, "severity": "material",
+      "issue": "'Её голос имел хороший тон' is a direct English calque and not natural Russian.",
+      "replacement": {"q": "tone", "a": "тон", "qe": "Her tone was soft.", "ae": "Её тон был мягким."}
+    },
+    {
+      "deck": "15260251", "row": 460, "severity": "material",
+      "issue": "English 'is done' normally states completion, while Работа делается describes an ongoing process.",
+      "replacement": {"q": "to be done", "a": "делаться", "qe": "The work is being done.", "ae": "Работа делается."}
+    },
+    {
+      "deck": "15260251", "row": 470, "severity": "material",
+      "issue": "'Hit the goal' is not the same construction as попадать в цель and the modal sentence also clashes with the imperfective aspect.",
+      "replacement": {"q": "to hit", "a": "попадать", "qe": "He hits every time.", "ae": "Он попадает каждый раз."}
+    },
+    {
+      "deck": "15260255", "row": 441, "severity": "material",
+      "issue": "крепко держится этого мнения is malformed; придерживаться is required for opinions, while крепко works naturally with a physical grip.",
+      "replacement": {"q": "firmly", "a": "крепко", "qe": "He firmly held my hand.", "ae": "Он крепко держал мою руку."}
+    },
+    {
+      "deck": "15260256", "row": 63, "severity": "material",
+      "issue": "Одиночество трудно is grammatically malformed as a simple nominal predicate.",
+      "replacement": {"q": "loneliness", "a": "одиночество", "qe": "I felt loneliness.", "ae": "Я чувствовал одиночество."}
+    },
+    {
+      "deck": "15260256", "row": 376, "severity": "material",
+      "issue": "English 'digital image' is paired with цифровой образ, where образ is not the ordinary Russian word for a digital image.",
+      "replacement": {"q": "digital", "a": "цифровой", "qe": "This signal is digital.", "ae": "Этот сигнал цифровой."}
+    },
+    {
+      "deck": "15260256", "row": 410, "severity": "material",
+      "issue": "'Gigantic strength' / 'сила гигантская' is an unnatural collocation and obscures the adjective.",
+      "replacement": {"q": "gigantic", "a": "гигантский", "qe": "The house is gigantic.", "ae": "Дом гигантский."}
+    },
+    {
+      "deck": "15260257", "row": 148, "severity": "material",
+      "issue": "'Throw out this' has incorrect English particle placement.",
+      "replacement": {"q": "throw out", "a": "выбросить", "qe": "Throw this out.", "ae": "Выбросьте это."}
+    },
+    {
+      "deck": "15260260", "row": 391, "severity": "material",
+      "issue": "The Russian proposal Давайте болтать is unnatural for a single chat and encourages the wrong aspectual construction.",
+      "replacement": {"q": "chat", "a": "болтать", "qe": "We chat every day.", "ae": "Мы болтаем каждый день."}
+    },
+    {
+      "deck": "15260263", "row": 58, "severity": "critical",
+      "issue": "English says the sign is placed, while Russian says it must be placed; the modality was added only on one side.",
+      "replacement": {"q": "to be placed", "a": "быть размещённым", "qe": "The sign must be placed here.", "ae": "Знак должен быть размещён здесь."}
+    },
+    {
+      "deck": "15260263", "row": 257, "severity": "material",
+      "issue": "'Is removed' is a resulting/state passive, while удаляется is ongoing/repeated removal.",
+      "replacement": {"q": "to be removed", "a": "удаляться", "qe": "The picture is being removed.", "ae": "Картина удаляется."}
+    },
+    {
+      "deck": "15260263", "row": 413, "severity": "critical",
+      "issue": "English is present tense ('We reach') while Russian is future perfective ('доберёмся').",
+      "replacement": {"q": "to reach", "a": "добраться", "qe": "We will reach Moscow.", "ae": "Мы доберёмся до Москвы."}
+    },
+    {
+      "deck": "15260263", "row": 497, "severity": "critical",
+      "issue": "Generic English 'instance' does not mean Russian инстанция (an authority or organizational level), and 'The instance is here' is semantically empty.",
+      "replacement": {"q": "instance", "a": "случай", "qe": "This is one instance.", "ae": "Это один случай."}
+    },
+    {
+      "deck": "15260266", "row": 23, "severity": "critical",
+      "issue": "English says 'I wash the sheet'; Russian says the sheet needs to be washed, changing both subject and modality.",
+      "replacement": {"q": "sheet", "a": "простыня", "qe": "I wash the sheet.", "ae": "Я стираю простыню."}
+    },
+    {
+      "deck": "15260266", "row": 335, "severity": "critical",
+      "issue": "подвергнуться лечению is an unnatural collocation for 'undergo treatment'; подвергнуться works naturally with changes or adverse action.",
+      "replacement": {"q": "to undergo", "a": "подвергнуться", "qe": "The plan underwent changes.", "ae": "План подвергся изменениям."}
+    },
+    {
+      "deck": "15260266", "row": 486, "severity": "material",
+      "issue": "'He works three years consecutively' is ungrammatical for an ongoing duration.",
+      "replacement": {"q": "consecutively", "a": "подряд", "qe": "He has worked for three consecutive years.", "ae": "Он работает три года подряд."}
+    },
+    {
+      "deck": "15260268", "row": 25, "severity": "critical",
+      "issue": "hallway means коридор; прихожая is an entrance hall/entryway.",
+      "replacement": {"q": "hallway", "a": "коридор", "qe": "The hallway is empty.", "ae": "Коридор пуст."}
+    },
+    {
+      "deck": "15260268", "row": 113, "severity": "material",
+      "issue": "A single future event ('will rush by') is paired with the durative future будет проноситься.",
+      "replacement": {"q": "to rush by", "a": "проноситься", "qe": "Trains rush by.", "ae": "Поезда проносятся мимо."}
+    },
+    {
+      "deck": "15260268", "row": 203, "severity": "material",
+      "issue": "'Works qualitatively' is not idiomatic English; it is a calque of Russian работает качественно.",
+      "replacement": {"q": "qualitatively", "a": "качественно", "qe": "They are qualitatively different.", "ae": "Они качественно различны."}
+    },
+    {
+      "deck": "15260268", "row": 299, "severity": "critical",
+      "issue": "English 'learned' says he acquired knowledge; Russian учился says he studied, so the outcomes differ.",
+      "replacement": {"q": "little by little", "a": "понемногу", "qe": "Little by little, he learned to read.", "ae": "Понемногу он научился читать."}
+    },
+    {
+      "deck": "15260269", "row": 444, "severity": "material",
+      "issue": "'Smoking is to be prohibited here' is an unnatural prospective construction; Russian запрещается is the standard present prohibition.",
+      "replacement": {"q": "to be prohibited", "a": "запрещаться", "qe": "Smoking is prohibited here.", "ae": "Курение здесь запрещается."}
+    },
+    {
+      "deck": "15260277", "row": 13, "severity": "critical",
+      "issue": "A ward under guardianship is подопечный, not воспитанник (pupil/foster child); the tragedy context clearly invokes guardianship.",
+      "replacement": {"q": "ward", "a": "подопечный", "qe": "He became his ward after the tragedy.", "ae": "После трагедии он стал его подопечным."}
+    },
+    {
+      "deck": "15260277", "row": 207, "severity": "material",
+      "issue": "'May collapse' suggests a possible complete event, while может рушиться suggests an ongoing/repeated process.",
+      "replacement": {"q": "to collapse", "a": "рушиться", "qe": "The building is collapsing.", "ae": "Здание рушится."}
+    },
+    {
+      "deck": "15260277", "row": 344, "severity": "critical",
+      "issue": "Звёзды насчитывают миллионы is grammatically wrong: насчитывать takes a collective/container subject and a count/object.",
+      "replacement": {"q": "to number", "a": "насчитывать", "qe": "The city numbers a million people.", "ae": "Город насчитывает миллион человек."}
+    },
+    {
+      "deck": "15260280", "row": 36, "severity": "critical",
+      "issue": "English fugitive is a noun; беглый is an adjective and 'Беглый в лесу' is not a natural standalone noun phrase.",
+      "replacement": {"q": "fugitive", "a": "беглец", "qe": "The fugitive is in the forest.", "ae": "Беглец в лесу."}
+    },
+    {
+      "deck": "15260280", "row": 38, "severity": "critical",
+      "issue": "The moral/spiritual noun 'redemption' is искупление; the current hostage example actually teaches ransom (выкуп) and uses unnatural English 'hostage's redemption'.",
+      "replacement": {"q": "redemption", "a": "искупление", "qe": "Redemption is possible.", "ae": "Искупление возможно."}
+    },
+    {
+      "deck": "15260280", "row": 81, "severity": "critical",
+      "issue": "English bang is a noun in 'There was a bang'; бах is an interjection, and Было «бах» is not a natural matched noun sentence.",
+      "replacement": {"q": "bang", "a": "грохот", "qe": "There was a bang.", "ae": "Раздался грохот."}
+    },
+    {
+      "deck": "15260280", "row": 369, "severity": "material",
+      "issue": "Переключение каналов трудно is grammatically awkward because the noun phrase needs an adjectival predicate or a predicative such as затруднительно.",
+      "replacement": {"q": "switching", "a": "переключение", "qe": "Switching channels is difficult.", "ae": "Переключение каналов затруднительно."}
+    },
+    {
+      "deck": "15260280", "row": 490, "severity": "critical",
+      "issue": "Truthfulness as a personal quality is правдивость; истинность means truth/validity of a statement.",
+      "replacement": {"q": "truthfulness", "a": "правдивость", "qe": "His truthfulness matters.", "ae": "Его правдивость важна."}
+    },
+    {
+      "deck": "15260281", "row": 103, "severity": "material",
+      "issue": "Проблема несуществующая is a marked, unnatural predicate construction.",
+      "replacement": {"q": "non-existent", "a": "несуществующий", "qe": "This is a non-existent problem.", "ae": "Это несуществующая проблема."}
+    },
+    {
+      "deck": "15260281", "row": 159, "severity": "material",
+      "issue": "Russian adds 'after victory', while English says 'at victory'; the temporal relation changes.",
+      "replacement": {"q": "rejoice", "a": "ликовать", "qe": "They rejoice.", "ae": "Они ликуют."}
+    },
+    {
+      "deck": "15260281", "row": 328, "severity": "material",
+      "issue": "торговались за более низкую цену uses the wrong preposition/collocation.",
+      "replacement": {"q": "bargain", "a": "торговаться", "qe": "We bargained with him.", "ae": "Мы торговались с ним."}
+    },
+    {
+      "deck": "15260281", "row": 407, "severity": "material",
+      "issue": "'The plan showed inadequacy' / 'План показал несостоятельность' is an unnatural agency construction.",
+      "replacement": {"q": "inadequacy", "a": "несостоятельность", "qe": "The plan's inadequacy was clear.", "ae": "Несостоятельность плана была очевидна."}
+    },
+    {
+      "deck": "15260281", "row": 486, "severity": "material",
+      "issue": "'Let's switch topics' requires a destination after переключиться; the Russian sentence is incomplete.",
+      "replacement": {"q": "switch", "a": "переключиться", "qe": "Let's switch to another topic.", "ae": "Давайте переключимся на другую тему."}
+    },
+    {
+      "deck": "15260281", "row": 492, "severity": "critical",
+      "issue": "A good communicator is skilled at communicating; отличный собеседник means a good conversation partner, so the qualities are not equivalent.",
+      "replacement": {"q": "communicator", "a": "коммуникатор", "qe": "He is an excellent communicator.", "ae": "Он отличный коммуникатор."}
+    },
+    {
+      "deck": "15260282", "row": 45, "severity": "material",
+      "issue": "Материнство трудно is grammatically malformed as a simple noun-plus-adverb predicate.",
+      "replacement": {"q": "motherhood", "a": "материнство", "qe": "Motherhood is not easy.", "ae": "Материнство — это нелегко."}
+    },
+    {
+      "deck": "15260282", "row": 57, "severity": "material",
+      "issue": "затрудняется с этим is an awkward calque; затрудняться normally governs an infinitive or в + prepositional.",
+      "replacement": {"q": "to have difficulty", "a": "затрудняться", "qe": "She has difficulty answering.", "ae": "Она затрудняется ответить."}
+    },
+    {
+      "deck": "15260282", "row": 202, "severity": "material",
+      "issue": "вслушиваться requires an object with в; both examples are currently incomplete.",
+      "replacement": {"q": "to listen intently", "a": "вслушиваться", "qe": "She listens intently to his words.", "ae": "Она вслушивается в его слова."}
+    },
+    {
+      "deck": "15260282", "row": 320, "severity": "material",
+      "issue": "Enchant/очаровать is transitive here but both examples omit the person affected.",
+      "replacement": {"q": "enchant", "a": "очаровать", "qe": "Her smile can enchant him.", "ae": "Её улыбка может очаровать его."}
+    },
+    {
+      "deck": "15260282", "row": 333, "severity": "critical",
+      "issue": "English is past ('I saw') while Russian is present ('Я вижу').",
+      "replacement": {"q": "robbery", "a": "ограбление", "qe": "I saw a robbery.", "ae": "Я видел ограбление."}
+    },
+    {
+      "deck": "15260282", "row": 371, "severity": "critical",
+      "issue": "перевалить через холм means cross/pass over a hill, not physically roll over it.",
+      "replacement": {"q": "to roll over", "a": "перекатиться", "qe": "The ball can roll over the hill.", "ae": "Мяч может перекатиться через холм."}
+    },
+    {
+      "deck": "15260282", "row": 383, "severity": "critical",
+      "issue": "Vocation means призвание; поприще means a field/sphere of activity.",
+      "replacement": {"q": "vocation", "a": "призвание", "qe": "This is her vocation.", "ae": "Это её призвание."}
+    },
+    {
+      "deck": "15260282", "row": 475, "severity": "material",
+      "issue": "довезти specifically means transport someone/something to a destination; generic 'deliver it' is broader and supplies no destination.",
+      "replacement": {"q": "to deliver", "a": "доставить", "qe": "I will deliver the letter.", "ae": "Я доставлю письмо."}
+    },
+    {
+      "deck": "15260283", "row": 38, "severity": "critical",
+      "issue": "Tin as the metal is олово; жесть is tinplate/sheet metal. The generic headword and example teach the wrong material.",
+      "replacement": {"q": "tin", "a": "олово", "qe": "Tin is a metal.", "ae": "Олово — металл."}
+    },
+    {
+      "deck": "15260283", "row": 82, "severity": "material",
+      "issue": "'Plenarium' is not normal modern English for пленум and should be repaired as a malformed headword.",
+      "replacement": {"q": "plenary session", "a": "пленум", "qe": "The plenary session is important.", "ae": "Пленум важен."}
+    },
+    {
+      "deck": "15260283", "row": 113, "severity": "material",
+      "issue": "мочевая проблема is an unnatural Russian collocation.",
+      "replacement": {"q": "urinary", "a": "мочевой", "qe": "The urinary system is important.", "ae": "Мочевая система важна."}
+    },
+    {
+      "deck": "15260283", "row": 194, "severity": "material",
+      "issue": "навеять радость is an unnatural collocation; навеять conventionally takes memories/thoughts/sleep/sadness.",
+      "replacement": {"q": "evoke", "a": "навеять", "qe": "The song will evoke memories.", "ae": "Песня навеет воспоминания."}
+    },
+    {
+      "deck": "15260283", "row": 204, "severity": "material",
+      "issue": "'Kept her in remembrance' and хранил о ней память are both malformed collocations.",
+      "replacement": {"q": "remembrance", "a": "память", "qe": "She lives in my remembrance.", "ae": "Она живёт в моей памяти."}
+    },
+    {
+      "deck": "15260283", "row": 339, "severity": "material",
+      "issue": "Events themselves are not 'chronological'; their list/order is chronological.",
+      "replacement": {"q": "chronological", "a": "хронологический", "qe": "The list is chronological.", "ae": "Список хронологический."}
+    },
+    {
+      "deck": "15260283", "row": 343, "severity": "material",
+      "issue": "показал бодрость is not a natural collocation for 'showed vigor'.",
+      "replacement": {"q": "vigor", "a": "бодрость", "qe": "His vigor returned.", "ae": "Его бодрость вернулась."}
+    },
+    {
+      "deck": "15260283", "row": 462, "severity": "material",
+      "issue": "English 'dug out a hole' is unidiomatic and usually means excavating something from a hole, while вырыли яму simply means dug a hole.",
+      "replacement": {"q": "dig out", "a": "вырыть", "qe": "They dug out a stone.", "ae": "Они вырыли камень."}
+    },
+    {
+      "deck": "15260285", "row": 24, "severity": "critical",
+      "issue": "For a person, 'get into the swing of things' is войти во вкус; разыграться means become lively/intense and does not match this idiom.",
+      "replacement": {"q": "get into the swing of things", "a": "войти во вкус", "qe": "She will get into the swing of things soon.", "ae": "Она скоро войдёт во вкус."}
+    },
+    {
+      "deck": "15260285", "row": 116, "severity": "critical",
+      "issue": "генеральский план strongly reads as a master/development plan, not 'a general's plan'; the current example is a false-friend trap.",
+      "replacement": {"q": "general's", "a": "генеральский", "qe": "The general's uniform was new.", "ae": "Генеральская форма была новой."}
+    },
+    {
+      "deck": "15260285", "row": 279, "severity": "material",
+      "issue": "English transitive 'arm' omits the reflexive object that Russian вооружиться explicitly supplies.",
+      "replacement": {"q": "to arm", "a": "вооружиться", "qe": "They decided to arm themselves quickly.", "ae": "Они решили быстро вооружиться."}
+    },
+    {
+      "deck": "15260285", "row": 430, "severity": "critical",
+      "issue": "English says Cinderella lost one shoe; Russian обувь is collective footwear and changes the concrete meaning.",
+      "replacement": {"q": "Cinderella", "a": "Золушка", "qe": "Cinderella lost her shoe.", "ae": "Золушка потеряла туфельку."}
+    },
+    {
+      "deck": "15260285", "row": 446, "severity": "material",
+      "issue": "рассмешить specifically means make someone laugh, while generic 'amuse' can merely entertain; the context does not select the narrower sense.",
+      "replacement": {"q": "to amuse", "a": "позабавить", "qe": "He wants to amuse her.", "ae": "Он хочет её позабавить."}
+    },
+    {
+      "deck": "15260285", "row": 497, "severity": "material",
+      "issue": "лелеять моменты is an unnatural Russian collocation; one cherishes memories.",
+      "replacement": {"q": "cherish", "a": "лелеять", "qe": "I cherish these memories.", "ae": "Я лелею эти воспоминания."}
+    },
+    {
+      "deck": "15260287", "row": 92, "severity": "critical",
+      "issue": "English says she painted the wall (applied paint); Russian says she drew/painted on the wall, changing the action.",
+      "replacement": {"q": "artistically", "a": "художественно", "qe": "She painted on the wall artistically.", "ae": "Она художественно рисовала на стене."}
+    },
+    {
+      "deck": "15260287", "row": 163, "severity": "material",
+      "issue": "A one-time obligation 'must warn' is paired with imperfective предостерегать.",
+      "replacement": {"q": "warn", "a": "предостерегать", "qe": "I often warn you.", "ae": "Я часто вас предостерегаю."}
+    },
+    {
+      "deck": "15260287", "row": 203, "severity": "material",
+      "issue": "English static/result passive 'is depicted' is paired with ongoing/repeated изображается.",
+      "replacement": {"q": "to be depicted", "a": "изображаться", "qe": "The scene is being depicted here.", "ae": "Сцена изображается здесь."}
+    },
+    {
+      "deck": "15260287", "row": 261, "severity": "material",
+      "issue": "Russian adds скоро ('soon'), which is absent from English.",
+      "replacement": {"q": "repay", "a": "отплатить", "qe": "I will repay you.", "ae": "Я отплачу тебе."}
+    },
+    {
+      "deck": "15260287", "row": 267, "severity": "material",
+      "issue": "'Bite off bread' / откусить хлеб omits the piece that the verb requires in this construction.",
+      "replacement": {"q": "to bite off", "a": "откусить", "qe": "He will bite off a piece of bread.", "ae": "Он откусит кусок хлеба."}
+    },
+    {
+      "deck": "15260287", "row": 294, "severity": "critical",
+      "issue": "Medicine 'potency' is сила действия/эффективность; лекарство имеет большую силу is a bad literal collocation.",
+      "replacement": {"q": "potency", "a": "сила действия", "qe": "The medicine has high potency.", "ae": "У лекарства высокая сила действия."}
+    },
+    {
+      "deck": "15260287", "row": 316, "severity": "critical",
+      "issue": "English weekday is a noun; Russian будний is an adjective, and 'Будний поезд' is not a meaningful match.",
+      "replacement": {"q": "weekday", "a": "будний день", "qe": "Today is a weekday.", "ae": "Сегодня будний день."}
+    },
+    {
+      "deck": "15260287", "row": 321, "severity": "critical",
+      "issue": "Проденьте нить is incomplete and omits the needle; 'thread the needle' means put thread through its eye.",
+      "replacement": {"q": "to thread", "a": "продеть", "qe": "Thread the needle.", "ae": "Проденьте нить в иголку."}
+    },
+    {
+      "deck": "15260287", "row": 382, "severity": "material",
+      "issue": "'Tangibly strong pain' / ощутимо сильна is unnatural in both languages.",
+      "replacement": {"q": "tangibly", "a": "ощутимо", "qe": "The price rose tangibly.", "ae": "Цена ощутимо выросла."}
+    },
+    {
+      "deck": "15260287", "row": 385, "severity": "material",
+      "issue": "религиозно молилась is a redundant/unidiomatic adverbial pairing; набожно expresses devotional manner.",
+      "replacement": {"q": "religiously", "a": "набожно", "qe": "She prayed religiously.", "ae": "Она набожно молилась."}
+    },
+    {
+      "deck": "15260287", "row": 472, "severity": "material",
+      "issue": "поступает уместно is not a natural Russian collocation.",
+      "replacement": {"q": "appropriately", "a": "уместно", "qe": "He answered appropriately.", "ae": "Он ответил уместно."}
+    },
+    {
+      "deck": "15260287", "row": 482, "severity": "material",
+      "issue": "небрежная ошибка is an unnatural attributive collocation for 'careless error'.",
+      "replacement": {"q": "careless", "a": "небрежный", "qe": "He is careless at work.", "ae": "Он небрежен в работе."}
+    },
+    {
+      "deck": "22976521", "row": 44, "severity": "critical",
+      "issue": "A written register is журнал/реестр; регистр means register/range in linguistics, music, typography, or machinery. 'в регистр' is also grammatically wrong here.",
+      "replacement": {"q": "register", "a": "журнал", "qe": "Write your name in the register.", "ae": "Напиши своё имя в журнал."}
+    },
+    {
+      "deck": "22976521", "row": 76, "severity": "critical",
+      "issue": "'He realized it' means Он осознал это; спохватился means he suddenly remembered/reacted, usually belatedly.",
+      "replacement": {"q": "to realize", "a": "осознать", "qe": "He realized it.", "ae": "Он осознал это."}
+    },
+    {
+      "deck": "22976521", "row": 86, "severity": "material",
+      "issue": "Sexual intercourse is normally половые отношения/половой акт; singular сношение is unnatural in this sentence.",
+      "replacement": {"q": "intercourse", "a": "половые отношения", "qe": "They had intercourse.", "ae": "У них были половые отношения."}
+    },
+    {
+      "deck": "22976521", "row": 112, "severity": "critical",
+      "issue": "English says 'overheard' but Russian услыхал only says heard; the extra English synonym is not supported by the answer.",
+      "replacement": {"q": "to hear", "a": "услышать", "qe": "I heard his words.", "ae": "Я услышал его слова."}
+    },
+    {
+      "deck": "22976521", "row": 147, "severity": "critical",
+      "issue": "The noun phrase 'blast furnace' is доменная печь; доменный alone is only the adjective 'blast-furnace'.",
+      "replacement": {"q": "blast furnace", "a": "доменная печь", "qe": "The blast furnace is hot.", "ae": "Доменная печь горячая."}
+    },
+    {
+      "deck": "22976521", "row": 233, "severity": "critical",
+      "issue": "слетать means make a quick/round-trip flight; directional 'fly down' is слететь, so the current future meanings differ.",
+      "replacement": {"q": "fly down", "a": "слететь", "qe": "The bird will fly down.", "ae": "Птица слетит вниз."}
+    },
+    {
+      "deck": "22976521", "row": 337, "severity": "critical",
+      "issue": "Generic 'decoration' is украшение; роспись is painted ornament/mural work, and the current generic example does not select that sense.",
+      "replacement": {"q": "decoration", "a": "украшение", "qe": "The decoration is beautiful.", "ae": "Украшение красивое."}
+    },
+    {
+      "deck": "22976521", "row": 338, "severity": "critical",
+      "issue": "The ordinary modern Russian word for heel is пятка; пята is archaic/bookish and makes the everyday pain sentence unnatural.",
+      "replacement": {"q": "heel", "a": "пятка", "qe": "His heel hurts.", "ae": "Его пятка болит."}
+    },
+    {
+      "deck": "22976521", "row": 356, "severity": "material",
+      "issue": "'Spoke insistently' / говорил настоятельно is an unnatural collocation in both languages; настоятельно normally modifies a request/recommendation.",
+      "replacement": {"q": "insistently", "a": "настоятельно", "qe": "He insistently asked for an answer.", "ae": "Он настоятельно просил ответа."}
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+[
+  {
+    "deck": 15260246,
+    "updated": 20,
+    "verified_cards": 500,
+    "sha256": "b3395b93bd6e615d3a64a4ab3c71e6b1114c224237bff8d61e1d635c74933296",
+    "verified_at": "2026-09-08T16:19:14.664939+00:00"
+  },
+  {
+    "deck": 15260248,
+    "updated": 16,
+    "verified_cards": 500,
+    "sha256": "70765dc2b3ecee4e7b6945077c27e0c5f9c45b623203126a8c5f8122d8d2fc56",
+    "verified_at": "2026-09-08T16:19:54.882776+00:00"
+  },
+  {
+    "deck": 15260251,
+    "updated": 23,
+    "verified_cards": 500,
+    "sha256": "fd0ae8f63255dfec715d06c0cc4b747fa6c044ff91f98f93883c299bf7e77b07",
+    "verified_at": "2026-09-08T16:20:54.821204+00:00"
+  },
+  {
+    "deck": 15260255,
+    "updated": 21,
+    "verified_cards": 500,
+    "sha256": "44d6e3333bb738e86e11e422de188c5435c8c570d17d240a19e9d7cc3313654f",
+    "verified_at": "2026-09-08T16:21:47.086898+00:00"
+  },
+  {
+    "deck": 15260256,
+    "updated": 30,
+    "verified_cards": 500,
+    "sha256": "df8fe8b94e375d3488a27c03e18bdafa87721fbeb440443f867e7337b2accef3",
+    "verified_at": "2026-09-08T16:23:02.735208+00:00"
+  },
+  {
+    "deck": 15260257,
+    "updated": 26,
+    "verified_cards": 500,
+    "sha256": "c75f73ce166a845bd9e4daf3e1fa2358f317c5d9ed93eb87e7f3e22b3004615c",
+    "verified_at": "2026-09-08T16:24:04.232822+00:00"
+  },
+  {
+    "deck": 15260260,
+    "updated": 27,
+    "verified_cards": 500,
+    "sha256": "aceeb323d927f47174463d3ef144f17723469652f0981139688808331db654ce",
+    "verified_at": "2026-09-08T16:25:05.942655+00:00"
+  },
+  {
+    "deck": 15260263,
+    "updated": 28,
+    "verified_cards": 500,
+    "sha256": "6b0b28f9ed6bbaa797135d368661fd502d30e1a4a474d653e45c9b6f286d288b",
+    "verified_at": "2026-09-08T16:26:02.571078+00:00"
+  },
+  {
+    "deck": 15260266,
+    "updated": 24,
+    "verified_cards": 500,
+    "sha256": "e88b28053669cd4b289f92f444c760c4f42cddb6c750730df8267fbef587ffa5",
+    "verified_at": "2026-09-08T16:26:50.808645+00:00"
+  },
+  {
+    "deck": 15260268,
+    "updated": 30,
+    "verified_cards": 500,
+    "sha256": "3b5e7fd528e20bac310175bd0cb82b34ce13bc37f436400ca8b442cfda1c6ad5",
+    "verified_at": "2026-09-08T16:27:39.573664+00:00"
+  },
+  {
+    "deck": 15260269,
+    "updated": 31,
+    "verified_cards": 500,
+    "sha256": "37363f3fc26f749a254eeb01d59def1847338e8a909bd6d0ccd3c57eedf4c1c0",
+    "verified_at": "2026-09-08T16:28:33.191004+00:00"
+  },
+  {
+    "deck": 15260272,
+    "updated": 33,
+    "verified_cards": 500,
+    "sha256": "75b239cb9cf56233df929f2c725535c48e7f404eabe503194130281fbfdf9ff6",
+    "verified_at": "2026-09-08T16:29:20.757947+00:00"
+  },
+  {
+    "deck": 15260277,
+    "updated": 27,
+    "verified_cards": 500,
+    "sha256": "8aa492c20cbd3bd43a5f3783d21165f53e722e1e44ad6697c23adadb890ca6d0",
+    "verified_at": "2026-09-08T16:30:13.552928+00:00"
+  },
+  {
+    "deck": 15260280,
+    "updated": 27,
+    "verified_cards": 500,
+    "sha256": "3a0fe219319a4331c8e02e6fc3adb3d8e6d8fd187f39c439719d92b8d53208eb",
+    "verified_at": "2026-09-08T16:31:05.088655+00:00"
+  },
+  {
+    "deck": 15260281,
+    "updated": 28,
+    "verified_cards": 500,
+    "sha256": "e297c343fe26012d8d71d833980eafa7941ed71f2324a70c4399f133bed5fe50",
+    "verified_at": "2026-09-08T16:31:51.752350+00:00"
+  },
+  {
+    "deck": 15260282,
+    "updated": 29,
+    "verified_cards": 500,
+    "sha256": "e8fe1e40152ae80712c60fa37c695c12fe52dd5af72c11b7874df9333c0994be",
+    "verified_at": "2026-09-08T16:32:42.610564+00:00"
+  },
+  {
+    "deck": 15260283,
+    "updated": 35,
+    "verified_cards": 500,
+    "sha256": "a927adcb5e5dc631d7a5291e4bb52e21aca6927b81996c76af48d35c806bef39",
+    "verified_at": "2026-09-08T16:34:13.830251+00:00"
+  },
+  {
+    "deck": 15260285,
+    "updated": 31,
+    "verified_cards": 500,
+    "sha256": "d1abbb10ff06ce1d43279434632ebac8ddb44155026ac0d90146c9a5f021261a",
+    "verified_at": "2026-09-08T16:35:01.545986+00:00"
+  },
+  {
+    "deck": 15260287,
+    "updated": 52,
+    "verified_cards": 500,
+    "sha256": "14364cb6dca87ba467773375a67753586a5d55b288850d8e2505adaf9c90562e",
+    "verified_at": "2026-09-08T16:36:17.567485+00:00"
+  },
+  {
+    "deck": 22976521,
+    "updated": 75,
+    "verified_cards": 500,
+    "sha256": "c1c64781c8d2ca9895d87af32a826a5516d97c94129debb8e5c90c99e5055e6d",
+    "verified_at": "2026-09-08T16:38:02.268404+00:00"
+  }
+]

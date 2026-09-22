@@ -1,0 +1,2500 @@
+и → and
+в → in, at
+не → not
+на → on
+я → I
+что → what, that
+быть → to be
+с → with
+он → he
+а → but, and
+это → this, it
+как → how, as
+то → that, that one
+этот → this
+по → by, according to
+к → to, towards
+но → but
+они → they
+мы → we
+она → she
+который → which, that
+из → from, out of
+у → have, at
+свой → one's own
+вы → you (pl./formal)
+весь → all, whole
+за → behind, for
+для → for
+от → from
+о → about
+так → so
+мочь → to be able, can
+ты → you (informal)
+же → though
+год → year
+человек → person
+один → one, alone
+такой → such
+тот → that, that one
+или → or
+если → if
+только → only, just
+бы → would
+себя → oneself
+время → time
+когда → when
+уже → already
+другой → other, another
+сказать → to say
+до → until, up to
+мой → my, mine
+наш → our, ours
+чтобы → so that, to
+говорить → to speak, to talk
+самый → the very, most
+знать → to know
+вот → here
+очень → very
+нет → no, there isn't
+кто → who
+при → at, with
+да → yes
+стать → to become
+день → day
+первый → first
+даже → even
+можно → can, may
+жизнь → life
+ни → neither, nor
+сам → oneself
+дело → matter, business
+два → two
+новый → new
+раз → time, once
+хотеть → to want
+ли → whether
+какой → what, which
+там → there
+много → many, much
+работа → work, job
+иметь → to have
+после → after
+где → where
+вопрос → question
+рука → hand, arm
+город → city, town
+под → under
+каждый → each, every
+слово → word
+место → place
+без → without
+ну → well
+просто → just, simply
+более → more
+друг → friend
+большой → big, large
+надо → must, need to
+чем → than
+ваш → your, yours
+сделать → to do, to make
+идти → to go, to walk
+здесь → here
+делать → to do, to make
+сейчас → now
+видеть → to see
+потом → then, later
+ничто → nothing
+через → through, in
+мир → world
+теперь → now
+несколько → several, a few
+думать → to think
+потому → that's why
+случай → case
+сторона → side
+хороший → good
+тоже → too, also
+глаз → eye
+тогда → then
+тут → here
+дом → house, home
+страна → country
+сила → strength
+последний → last
+работать → to work
+также → also
+лицо → face
+жить → to live
+часть → part
+хотя → although
+женщина → woman
+система → system
+всегда → always
+являться → to be
+вид → kind, type
+голова → head
+проблема → problem
+конец → end
+ведь → after all, because
+между → between
+конечно → of course
+смотреть → to look, to watch
+пока → for now, bye
+отношение → relation
+получить → to get, to receive
+дать → to give
+русский → Russian
+три → three
+второй → second
+именно → exactly
+перед → before, in front of
+лишь → only, just
+образ → way, image
+понять → to understand
+поэтому → that's why, so
+почему → why
+понимать → to understand
+любой → any
+однако → however
+хорошо → well, OK
+никто → nobody, no one
+час → hour
+начать → to start, to begin
+найти → to find
+считать → to consider, to count
+взять → to take
+над → above, over
+земля → ground, land
+сегодня → today
+вообще → at all, in general
+книга → book
+пойти → to go
+возможность → chance, possibility
+некоторый → some
+оказаться → to turn out
+прийти → to come
+компания → company
+история → story, history
+любить → to love, to like
+высокий → tall, high
+нужно → need to
+почти → almost
+остаться → to stay, to remain
+твой → your, yours
+результат → result
+например → for example
+право → right
+группа → group
+писать → to write
+сидеть → to sit
+путь → way, path
+машина → car
+находиться → to be located
+увидеть → to see
+война → war
+казаться → to seem
+стоять → to stand
+имя → name
+решить → to decide, to solve
+никогда → never
+стоить → to cost, to be worth
+маленький → small, little
+ответ → answer
+вода → water
+решение → decision, solution
+бог → god
+совсем → completely, at all
+язык → language, tongue
+далеко → far
+нужный → needed, necessary
+давать → to give
+ответить → to answer
+полный → full, complete
+российский → Russian
+народ → people, nation
+власть → power, authority
+сразу → right away
+уровень → level
+выйти → to go out
+ночь → night
+пора → it's time
+часто → often
+спросить → to ask
+развитие → development
+программа → program
+начало → beginning, start
+никакой → no, none
+оно → it
+главный → main, chief
+дверь → door
+вместе → together
+момент → moment
+закон → law
+число → number, date
+цель → goal
+принять → to accept, to take
+следующий → next
+написать → to write
+отец → father
+правда → truth
+нога → leg, foot
+старый → old
+помощь → help
+информация → information
+уж → really
+тысяча → thousand
+про → about
+подобный → similar, such
+разный → different
+общий → common, general
+месяц → month
+пройти → to pass, to go through
+кроме → except, besides
+минута → minute
+мало → little, few
+всё → everything, all
+процесс → process
+ситуация → situation
+смочь → to be able, to manage
+автор → author
+начинать → to start, to begin
+форма → form
+голос → voice
+многий → many
+собственный → own
+мысль → thought
+свет → light
+качество → quality
+школа → school
+всякий → every, any
+действие → action
+мужчина → man
+область → region, area
+внимание → attention
+следовать → to follow
+использовать → to use
+дорога → road, way
+связь → connection
+взгляд → look, view
+условие → condition
+молодой → young
+скоро → soon
+снова → again
+любовь → love
+основной → main, basic
+становиться → to become
+важный → important
+ждать → to wait
+вдруг → suddenly
+игра → game
+читать → to read
+статья → article
+организация → organization
+средство → means
+существовать → to exist
+душа → soul
+пытаться → to try
+тело → body
+посмотреть → to look, to watch
+общество → society
+жена → wife
+государство → state
+оставаться → to stay, to remain
+совершенно → absolutely, completely
+письмо → letter, mail
+состояние → state, condition
+вечер → evening
+настоящий → real, genuine
+назад → back, ago
+смысл → meaning, sense
+мера → measure, extent
+семья → family
+простой → simple
+вещь → thing
+вернуться → to return, to come back
+затем → then, afterwards
+причина → reason, cause
+утро → morning
+мать → mother
+рынок → market
+действительно → really, indeed
+происходить → to happen, to go on
+данный → this, the given
+девушка → girl
+вести → to lead, to drive
+сколько → how much, how many
+тема → topic
+стол → table, desk
+проект → project
+улица → street
+государственный → state, government
+помнить → to remember
+называть → to call, to name
+точка → point, period
+появиться → to appear, to show up
+хотеться → to feel like, to want
+нельзя → cannot, must not
+белый → white
+центр → center
+опять → again
+равный → equal
+против → against
+куда → where, where to
+неделя → week
+идея → idea
+особенно → especially
+прийтись → to have to
+комната → room
+иной → other, different
+цена → price
+наконец → finally, at last
+известный → famous, well-known
+среди → among
+сын → son
+деятельность → activity
+узнать → to find out
+играть → to play
+правило → rule
+советский → Soviet
+движение → movement
+заниматься → to do, to be busy with
+точно → exactly, precisely
+огромный → huge, enormous
+мама → mom, mother
+задача → task, problem
+великий → great
+количество → quantity, amount
+чувство → feeling
+иногда → sometimes
+слишком → too
+смерть → death
+достаточно → enough
+лежать → to lie
+помочь → to help
+мнение → opinion, view
+труд → labor, work
+пять → five
+третий → third
+бывать → to be, to visit
+заметить → to notice
+готовый → ready, prepared
+быстро → quickly, fast
+сильный → strong
+порядок → order
+чувствовать → to feel
+создать → to create
+пример → example
+положение → situation, position
+век → century
+продолжать → to continue
+подумать → to think, to consider
+муж → husband
+поскольку → since, as
+уйти → to leave
+хоть → at least, even if
+военный → military
+речь → speech, talk
+план → plan
+совет → advice, council
+политический → political
+стена → wall
+представлять → to imagine
+слышать → to hear
+ходить → to go, to walk
+окно → window
+рядом → nearby, next to
+прежде → before, previously
+показать → to show
+опыт → experience
+тип → type, kind
+оба → both
+около → near, about
+отвечать → to answer
+интерес → interest
+современный → modern
+плохой → bad
+сердце → heart
+управление → management
+наука → science
+сообщение → message
+значит → so, means
+просить → to ask
+немного → a little, a bit
+газета → newspaper
+интересный → interesting, intriguing
+живой → alive
+поставить → to put
+необходимый → necessary
+материал → material
+роль → role
+открыть → to open
+представить → to imagine
+вполне → quite
+будто → as if, as though
+рассказать → to tell
+выходить → to go out
+рано → early
+оставить → to leave
+получать → to get
+давно → long ago
+армия → army
+рабочий → worker
+четыре → four
+бояться → to be afraid
+различный → different, various
+долго → for a long time
+привести → to bring
+президент → president
+либо → either, or
+событие → event
+менее → less
+красный → red
+социальный → social
+искать → to look for
+большинство → most
+бизнес → business
+пусть → let, may
+легко → easily
+правительство → government
+прямо → straight
+глава → head
+член → member
+суд → court
+возможно → maybe
+принимать → to accept
+рубль → ruble
+б → would
+миллион → million
+целый → whole, entire
+приходить → to come
+фильм → movie
+обычно → usually
+спать → to sleep
+небольшой → small
+культура → culture
+текст → text
+брать → to take
+документ → document
+принцип → principle
+разговор → conversation
+телефон → phone
+произойти → to happen
+правый → right
+способ → way
+течение → course
+провести → to spend
+вокруг → around
+проходить → to pass, to go by
+купить → buy, purchase
+родитель → parent
+сей → this
+ряд → row
+ещё → still, yet
+единственный → only
+метр → meter
+сайт → website
+партия → party
+позволять → to allow
+образование → education
+зачем → why
+наверное → probably
+период → period
+кстати → by the way
+пара → pair, couple
+квартира → apartment, flat
+забыть → to forget
+значение → meaning
+внутренний → internal, inner
+связать → to tie, to connect
+требовать → to demand
+далее → further
+основа → basis, foundation
+возможный → possible
+желание → wish, desire
+слушать → to listen
+чуть → a little, slightly
+номер → number, room
+изменение → change
+очередь → line, queue
+политика → politics, policy
+класс → class
+относиться → to treat, to pertain to
+факт → fact
+брат → brother
+собираться → to be going to, to get ready
+довольно → quite, rather
+производство → production
+создание → creation
+район → area, district
+особый → special
+верить → to believe
+спасибо → thank you, thanks
+предприятие → company, enterprise
+близкий → close, near
+ход → move
+экономический → economic
+знакомый → acquaintance, familiar
+человеческий → human
+местный → local
+назвать → to name, to call
+небо → sky
+направление → direction
+туда → there
+удаться → to work out, to succeed
+встреча → meeting
+шаг → step
+остальной → the rest, remaining
+попасть → to get in, to hit
+команда → team
+добрый → kind, good
+поле → field
+исследование → research, study
+общественный → public
+её → her
+мальчик → boy
+метод → method
+повод → reason, occasion
+рост → height, growth
+сначала → first, at first
+рассказывать → to tell
+сон → sleep, dream
+уходить → to leave
+служба → service
+население → population
+воздух → air
+словно → as if, like
+кровь → blood
+спрашивать → to ask
+зрение → eyesight
+врач → doctor
+ехать → to go (by vehicle)
+нравиться → to like
+приходиться → to have to
+знание → knowledge
+войти → to come in, to enter
+предложить → to offer, to propose
+использование → use
+начаться → to begin, to start
+десять → ten
+палец → finger
+обычный → usual, ordinary
+необходимо → necessary, one must
+орган → organ
+доллар → dollar
+держать → to hold, to keep
+название → name, title
+похожий → similar, alike
+реальный → real
+участие → participation
+приехать → to arrive (by vehicle)
+наиболее → the most
+девочка → girl
+крупный → large, major
+море → sea
+природа → nature
+магазин → store, shop
+вроде → sort of, like
+память → memory
+весьма → very, quite
+больший → bigger, greater
+домой → home
+объект → object, site
+свобода → freedom
+продукт → product
+борьба → struggle, fight
+личный → personal
+касаться → to touch
+проводить → to spend, to hold
+отдельный → separate
+успеть → to make it, to have time
+предмет → item, object
+представитель → representative
+плечо → shoulder
+национальный → national
+музыка → music
+позиция → position, stance
+вспомнить → to remember, to recall
+американский → American
+стараться → to try
+герой → hero
+характер → character, nature
+размер → size
+пить → to drink
+средний → average, middle
+срок → deadline, term
+институт → institute, college
+сеть → network
+солнце → sun
+подойти → to come up, to approach
+иначе → otherwise
+показывать → to show
+союз → union, alliance
+дух → spirit
+позволить → to allow
+интернет → internet
+лес → forest, woods
+журнал → magazine
+степень → degree, extent
+предлагать → to offer, to suggest
+территория → territory
+март → March
+успех → success
+искусство → art
+участник → participant
+парень → guy, boy
+свободный → free, available
+гость → guest
+впрочем → however, though
+вариант → option
+предложение → offer, proposal
+судьба → fate, destiny
+составлять → to make up, to come to
+товар → goods
+надеяться → to hope
+действовать → to act, to work
+международный → international
+способный → capable, able
+практически → practically
+директор → director
+полностью → fully, completely
+поздний → late
+песня → song
+случиться → to happen
+ум → mind
+выбор → choice
+модель → model
+река → river
+фирма → company, firm
+гражданин → citizen
+товарищ → comrade
+московский → Moscow
+нормальный → normal, okay
+сознание → consciousness
+картина → picture, painting
+сильно → badly, a lot
+умереть → to die
+апрель → April
+источник → source
+вместо → instead of
+граница → border
+состоять → to consist
+половина → half
+операция → operation, surgery
+оценка → grade, mark
+огонь → fire
+постоянно → constantly
+специалист → specialist
+главное → the main thing
+собака → dog
+компьютер → computer
+красивый → beautiful, handsome
+технология → technology
+дерево → tree, wood
+выход → exit, way out
+гора → mountain, hill
+входить → to enter, to go in
+мировой → world, global
+научный → scientific
+уметь → to be able, to know how
+детский → children's, kids'
+корабль → ship
+желать → to wish, to desire
+берег → shore, coast
+широкий → wide, broad
+низкий → low, short
+убить → to kill
+прекрасный → beautiful, wonderful
+ибо → for, because
+будущее → future
+внешний → external, outer
+литература → literature
+сотрудник → employee, colleague
+среда → Wednesday
+помогать → to help
+бой → fight, battle
+сложный → complex, complicated
+зал → hall
+услышать → to hear
+войско → army, troops
+структура → structure
+несмотря → despite
+пользоваться → to use
+защита → protection, defense
+короткий → short, brief
+начальник → boss, chief
+бумага → paper
+странный → strange, odd
+установить → to install, to establish
+край → edge, region
+ошибка → mistake, error
+церковь → church
+вызвать → to call, to summon
+состав → lineup, composition
+объяснить → to explain
+разве → really, isn't it
+сюда → here, this way
+сообщить → to inform, to report
+чтоб → so that
+прошлый → last, previous
+столько → so much, so many
+понятие → concept, notion
+длинный → long
+поддержка → support
+поднять → to raise, to lift
+возраст → age
+встать → to stand up, to get up
+трудно → hard, difficult
+быстрый → fast, quick
+линия → line
+услуга → service, favor
+роман → novel
+выглядеть → to look, to appear
+иметься → to exist, to be available
+ветер → wind, breeze
+возникать → to arise, to come up
+английский → English
+оказываться → to turn out
+курс → course
+отметить → to mark, to celebrate
+поиск → search
+папа → dad, father
+теория → theory
+добавить → to add
+бывший → former, ex
+пространство → space, area
+столь → so, such
+учиться → to study, to learn
+экономика → economy, economics
+чистый → clean, pure
+специальный → special
+потерять → to lose
+бросить → to throw, to drop
+спина → back
+поведение → behavior
+служить → to serve
+получиться → to turn out, to work out
+оружие → weapon
+страх → fear
+страница → page
+враг → enemy
+вызывать → to call, to summon
+двадцать → twenty
+руководитель → leader, manager
+откуда → from where
+гораздо → much, far
+карта → map
+страшный → terrible, scary
+звук → sound
+камень → stone, rock
+ожидать → to expect, to wait for
+рассказ → story
+обнаружить → to find, to discover
+хозяин → owner, host
+анализ → analysis
+надежда → hope
+вновь → again
+господин → Mr., sir
+солдат → soldier
+единый → unified, single
+цвет → color
+сесть → to sit down
+круг → circle
+попытка → attempt, try
+однажды → once, one day
+комментарий → comment
+клиент → client, customer
+удар → blow, hit
+крайний → last, extreme
+база → base
+доктор → doctor
+необходимость → necessity, need
+остановиться → to stop
+означать → to mean
+глядеть → to look
+появляться → to appear, to show up
+дочь → daughter
+пожалуйста → please, you're welcome
+республика → republic
+представление → idea, notion
+ставить → to put, to set
+поехать → to go (by vehicle)
+волос → hair
+вера → faith, belief
+принести → to bring
+называться → to be called
+отсутствие → absence, lack
+прямой → straight, direct
+масса → mass
+процент → percent
+долгий → long
+выбрать → to choose
+студент → student
+здание → building
+ребята → guys, kids
+угол → corner
+конкретный → specific, concrete
+скорость → speed
+согласиться → to agree
+требование → requirement, demand
+любимый → favorite, beloved
+май → May
+подходить → to fit, to suit
+бежать → to run
+адрес → address
+видно → visible, one can see
+новость → news
+открытый → open
+список → list
+возвращаться → to return, to come back
+энергия → energy
+вывод → conclusion
+учитель → teacher
+возникнуть → to arise, to come up
+договор → contract, agreement
+снять → to take off, to remove
+зависеть → to depend
+сфера → sphere, field
+положить → to put, to lay
+западный → western
+обязательно → definitely, without fail
+немецкий → German
+примерно → approximately, about
+боль → pain
+безопасность → safety, security
+функция → function
+плохо → badly
+некий → a certain, some
+способность → ability
+банк → bank
+удовольствие → pleasure
+основание → basis, grounds
+чужой → someone else's, foreign
+ощущение → feeling, sensation
+противник → opponent
+никак → in no way
+показаться → to seem, to appear
+определить → to determine, to define
+писатель → writer
+звезда → star
+создавать → to create
+знак → sign
+вовсе → at all, not at all
+уверенный → sure, confident
+влияние → influence
+грудь → chest
+контроль → control
+двор → yard, courtyard
+одновременно → at the same time
+пункт → point, item
+получаться → to work out, to succeed
+радость → joy
+завтра → tomorrow
+старший → older, elder
+заявить → to declare, to state
+впечатление → impression
+практика → practice
+внутри → inside
+попросить → to ask, to request
+руководство → leadership, management
+содержание → content, contents
+воля → will, willpower
+январь → January
+боевой → combat, fighting
+хватать → to be enough
+вчера → yesterday
+режим → regime, routine
+очередной → another, next
+отдать → to give, to hand over
+здоровье → health
+расти → to grow
+стоимость → cost, price
+правильный → correct, right
+километр → kilometer
+звать → to call, to be called
+шесть → six
+личность → person, personality
+физический → physical
+регион → region, area
+рот → mouth
+больной → sick, ill
+итог → result, outcome
+предел → limit
+занять → to borrow
+читатель → reader
+медленно → slowly
+старик → old man
+прочий → other, the rest
+победа → victory, win
+элемент → element
+естественно → naturally, of course
+обратиться → to turn to, to address
+постоянный → permanent, constant
+встречаться → to meet, to date
+женский → women's, female
+командир → commander
+август → August
+впервые → for the first time
+секунда → second
+счастливый → happy
+житель → resident, inhabitant
+видимо → apparently
+праздник → holiday, celebration
+множество → a great many, multitude
+сумма → sum, amount
+сцена → scene, stage
+насколько → how much, to what extent
+есть → to eat
+едва → hardly, barely
+техника → equipment, technology
+малый → small, minor
+подготовка → preparation
+сожаление → regret
+ухо → ear
+исторический → historical, historic
+занятие → class, activity
+почувствовать → to feel
+существование → existence
+мужик → guy, man
+городской → city, urban
+октябрь → October
+недавно → recently
+нос → nose
+существо → creature, being
+абсолютно → absolutely, totally
+обладать → to possess, to have
+рамка → frame
+начинаться → to begin, to start
+генерал → general
+благодаря → thanks to, due to
+значить → to mean
+многое → much, many things
+попробовать → to try
+французский → French
+правильно → correctly, right
+сентябрь → September
+известно → it is known
+левый → left
+университет → university
+считаться → to be considered, to count
+частный → private
+глубокий → deep
+многие → many
+клуб → club
+принадлежать → to belong
+подняться → to get up, to rise
+лето → summer
+заставить → to make, to force
+выражение → expression, phrase
+платить → to pay
+спокойно → calmly
+приводить → to bring, to lead
+одежда → clothes, clothing
+ради → for the sake of
+автомобиль → car
+продажа → sale
+закрыть → to close, to shut
+святой → holy, saint
+финансовый → financial
+декабрь → December
+театр → theater
+произведение → work, piece
+построить → to build
+деревня → village
+направить → to send, to direct
+составить → to draw up, to compile
+фонд → fund
+сестра → sister
+отличаться → to differ
+нести → to carry
+кричать → to shout
+встретить → to meet, to encounter
+наблюдать → to watch, to observe
+запад → west
+отказаться → to refuse
+обстоятельство → circumstance
+золотой → gold, golden
+июнь → June
+обращаться → to address, to treat
+версия → version
+зато → but, on the plus side
+министр → minister
+целое → the whole
+акция → sale, promotion
+губа → lip
+немец → German
+дополнительный → additional, extra
+судить → to judge
+пустой → empty
+холодный → cold
+февраль → February
+цветок → flower
+центральный → central
+профессиональный → professional
+завод → factory, plant
+федеральный → federal
+федерация → federation
+технический → technical
+особенность → peculiarity, feature
+понимание → understanding
+носить → to wear
+рождение → birth
+болезнь → illness, disease
+выступать → to speak, to perform
+отправить → to send
+площадь → square
+подход → approach
+занимать → to take up, to occupy
+стремиться → to strive
+станция → station
+решать → to decide, to solve
+обучение → training
+запись → record, recording
+упасть → to fall
+поддерживать → to support
+настолько → so, that
+вниз → down
+значительный → significant, considerable
+напоминать → to remind
+ответственность → responsibility
+народный → folk, people's
+европейский → European
+поэт → poet
+соответствие → correspondence, match
+офицер → officer
+июль → July
+передать → to pass on, to hand over
+выборы → elections
+король → king
+утверждать → to claim, to assert
+позвонить → to call, to ring
+реклама → advertisement, advertising
+революция → revolution
+явление → phenomenon
+отдел → department
+вскоре → soon
+фронт → front
+художник → artist, painter
+информационный → informational
+животное → animal
+пользователь → user
+этап → stage, phase
+стиль → style
+двигаться → to move
+норма → norm
+попытаться → to try, to attempt
+передача → program, show
+ценность → value, worth
+изменить → to change
+фраза → phrase
+определение → definition
+работник → worker, employee
+петь → to sing
+мимо → past, by
+дата → date
+будущий → future, upcoming
+находить → to find
+семь → seven
+капитан → captain
+доход → income
+фотография → photograph, photo
+разработка → development
+волна → wave
+собрать → to gather, to collect
+усилие → effort
+ясный → clear
+профессор → professor
+рассматривать → to consider, to look at
+ноябрь → November
+понравиться → to like
+чай → tea
+указать → to point out
+участвовать → to take part
+перевод → translation
+фактор → factor
+тихо → quietly
+канал → channel
+полезный → useful
+сравнение → comparison
+северный → northern
+взрослый → adult, grown-up
+родиться → to be born
+кабинет → office
+вспоминать → to remember, to recall
+форум → forum
+лично → in person, personally
+духовный → spiritual
+слабый → weak
+подробно → in detail
+наоборот → the other way around
+гражданский → civilian, civil
+итак → so
+журналист → journalist
+проведение → holding, conducting
+выполнять → to carry out
+нынешний → current
+лист → sheet, leaf
+снег → snow
+использоваться → to be used
+обеспечение → support, provision
+комиссия → committee, commission
+закончить → to finish
+поверить → to believe
+слава → glory, fame
+обратить → to turn, to direct
+древний → ancient
+явно → clearly, obviously
+бить → to hit, to beat
+зуб → tooth
+традиция → tradition
+невозможный → impossible
+перестать → to stop
+высота → height
+иностранный → foreign
+естественный → natural
+председатель → chairman
+интересно → interesting
+массовый → mass, large-scale
+звонить → to call
+сосед → neighbor
+ясно → clear
+молчать → to be silent
+выпить → to have a drink
+дальнейший → further
+прочитать → to read
+остров → island
+приятный → pleasant, nice
+наличие → availability
+понятный → understandable, clear
+отправиться → to set off
+сад → garden
+падать → to fall
+кухня → kitchen
+мастер → master, workman
+карман → pocket
+детство → childhood
+хватить → to be enough
+сомнение → doubt
+сотня → a hundred
+покупать → to buy
+участок → plot
+обещать → to promise
+прошлое → the past
+согласно → according to
+строительство → construction
+разумеется → of course, naturally
+пиво → beer
+исчезнуть → to disappear
+тонкий → thin
+простить → to forgive
+устройство → device
+смеяться → to laugh
+богатый → rich, wealthy
+яркий → bright
+соответствовать → to match
+слеза → tear
+согласный → in agreement
+библиотека → library
+общение → contact, communication
+частность → particular
+выполнить → to carry out
+верный → loyal, faithful
+отличие → difference
+собраться → to get together
+поезд → train
+официальный → official
+мелкий → small, minor
+продукция → products, output
+применение → use, application
+царь → tsar
+состояться → to take place
+поток → stream, flow
+польза → use, benefit
+обратно → back
+мешать → to bother, to get in the way
+перейти → to cross, to go over
+настроение → mood
+постепенно → gradually
+двое → two
+редакция → editorial office
+нечто → something
+толпа → crowd
+здоровый → healthy
+планета → planet
+поколение → generation
+реакция → reaction
+умный → smart, intelligent
+вероятно → probably
+механизм → mechanism
+собственно → actually
+птица → bird
+относительно → relatively
+сквозь → through
+хозяйство → household
+жертва → victim
+открывать → to open
+произнести → to say, to pronounce
+ученик → pupil
+организм → body, organism
+послать → to send
+заявление → application
+достижение → achievement
+вверх → up
+бутылка → bottle
+признать → to admit
+определять → to determine
+доля → share
+уехать → to leave, to go away
+измениться → to change
+мозг → brain
+рисунок → drawing
+прежний → former, previous
+музей → museum
+зависимость → dependence, addiction
+дождь → rain
+реализация → implementation
+улыбка → smile
+восток → east
+трудный → hard, difficult
+собрание → meeting
+улыбнуться → to smile
+хлеб → bread
+бабушка → grandmother
+тень → shade, shadow
+испытывать → to feel, to experience
+домашний → home, domestic
+полагать → to suppose
+снимать → to take off
+сегодняшний → today's
+активный → active
+получение → receiving
+помещение → space, premises
+опасный → dangerous
+объявить → to announce
+кожа → skin
+электронный → electronic
+морской → sea, marine
+нарушение → violation
+обеспечить → to provide, to ensure
+ужас → horror
+акт → document, report
+содержать → to contain
+учить → to learn, to teach
+инструмент → tool
+лидер → leader
+комитет → committee
+фигура → figure
+отсюда → from here
+пост → post, position
+лагерь → camp
+след → trace, track
+улыбаться → to smile
+оставлять → to leave
+собственность → property
+раздел → section
+реальность → reality
+потеря → loss
+зима → winter
+экран → screen
+милый → sweet, cute
+погибнуть → to die, to be killed
+традиционный → traditional
+здравствовать → to be well
+переход → crossing, transition
+поздно → late
+кровать → bed
+посвятить → to dedicate
+урок → lesson, class
+секс → sex
+родина → homeland
+вино → wine
+комплекс → complex
+зона → zone, area
+колено → knee
+звучать → to sound
+коллега → colleague
+бедный → poor
+появление → appearance
+издание → edition, publication
+резко → sharply, abruptly
+поговорить → to talk
+еврей → Jew
+нечего → nothing to
+бюджет → budget
+редко → rarely, seldom
+разговаривать → to talk, to converse
+князь → prince
+этаж → floor
+честь → honor
+признак → sign
+требоваться → to be needed, to be required
+истина → truth
+замечательный → wonderful, remarkable
+плакать → to cry
+потребность → need
+придумать → to come up with, to invent
+долг → debt
+храм → temple, church
+заходить → to come in, to drop by
+опасность → danger
+объяснять → to explain
+депутат → deputy
+невозможно → impossible
+поступить → to act, to get in
+выбирать → to choose
+достигнуть → to reach, to achieve
+сохранить → to save, to keep
+встретиться → to meet
+предполагать → to assume, to suppose
+глубина → depth
+приказ → order
+категория → category
+горячий → hot
+устроить → to arrange, to organize
+строить → to build
+администрация → administration
+организовать → to organize
+эффект → effect
+лететь → to fly
+торговый → commercial, shopping
+описание → description
+риск → risk
+расположить → to place, to arrange
+лошадь → horse
+коридор → hallway, corridor
+подруга → female friend
+совершить → to commit, to carry out
+капитал → capital
+исключение → exception
+конкурс → contest, competition
+схема → diagram, layout
+ночной → night
+разница → difference
+весна → spring
+проверить → to check
+черта → line, trait
+возле → near, by
+красота → beauty
+тридцать → thirty
+рыба → fish
+достать → to get, to reach
+глубоко → deeply, deep
+суметь → to manage to
+добиться → to achieve, to get
+опубликовать → to publish
+точный → exact, accurate
+аппарат → device, machine
+трубка → receiver, tube
+говориться → to be said
+восточный → eastern
+садиться → to sit down
+ключ → key
+знаменитый → famous
+фамилия → surname, last name
+включать → to include, to turn on
+захотеть → to want, to feel like
+открытие → discovery, opening
+включить → to turn on, to include
+чудо → miracle, wonder
+взглянуть → to glance, to take a look
+заключаться → to consist in, to lie in
+полк → regiment
+кресло → armchair
+напротив → opposite
+обращение → address, appeal
+описать → to describe
+тихий → quiet
+менять → to change
+чей → whose
+восемь → eight
+серый → gray
+присутствовать → to be present, to attend
+научиться → to learn
+министерство → ministry
+неожиданно → unexpectedly
+кино → cinema, movies
+медицинский → medical
+налог → tax
+штат → state
+железный → iron
+рад → glad
+сведение → information
+культурный → cultural
+конфликт → conflict
+предыдущий → previous
+середина → middle
+вряд → unlikely
+подарок → gift, present
+забывать → to forget
+прекрасно → wonderful
+ранний → early
+запах → smell
+замечать → to notice
+ездить → to go, to ride
+терять → to lose
+пожалуй → I guess, perhaps
+торговля → trade
+камера → camera
+тайна → secret
+преступление → crime
+столица → capital
+выполнение → carrying out, fulfillment
+эпоха → era
+больница → hospital
+выставка → exhibition
+выпуск → issue, release
+литературный → literary
+ссылка → link
+понятно → clear
+уважение → respect
+последствие → consequence
+буква → letter
+изображение → image
+творческий → creative
+фон → background
+учебный → academic, school
+материальный → material
+деталь → detail
+похоже → it seems
+заключение → conclusion
+вес → weight
+автобус → bus
+воспоминание → memory
+просьба → request
+радио → radio
+человечество → humanity
+корпус → building, block
+вкус → taste
+следить → to watch, to follow
+спустя → after
+вырасти → to grow up, to grow
+миллиард → billion
+заседание → meeting, session
+недостаток → shortage, shortcoming
+приносить → to bring
+заранее → in advance
+держаться → to hold on
+отделение → department, ward
+перспектива → prospect
+конференция → conference
+разрешение → permission
+спасти → to save
+мощный → powerful
+тяжело → hard
+готовить → to cook, to prepare
+эффективный → effective
+угроза → threat
+продать → to sell
+производить → to produce
+обед → lunch
+переходить → to cross
+изучение → study
+обеспечивать → to provide
+заставлять → to make, to force
+подниматься → to go up, to rise
+вход → entrance
+страшно → scary
+прочее → the rest, other
+сорок → forty
+дойти → to reach, to get to
+отряд → squad
+скажем → let's say, for example
+поступать → to apply, to enroll
+нижний → lower, bottom
+южный → southern
+газ → gas
+печать → seal, stamp
+водка → vodka
+дед → grandfather, granddad
+телевизор → television, TV
+беседа → conversation, chat
+повышение → raise, increase
+крыша → roof
+звонок → call, ring
+ах → ah, oh
+продолжаться → to continue, to go on
+контакт → contact
+приобрести → to get, to acquire
+истинный → true, genuine
+неужели → really?
+дама → lady
+мягкий → soft
+уважаемый → respected
+допустить → to allow, to let happen
+творчество → creative work
+художественный → artistic
+сутки → 24 hours, a day
+честно → honestly
+ресурс → resource
+поверхность → surface
+свойство → property, quality
+значительно → significantly, a lot
+привыкнуть → to get used to
+доступ → access
+вечный → eternal
+брак → marriage
+стекло → glass
+мероприятие → event
+обсуждение → discussion
+установка → installation
+случайно → accidentally, by chance
+подать → to pass, to serve
+бороться → to fight, to struggle
+мужской → male, men's
+гореть → to burn, to be on
+связанный → related, connected
+лишний → extra, unnecessary
+реформа → reform
+задание → task, assignment
+встречать → to meet, to greet
+пригласить → to invite
+билет → ticket
+свежий → fresh
+обязанность → duty
+ввести → to introduce, to bring in
+расход → expense, consumption
+ведущий → host
+повторять → to repeat
+отечественный → domestic
+владелец → owner
+оборудование → equipment
+беда → trouble
+сообщать → to report, to inform
+впереди → ahead, in front
+немедленно → immediately, at once
+крик → shout, cry
+семейный → family
+дядя → uncle
+показатель → indicator, figure
+указывать → to point, to indicate
+развиваться → to develop
+формирование → formation, forming
+сигнал → signal
+назначить → to set, to appoint
+исходить → to proceed from, to come from
+трава → grass
+лечение → treatment
+ящик → box, drawer
+учреждение → institution
+замок → lock
+воздействие → effect, impact
+стул → chair
+слегка → slightly, a little
+светлый → light, bright
+пропасть → to vanish, to disappear
+учитывать → to take into account
+обстановка → situation
+соответственно → so, accordingly
+сказка → fairy tale
+расстояние → distance
+набор → set, kit
+зло → evil, harm
+шум → noise
+доказать → to prove
+спокойный → calm
+явиться → to show up
+цифра → digit, figure
+сложиться → to work out, to turn out
+познакомиться → to meet, to get acquainted
+мол → they say, like
+диск → disk, disc
+удобный → convenient, comfortable
+меняться → to change, to vary
+оценить → to evaluate, to assess
+кофе → coffee
+шея → neck
+ранее → earlier, previously
+американец → American
+шанс → chance, opportunity
+книжка → book
+произвести → to produce
+игрок → player
+готовиться → to prepare, to get ready
+действительность → reality
+чтение → reading
+лестница → stairs, staircase
+лодка → boat
+продавать → to sell
+вне → outside, beyond
+собирать → to collect, to gather
+давление → pressure
+буквально → literally
+потребитель → consumer
+убийство → murder
+религиозный → religious
+закончиться → to end, to finish
+кусок → piece, chunk
+стратегия → strategy
+достоинство → dignity
+постель → bed
+серия → series, episode
+верхний → upper, top
+основать → to found, to establish
+процедура → procedure
+исключительно → exclusively, solely
+кадр → frame, shot
+рассмотреть → to consider, to examine
+штаб → headquarters
+вставать → to get up, to stand up
+выступление → performance, speech
+извинить → to excuse, to forgive
+внимательно → attentively, carefully
+малыш → little one, toddler
+вернуть → to return, to give back
+еда → food
+милиция → police
+ожидание → waiting, expectation
+господь → Lord, God
+изучать → to study
+философия → philosophy
+смех → laughter
+громко → loudly
+многочисленный → numerous
+жизненный → life
+узкий → narrow
+ценный → valuable
+чиновник → official, bureaucrat
+блок → block
+зайти → to drop in, to come in
+прибыть → to arrive
+страдать → to suffer
+водитель → driver
+концепция → concept
+оттуда → from there
+острый → sharp, spicy
+прислать → to send
+мост → bridge
+поездка → trip
+компьютерный → computer
+разум → mind, reason
+тишина → silence, quiet
+субъект → subject, character
+слух → hearing, rumor
+разработать → to develop
+благо → good, benefit
+покупатель → buyer
+осень → autumn, fall
+мистер → Mr., Mister
+увеличение → increase
+удивительный → amazing, astonishing
+подготовить → to prepare
+танк → tank
+должность → position, post
+записать → to write down, to record
+зарплата → salary
+обращать → to turn, to direct
+родственник → relative
+наступить → to step on, to come
+привет → hello, hi
+пакет → package, bag
+зритель → viewer, spectator
+судья → judge, referee
+мечтать → to dream
+странно → strangely, it's strange
+превратиться → to turn into
+ресторан → restaurant
+плата → fee, payment
+законодательство → legislation
+задать → to pose, to assign
+остановить → to stop
+внезапно → suddenly
+луна → moon
+крайне → extremely
+охрана → security, guard
+публикация → publication
+кивнуть → to nod
+обсуждать → to discuss
+наверняка → for sure, definitely
+напомнить → to remind
+логика → logic
+специально → on purpose, specially
+приезжать → to arrive, to come
+проводиться → to be held
+повторить → repeat, reiterate
+синий → blue
+сущность → essence
+отдавать → to give back
+проверка → check
+следствие → investigation
+зеркало → mirror
+вдоль → along
+конечный → final, last
+обратный → return, reverse
+ладонь → palm
+строка → line
+дальний → distant, far
+ворота → gate
+чисто → clean
+передавать → to pass on
+продолжить → to continue
+мечта → dream
+питание → meals, food
+прибыль → profit
+файл → file
+флот → fleet, navy
+интересовать → to interest
+религия → religion
+божий → God's
+плюс → plus
+кошка → cat
+характерный → characteristic, typical
+толстый → fat, thick
+общаться → to talk, to socialize
+пятый → fifth
+важно → important
+висеть → to hang
+способствовать → to contribute to
+ужасный → terrible, awful
+заказ → order
+отличный → excellent
+запас → reserve, supply
+исполнение → performance
+крыло → wing
+редактор → editor
+тон → tone
+оборона → defense
+дума → the Duma
+полковник → colonel
+соседний → neighboring, next-door
+разрешить → allow, permit
+выпустить → to release
+заместитель → deputy
+достойный → worthy
+кризис → crisis
+спешить → to hurry, to rush
+спор → argument, dispute
+делаться → to be going on, to be done
+озеро → lake
+термин → term
+дикий → wild
+круглый → round
+дно → bottom
+повернуться → to turn around
+младший → younger, junior
+принятие → acceptance, adoption
+эксперт → expert
+уничтожить → to destroy
+характеристика → reference, profile
+попадать → to get into, to hit
+совместный → joint
+тепло → warm, warmth
+следовательно → therefore
+север → north
+индивидуальный → individual
+темнота → darkness
+дыхание → breath, breathing
+концерт → concert
+минимум → minimum, at least
+эксперимент → experiment
+предоставить → to provide, to grant
+региональный → regional
+пища → food
+переговоры → negotiations, talks
+интервью → interview
+агентство → agency
+умирать → to die
+сходить → to go (and come back)
+крепкий → strong
+покупка → purchase
+генеральный → general, chief
+погода → weather
+ограничение → limitation, restriction
+воспитание → upbringing
+сюжет → plot
+китайский → Chinese
+тенденция → trend
+голубой → light blue, blue
+грех → sin
+присутствие → presence
+производитель → manufacturer
+шутка → joke
+проснуться → to wake up
+атака → attack
+регистрация → registration, check-in
+окончание → ending, end
+доклад → report
+клетка → cage
+кандидат → candidate
+символ → symbol
+везде → everywhere
+практический → practical
+перевести → to translate
+нуждаться → to need
+постараться → to try
+непосредственно → directly
+сексуальный → sexy
+включая → including
+неизвестный → unknown
+несчастный → unhappy
+слой → layer
+музыкальный → musical
+помимо → besides, apart from
+назначение → appointment, posting
+виноватый → guilty
+кой → what for
+смена → shift
+положительный → positive
+мясо → meat
+выделить → to highlight, to set aside
+парк → park
+видный → prominent, visible
+статус → status
+тюрьма → prison
+полтора → one and a half
+наблюдение → observation
+разобраться → to figure out, to sort out
+психологический → psychological
+заняться → to take up, to get down to
+поднимать → to lift, to raise
+покинуть → to leave
+болеть → to be sick
+фактически → actually, in fact
+глупый → stupid, foolish
+представляться → to introduce oneself
+преимущество → advantage
+протянуть → to hold out
+соглашение → agreement
+задний → rear, back
+доступный → affordable
+предстоять → to lie ahead
+куча → pile, a bunch
+задавать → to ask
+осторожно → carefully
+устраивать → to suit, to work for
+покой → peace, rest
+бок → side
+добро → good, kindness
+независимый → independent
+объяснение → explanation
+солнечный → sunny
+выразить → to express
+трудность → difficulty
+дурак → fool
+сотрудничество → cooperation
+площадка → playground, site
+устать → to get tired
+конь → horse
+единица → unit
+путешествие → trip, journey
+классический → classic, classical
+честный → honest
+кот → cat
+приказать → to order, to command
+де → they say
+существенный → substantial, significant
+взаимодействие → interaction
+империя → empire
+сомневаться → to doubt
+православный → Orthodox
+вздохнуть → to sigh, to take a breath
+температура → temperature, fever
+бросать → to throw
+отрасль → industry, sector
+платье → dress
+труба → pipe
+стандарт → standard
+отдых → rest
+воспользоваться → to use, to take advantage of
+злой → angry
+добраться → to get to, to reach
+удаваться → to manage, to succeed
+часы → watch, clock
+страсть → passion
+цивилизация → civilization
+дивизия → division
+масло → oil, butter
+пациент → patient
+денежный → money, monetary
+полиция → police
+юг → south
+редкий → rare
+ставка → rate, stake
+соединить → to connect
+юридический → legal
+летать → to fly
+молоко → milk
+костюм → suit
+лоб → forehead
+стакан → glass
+сухой → dry
+дворец → palace
+кончиться → to end, to run out
+промышленность → industry
+спорт → sport
+обмен → exchange
+запретить → to ban, to forbid
+жаль → a pity, too bad
+демократия → democracy
+взрыв → explosion, blast
+широко → widely, wide
+особо → particularly, especially
+стрелять → to shoot
+молча → silently
+убивать → to kill
+стремление → drive, aspiration
+отказ → refusal
+забота → care
+судебный → court, judicial
+нож → knife
+вагон → train car, carriage
+безусловно → of course, certainly
+довольный → pleased, satisfied
+популярный → popular
+нефть → oil
+последующий → following, subsequent
+подписать → to sign
+мышление → thinking
+суббота → Saturday
+округ → district
+выступить → to speak, to perform
+лечь → to lie down, to go to bed
+рассчитывать → to count on
+очевидный → obvious
+пятьдесят → fifty
+управлять → to manage, to run
+вещество → substance
+академия → academy
+продолжение → sequel, continuation
+сантиметр → centimeter
+навсегда → forever
+коллектив → staff, team
+живот → stomach, belly
+штука → thing
+картинка → picture
+корень → root
+сложно → hard, difficult
+затрата → expense, cost
+деревянный → wooden
+возвращение → return
+образец → sample
+земной → earthly
+профессия → profession
+оказывать → to provide
+школьный → school
+вон → out, away
+коммерческий → commercial
+сыграть → to play
+гостиница → hotel
+кампания → campaign
+заболевание → illness, disease
+утверждение → statement, assertion
+выдержать → to bear, to withstand
+село → village
+почта → mail, post office
+космический → space
+повезти → to be lucky, to give a ride
+послушать → to listen
+ой → oh, oops
+слушатель → listener
+привезти → to bring
+пауза → pause
+палата → ward, chamber
+эффективность → efficiency
+кредит → loan, credit
+пьяный → drunk
+победить → to win
+приложение → app, application
+заплатить → to pay
+уверенность → confidence
+убедиться → to make sure
+сэр → sir
+резкий → sharp, abrupt
+сверху → above, on top
+спрос → demand
+различие → difference, distinction
+учение → doctrine, teaching
+трое → three, three people
+отмечать → to celebrate, to mark
+телефонный → telephone, phone
+восприятие → perception
+открыться → to open, to open up
+грязный → dirty, filthy
+доказательство → proof, evidence
+деловой → business, businesslike
+пятница → Friday
+кольцо → ring
+продавец → seller, salesperson
+захватить → to grab, to seize
+персонаж → character
+величина → size, magnitude
+напряжение → tension
+преподаватель → teacher, instructor
+обязательный → mandatory, obligatory
+найтись → to turn up, to be found
+крестьянин → peasant, farmer
+приняться → to set about, to start
+отказываться → to refuse, to decline
+предположить → to suppose, to assume
+поймать → to catch
+сельский → rural, country
+подождать → to wait
+вершина → peak, summit
+строй → formation, order
+доска → board
+японский → Japanese
+секрет → secret
+достигать → to reach, to achieve
+защищать → to protect, to defend
+воспринимать → to perceive, to take
+предпочитать → to prefer
+выдать → to give out, to give away
+ручка → pen
+одинаковый → the same, identical
+ударить → to hit, to strike
+имущество → property
+курить → to smoke
+свидетельствовать → to testify
+подтвердить → to confirm
+броситься → to rush, to throw oneself
+верно → right, correctly
+взяться → to take on, to start
+понедельник → Monday
+строгий → strict, severe
+дышать → to breathe
+портрет → portrait
+противоположный → opposite
+схватить → to grab, to seize
+ядерный → nuclear
+порог → threshold, doorstep
+внести → to bring in, to put in
+окончательно → for good, finally
+объединение → union, association
+сектор → sector
+гулять → to walk, to go out
+подарить → to give (as a gift)
+луч → ray, beam
+подробность → detail
+заключить → to conclude, to enter into
+окружающий → surrounding
+совершать → to commit, to perform
+крутой → cool
+привычка → habit
+уникальный → unique
+лейтенант → lieutenant
+пресса → the press, media
+испытание → test, trial
+эмоция → emotion
+применять → to apply, to use
+девять → nine
+вступить → to join, to enter
+транспорт → transport
+наступление → offensive, onset
+проявление → display, sign
+хвост → tail
+рекламный → advertising, promotional
+воздушный → air, aerial
+вслед → after, following
+уголовный → criminal
+определяться → to make up one's mind, to be determined
+свидетель → witness
+килограмм → kilogram, kilo
+экзамен → exam
+вывести → to take out, to lead out
+тянуть → to pull, to drag
+ощущать → to feel, to sense
+менеджер → manager
+приятно → it's nice, pleasantly
+каменный → stone
+цикл → cycle
+удивление → surprise, astonishment
+еврейский → Jewish
+разумный → reasonable, sensible
+инвестиция → investment
+надпись → writing, inscription
+случаться → to happen
+сумка → bag
+золото → gold
+сигарета → cigarette
+успешный → successful
+забрать → to pick up, to take
+немало → quite a bit, quite a few
+природный → natural
+облако → cloud
+цитата → quote
+полоса → stripe, strip
+рейтинг → rating
+реализовать → to implement, to carry out
+таковой → as such
+указание → instruction
+поход → hike, outing
+вынужденный → forced
+владеть → to own, to command
+воин → warrior
+атмосфера → atmosphere
+поступок → act, deed
+обойтись → to manage, to do without
+баба → woman (colloq.)
+последовать → to follow
+памятник → monument
+спорить → to argue
+офис → office
+случайный → accidental, chance
+отель → hotel
+телевидение → television
+архив → archive
+осуществлять → to carry out
+активно → actively
+инженер → engineer
+удивиться → to be surprised
+нация → nation
+строго → strictly
+успешно → successfully
+знакомство → acquaintance
+текущий → current
+дневник → diary
+влиять → to influence, to affect
+убедить → to convince
+бегать → to run
+кнопка → button
+сделка → deal
+неприятный → unpleasant
+остаток → leftover, remainder
+аспект → aspect
+спортивный → athletic, sports
+поддержать → to support
+программный → software, program
+секретарь → secretary
+выяснить → to find out
+распространение → spread
+правовой → legal
+признаться → to admit
+океан → ocean
+налоговый → tax
+бесконечный → endless
+скрывать → to hide
+посетитель → visitor
+мгновение → moment, instant
+отсутствовать → to be absent
+сохранение → preservation
+больно → it hurts, painfully
+умение → skill, ability
+император → emperor
+вселенная → universe
+прожить → to live, to live on
+намного → much, far
+признание → confession
+губернатор → governor
+стадия → stage
+останавливаться → to stop
+инициатива → initiative
+ремонт → renovation, repairs
+масштаб → scale
+отпустить → to let go
+терпеть → to stand, to tolerate
+пятнадцать → fifteen
+оказать → to provide, to give
+летний → summer
+снижение → drop, reduction
+договориться → to agree
+наступать → to set in
+привлечь → to attract
+выиграть → to win
+дым → smoke
+критика → criticism
+выражать → to express
+оплата → payment
+протяжение → extent, stretch
+параметр → parameter
+лекция → lecture
+танец → dance
+радоваться → to be glad
+распоряжение → order, instruction
+щека → cheek
+вероятность → probability, likelihood
+заработать → to earn
+обсудить → to discuss
+рубеж → frontier, milestone
+интеллектуальный → intellectual
+коробка → box, case
+агент → agent
+заменить → to replace
+согласие → consent, agreement
+критерий → criterion
+посылать → to send
+происхождение → origin
+эфир → air (broadcast)
+смешной → funny
+потребовать → to demand
+абсолютный → absolute
+приятель → buddy, pal
+семинар → seminar
+метро → metro, subway
+рекомендовать → to recommend
+сервер → server
+публика → audience
+молитва → prayer
+очки → glasses
+таблица → table, chart
+юный → young
+сдать → to pass, to hand in
+ненавидеть → to hate
+сопротивление → resistance
+справиться → to manage, to cope
+удача → luck, fortune
+полицейский → police officer
+признавать → to admit, to recognize
+сбор → gathering, collection
+длина → length
+мирный → peaceful
+колесо → wheel
+намерение → intention
+дружба → friendship
+крест → cross
+отлично → excellent, great
+неожиданный → unexpected
+ужин → dinner
+двигатель → engine
+длительный → long, prolonged
+планировать → to plan
+юноша → young man
+талант → talent
+автомат → vending machine
+перемена → change, break
+зверь → beast
+голый → naked, bare
+дискуссия → discussion
+переживать → to worry
+труп → corpse
+прекратить → to stop
+поворот → turn
+священник → priest
+сочинение → essay
+упражнение → exercise
+наказание → punishment
+стратегический → strategic
+выдавать → to issue, to give out
+моральный → moral
+чрезвычайно → extremely
+упомянуть → to mention
+родить → to give birth
+приближаться → to approach
+меч → sword
+обработка → processing
+мобильный → mobile
+ныне → nowadays
+осуществляться → to be carried out
+непонятный → unclear
+сложность → difficulty, complexity
+мешок → sack, bag
+совесть → conscience
+диван → sofa, couch
+охота → hunting
+трудовой → labor, employment
+наркотик → drug
+наверно → probably, perhaps
+сообщество → community
+пассажир → passenger
+областной → regional
+описывать → to describe
+поэзия → poetry
+убрать → to put away, to tidy
+закрывать → to close
+премия → bonus, prize
+рыночный → market
+достаточный → sufficient
+опустить → to lower, to drop
+сценарий → script, scenario
+психология → psychology
+код → code
+увы → alas
+экипаж → crew
+контролировать → to control
+помощник → assistant, helper
+кормить → to feed
+кость → bone
+ассоциация → association
+предприниматель → entrepreneur
+увеличить → to increase
+распространить → to spread
+спектакль → play, show
+порт → port, harbor
+краска → paint, dye
+дочка → daughter
+предусмотреть → to allow for, to provide for
+ракета → rocket, missile
+жениться → to get married
+постановление → decree, resolution
+зря → in vain, for nothing
+грязь → mud, dirt
+свидетельство → certificate, evidence
+задуматься → to stop and think
+крикнуть → to shout, to yell
+песок → sand
+темп → pace, tempo
+избежать → to avoid
+потолок → ceiling
+аудитория → audience, lecture hall
+привычный → usual, familiar
+отпуск → vacation, leave
+тщательно → thoroughly, carefully
+анекдот → joke
+ангел → angel
+подобно → like, similarly to
+монастырь → monastery
+внизу → downstairs, below
+маршрут → route
+необычный → unusual
+пыль → dust
+прочесть → to read
+приглашать → to invite
+растение → plant
+демократический → democratic
+проверять → to check
+идеальный → ideal, perfect
+оборот → turnover
+падение → fall, drop
+бесплатный → free
+надеть → to put on
+никуда → nowhere
+боец → fighter
+ровно → exactly
+введение → introduction
+аргумент → argument
+ткань → fabric, cloth
+сохраниться → to be preserved, to remain
+пережить → to live through, to survive
+склад → warehouse
+яйцо → egg
+запрос → request, inquiry
+нужда → need, necessity
+доверие → trust
+нежный → gentle, tender
+горло → throat
+научить → to teach
+столик → table
+предназначить → to destine, to assign
+формат → format
+британский → British
+покрыть → to cover
+тратить → to spend
+существующий → existing
+съесть → to eat up
+выясниться → to come to light
+адвокат → lawyer
+уход → care
+опытный → experienced
+пистолет → pistol, gun
+промышленный → industrial
+подросток → teenager
+бомба → bomb
+повернуть → to turn
+башня → tower
+навстречу → towards, to meet
+подразделение → unit, division
+заведение → establishment, venue
+социально → socially
+навык → skill
+хозяйка → hostess, landlady
+доставить → to deliver
+вытащить → to pull out
+богатство → wealth
+понадобиться → to be needed
+уважать → to respect
+верховный → supreme
+мотив → motive
+поражение → defeat
+туалет → toilet, restroom
+бытие → existence, being
+сохранять → to keep, to preserve
+тревога → anxiety, alarm
+набрать → to dial, to recruit
+защитить → to protect, to defend
+остановка → stop, bus stop
+дорого → expensive
+жестокий → cruel, brutal
+крепко → tightly, firmly
+решиться → to make up one's mind, to dare
+реально → really, for real
+лишить → to deprive, to strip
+выходной → day off
+административный → administrative
+дрожать → to tremble, to shiver
+близко → close, near
+плод → fruit
+судно → ship, vessel
+борт → board, side
+проживать → to reside, to live
+самостоятельно → independently, on one's own
+соединение → connection, compound
+впоследствии → afterwards, subsequently
+контракт → contract
+диалог → dialogue
+пахнуть → to smell
+заговорить → to start talking
+свадьба → wedding
+туман → fog, mist
+прибор → device, appliance
+восторг → delight
+подчеркнуть → to emphasize, to underline
+лорд → lord
+качественный → high-quality
+точность → accuracy, precision
+превращаться → to turn into
+выпускать → to release, to issue
+высказать → to express, to voice
+девчонка → girl
+персонал → staff, personnel
+тайный → secret
+воскликнуть → to exclaim
+майор → major
+оценивать → to evaluate, to assess
+обернуться → to turn around, to turn out
+молчание → silence
+побежать → to run, to dash
+мальчишка → boy, lad
+особенный → special, particular
+предоставлять → to provide, to grant
+раздаться → to ring out
+оператор → operator
+конституция → constitution
+развивать → to develop
+пустить → to let, to release
+карточка → card
+подавать → to pass, to serve
+поразить → to amaze, to strike
+кодекс → code
+аналогичный → similar, analogous
+беременность → pregnancy
+хранить → to keep, to store
+исследователь → researcher
+исчезать → to disappear, to vanish
+француз → Frenchman
+замуж → married, to marry
+препарат → medication, drug
+игрушка → toy
+весело → fun, cheerfully
+конструкция → construction, structure
+сезон → season
+самостоятельный → independent
+формула → formula
+рассмотрение → consideration, review
+заглянуть → to drop by, to look in
+пробовать → to try, to taste
+посадить → to seat, to plant
+дон → the Don
+кулак → fist
+физика → physics
+всеобщий → universal, general
+насилие → violence, abuse
+жест → gesture
+нанести → to apply, to inflict
+исходный → original, initial
+вынудить → to force, to compel
+обслуживание → service, maintenance
+освободить → to free, to release
+англичанин → Englishman
+бригада → crew, brigade
+вызов → challenge, call
+капля → drop
+лаборатория → laboratory, lab
+спасение → rescue, salvation
+непосредственный → direct, immediate
+гибель → death, ruin
+полчаса → half an hour, thirty minutes
+полка → shelf
+паспорт → passport
+подозревать → to suspect
+обязательство → obligation, commitment
+активность → activity
+горный → mountain, mountainous
+протокол → protocol

@@ -1,0 +1,454 @@
+{
+  "deck": "15260224",
+  "reviewed": 500,
+  "changes": [
+    {
+      "row": 1,
+      "before": [
+        "перерезать",
+        "cut, sever",
+        "Он перерезал канат ножом.",
+        "He cut the rope with a knife."
+      ],
+      "after": [
+        "перерезать",
+        "to cut through, to sever",
+        "Он перерезал канат ножом.",
+        "He severed the rope with a knife."
+      ],
+      "reason": "Preserve cutting fully through."
+    },
+    {
+      "row": 44,
+      "before": [
+        "регистр",
+        "register",
+        "У неё высокий регистр голоса.",
+        "She has a high register."
+      ],
+      "after": [
+        "регистр",
+        "register",
+        "У неё высокий регистр голоса.",
+        "Her voice has a high register."
+      ],
+      "reason": "Restore vocal context."
+    },
+    {
+      "row": 51,
+      "before": [
+        "замкнуть",
+        "close, lock",
+        "Он замкнул дверь.",
+        "He locked the door."
+      ],
+      "after": [
+        "замкнуть",
+        "close, lock",
+        "Люди замкнули круг.",
+        "The people closed the circle."
+      ],
+      "reason": "Use natural замкнуть collocation rather than замкнуть дверь. Use prior-deck vocabulary with a natural closing-circle example."
+    },
+    {
+      "row": 75,
+      "before": [
+        "затягивать",
+        "to drag on, to tighten",
+        "Он затягивает пояс.",
+        "He tightens the belt."
+      ],
+      "after": [
+        "затягивать",
+        "to prolong, to tighten",
+        "Он затягивает пояс.",
+        "He tightens the belt."
+      ],
+      "reason": "Transitive prolong, not intransitive drag on."
+    },
+    {
+      "row": 79,
+      "before": [
+        "оговорить",
+        "discuss, agree upon",
+        "Давайте оговорим план.",
+        "Let's discuss the plan."
+      ],
+      "after": [
+        "оговорить",
+        "to stipulate, to agree on in advance",
+        "Мы оговорили условия.",
+        "We agreed on the conditions in advance."
+      ],
+      "reason": "Preserve specifying terms rather than merely discussing."
+    },
+    {
+      "row": 80,
+      "before": [
+        "заткнуться",
+        "shut up, be quiet",
+        "Заткнись и слушай!",
+        "Shut up and listen!"
+      ],
+      "after": [
+        "заткнуться",
+        "to shut up (rude)",
+        "Заткнись и слушай!",
+        "Shut up and listen!"
+      ],
+      "reason": "Mark register."
+    },
+    {
+      "row": 87,
+      "before": [
+        "избивать",
+        "to beat, to batter",
+        "Они избивают пленных.",
+        "They beat the prisoners."
+      ],
+      "after": [
+        "избивать",
+        "to beat up, to batter",
+        "Они избивают пленных.",
+        "They beat up the prisoners."
+      ],
+      "reason": "Specify physical assault."
+    },
+    {
+      "row": 97,
+      "before": [
+        "трудоустройство",
+        "employment, job placement",
+        "Она ищет трудоустройство.",
+        "She is looking for employment."
+      ],
+      "after": [
+        "трудоустройство",
+        "employment, job placement",
+        "Она просит помощи с трудоустройством.",
+        "She is asking for help with employment."
+      ],
+      "reason": "Replace unnatural ищет трудоустройство."
+    },
+    {
+      "row": 126,
+      "before": [
+        "тракт",
+        "route, tract",
+        "Старый тракт ведёт в лес.",
+        "The old route leads into the forest."
+      ],
+      "after": [
+        "тракт",
+        "road (old usage); tract (anatomy, etc.)",
+        "Старый тракт ведёт в лес.",
+        "The old road leads into the forest."
+      ],
+      "reason": "Give concrete road meaning instead of generic route."
+    },
+    {
+      "row": 147,
+      "before": [
+        "доменный",
+        "blast furnace",
+        "Доменная печь горячая.",
+        "The blast furnace is hot."
+      ],
+      "after": [
+        "доменный",
+        "blast-furnace (attributive); domain (attributive)",
+        "Доменная печь горячая.",
+        "The blast furnace is hot."
+      ],
+      "reason": "Clarify adjective and modern domain sense."
+    },
+    {
+      "row": 151,
+      "before": [
+        "унизить",
+        "humiliate, degrade",
+        "Не унизь друга.",
+        "Do not humiliate a friend."
+      ],
+      "after": [
+        "унизить",
+        "humiliate, degrade",
+        "Он унизил друга.",
+        "He humiliated a friend."
+      ],
+      "reason": "Use natural perfective event."
+    },
+    {
+      "row": 173,
+      "before": [
+        "лужайка",
+        "lawn, meadow",
+        "Сын играет на лужайке.",
+        "The son is playing on the lawn."
+      ],
+      "after": [
+        "лужайка",
+        "lawn, meadow",
+        "Сын играет на лужайке.",
+        "My son is playing on the lawn."
+      ],
+      "reason": "Use natural English family possessive."
+    },
+    {
+      "row": 185,
+      "before": [
+        "изнасиловать",
+        "to rape, to violate",
+        "Он изнасиловал её.",
+        "He raped her."
+      ],
+      "after": [
+        "изнасиловать",
+        "to rape",
+        "Он изнасиловал её.",
+        "He raped her."
+      ],
+      "reason": "Avoid broad euphemistic violate gloss."
+    },
+    {
+      "row": 187,
+      "before": [
+        "каприз",
+        "caprice, whim",
+        "Это каприз сына.",
+        "This is the son's caprice."
+      ],
+      "after": [
+        "каприз",
+        "whim, caprice",
+        "Это каприз сына.",
+        "This is my son’s whim."
+      ],
+      "reason": "Use natural everyday English phrasing."
+    },
+    {
+      "row": 192,
+      "before": [
+        "затаить",
+        "to conceal, to harbor",
+        "Он затаил злобу.",
+        "He harbored anger."
+      ],
+      "after": [
+        "затаить",
+        "to conceal, to harbor",
+        "Он затаил злобу.",
+        "He harbored spite."
+      ],
+      "reason": "Match злоба rather than generic anger."
+    },
+    {
+      "row": 219,
+      "before": [
+        "погреб",
+        "cellar, basement",
+        "Вино стоит в погребе.",
+        "The wine stands in the cellar."
+      ],
+      "after": [
+        "погреб",
+        "cellar, basement",
+        "Вино стоит в погребе.",
+        "The wine is in the cellar."
+      ],
+      "reason": "Natural English for stored wine."
+    },
+    {
+      "row": 233,
+      "before": [
+        "слетать",
+        "to fly, to make a quick trip",
+        "Я слетаю в город завтра.",
+        "I will fly to the city tomorrow."
+      ],
+      "after": [
+        "слетать",
+        "to fly there and back; to fly off",
+        "Я слетаю в город завтра.",
+        "I will fly to the city and back tomorrow."
+      ],
+      "reason": "Preserve round-trip meaning."
+    },
+    {
+      "row": 264,
+      "before": [
+        "надзиратель",
+        "overseer, supervisor",
+        "Надзиратель стоит у двери.",
+        "The overseer stands at the door."
+      ],
+      "after": [
+        "надзиратель",
+        "overseer, prison guard",
+        "Надзиратель стоит у двери.",
+        "The overseer stands at the door."
+      ],
+      "reason": "Supervisor is too broad for disciplinary guarding role."
+    },
+    {
+      "row": 312,
+      "before": [
+        "копа",
+        "stack, sixty",
+        "Там копа сена.",
+        "There is a stack of hay."
+      ],
+      "after": [
+        "копа",
+        "haystack (regional); sixty (archaic counting unit)",
+        "Там копа сена.",
+        "There is a haystack there."
+      ],
+      "reason": "Mark rare senses and make example concrete."
+    },
+    {
+      "row": 334,
+      "before": [
+        "виток",
+        "turn, coil",
+        "Это виток провода.",
+        "This is a coil of wire."
+      ],
+      "after": [
+        "виток",
+        "turn, loop (of a coil)",
+        "Это виток провода.",
+        "This is one turn of wire."
+      ],
+      "reason": "A виток is one turn, not the entire coil."
+    },
+    {
+      "row": 350,
+      "before": [
+        "взыскание",
+        "debt collection, recovery",
+        "Это взыскание долга.",
+        "This is debt collection."
+      ],
+      "after": [
+        "взыскание",
+        "recovery, collection; penalty",
+        "Это взыскание долга.",
+        "This is collection of a debt."
+      ],
+      "reason": "Debt is supplied by долга; взыскание also has disciplinary sense."
+    },
+    {
+      "row": 354,
+      "before": [
+        "паста",
+        "toothpaste, paste",
+        "Это зубная паста.",
+        "This is toothpaste."
+      ],
+      "after": [
+        "паста",
+        "paste; toothpaste (зубная паста)",
+        "Это зубная паста.",
+        "This is toothpaste."
+      ],
+      "reason": "Mark phrase-dependent toothpaste sense."
+    },
+    {
+      "row": 361,
+      "before": [
+        "напрягаться",
+        "to strain, to tense up",
+        "Не напрягайся так.",
+        "Do not strain so."
+      ],
+      "after": [
+        "напрягаться",
+        "to strain, to tense up",
+        "Не напрягайся так.",
+        "Do not strain yourself so much."
+      ],
+      "reason": "Natural English strain construction."
+    },
+    {
+      "row": 369,
+      "before": [
+        "материться",
+        "to swear, to curse",
+        "Не матерись.",
+        "Do not swear."
+      ],
+      "after": [
+        "материться",
+        "to swear, to use obscene language",
+        "Не матерись.",
+        "Do not swear."
+      ],
+      "reason": "Clarify obscene swearing rather than any curse."
+    },
+    {
+      "row": 412,
+      "before": [
+        "ахнуть",
+        "gasp, sigh",
+        "Она ахнула.",
+        "She gasped."
+      ],
+      "after": [
+        "ахнуть",
+        "to gasp",
+        "Она ахнула.",
+        "She gasped."
+      ],
+      "reason": "Sigh is вздохнуть, not ахнуть."
+    },
+    {
+      "row": 447,
+      "before": [
+        "витать",
+        "to hover, to float; to have one's head in the clouds",
+        "Он витает в облаках.",
+        "His head is in the clouds."
+      ],
+      "after": [
+        "витать",
+        "to hover, to float; to have one’s head in the clouds (витать в облаках)",
+        "Он витает в облаках.",
+        "His head is in the clouds."
+      ],
+      "reason": "Label idiomatic sense."
+    },
+    {
+      "row": 467,
+      "before": [
+        "вкратце",
+        "briefly, in brief",
+        "Он сказал вкратце.",
+        "He said it briefly."
+      ],
+      "after": [
+        "вкратце",
+        "briefly, in brief",
+        "Он объяснил всё вкратце.",
+        "He explained everything briefly."
+      ],
+      "reason": "Complete Russian clause naturally."
+    },
+    {
+      "row": 479,
+      "before": [
+        "притащить",
+        "drag, bring",
+        "Притащи стул.",
+        "Drag the chair."
+      ],
+      "after": [
+        "притащить",
+        "drag, bring",
+        "Притащи стул.",
+        "Drag the chair here."
+      ],
+      "reason": "Preserve arrival/destination implied by притащить."
+    }
+  ]
+}

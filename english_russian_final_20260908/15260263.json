@@ -1,0 +1,605 @@
+{
+  "deck": "15260263",
+  "reviewed": 500,
+  "changes": [
+    {
+      "deck": "15260263",
+      "row": 8,
+      "card_number": 3508,
+      "before": [
+        "Christmas",
+        "рождество",
+        "Christmas brings families together.",
+        "Рождество собирает вместе семьи."
+      ],
+      "after": [
+        "Christmas",
+        "Рождество",
+        "Christmas brings families together.",
+        "Рождество собирает вместе семьи."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Capitalize holiday name."
+    },
+    {
+      "deck": "15260263",
+      "row": 13,
+      "card_number": 3513,
+      "before": [
+        "academic",
+        "академический",
+        "She wanted an academic career.",
+        "Она хотела академическую карьеру."
+      ],
+      "after": [
+        "academic",
+        "академический",
+        "She chose an academic career.",
+        "Она выбрала академическую карьеру."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Natural Russian career construction."
+    },
+    {
+      "deck": "15260263",
+      "row": 37,
+      "card_number": 3537,
+      "before": [
+        "Republican",
+        "республиканский",
+        "He supports the Republican party.",
+        "Он поддерживает республиканскую партию."
+      ],
+      "after": [
+        "Republican",
+        "республиканский; республиканец (существительное)",
+        "He supports the Republican Party.",
+        "Он поддерживает Республиканскую партию."
+      ],
+      "fields": [
+        "Russian translation",
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Capitalize party name consistently."
+    },
+    {
+      "deck": "15260263",
+      "row": 54,
+      "card_number": 3554,
+      "before": [
+        "scoundrel",
+        "сволочь",
+        "He is a scoundrel.",
+        "Он сволочь."
+      ],
+      "after": [
+        "scoundrel",
+        "подлец; сволочь (грубое)",
+        "He is a scoundrel.",
+        "Он сволочь."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Mark stronger Russian insult register."
+    },
+    {
+      "deck": "15260263",
+      "row": 59,
+      "card_number": 3559,
+      "before": [
+        "frank",
+        "откровенный",
+        "He was frank about his feelings.",
+        "Он был откровенен в своих чувствах."
+      ],
+      "after": [
+        "frank",
+        "откровенный",
+        "He was frank with her.",
+        "Он был откровенен с ней."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Frank about feelings means speaking openly, not feelings themselves being frank. Use an inflected adjective as the exact target."
+    },
+    {
+      "deck": "15260263",
+      "row": 87,
+      "card_number": 3587,
+      "before": [
+        "housing",
+        "жилищный",
+        "This is a housing question.",
+        "Это жилищный вопрос."
+      ],
+      "after": [
+        "housing",
+        "жильё; жилищный (прилагательное)",
+        "This is a housing problem.",
+        "Это жилищная проблема."
+      ],
+      "fields": [
+        "Russian translation",
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Include noun and use natural housing problem."
+    },
+    {
+      "deck": "15260263",
+      "row": 88,
+      "card_number": 3588,
+      "before": [
+        "shit",
+        "дерьмо",
+        "This is shit.",
+        "Это дерьмо."
+      ],
+      "after": [
+        "shit",
+        "дерьмо (грубое)",
+        "This is shit.",
+        "Это дерьмо."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Mark vulgar register."
+    },
+    {
+      "deck": "15260263",
+      "row": 96,
+      "card_number": 3596,
+      "before": [
+        "essay",
+        "очерк",
+        "She published an essay.",
+        "Она опубликовала очерк."
+      ],
+      "after": [
+        "essay",
+        "эссе, очерк; сочинение",
+        "She published an essay.",
+        "Она опубликовала очерк."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Include common essay senses."
+    },
+    {
+      "deck": "15260263",
+      "row": 107,
+      "card_number": 3607,
+      "before": [
+        "copper",
+        "медный",
+        "The copper wire is here.",
+        "Медный провод здесь."
+      ],
+      "after": [
+        "copper",
+        "медь; медный (прилагательное)",
+        "The copper wire is here.",
+        "Медный провод здесь."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Include material noun."
+    },
+    {
+      "deck": "15260263",
+      "row": 112,
+      "card_number": 3612,
+      "before": [
+        "science fiction",
+        "фантастика",
+        "I love science fiction.",
+        "Я люблю фантастику."
+      ],
+      "after": [
+        "science fiction",
+        "научная фантастика",
+        "I love science fiction.",
+        "Я люблю научную фантастику."
+      ],
+      "fields": [
+        "Russian translation",
+        "Russian example"
+      ],
+      "reason": "Distinguish science fiction from broader фантастика."
+    },
+    {
+      "deck": "15260263",
+      "row": 131,
+      "card_number": 3631,
+      "before": [
+        "law enforcement",
+        "правоохранительный",
+        "This is a law enforcement agency.",
+        "Это правоохранительный орган."
+      ],
+      "after": [
+        "law enforcement",
+        "правоохранительная деятельность; правоохранительный (прилагательное)",
+        "This is a law enforcement agency.",
+        "Это правоохранительный орган."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Include noun-phrase sense."
+    },
+    {
+      "deck": "15260263",
+      "row": 142,
+      "card_number": 3642,
+      "before": [
+        "they say",
+        "дескать",
+        "They say he is home.",
+        "Он, дескать, дома."
+      ],
+      "after": [
+        "they say",
+        "говорят; дескать (разговорная частица передачи чужих слов)",
+        "They say he is home.",
+        "Он, дескать, дома."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Identify reported-speech particle."
+    },
+    {
+      "deck": "15260263",
+      "row": 149,
+      "card_number": 3649,
+      "before": [
+        "plastic",
+        "пластиковый",
+        "She bought a plastic bottle.",
+        "Она купила пластиковую бутылку."
+      ],
+      "after": [
+        "plastic",
+        "пластик; пластиковый (прилагательное)",
+        "She bought a plastic bottle.",
+        "Она купила пластиковую бутылку."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Include material noun."
+    },
+    {
+      "deck": "15260263",
+      "row": 159,
+      "card_number": 3659,
+      "before": [
+        "stress",
+        "стресс",
+        "Stress is bad for health.",
+        "Стресс плох для здоровья."
+      ],
+      "after": [
+        "stress",
+        "стресс",
+        "Stress is bad for health.",
+        "Стресс вреден для здоровья."
+      ],
+      "fields": [
+        "Russian example"
+      ],
+      "reason": "Natural Russian harmful-to-health collocation."
+    },
+    {
+      "deck": "15260263",
+      "row": 190,
+      "card_number": 3690,
+      "before": [
+        "conductor",
+        "проводник",
+        "The conductor checked our tickets.",
+        "Проводник проверил наши билеты."
+      ],
+      "after": [
+        "conductor",
+        "проводник (в поезде); кондуктор; дирижёр",
+        "The conductor checked our tickets.",
+        "Проводник проверил наши билеты."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Distinguish ticket-checker and musical senses."
+    },
+    {
+      "deck": "15260263",
+      "row": 201,
+      "card_number": 3701,
+      "before": [
+        "entry",
+        "входной",
+        "The entry ticket costs ten dollars.",
+        "Входной билет стоит десять долларов."
+      ],
+      "after": [
+        "entry",
+        "вход; входной (прилагательное)",
+        "The entry ticket costs ten dollars.",
+        "Входной билет стоит десять долларов."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Include noun sense."
+    },
+    {
+      "deck": "15260263",
+      "row": 221,
+      "card_number": 3721,
+      "before": [
+        "child",
+        "дитя",
+        "Every child is here.",
+        "Каждое дитя здесь."
+      ],
+      "after": [
+        "child",
+        "ребёнок; дитя (книжное)",
+        "Every child is here.",
+        "Каждое дитя здесь."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Mark literary singular form."
+    },
+    {
+      "deck": "15260263",
+      "row": 235,
+      "card_number": 3735,
+      "before": [
+        "Allah",
+        "аллах",
+        "They believe in Allah.",
+        "Они верят в Аллаха."
+      ],
+      "after": [
+        "Allah",
+        "Аллах",
+        "They believe in Allah.",
+        "Они верят в Аллаха."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Capitalize proper name."
+    },
+    {
+      "deck": "15260263",
+      "row": 250,
+      "card_number": 3750,
+      "before": [
+        "vicinity",
+        "окрестность",
+        "We live in the vicinity.",
+        "Мы живём в окрестностях."
+      ],
+      "after": [
+        "vicinity",
+        "окрестности",
+        "We live in the vicinity.",
+        "Мы живём в окрестностях."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Use usual plural for surrounding area."
+    },
+    {
+      "deck": "15260263",
+      "row": 274,
+      "card_number": 3774,
+      "before": [
+        "accounting",
+        "бухгалтерский",
+        "She works in the accounting department.",
+        "Она работает в бухгалтерском отделе."
+      ],
+      "after": [
+        "accounting",
+        "бухгалтерский учёт; бухгалтерский (прилагательное)",
+        "She works in the accounting department.",
+        "Она работает в бухгалтерском отделе."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Include noun phrase."
+    },
+    {
+      "deck": "15260263",
+      "row": 334,
+      "card_number": 3834,
+      "before": [
+        "bitch",
+        "сука",
+        "She called him a bitch.",
+        "Она назвала его сукой."
+      ],
+      "after": [
+        "bitch",
+        "сука (о собаке; как оскорбление — грубое)",
+        "She called him a bitch.",
+        "Она назвала его сукой."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Mark insult register."
+    },
+    {
+      "deck": "15260263",
+      "row": 337,
+      "card_number": 3837,
+      "before": [
+        "moreover",
+        "притом",
+        "She refused, and moreover, she left early.",
+        "Она отказалась, и притом она ушла рано."
+      ],
+      "after": [
+        "moreover",
+        "притом",
+        "She refused, and moreover, she left early.",
+        "Она отказалась, притом ушла рано."
+      ],
+      "fields": [
+        "Russian example"
+      ],
+      "reason": "Remove redundant pronoun and conjunction."
+    },
+    {
+      "deck": "15260263",
+      "row": 338,
+      "card_number": 3838,
+      "before": [
+        "personnel",
+        "кадровый",
+        "This is a personnel question.",
+        "Это кадровый вопрос."
+      ],
+      "after": [
+        "personnel",
+        "персонал, кадры; кадровый (прилагательное)",
+        "This is a personnel problem.",
+        "Это кадровая проблема."
+      ],
+      "fields": [
+        "Russian translation",
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Include personnel as people, and natural sample."
+    },
+    {
+      "deck": "15260263",
+      "row": 355,
+      "card_number": 3855,
+      "before": [
+        "anniversary",
+        "юбилей",
+        "Today is the school's anniversary.",
+        "Сегодня юбилей школы."
+      ],
+      "after": [
+        "anniversary",
+        "годовщина; юбилей (круглая или значимая дата)",
+        "Today is the school's anniversary.",
+        "Сегодня юбилей школы."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Not every anniversary is a юбилей."
+    },
+    {
+      "deck": "15260263",
+      "row": 386,
+      "card_number": 3886,
+      "before": [
+        "hurtful",
+        "обидно",
+        "This is hurtful.",
+        "Это обидно."
+      ],
+      "after": [
+        "hurtful",
+        "обидный; обидно (в сказуемом)",
+        "This is hurtful.",
+        "Это обидно."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Distinguish adjective and predicate form."
+    },
+    {
+      "deck": "15260263",
+      "row": 429,
+      "card_number": 3929,
+      "before": [
+        "insult",
+        "оскорбление",
+        "He took her words as an insult.",
+        "Он принял её слова как оскорбление."
+      ],
+      "after": [
+        "insult",
+        "оскорбление",
+        "He took her words as an insult.",
+        "Он принял её слова за оскорбление."
+      ],
+      "fields": [
+        "Russian example"
+      ],
+      "reason": "Correct принять за construction."
+    },
+    {
+      "deck": "15260263",
+      "row": 465,
+      "card_number": 3965,
+      "before": [
+        "paid",
+        "платный",
+        "The museum has paid lessons.",
+        "В музее есть платные уроки."
+      ],
+      "after": [
+        "paid",
+        "оплаченный; платный (за деньги)",
+        "These lessons are paid for.",
+        "Эти уроки оплачены."
+      ],
+      "fields": [
+        "Russian translation",
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Distinguish paid-for from lessons for which students must pay."
+    },
+    {
+      "deck": "15260263",
+      "row": 472,
+      "card_number": 3972,
+      "before": [
+        "authoritative",
+        "властный",
+        "He spoke in an authoritative tone.",
+        "Он говорил властным тоном."
+      ],
+      "after": [
+        "authoritative",
+        "авторитетный; властный (о тоне)",
+        "He spoke in an authoritative tone.",
+        "Он говорил властным тоном."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Include reliable authoritative sense separately from commanding tone."
+    }
+  ]
+}

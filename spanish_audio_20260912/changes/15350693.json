@@ -1,0 +1,1220 @@
+[
+  {
+    "row": 1,
+    "cardId": 491517337,
+    "before": {
+      "question": "# Translate:\n\nto answer\n\n## Footnote\n\nI called her to answer my question.",
+      "answer": "responder\n\n## Footnote\n\nLa llamé para que respondiera mi pregunta.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "to answer",
+      "qMdClarifier": "",
+      "qMdFootnote": "I called her to answer my question.",
+      "aMdPrompt": "",
+      "aMdBody": "responder",
+      "aMdClarifier": "",
+      "aMdFootnote": "La llamé para que respondiera mi pregunta."
+    },
+    "after": {
+      "question": "# Translate:\n\nto answer\n\n## Footnote\n\nI asked her to answer my question.",
+      "answer": "responder\n\n## Footnote\n\nLe pedí que respondiera mi pregunta.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "to answer",
+      "qMdClarifier": "",
+      "qMdFootnote": "I asked her to answer my question.",
+      "aMdPrompt": "",
+      "aMdBody": "responder",
+      "aMdClarifier": "",
+      "aMdFootnote": "Le pedí que respondiera mi pregunta."
+    },
+    "reason": "Clarify who is answering."
+  },
+  {
+    "row": 19,
+    "cardId": 491517355,
+    "before": {
+      "question": "# Translate:\n\nseason\n\n## Footnote\n\nWinter is my favorite season.",
+      "answer": "temporada\n\n## Footnote\n\nEl invierno es mi temporada favorita.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "season",
+      "qMdClarifier": "",
+      "qMdFootnote": "Winter is my favorite season.",
+      "aMdPrompt": "",
+      "aMdBody": "temporada",
+      "aMdClarifier": "",
+      "aMdFootnote": "El invierno es mi temporada favorita."
+    },
+    "after": {
+      "question": "# Translate:\n\nseason\n\n## Footnote\n\nThe rainy season starts now.",
+      "answer": "temporada\n\n## Footnote\n\nLa temporada de lluvias empieza ahora.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "season",
+      "qMdClarifier": "",
+      "qMdFootnote": "The rainy season starts now.",
+      "aMdPrompt": "",
+      "aMdBody": "temporada",
+      "aMdClarifier": "",
+      "aMdFootnote": "La temporada de lluvias empieza ahora."
+    },
+    "reason": "Use temporada, not a calendar season estación."
+  },
+  {
+    "row": 20,
+    "cardId": 491517356,
+    "before": {
+      "question": "# Translate:\n\nfun\n\n## Footnote\n\nWe had fun at the beach.",
+      "answer": "diversión\n\n## Footnote\n\nNos divertimos en la playa.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "fun",
+      "qMdClarifier": "",
+      "qMdFootnote": "We had fun at the beach.",
+      "aMdPrompt": "",
+      "aMdBody": "diversión",
+      "aMdClarifier": "",
+      "aMdFootnote": "Nos divertimos en la playa."
+    },
+    "after": {
+      "question": "# Translate:\n\nfun\n\n## Footnote\n\nThe party was full of fun.",
+      "answer": "diversión\n\n## Footnote\n\nLa fiesta estuvo llena de diversión.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "fun",
+      "qMdClarifier": "",
+      "qMdFootnote": "The party was full of fun.",
+      "aMdPrompt": "",
+      "aMdBody": "diversión",
+      "aMdClarifier": "",
+      "aMdFootnote": "La fiesta estuvo llena de diversión."
+    },
+    "reason": "Use noun diversión."
+  },
+  {
+    "row": 47,
+    "cardId": 491517383,
+    "before": {
+      "question": "# Translate:\n\nhighness\n\n## Footnote\n\nYour Highness, the guests await.",
+      "answer": "alteza\n\n## Footnote\n\nSu Alteza, los invitados esperan.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "highness",
+      "qMdClarifier": "",
+      "qMdFootnote": "Your Highness, the guests await.",
+      "aMdPrompt": "",
+      "aMdBody": "alteza",
+      "aMdClarifier": "",
+      "aMdFootnote": "Su Alteza, los invitados esperan."
+    },
+    "after": {
+      "question": "# Translate:\n\nhighness\n\n## Footnote\n\nYour Highness, the guests await.",
+      "answer": "alteza\n\n## Footnote\n\nAlteza, los invitados esperan.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "highness",
+      "qMdClarifier": "",
+      "qMdFootnote": "Your Highness, the guests await.",
+      "aMdPrompt": "",
+      "aMdBody": "alteza",
+      "aMdClarifier": "",
+      "aMdFootnote": "Alteza, los invitados esperan."
+    },
+    "reason": "Correct direct royal address."
+  },
+  {
+    "row": 72,
+    "cardId": 491517409,
+    "before": {
+      "question": "# Translate:\n\npage\n\n## Footnote\n\nTurn the page to continue reading.",
+      "answer": "página\n\n## Footnote\n\nGira la página para continuar leyendo.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "page",
+      "qMdClarifier": "",
+      "qMdFootnote": "Turn the page to continue reading.",
+      "aMdPrompt": "",
+      "aMdBody": "página",
+      "aMdClarifier": "",
+      "aMdFootnote": "Gira la página para continuar leyendo."
+    },
+    "after": {
+      "question": "# Translate:\n\npage\n\n## Footnote\n\nTurn the page to continue reading.",
+      "answer": "página\n\n## Footnote\n\nPasa la página para seguir leyendo.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "page",
+      "qMdClarifier": "",
+      "qMdFootnote": "Turn the page to continue reading.",
+      "aMdPrompt": "",
+      "aMdBody": "página",
+      "aMdClarifier": "",
+      "aMdFootnote": "Pasa la página para seguir leyendo."
+    },
+    "reason": "Turn a page is pasar, not girar."
+  },
+  {
+    "row": 75,
+    "cardId": 491517412,
+    "before": {
+      "question": "# Translate:\n\nfirm, steady\n\n## Footnote\n\nHold the rope firm and steady.",
+      "answer": "firme\n\n## Footnote\n\nSujeta la cuerda firme y estable.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "firm, steady",
+      "qMdClarifier": "",
+      "qMdFootnote": "Hold the rope firm and steady.",
+      "aMdPrompt": "",
+      "aMdBody": "firme",
+      "aMdClarifier": "",
+      "aMdFootnote": "Sujeta la cuerda firme y estable."
+    },
+    "after": {
+      "question": "# Translate:\n\nfirm, steady\n\n## Footnote\n\nThe table is firm.",
+      "answer": "firme\n\n## Footnote\n\nLa mesa está firme.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "firm, steady",
+      "qMdClarifier": "",
+      "qMdFootnote": "The table is firm.",
+      "aMdPrompt": "",
+      "aMdBody": "firme",
+      "aMdClarifier": "",
+      "aMdFootnote": "La mesa está firme."
+    },
+    "reason": "Use the adjective naturally."
+  },
+  {
+    "row": 85,
+    "cardId": 491517422,
+    "before": {
+      "question": "# Translate:\n\nhey\n\n## Footnote\n\n\"Hey, listen to this song!\"",
+      "answer": "ey\n\n## Footnote\n\nEy, ¡escucha esta canción!",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "hey",
+      "qMdClarifier": "",
+      "qMdFootnote": "\"Hey, listen to this song!\"",
+      "aMdPrompt": "",
+      "aMdBody": "ey",
+      "aMdClarifier": "",
+      "aMdFootnote": "Ey, ¡escucha esta canción!"
+    },
+    "after": {
+      "question": "# Translate:\n\nhey\n\n## Footnote\n\nHey, listen to this song!",
+      "answer": "ey\n\n## Footnote\n\nEy, ¡escucha esta canción!",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "hey",
+      "qMdClarifier": "",
+      "qMdFootnote": "Hey, listen to this song!",
+      "aMdPrompt": "",
+      "aMdBody": "ey",
+      "aMdClarifier": "",
+      "aMdFootnote": "Ey, ¡escucha esta canción!"
+    },
+    "reason": "Normalize sentence punctuation and remove extraneous quotation marks."
+  },
+  {
+    "row": 87,
+    "cardId": 491517424,
+    "before": {
+      "question": "# Translate:\n\nsocial\n\n## Footnote\n\nShe's very social at parties.",
+      "answer": "social\n\n## Footnote\n\nElla es muy social en las fiestas.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "social",
+      "qMdClarifier": "",
+      "qMdFootnote": "She's very social at parties.",
+      "aMdPrompt": "",
+      "aMdBody": "social",
+      "aMdClarifier": "",
+      "aMdFootnote": "Ella es muy social en las fiestas."
+    },
+    "after": {
+      "question": "# Translate:\n\nsocial\n\n## Footnote\n\nIt is a social problem.",
+      "answer": "social\n\n## Footnote\n\nEs un problema social.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "social",
+      "qMdClarifier": "",
+      "qMdFootnote": "It is a social problem.",
+      "aMdPrompt": "",
+      "aMdBody": "social",
+      "aMdClarifier": "",
+      "aMdFootnote": "Es un problema social."
+    },
+    "reason": "Social does not mean sociable in this context."
+  },
+  {
+    "row": 89,
+    "cardId": 491517426,
+    "before": {
+      "question": "# Translate:\n\nchampion\n\n## Footnote\n\nHe became the champion of the match.",
+      "answer": "campeón\n\n## Footnote\n\nSe convirtió en el campeón del partido.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "champion",
+      "qMdClarifier": "",
+      "qMdFootnote": "He became the champion of the match.",
+      "aMdPrompt": "",
+      "aMdBody": "campeón",
+      "aMdClarifier": "",
+      "aMdFootnote": "Se convirtió en el campeón del partido."
+    },
+    "after": {
+      "question": "# Translate:\n\nchampion\n\n## Footnote\n\nHe became the champion of the tournament.",
+      "answer": "campeón\n\n## Footnote\n\nSe convirtió en el campeón del torneo.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "champion",
+      "qMdClarifier": "",
+      "qMdFootnote": "He became the champion of the tournament.",
+      "aMdPrompt": "",
+      "aMdBody": "campeón",
+      "aMdClarifier": "",
+      "aMdFootnote": "Se convirtió en el campeón del torneo."
+    },
+    "reason": "Champion applies to a tournament, not one match."
+  },
+  {
+    "row": 90,
+    "cardId": 491517427,
+    "before": {
+      "question": "# Translate:\n\nsale\n\n## Footnote\n\nThe car is on sale today.",
+      "answer": "venta\n\n## Footnote\n\nEl coche está en venta hoy.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "sale",
+      "qMdClarifier": "",
+      "qMdFootnote": "The car is on sale today.",
+      "aMdPrompt": "",
+      "aMdBody": "venta",
+      "aMdClarifier": "",
+      "aMdFootnote": "El coche está en venta hoy."
+    },
+    "after": {
+      "question": "# Translate:\n\nsale\n\n## Footnote\n\nThe car is for sale today.",
+      "answer": "venta\n\n## Footnote\n\nEl coche está en venta hoy.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "sale",
+      "qMdClarifier": "",
+      "qMdFootnote": "The car is for sale today.",
+      "aMdPrompt": "",
+      "aMdBody": "venta",
+      "aMdClarifier": "",
+      "aMdFootnote": "El coche está en venta hoy."
+    },
+    "reason": "En venta means for sale, not discounted."
+  },
+  {
+    "row": 99,
+    "cardId": 491517436,
+    "before": {
+      "question": "# Translate:\n\nto tell him/her/it\n\n## Footnote\n\nI need to tell him/her/it tomorrow.",
+      "answer": "decírselo\n\n## Footnote\n\nNecesito decírselo mañana.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "to tell him/her/it",
+      "qMdClarifier": "",
+      "qMdFootnote": "I need to tell him/her/it tomorrow.",
+      "aMdPrompt": "",
+      "aMdBody": "decírselo",
+      "aMdClarifier": "",
+      "aMdFootnote": "Necesito decírselo mañana."
+    },
+    "after": {
+      "question": "# Translate:\n\nto tell it to him or her\n\n## Footnote\n\nI need to tell it to him tomorrow.",
+      "answer": "decírselo\n\n## Footnote\n\nNecesito decírselo mañana.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "to tell it to him or her",
+      "qMdClarifier": "",
+      "qMdFootnote": "I need to tell it to him tomorrow.",
+      "aMdPrompt": "",
+      "aMdBody": "decírselo",
+      "aMdClarifier": "",
+      "aMdFootnote": "Necesito decírselo mañana."
+    },
+    "reason": "Decírselo includes both indirect recipient and direct object."
+  },
+  {
+    "row": 119,
+    "cardId": 491517456,
+    "before": {
+      "question": "# Translate:\n\nthink (subjunctive)\n\n## Footnote\n\nI think you are correct.",
+      "answer": "piense\n\n## Footnote\n\nNo quiere que piense en ello.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "think (subjunctive)",
+      "qMdClarifier": "",
+      "qMdFootnote": "I think you are correct.",
+      "aMdPrompt": "",
+      "aMdBody": "piense",
+      "aMdClarifier": "",
+      "aMdFootnote": "No quiere que piense en ello."
+    },
+    "after": {
+      "question": "# Translate:\n\nthink (subjunctive)\n\n## Footnote\n\nHe doesn't want me to think about it.",
+      "answer": "piense\n\n## Footnote\n\nNo quiere que piense en ello.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "think (subjunctive)",
+      "qMdClarifier": "",
+      "qMdFootnote": "He doesn't want me to think about it.",
+      "aMdPrompt": "",
+      "aMdBody": "piense",
+      "aMdClarifier": "",
+      "aMdFootnote": "No quiere que piense en ello."
+    },
+    "reason": "Align unrelated examples."
+  },
+  {
+    "row": 121,
+    "cardId": 491517458,
+    "before": {
+      "question": "# Translate:\n\nmirror\n\n## Footnote\n\nShe looked into the mirror.",
+      "answer": "espejo\n\n## Footnote\n\nElla miró en el espejo.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "mirror",
+      "qMdClarifier": "",
+      "qMdFootnote": "She looked into the mirror.",
+      "aMdPrompt": "",
+      "aMdBody": "espejo",
+      "aMdClarifier": "",
+      "aMdFootnote": "Ella miró en el espejo."
+    },
+    "after": {
+      "question": "# Translate:\n\nmirror\n\n## Footnote\n\nShe looked into the mirror.",
+      "answer": "espejo\n\n## Footnote\n\nElla se miró en el espejo.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "mirror",
+      "qMdClarifier": "",
+      "qMdFootnote": "She looked into the mirror.",
+      "aMdPrompt": "",
+      "aMdBody": "espejo",
+      "aMdClarifier": "",
+      "aMdFootnote": "Ella se miró en el espejo."
+    },
+    "reason": "Natural reflexive mirror construction."
+  },
+  {
+    "row": 125,
+    "cardId": 491517462,
+    "before": {
+      "question": "# Translate:\n\ndiscovered\n\n## Footnote\n\nThey discovered a hidden ancient city.",
+      "answer": "descubierto\n\n## Footnote\n\nDescubrieron una ciudad antigua oculta.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "discovered",
+      "qMdClarifier": "",
+      "qMdFootnote": "They discovered a hidden ancient city.",
+      "aMdPrompt": "",
+      "aMdBody": "descubierto",
+      "aMdClarifier": "",
+      "aMdFootnote": "Descubrieron una ciudad antigua oculta."
+    },
+    "after": {
+      "question": "# Translate:\n\ndiscovered\n\n## Footnote\n\nThey have discovered an ancient city.",
+      "answer": "descubierto\n\n## Footnote\n\nHan descubierto una ciudad antigua.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "discovered",
+      "qMdClarifier": "",
+      "qMdFootnote": "They have discovered an ancient city.",
+      "aMdPrompt": "",
+      "aMdBody": "descubierto",
+      "aMdClarifier": "",
+      "aMdFootnote": "Han descubierto una ciudad antigua."
+    },
+    "reason": "Use target descubierto."
+  },
+  {
+    "row": 144,
+    "cardId": 491517481,
+    "before": {
+      "question": "# Translate:\n\nlet me go\n\n## Footnote\n\n\"Please, let me go now.\"",
+      "answer": "suéltame\n\n## Footnote\n\n\"Por favor, suéltame ahora.\"",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "let me go",
+      "qMdClarifier": "",
+      "qMdFootnote": "\"Please, let me go now.\"",
+      "aMdPrompt": "",
+      "aMdBody": "suéltame",
+      "aMdClarifier": "",
+      "aMdFootnote": "\"Por favor, suéltame ahora.\""
+    },
+    "after": {
+      "question": "# Translate:\n\nlet me go\n\n## Footnote\n\nPlease, let me go now.",
+      "answer": "suéltame\n\n## Footnote\n\nPor favor, suéltame ahora.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "let me go",
+      "qMdClarifier": "",
+      "qMdFootnote": "Please, let me go now.",
+      "aMdPrompt": "",
+      "aMdBody": "suéltame",
+      "aMdClarifier": "",
+      "aMdFootnote": "Por favor, suéltame ahora."
+    },
+    "reason": "Normalize sentence punctuation and remove extraneous quotation marks."
+  },
+  {
+    "row": 177,
+    "cardId": 491517514,
+    "before": {
+      "question": "# Translate:\n\nsoft, smooth\n\n## Footnote\n\nHe's charming and smooth.",
+      "answer": "suave\n\n## Footnote\n\nÉl es encantador y suave.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "soft, smooth",
+      "qMdClarifier": "",
+      "qMdFootnote": "He's charming and smooth.",
+      "aMdPrompt": "",
+      "aMdBody": "suave",
+      "aMdClarifier": "",
+      "aMdFootnote": "Él es encantador y suave."
+    },
+    "after": {
+      "question": "# Translate:\n\nsoft, smooth\n\n## Footnote\n\nThe fabric is soft and smooth.",
+      "answer": "suave\n\n## Footnote\n\nLa tela es suave.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "soft, smooth",
+      "qMdClarifier": "",
+      "qMdFootnote": "The fabric is soft and smooth.",
+      "aMdPrompt": "",
+      "aMdBody": "suave",
+      "aMdClarifier": "",
+      "aMdFootnote": "La tela es suave."
+    },
+    "reason": "Avoid false-friend smooth for a charming person."
+  },
+  {
+    "row": 184,
+    "cardId": 491517521,
+    "before": {
+      "question": "# Translate:\n\nyou all know\n\n## Footnote\n\nYou know, it's quite simple really.",
+      "answer": "sabéis\n\n## Footnote\n\nSabéis, es bastante simple en realidad.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "you all know",
+      "qMdClarifier": "",
+      "qMdFootnote": "You know, it's quite simple really.",
+      "aMdPrompt": "",
+      "aMdBody": "sabéis",
+      "aMdClarifier": "",
+      "aMdFootnote": "Sabéis, es bastante simple en realidad."
+    },
+    "after": {
+      "question": "# Translate:\n\nyou all know\n\n## Footnote\n\nYou all know the answer.",
+      "answer": "sabéis\n\n## Footnote\n\nTodos sabéis la respuesta.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "you all know",
+      "qMdClarifier": "",
+      "qMdFootnote": "You all know the answer.",
+      "aMdPrompt": "",
+      "aMdBody": "sabéis",
+      "aMdClarifier": "",
+      "aMdFootnote": "Todos sabéis la respuesta."
+    },
+    "reason": "Use saber naturally rather than a discourse-marker calque."
+  },
+  {
+    "row": 185,
+    "cardId": 491517522,
+    "before": {
+      "question": "# Translate:\n\nsuicide\n\n## Footnote\n\nHe committed suicide last year.",
+      "answer": "suicidio\n\n## Footnote\n\nSe suicidó el año pasado.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "suicide",
+      "qMdClarifier": "",
+      "qMdFootnote": "He committed suicide last year.",
+      "aMdPrompt": "",
+      "aMdBody": "suicidio",
+      "aMdClarifier": "",
+      "aMdFootnote": "Se suicidó el año pasado."
+    },
+    "after": {
+      "question": "# Translate:\n\nsuicide\n\n## Footnote\n\nHis death was ruled a suicide.",
+      "answer": "suicidio\n\n## Footnote\n\nSu muerte fue considerada un suicidio.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "suicide",
+      "qMdClarifier": "",
+      "qMdFootnote": "His death was ruled a suicide.",
+      "aMdPrompt": "",
+      "aMdBody": "suicidio",
+      "aMdClarifier": "",
+      "aMdFootnote": "Su muerte fue considerada un suicidio."
+    },
+    "reason": "Use noun suicidio."
+  },
+  {
+    "row": 202,
+    "cardId": 491517539,
+    "before": {
+      "question": "# Translate:\n\nfire\n\n## Footnote\n\nThe house caught fire overnight.",
+      "answer": "incendio\n\n## Footnote\n\nLa casa se incendió durante la noche.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "fire",
+      "qMdClarifier": "",
+      "qMdFootnote": "The house caught fire overnight.",
+      "aMdPrompt": "",
+      "aMdBody": "incendio",
+      "aMdClarifier": "",
+      "aMdFootnote": "La casa se incendió durante la noche."
+    },
+    "after": {
+      "question": "# Translate:\n\nfire\n\n## Footnote\n\nThe fire destroyed the house.",
+      "answer": "incendio\n\n## Footnote\n\nEl incendio destruyó la casa.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "fire",
+      "qMdClarifier": "",
+      "qMdFootnote": "The fire destroyed the house.",
+      "aMdPrompt": "",
+      "aMdBody": "incendio",
+      "aMdClarifier": "",
+      "aMdFootnote": "El incendio destruyó la casa."
+    },
+    "reason": "Use noun incendio."
+  },
+  {
+    "row": 204,
+    "cardId": 491517541,
+    "before": {
+      "question": "# Translate:\n\nhelp!\n\n## Footnote\n\n\"Help, I'm trapped under the tree!\"",
+      "answer": "socorro\n\n## Footnote\n\nSocorro, ¡estoy atrapado debajo del árbol!",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "help!",
+      "qMdClarifier": "",
+      "qMdFootnote": "\"Help, I'm trapped under the tree!\"",
+      "aMdPrompt": "",
+      "aMdBody": "socorro",
+      "aMdClarifier": "",
+      "aMdFootnote": "Socorro, ¡estoy atrapado debajo del árbol!"
+    },
+    "after": {
+      "question": "# Translate:\n\nhelp!\n\n## Footnote\n\nHelp, I'm trapped under the tree!",
+      "answer": "socorro\n\n## Footnote\n\nSocorro, ¡estoy atrapado debajo del árbol!",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "help!",
+      "qMdClarifier": "",
+      "qMdFootnote": "Help, I'm trapped under the tree!",
+      "aMdPrompt": "",
+      "aMdBody": "socorro",
+      "aMdClarifier": "",
+      "aMdFootnote": "Socorro, ¡estoy atrapado debajo del árbol!"
+    },
+    "reason": "Normalize sentence punctuation and remove extraneous quotation marks."
+  },
+  {
+    "row": 208,
+    "cardId": 491517545,
+    "before": {
+      "question": "# Translate:\n\ntransport\n\n## Footnote\n\nWe must transport the goods today.",
+      "answer": "transporte\n\n## Footnote\n\nDebemos transportar las mercancías hoy.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "transport",
+      "qMdClarifier": "",
+      "qMdFootnote": "We must transport the goods today.",
+      "aMdPrompt": "",
+      "aMdBody": "transporte",
+      "aMdClarifier": "",
+      "aMdFootnote": "Debemos transportar las mercancías hoy."
+    },
+    "after": {
+      "question": "# Translate:\n\ntransport\n\n## Footnote\n\nTransport is expensive here.",
+      "answer": "transporte\n\n## Footnote\n\nEl transporte es caro aquí.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "transport",
+      "qMdClarifier": "",
+      "qMdFootnote": "Transport is expensive here.",
+      "aMdPrompt": "",
+      "aMdBody": "transporte",
+      "aMdClarifier": "",
+      "aMdFootnote": "El transporte es caro aquí."
+    },
+    "reason": "Use noun transporte, not verb transportar."
+  },
+  {
+    "row": 222,
+    "cardId": 491517559,
+    "before": {
+      "question": "# Translate:\n\nparticular\n\n## Footnote\n\nShe is particular about her coffee.",
+      "answer": "particular\n\n## Footnote\n\nElla es particular con su café.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "particular",
+      "qMdClarifier": "",
+      "qMdFootnote": "She is particular about her coffee.",
+      "aMdPrompt": "",
+      "aMdBody": "particular",
+      "aMdClarifier": "",
+      "aMdFootnote": "Ella es particular con su café."
+    },
+    "after": {
+      "question": "# Translate:\n\nparticular\n\n## Footnote\n\nI need one particular book.",
+      "answer": "particular\n\n## Footnote\n\nNecesito un libro en particular.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "particular",
+      "qMdClarifier": "",
+      "qMdFootnote": "I need one particular book.",
+      "aMdPrompt": "",
+      "aMdBody": "particular",
+      "aMdClarifier": "",
+      "aMdFootnote": "Necesito un libro en particular."
+    },
+    "reason": "Avoid false-friend particular for fussy."
+  },
+  {
+    "row": 226,
+    "cardId": 491517563,
+    "before": {
+      "question": "# Translate:\n\nexcuse\n\n## Footnote\n\nPlease, excuse my late arrival.",
+      "answer": "excusa\n\n## Footnote\n\nPor favor, excusa mi llegada tardía.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "excuse",
+      "qMdClarifier": "",
+      "qMdFootnote": "Please, excuse my late arrival.",
+      "aMdPrompt": "",
+      "aMdBody": "excusa",
+      "aMdClarifier": "",
+      "aMdFootnote": "Por favor, excusa mi llegada tardía."
+    },
+    "after": {
+      "question": "# Translate:\n\nexcuse\n\n## Footnote\n\nThat is a bad excuse.",
+      "answer": "excusa\n\n## Footnote\n\nEsa es una mala excusa.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "excuse",
+      "qMdClarifier": "",
+      "qMdFootnote": "That is a bad excuse.",
+      "aMdPrompt": "",
+      "aMdBody": "excusa",
+      "aMdClarifier": "",
+      "aMdFootnote": "Esa es una mala excusa."
+    },
+    "reason": "Use noun excusa."
+  },
+  {
+    "row": 228,
+    "cardId": 491517565,
+    "before": {
+      "question": "# Translate:\n\ncurious\n\n## Footnote\n\nShe was curious about the recipe.",
+      "answer": "curioso\n\n## Footnote\n\nElla estaba curiosa sobre la receta.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "curious",
+      "qMdClarifier": "",
+      "qMdFootnote": "She was curious about the recipe.",
+      "aMdPrompt": "",
+      "aMdBody": "curioso",
+      "aMdClarifier": "",
+      "aMdFootnote": "Ella estaba curiosa sobre la receta."
+    },
+    "after": {
+      "question": "# Translate:\n\ncurious\n\n## Footnote\n\nShe is a curious child.",
+      "answer": "curioso\n\n## Footnote\n\nEs una niña curiosa.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "curious",
+      "qMdClarifier": "",
+      "qMdFootnote": "She is a curious child.",
+      "aMdPrompt": "",
+      "aMdBody": "curioso",
+      "aMdClarifier": "",
+      "aMdFootnote": "Es una niña curiosa."
+    },
+    "reason": "Avoid unnatural estar curiosa sobre."
+  },
+  {
+    "row": 269,
+    "cardId": 491517607,
+    "before": {
+      "question": "# Translate:\n\ndawn\n\n## Footnote\n\nDawn broke, painting the sky pink.",
+      "answer": "amanecer\n\n## Footnote\n\nAmaneció, pintando el cielo de rosa.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "dawn",
+      "qMdClarifier": "",
+      "qMdFootnote": "Dawn broke, painting the sky pink.",
+      "aMdPrompt": "",
+      "aMdBody": "amanecer",
+      "aMdClarifier": "",
+      "aMdFootnote": "Amaneció, pintando el cielo de rosa."
+    },
+    "after": {
+      "question": "# Translate:\n\ndawn\n\n## Footnote\n\nWe left at dawn.",
+      "answer": "amanecer\n\n## Footnote\n\nSalimos al amanecer.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "dawn",
+      "qMdClarifier": "",
+      "qMdFootnote": "We left at dawn.",
+      "aMdPrompt": "",
+      "aMdBody": "amanecer",
+      "aMdClarifier": "",
+      "aMdFootnote": "Salimos al amanecer."
+    },
+    "reason": "Use noun amanecer."
+  },
+  {
+    "row": 284,
+    "cardId": 491517622,
+    "before": {
+      "question": "# Translate:\n\nfavorite\n\n## Footnote\n\nChocolate is my favorite flavor.",
+      "answer": "favorita\n\n## Footnote\n\nEl chocolate es mi sabor favorito.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "favorite",
+      "qMdClarifier": "",
+      "qMdFootnote": "Chocolate is my favorite flavor.",
+      "aMdPrompt": "",
+      "aMdBody": "favorita",
+      "aMdClarifier": "",
+      "aMdFootnote": "El chocolate es mi sabor favorito."
+    },
+    "after": {
+      "question": "# Translate:\n\nfavorite (feminine)\n\n## Footnote\n\nThis is my favorite song.",
+      "answer": "favorita\n\n## Footnote\n\nEsta es mi canción favorita.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "favorite (feminine)",
+      "qMdClarifier": "",
+      "qMdFootnote": "This is my favorite song.",
+      "aMdPrompt": "",
+      "aMdBody": "favorita",
+      "aMdClarifier": "",
+      "aMdFootnote": "Esta es mi canción favorita."
+    },
+    "reason": "Demonstrate the feminine target form."
+  },
+  {
+    "row": 291,
+    "cardId": 491517629,
+    "before": {
+      "question": "# Translate:\n\ngasoline\n\n## Footnote\n\nI need to refill my car with gasoline.",
+      "answer": "gasolina\n\n## Footnote\n\nNecesito rellenar mi coche con gasolina.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "gasoline",
+      "qMdClarifier": "",
+      "qMdFootnote": "I need to refill my car with gasoline.",
+      "aMdPrompt": "",
+      "aMdBody": "gasolina",
+      "aMdClarifier": "",
+      "aMdFootnote": "Necesito rellenar mi coche con gasolina."
+    },
+    "after": {
+      "question": "# Translate:\n\ngasoline\n\n## Footnote\n\nI need to buy gasoline.",
+      "answer": "gasolina\n\n## Footnote\n\nNecesito comprar gasolina.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "gasoline",
+      "qMdClarifier": "",
+      "qMdFootnote": "I need to buy gasoline.",
+      "aMdPrompt": "",
+      "aMdBody": "gasolina",
+      "aMdClarifier": "",
+      "aMdFootnote": "Necesito comprar gasolina."
+    },
+    "reason": "Replace awkward refill my car calque."
+  },
+  {
+    "row": 300,
+    "cardId": 491517638,
+    "before": {
+      "question": "# Translate:\n\nwinner\n\n## Footnote\n\nShe is the clear winner.",
+      "answer": "ganador\n\n## Footnote\n\nElla es la ganadora clara.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "winner",
+      "qMdClarifier": "",
+      "qMdFootnote": "She is the clear winner.",
+      "aMdPrompt": "",
+      "aMdBody": "ganador",
+      "aMdClarifier": "",
+      "aMdFootnote": "Ella es la ganadora clara."
+    },
+    "after": {
+      "question": "# Translate:\n\nwinner\n\n## Footnote\n\nShe is the clear winner.",
+      "answer": "ganador\n\n## Footnote\n\nElla es la clara ganadora.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "winner",
+      "qMdClarifier": "",
+      "qMdFootnote": "She is the clear winner.",
+      "aMdPrompt": "",
+      "aMdBody": "ganador",
+      "aMdClarifier": "",
+      "aMdFootnote": "Ella es la clara ganadora."
+    },
+    "reason": "Natural adjective placement."
+  },
+  {
+    "row": 312,
+    "cardId": 491517650,
+    "before": {
+      "question": "# Translate:\n\nvote\n\n## Footnote\n\nI will cast my vote tomorrow.",
+      "answer": "voto\n\n## Footnote\n\nVotaré mañana.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "vote",
+      "qMdClarifier": "",
+      "qMdFootnote": "I will cast my vote tomorrow.",
+      "aMdPrompt": "",
+      "aMdBody": "voto",
+      "aMdClarifier": "",
+      "aMdFootnote": "Votaré mañana."
+    },
+    "after": {
+      "question": "# Translate:\n\nvote\n\n## Footnote\n\nI will cast my vote tomorrow.",
+      "answer": "voto\n\n## Footnote\n\nEmitiré mi voto mañana.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "vote",
+      "qMdClarifier": "",
+      "qMdFootnote": "I will cast my vote tomorrow.",
+      "aMdPrompt": "",
+      "aMdBody": "voto",
+      "aMdClarifier": "",
+      "aMdFootnote": "Emitiré mi voto mañana."
+    },
+    "reason": "Use noun voto."
+  },
+  {
+    "row": 314,
+    "cardId": 491517652,
+    "before": {
+      "question": "# Translate:\n\ncelebrate\n\n## Footnote\n\nLet's celebrate your birthday tonight!",
+      "answer": "celebrar\n\n## Footnote\n\nCelebremos tu cumpleaños esta noche!",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "celebrate",
+      "qMdClarifier": "",
+      "qMdFootnote": "Let's celebrate your birthday tonight!",
+      "aMdPrompt": "",
+      "aMdBody": "celebrar",
+      "aMdClarifier": "",
+      "aMdFootnote": "Celebremos tu cumpleaños esta noche!"
+    },
+    "after": {
+      "question": "# Translate:\n\ncelebrate\n\n## Footnote\n\nLet's celebrate your birthday tonight!",
+      "answer": "celebrar\n\n## Footnote\n\n¡Celebremos tu cumpleaños esta noche!",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "celebrate",
+      "qMdClarifier": "",
+      "qMdFootnote": "Let's celebrate your birthday tonight!",
+      "aMdPrompt": "",
+      "aMdBody": "celebrar",
+      "aMdClarifier": "",
+      "aMdFootnote": "¡Celebremos tu cumpleaños esta noche!"
+    },
+    "reason": "Normalize sentence punctuation and remove extraneous quotation marks."
+  },
+  {
+    "row": 327,
+    "cardId": 491517665,
+    "before": {
+      "question": "# Translate:\n\ncivil\n\n## Footnote\n\nMaintain a civil conversation, please.",
+      "answer": "civil\n\n## Footnote\n\nMantén una conversación civil, por favor.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "civil",
+      "qMdClarifier": "",
+      "qMdFootnote": "Maintain a civil conversation, please.",
+      "aMdPrompt": "",
+      "aMdBody": "civil",
+      "aMdClarifier": "",
+      "aMdFootnote": "Mantén una conversación civil, por favor."
+    },
+    "after": {
+      "question": "# Translate:\n\ncivil\n\n## Footnote\n\nHe works in civil aviation.",
+      "answer": "civil\n\n## Footnote\n\nTrabaja en la aviación civil.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "civil",
+      "qMdClarifier": "",
+      "qMdFootnote": "He works in civil aviation.",
+      "aMdPrompt": "",
+      "aMdBody": "civil",
+      "aMdClarifier": "",
+      "aMdFootnote": "Trabaja en la aviación civil."
+    },
+    "reason": "Civil does not mean polite in this context."
+  },
+  {
+    "row": 334,
+    "cardId": 491517672,
+    "before": {
+      "question": "# Translate:\n\nto admit\n\n## Footnote\n\nI must admit, you were right.",
+      "answer": "admitir\n\n## Footnote\n\nDebo admitir, tenías razón.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "to admit",
+      "qMdClarifier": "",
+      "qMdFootnote": "I must admit, you were right.",
+      "aMdPrompt": "",
+      "aMdBody": "admitir",
+      "aMdClarifier": "",
+      "aMdFootnote": "Debo admitir, tenías razón."
+    },
+    "after": {
+      "question": "# Translate:\n\nto admit\n\n## Footnote\n\nI must admit, you were right.",
+      "answer": "admitir\n\n## Footnote\n\nDebo admitir que tenías razón.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "to admit",
+      "qMdClarifier": "",
+      "qMdFootnote": "I must admit, you were right.",
+      "aMdPrompt": "",
+      "aMdBody": "admitir",
+      "aMdClarifier": "",
+      "aMdFootnote": "Debo admitir que tenías razón."
+    },
+    "reason": "Add required conjunction."
+  },
+  {
+    "row": 381,
+    "cardId": 491517719,
+    "before": {
+      "question": "# Translate:\n\nthrows, adds\n\n## Footnote\n\nShe adds salt on the food",
+      "answer": "echa\n\n## Footnote\n\nElla le echa sal a la comida.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "throws, adds",
+      "qMdClarifier": "",
+      "qMdFootnote": "She adds salt on the food",
+      "aMdPrompt": "",
+      "aMdBody": "echa",
+      "aMdClarifier": "",
+      "aMdFootnote": "Ella le echa sal a la comida."
+    },
+    "after": {
+      "question": "# Translate:\n\nthrows, adds\n\n## Footnote\n\nShe adds salt to the food.",
+      "answer": "echa\n\n## Footnote\n\nElla le echa sal a la comida.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "throws, adds",
+      "qMdClarifier": "",
+      "qMdFootnote": "She adds salt to the food.",
+      "aMdPrompt": "",
+      "aMdBody": "echa",
+      "aMdClarifier": "",
+      "aMdFootnote": "Ella le echa sal a la comida."
+    },
+    "reason": "Correct English preposition."
+  },
+  {
+    "row": 390,
+    "cardId": 491517728,
+    "before": {
+      "question": "# Translate:\n\nhelp\n\n## Footnote\n\n¡Help!",
+      "answer": "auxilio\n\n## Footnote\n\n¡Auxilio!",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "help",
+      "qMdClarifier": "",
+      "qMdFootnote": "¡Help!",
+      "aMdPrompt": "",
+      "aMdBody": "auxilio",
+      "aMdClarifier": "",
+      "aMdFootnote": "¡Auxilio!"
+    },
+    "after": {
+      "question": "# Translate:\n\nhelp\n\n## Footnote\n\nHelp!",
+      "answer": "auxilio\n\n## Footnote\n\n¡Auxilio!",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "help",
+      "qMdClarifier": "",
+      "qMdFootnote": "Help!",
+      "aMdPrompt": "",
+      "aMdBody": "auxilio",
+      "aMdClarifier": "",
+      "aMdFootnote": "¡Auxilio!"
+    },
+    "reason": "Remove Spanish opening exclamation mark from English."
+  },
+  {
+    "row": 399,
+    "cardId": 491517737,
+    "before": {
+      "question": "# Translate:\n\nbought\n\n## Footnote\n\nShe bought a new car yesterday.",
+      "answer": "comprado\n\n## Footnote\n\nElla ha comprado un coche nuevo ayer.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "bought",
+      "qMdClarifier": "",
+      "qMdFootnote": "She bought a new car yesterday.",
+      "aMdPrompt": "",
+      "aMdBody": "comprado",
+      "aMdClarifier": "",
+      "aMdFootnote": "Ella ha comprado un coche nuevo ayer."
+    },
+    "after": {
+      "question": "# Translate:\n\nbought\n\n## Footnote\n\nShe has bought a new car.",
+      "answer": "comprado\n\n## Footnote\n\nElla ha comprado un coche nuevo.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "bought",
+      "qMdClarifier": "",
+      "qMdFootnote": "She has bought a new car.",
+      "aMdPrompt": "",
+      "aMdBody": "comprado",
+      "aMdClarifier": "",
+      "aMdFootnote": "Ella ha comprado un coche nuevo."
+    },
+    "reason": "Avoid perfect tense with a completed ayer period."
+  },
+  {
+    "row": 405,
+    "cardId": 491517743,
+    "before": {
+      "question": "# Translate:\n\npass (imperative, ustedes)\n\n## Footnote\n\nLet's pass the ball around.",
+      "answer": "pasen\n\n## Footnote\n\nPasen la pelota.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "pass (imperative, ustedes)",
+      "qMdClarifier": "",
+      "qMdFootnote": "Let's pass the ball around.",
+      "aMdPrompt": "",
+      "aMdBody": "pasen",
+      "aMdClarifier": "",
+      "aMdFootnote": "Pasen la pelota."
+    },
+    "after": {
+      "question": "# Translate:\n\npass (imperative, ustedes)\n\n## Footnote\n\nPass the ball.",
+      "answer": "pasen\n\n## Footnote\n\nPasen la pelota.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "pass (imperative, ustedes)",
+      "qMdClarifier": "",
+      "qMdFootnote": "Pass the ball.",
+      "aMdPrompt": "",
+      "aMdBody": "pasen",
+      "aMdClarifier": "",
+      "aMdFootnote": "Pasen la pelota."
+    },
+    "reason": "Match ustedes command, not nosotros suggestion."
+  },
+  {
+    "row": 410,
+    "cardId": 491517748,
+    "before": {
+      "question": "# Translate:\n\nI look like\n\n## Footnote\n\nI look like my mother.",
+      "answer": "parezco\n\n## Footnote\n\nMe parezco a mi madre.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "I look like",
+      "qMdClarifier": "",
+      "qMdFootnote": "I look like my mother.",
+      "aMdPrompt": "",
+      "aMdBody": "parezco",
+      "aMdClarifier": "",
+      "aMdFootnote": "Me parezco a mi madre."
+    },
+    "after": {
+      "question": "# Translate:\n\nI seem\n\n## Footnote\n\nI seem tired today.",
+      "answer": "parezco\n\n## Footnote\n\nParezco cansado hoy.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "I seem",
+      "qMdClarifier": "",
+      "qMdFootnote": "I seem tired today.",
+      "aMdPrompt": "",
+      "aMdBody": "parezco",
+      "aMdClarifier": "",
+      "aMdFootnote": "Parezco cansado hoy."
+    },
+    "reason": "Parezco and me parezco have different constructions."
+  },
+  {
+    "row": 435,
+    "cardId": 491517773,
+    "before": {
+      "question": "# Translate:\n\ntask, mission\n\n## Footnote\n\nThe task seemed almost impossible.",
+      "answer": "cometido\n\n## Footnote\n\nÉl cumplió con su cometido.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "task, mission",
+      "qMdClarifier": "",
+      "qMdFootnote": "The task seemed almost impossible.",
+      "aMdPrompt": "",
+      "aMdBody": "cometido",
+      "aMdClarifier": "",
+      "aMdFootnote": "Él cumplió con su cometido."
+    },
+    "after": {
+      "question": "# Translate:\n\ntask, mission\n\n## Footnote\n\nHe fulfilled his task.",
+      "answer": "cometido\n\n## Footnote\n\nÉl cumplió con su cometido.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "task, mission",
+      "qMdClarifier": "",
+      "qMdFootnote": "He fulfilled his task.",
+      "aMdPrompt": "",
+      "aMdBody": "cometido",
+      "aMdClarifier": "",
+      "aMdFootnote": "Él cumplió con su cometido."
+    },
+    "reason": "Align unrelated example sentences."
+  },
+  {
+    "row": 442,
+    "cardId": 491517780,
+    "before": {
+      "question": "# Translate:\n\nstore, bodega\n\n## Footnote\n\nThe store is on the corner",
+      "answer": "almacén\n\n## Footnote\n\nEl almacén está en la esquina",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "store, bodega",
+      "qMdClarifier": "",
+      "qMdFootnote": "The store is on the corner",
+      "aMdPrompt": "",
+      "aMdBody": "almacén",
+      "aMdClarifier": "",
+      "aMdFootnote": "El almacén está en la esquina"
+    },
+    "after": {
+      "question": "# Translate:\n\nstore, bodega\n\n## Footnote\n\nThe store is on the corner.",
+      "answer": "almacén\n\n## Footnote\n\nEl almacén está en la esquina.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "store, bodega",
+      "qMdClarifier": "",
+      "qMdFootnote": "The store is on the corner.",
+      "aMdPrompt": "",
+      "aMdBody": "almacén",
+      "aMdClarifier": "",
+      "aMdFootnote": "El almacén está en la esquina."
+    },
+    "reason": "Normalize sentence punctuation and remove extraneous quotation marks."
+  },
+  {
+    "row": 444,
+    "cardId": 491517782,
+    "before": {
+      "question": "# Translate:\n\nunknown\n\n## Footnote\n\nThe caller remained unknown.",
+      "answer": "desconocido\n\n## Footnote\n\nEl llamante permaneció desconocido.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "unknown",
+      "qMdClarifier": "",
+      "qMdFootnote": "The caller remained unknown.",
+      "aMdPrompt": "",
+      "aMdBody": "desconocido",
+      "aMdClarifier": "",
+      "aMdFootnote": "El llamante permaneció desconocido."
+    },
+    "after": {
+      "question": "# Translate:\n\nunknown\n\n## Footnote\n\nThe cause is unknown.",
+      "answer": "desconocido\n\n## Footnote\n\nLa causa es desconocida.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "unknown",
+      "qMdClarifier": "",
+      "qMdFootnote": "The cause is unknown.",
+      "aMdPrompt": "",
+      "aMdBody": "desconocido",
+      "aMdClarifier": "",
+      "aMdFootnote": "La causa es desconocida."
+    },
+    "reason": "Replace unnatural llamante example."
+  },
+  {
+    "row": 450,
+    "cardId": 491517788,
+    "before": {
+      "question": "# Translate:\n\ncrime\n\n## Footnote\n\nCrime rates are increasing globally.",
+      "answer": "delito\n\n## Footnote\n\nLas tasas de delito están aumentando a nivel mundial.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "crime",
+      "qMdClarifier": "",
+      "qMdFootnote": "Crime rates are increasing globally.",
+      "aMdPrompt": "",
+      "aMdBody": "delito",
+      "aMdClarifier": "",
+      "aMdFootnote": "Las tasas de delito están aumentando a nivel mundial."
+    },
+    "after": {
+      "question": "# Translate:\n\ncrime\n\n## Footnote\n\nThe police are investigating the crime.",
+      "answer": "delito\n\n## Footnote\n\nLa policía investiga el delito.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "crime",
+      "qMdClarifier": "",
+      "qMdFootnote": "The police are investigating the crime.",
+      "aMdPrompt": "",
+      "aMdBody": "delito",
+      "aMdClarifier": "",
+      "aMdFootnote": "La policía investiga el delito."
+    },
+    "reason": "Use singular count noun delito naturally."
+  },
+  {
+    "row": 498,
+    "cardId": 734807798,
+    "before": {
+      "question": "# Translate:\n\nvia, way\n\n## Footnote\n\nI'll send you the document via fax.",
+      "answer": "vía\n\n## Footnote\n\nTe enviaré el documento vía correo electrónico.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "via, way",
+      "qMdClarifier": "",
+      "qMdFootnote": "I'll send you the document via fax.",
+      "aMdPrompt": "",
+      "aMdBody": "vía",
+      "aMdClarifier": "",
+      "aMdFootnote": "Te enviaré el documento vía correo electrónico."
+    },
+    "after": {
+      "question": "# Translate:\n\nvia, way\n\n## Footnote\n\nI'll send you the document via email.",
+      "answer": "vía\n\n## Footnote\n\nTe enviaré el documento vía correo electrónico.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "via, way",
+      "qMdClarifier": "",
+      "qMdFootnote": "I'll send you the document via email.",
+      "aMdPrompt": "",
+      "aMdBody": "vía",
+      "aMdClarifier": "",
+      "aMdFootnote": "Te enviaré el documento vía correo electrónico."
+    },
+    "reason": "Match email, not fax."
+  }
+]

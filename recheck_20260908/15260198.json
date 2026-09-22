@@ -1,0 +1,438 @@
+{
+  "deck": 15260198,
+  "reviewed": 500,
+  "changes": [
+    {
+      "row": 13,
+      "before": [
+        "квалификация",
+        "professional qualifications",
+        "У него высокая квалификация.",
+        "He has professional qualifications."
+      ],
+      "after": [
+        "квалификация",
+        "professional qualifications",
+        "У него высокая квалификация.",
+        "He has high professional qualifications."
+      ],
+      "reason": "Preserve высокая rather than dropping qualification level."
+    },
+    {
+      "row": 28,
+      "before": [
+        "фрукт",
+        "fruit, produce",
+        "Я люблю есть свежие фрукты каждый день.",
+        "I love eating fresh fruit daily."
+      ],
+      "after": [
+        "фрукт",
+        "fruit",
+        "Я люблю есть свежие фрукты каждый день.",
+        "I love eating fresh fruit daily."
+      ],
+      "reason": "Produce also includes vegetables and is too broad."
+    },
+    {
+      "row": 43,
+      "before": [
+        "большевик",
+        "Bolshevik, Communist",
+        "Большевик взял власть.",
+        "The Bolshevik took power."
+      ],
+      "after": [
+        "большевик",
+        "Bolshevik",
+        "Большевик взял власть.",
+        "The Bolshevik took power."
+      ],
+      "reason": "Not every Communist is a Bolshevik."
+    },
+    {
+      "row": 52,
+      "before": [
+        "бокал",
+        "wine glass, goblet",
+        "Он поднял бокал с вином.",
+        "He raised the wine glass."
+      ],
+      "after": [
+        "бокал",
+        "wine glass, goblet",
+        "Он поднял бокал.",
+        "He raised the wine glass."
+      ],
+      "reason": "Align the sentences without dropping the Russian wine phrase in translation."
+    },
+    {
+      "row": 53,
+      "before": [
+        "юбка",
+        "skirt, kilt",
+        "Она купила новую красную юбку.",
+        "She bought a new red skirt."
+      ],
+      "after": [
+        "юбка",
+        "skirt",
+        "Она купила новую красную юбку.",
+        "She bought a new red skirt."
+      ],
+      "reason": "Kilt is a specific garment, not a general synonym for юбка."
+    },
+    {
+      "row": 56,
+      "before": [
+        "конституционный",
+        "constitutional, charter",
+        "Это конституционный закон.",
+        "This is a constitutional law."
+      ],
+      "after": [
+        "конституционный",
+        "constitutional",
+        "Это конституционный закон.",
+        "This is a constitutional law."
+      ],
+      "reason": "Charter is a noun and not a translation of this adjective."
+    },
+    {
+      "row": 66,
+      "before": [
+        "инспектор",
+        "inspector, inspectorate",
+        "Инспектор тщательно изучил документы.",
+        "The inspector examined the documents carefully."
+      ],
+      "after": [
+        "инспектор",
+        "inspector",
+        "Инспектор тщательно изучил документы.",
+        "The inspector examined the documents carefully."
+      ],
+      "reason": "Inspectorate is an organization, not an inspector."
+    },
+    {
+      "row": 88,
+      "before": [
+        "климат",
+        "climate, weather",
+        "Климат здесь холодный.",
+        "The climate here is cold."
+      ],
+      "after": [
+        "климат",
+        "climate",
+        "Климат здесь холодный.",
+        "The climate here is cold."
+      ],
+      "reason": "Weather and climate are different concepts."
+    },
+    {
+      "row": 93,
+      "before": [
+        "старость",
+        "old age, senility",
+        "Старость приносит мудрость.",
+        "Old age brings wisdom."
+      ],
+      "after": [
+        "старость",
+        "old age",
+        "Старость приносит мудрость.",
+        "Old age brings wisdom."
+      ],
+      "reason": "Senility is not equivalent to old age."
+    },
+    {
+      "row": 98,
+      "before": [
+        "кожаный",
+        "leather, leather-made",
+        "Это кожаная куртка.",
+        "This is a leather jacket."
+      ],
+      "after": [
+        "кожаный",
+        "leather",
+        "Это кожаная куртка.",
+        "This is a leather jacket."
+      ],
+      "reason": "Remove the unnatural English gloss leather-made."
+    },
+    {
+      "row": 120,
+      "before": [
+        "аж",
+        "even, as much as",
+        "Он ждал аж час.",
+        "He even waited an hour."
+      ],
+      "after": [
+        "аж",
+        "as much as, a whole",
+        "Он ждал аж час.",
+        "He waited a whole hour."
+      ],
+      "reason": "Аж emphasizes the length of the wait, not the surprising fact that he waited."
+    },
+    {
+      "row": 154,
+      "before": [
+        "боевик",
+        "action movie, thriller",
+        "Давай посмотрим боевик.",
+        "Let's watch an action movie."
+      ],
+      "after": [
+        "боевик",
+        "action movie",
+        "Давай посмотрим боевик.",
+        "Let's watch an action movie."
+      ],
+      "reason": "Thriller is a distinct genre, not a synonym for боевик."
+    },
+    {
+      "row": 194,
+      "before": [
+        "натуральный",
+        "natural, organic",
+        "Это натуральный цвет.",
+        "This is a natural color."
+      ],
+      "after": [
+        "натуральный",
+        "natural",
+        "Это натуральный цвет.",
+        "This is a natural color."
+      ],
+      "reason": "Натуральный does not establish that something is organic."
+    },
+    {
+      "row": 208,
+      "before": [
+        "наносить",
+        "apply, inflict",
+        "Он наносит удар.",
+        "He inflicts a blow."
+      ],
+      "after": [
+        "наносить",
+        "to apply, to inflict, to deal",
+        "Он наносит удар.",
+        "He deals a blow."
+      ],
+      "reason": "Replace the unnatural collocation inflict a blow."
+    },
+    {
+      "row": 211,
+      "before": [
+        "ноготь",
+        "nail, claw",
+        "У неё длинный ноготь.",
+        "She has a long nail."
+      ],
+      "after": [
+        "ноготь",
+        "nail, fingernail",
+        "У неё длинный ноготь.",
+        "She has a long nail."
+      ],
+      "reason": "Claw corresponds to коготь, not ноготь."
+    },
+    {
+      "row": 230,
+      "before": [
+        "современник",
+        "contemporary, peer",
+        "Он мой современник.",
+        "He is my contemporary."
+      ],
+      "after": [
+        "современник",
+        "contemporary",
+        "Он мой современник.",
+        "He is my contemporary."
+      ],
+      "reason": "Peer need not be a contemporary and is not an equivalent gloss."
+    },
+    {
+      "row": 242,
+      "before": [
+        "карандаш",
+        "pencil, crayon",
+        "Где мой карандаш?",
+        "Where is my pencil?"
+      ],
+      "after": [
+        "карандаш",
+        "pencil",
+        "Где мой карандаш?",
+        "Where is my pencil?"
+      ],
+      "reason": "Crayon is a different drawing implement."
+    },
+    {
+      "row": 246,
+      "before": [
+        "заяц",
+        "hare, rabbit",
+        "Я видел зайца.",
+        "I saw a hare."
+      ],
+      "after": [
+        "заяц",
+        "hare",
+        "Я видел зайца.",
+        "I saw a hare."
+      ],
+      "reason": "Rabbit is кролик, a different animal."
+    },
+    {
+      "row": 278,
+      "before": [
+        "сессия",
+        "session, academic term",
+        "Сессия начинается завтра.",
+        "The session starts tomorrow."
+      ],
+      "after": [
+        "сессия",
+        "session, exam period",
+        "Сессия начинается завтра.",
+        "The session starts tomorrow."
+      ],
+      "reason": "Academic term is семестр; сессия denotes the exam period."
+    },
+    {
+      "row": 294,
+      "before": [
+        "ознакомиться",
+        "to get acquainted, to familiarize",
+        "Ознакомься с этим.",
+        "Familiarize yourself with this."
+      ],
+      "after": [
+        "ознакомиться",
+        "to get acquainted with, to familiarize oneself with",
+        "Ознакомься с этим.",
+        "Familiarize yourself with this."
+      ],
+      "reason": "Supply the required reflexive object and preposition."
+    },
+    {
+      "row": 310,
+      "before": [
+        "бесконечно",
+        "infinitely, endless",
+        "Это бесконечно долго.",
+        "This is infinitely long."
+      ],
+      "after": [
+        "бесконечно",
+        "infinitely, endlessly",
+        "Это бесконечно долго.",
+        "This is infinitely long."
+      ],
+      "reason": "Replace adjective endless with the required adverb."
+    },
+    {
+      "row": 332,
+      "before": [
+        "скамейка",
+        "bench, seat",
+        "Где наша скамейка?",
+        "Where is the bench?"
+      ],
+      "after": [
+        "скамейка",
+        "bench, seat",
+        "Где наша скамейка?",
+        "Where is our bench?"
+      ],
+      "reason": "Restore наша."
+    },
+    {
+      "row": 338,
+      "before": [
+        "изобретение",
+        "invention, discovery",
+        "Это важное изобретение.",
+        "This is an important invention."
+      ],
+      "after": [
+        "изобретение",
+        "invention",
+        "Это важное изобретение.",
+        "This is an important invention."
+      ],
+      "reason": "Discovery is открытие, not изобретение."
+    },
+    {
+      "row": 346,
+      "before": [
+        "полевой",
+        "field, fieldwork",
+        "Это полевой цветок.",
+        "This is a field flower."
+      ],
+      "after": [
+        "полевой",
+        "field (attributive)",
+        "Это полевая работа.",
+        "This is field work."
+      ],
+      "reason": "Avoid unnatural field flower, which would normally be wildflower. Keep adjective separate from fieldwork noun. Use prior vocabulary while preserving adjective gloss."
+    },
+    {
+      "row": 425,
+      "before": [
+        "превращать",
+        "transform, convert",
+        "Он будет превращать золото.",
+        "He will transform gold."
+      ],
+      "after": [
+        "превращать",
+        "transform, convert",
+        "Он будет превращать страх в силу.",
+        "He will transform fear into strength."
+      ],
+      "reason": "Complete the required Russian превратить X в Y construction."
+    },
+    {
+      "row": 454,
+      "before": [
+        "проникать",
+        "penetrate, infiltrate",
+        "Свет будет проникать сюда.",
+        "Light will penetrate here."
+      ],
+      "after": [
+        "проникать",
+        "penetrate, infiltrate",
+        "Свет будет проникать в комнату.",
+        "Light will penetrate the room."
+      ],
+      "reason": "Give the English transitive verb its required object."
+    },
+    {
+      "row": 461,
+      "before": [
+        "животный",
+        "animal, creature",
+        "Это животная жизнь.",
+        "This is animal life."
+      ],
+      "after": [
+        "животный",
+        "animal (adjective)",
+        "Это животная жизнь.",
+        "This is animal life."
+      ],
+      "reason": "Remove the unrelated noun creature from an adjective card."
+    }
+  ]
+}

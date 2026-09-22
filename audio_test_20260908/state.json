@@ -1,0 +1,151 @@
+{
+  "pack": {
+    "cardCount": 0,
+    "createdAt": "2026-09-08T14:52:52.000Z",
+    "deckCount": 0,
+    "deckRows": [],
+    "desc": "Separate audio experiment. Fresh synthetic speech only. KEEP for manual validation.",
+    "fullName": "Audio API TEST \u2014 2026-09-08",
+    "mixType": "progressive",
+    "name": "Audio API TEST \u2014 2026-09-08",
+    "packId": 24125111,
+    "private": false,
+    "updatedAt": "2026-09-08T14:52:52.000Z",
+    "vkey": "pv1:24125111:1788879172.0:pc:1788879172.0",
+    "permission": "admin",
+    "discoveryMedium": "created",
+    "creatorName": "Nikita Sokolsky",
+    "creatorAvatarUrl": "https://s3.amazonaws.com/brainscape-prod/system/um/008/426/792/avatar_square.jpg?1678655780",
+    "flags": {
+      "canCopy": false,
+      "canDelete": true,
+      "canEditDecks": true,
+      "canEditMetadata": true,
+      "canGrantPermissions": true,
+      "canView": true,
+      "isCertified": false,
+      "isPrivate": false,
+      "uponPro": {
+        "canCopy": true,
+        "canDelete": true,
+        "canEditDecks": true,
+        "canEditMetadata": true,
+        "canGrantPermissions": true,
+        "canView": true
+      },
+      "areDecksEditable": true,
+      "isDeletable": true,
+      "isDuplicatable": false,
+      "isEditable": true
+    },
+    "paths": {
+      "creatorProfilePath": "/profiles/8425783",
+      "dashboardPath": "/l/dashboard/audio-api-test-2026-09-08-24125111",
+      "enrollmentPath": "/packs/24125111/subscribe",
+      "exportPath": "/packs/24125111/exports.csv",
+      "importPath": "/packs/24125111/add?html_options=hide",
+      "learnersPath": "/l/dashboard/24125111/learners",
+      "shareCompactLink": "https://www.brainscape.com/packs/24125111",
+      "shareLink": "https://www.brainscape.com/p/50M5K-LH-ED31Z",
+      "sharePreviewLink": "https://www.brainscape.com/packs/audio-api-test-2026-09-08-24125111"
+    },
+    "stats": {
+      "cardCount": 0,
+      "deckCount": 0,
+      "levelCounts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mastery": 0,
+      "percentages": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "seenCount": 0,
+      "subscriberCount": 1,
+      "estTimeLeft": null,
+      "studyRate": null,
+      "totalConfidence": 0,
+      "timeStudied": 0
+    }
+  },
+  "cards": [
+    {
+      "label": "01 Question audio",
+      "cardId": 735475883,
+      "upload": {
+        "jobId": "55f176e374566eb8274384a9"
+      },
+      "finalUpload": {
+        "jobId": "a002e1f9f0223f17acfaba0d"
+      }
+    },
+    {
+      "label": "02 Answer audio",
+      "cardId": 735475896,
+      "upload": {
+        "jobId": "d031a51729128cbe20f19497"
+      },
+      "finalUpload": {
+        "jobId": "38a05ccee4292c67f12500e4"
+      }
+    },
+    {
+      "label": "03 Both sides",
+      "cardId": 735475921,
+      "upload": {
+        "jobId": "d6901e2cd7ee07cbaf92a840"
+      },
+      "finalUpload": {
+        "jobId": "3d57be29bd42c5457d981ab4"
+      }
+    },
+    {
+      "label": "04 Text-only control",
+      "cardId": 735475941
+    },
+    {
+      "label": "05 Direct PATCH data URL",
+      "cardId": 735476396,
+      "response": {
+        "cardId": 735476396
+      }
+    },
+    {
+      "label": "06 Attachment HTTPS URL",
+      "cardId": 735476405,
+      "error": {
+        "status": 500,
+        "message": "HTTP 500: Unknown Error (code: 363)"
+      }
+    },
+    {
+      "label": "07 Markdown audio link",
+      "cardId": 735476407
+    },
+    {
+      "label": "08 HTML audio element",
+      "cardId": 735476409
+    }
+  ],
+  "deck": {
+    "aLang": "",
+    "cardIds": [],
+    "contentType": "md",
+    "createdAt": "2026-09-08T14:52:52.000Z",
+    "deckId": 22994657,
+    "desc": "Generated speech: question, answer, both sides, and negative controls.",
+    "name": "Audio compatibility tests \u2014 KEEP",
+    "qLang": "",
+    "updatedAt": "2026-09-08T14:52:52.000Z",
+    "vkey": "dv1:22994657:1788879172.0:mdr:v1"
+  }
+}

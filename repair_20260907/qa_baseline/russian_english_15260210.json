@@ -1,0 +1,97 @@
+{
+  "pack": "russian_english",
+  "deck": "15260210",
+  "band": "6000->6500",
+  "sha256": "04e58e9ca2944ed43030c27c69754aa477d14effce2e24e529e5ab44c79d5ccd",
+  "errors": [],
+  "candidates": [
+    {
+      "row": 10,
+      "q": "нора",
+      "a": "burrow",
+      "qe": "Лиса сидит в норе.",
+      "ae": "The fox sits in the burrow.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "лиса",
+            "band": "6000->6500"
+          }
+        ],
+        "en_vocab": [
+          {
+            "word": "fox",
+            "band": "6000->6500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 93,
+      "q": "недаром",
+      "a": "not for nothing",
+      "qe": "Недаром его хвалят.",
+      "ae": "They praise him not for nothing.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "хвалят",
+            "band": "6000->6500"
+          }
+        ],
+        "en_vocab": [
+          {
+            "word": "praise",
+            "band": "6000->6500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 102,
+      "q": "смириться",
+      "a": "to resign oneself",
+      "qe": "Я смирился с этим.",
+      "ae": "I resigned myself to this.",
+      "issues": {
+        "en_target": "to resign oneself | I resigned myself to this.",
+        "en_vocab": [
+          {
+            "word": "myself",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 203,
+      "q": "гудеть",
+      "a": "to hum",
+      "qe": "Холодильник гудит.",
+      "ae": "The fridge hums.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "fridge",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 312,
+      "q": "передвигаться",
+      "a": "to move",
+      "qe": "Он плохо передвигается.",
+      "ae": "He moves poorly.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "poorly",
+            "band": "9500->10000"
+          }
+        ]
+      }
+    }
+  ]
+}

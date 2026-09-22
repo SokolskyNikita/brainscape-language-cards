@@ -1,0 +1,230 @@
+{
+  "deck": "15260210",
+  "reviewed": 500,
+  "changes": [
+    {
+      "row": 56,
+      "before": [
+        "выписать",
+        "to write out",
+        "Врач выписал лекарство.",
+        "The doctor wrote out the medicine."
+      ],
+      "after": [
+        "выписать",
+        "to prescribe, to write out",
+        "Врач выписал лекарство.",
+        "The doctor prescribed the medicine."
+      ],
+      "reason": "A doctor does not write out medicine."
+    },
+    {
+      "row": 79,
+      "before": [
+        "перенос",
+        "postponement",
+        "Перенос встречи расстроил нас.",
+        "The postponement upset us."
+      ],
+      "after": [
+        "перенос",
+        "postponement",
+        "Перенос встречи расстроил нас.",
+        "The postponement of the meeting upset us."
+      ],
+      "reason": "Restore the meeting omitted from English."
+    },
+    {
+      "row": 85,
+      "before": [
+        "птичка",
+        "little bird",
+        "Птичка сидит на окне.",
+        "A little bird sits on the window."
+      ],
+      "after": [
+        "птичка",
+        "little bird",
+        "Птичка сидит на подоконнике.",
+        "A little bird sits on the windowsill."
+      ],
+      "reason": "Use a physical perch rather than on the window."
+    },
+    {
+      "row": 98,
+      "before": [
+        "шуба",
+        "fur coat",
+        "На ней новая шуба.",
+        "She has a new fur coat."
+      ],
+      "after": [
+        "шуба",
+        "fur coat",
+        "На ней новая шуба.",
+        "She is wearing a new fur coat."
+      ],
+      "reason": "На ней means wearing, not merely owning."
+    },
+    {
+      "row": 105,
+      "before": [
+        "ударный",
+        "percussive",
+        "Это ударный инструмент.",
+        "This is a percussive instrument."
+      ],
+      "after": [
+        "ударный",
+        "percussion (attributive), percussive",
+        "Это ударный инструмент.",
+        "This is a percussion instrument."
+      ],
+      "reason": "Use the conventional instrument category."
+    },
+    {
+      "row": 127,
+      "before": [
+        "драматический",
+        "dramatic",
+        "Это драматический театр.",
+        "This is a dramatic theater."
+      ],
+      "after": [
+        "драматический",
+        "dramatic",
+        "Это драматический момент.",
+        "This is a dramatic moment."
+      ],
+      "reason": "Avoid the calque dramatic theater."
+    },
+    {
+      "row": 151,
+      "before": [
+        "присниться",
+        "to appear in a dream",
+        "Ты мне приснился.",
+        "You appeared in a dream."
+      ],
+      "after": [
+        "присниться",
+        "to appear in a dream",
+        "Ты мне приснился.",
+        "You appeared in my dream."
+      ],
+      "reason": "Preserve whose dream it was."
+    },
+    {
+      "row": 233,
+      "before": [
+        "рабство",
+        "slavery",
+        "Рабства уже нет.",
+        "There is no slavery now."
+      ],
+      "after": [
+        "рабство",
+        "slavery",
+        "Они боролись против рабства.",
+        "They fought against slavery."
+      ],
+      "reason": "Replace the false general claim that slavery no longer exists."
+    },
+    {
+      "row": 243,
+      "before": [
+        "приказывать",
+        "to order",
+        "Не приказывай мне.",
+        "Do not order me."
+      ],
+      "after": [
+        "приказывать",
+        "to order",
+        "Не приказывай мне уходить.",
+        "Do not order me to leave."
+      ],
+      "reason": "Complete the English verb construction."
+    },
+    {
+      "row": 389,
+      "before": [
+        "аллея",
+        "alley",
+        "Мы идём по аллее.",
+        "We are walking down the alley."
+      ],
+      "after": [
+        "аллея",
+        "avenue, tree-lined path",
+        "Мы идём по аллее.",
+        "We are walking along the avenue."
+      ],
+      "reason": "Аллея is a tree-lined avenue or path, not a narrow backstreet alley."
+    },
+    {
+      "row": 405,
+      "before": [
+        "наедине",
+        "alone",
+        "Мы остались наедине.",
+        "We stayed alone."
+      ],
+      "after": [
+        "наедине",
+        "alone",
+        "Мы остались наедине.",
+        "We were left alone together."
+      ],
+      "reason": "Preserve the private togetherness expressed by наедине."
+    },
+    {
+      "row": 421,
+      "before": [
+        "классик",
+        "classic",
+        "Он русский классик.",
+        "He is a Russian classic."
+      ],
+      "after": [
+        "классик",
+        "classic author",
+        "Он русский классик.",
+        "He is a classic Russian author."
+      ],
+      "reason": "Classic alone does not naturally denote a writer in this sentence."
+    },
+    {
+      "row": 477,
+      "before": [
+        "вестник",
+        "messenger",
+        "Он вестник войны.",
+        "He is a messenger of war."
+      ],
+      "after": [
+        "вестник",
+        "messenger",
+        "Вестник принёс письмо.",
+        "The messenger brought a letter."
+      ],
+      "reason": "Replace abstract messenger of war with a concrete messenger example."
+    },
+    {
+      "row": 497,
+      "before": [
+        "ускорить",
+        "to speed up",
+        "Ускорь шаг.",
+        "Speed up your step."
+      ],
+      "after": [
+        "ускорить",
+        "to speed up",
+        "Ускорь работу.",
+        "Speed up the work."
+      ],
+      "reason": "Speed up your step is an unnatural English collocation."
+    }
+  ]
+}

@@ -1,0 +1,422 @@
+{
+  "deck": 15260224,
+  "reviewed": 500,
+  "changes": [
+    {
+      "row": 4,
+      "before": [
+        "одержимый",
+        "possessed, obsessed",
+        "Он одержим страхом.",
+        "He is obsessed with fear."
+      ],
+      "after": [
+        "одержимый",
+        "possessed, obsessed",
+        "Он одержим страхом.",
+        "He is possessed by fear."
+      ],
+      "reason": "Natural matching collocation."
+    },
+    {
+      "row": 23,
+      "before": [
+        "шарф",
+        "scarf",
+        "У неё шарф на шее.",
+        "She has a scarf on her neck."
+      ],
+      "after": [
+        "шарф",
+        "scarf",
+        "У неё шарф на шее.",
+        "She has a scarf around her neck."
+      ],
+      "reason": "Natural preposition."
+    },
+    {
+      "row": 48,
+      "before": [
+        "форточка",
+        "small window",
+        "Открой форточку.",
+        "Open the small window."
+      ],
+      "after": [
+        "форточка",
+        "small ventilation window",
+        "Открой форточку.",
+        "Open the small ventilation window."
+      ],
+      "reason": "Preserve ventilation-specific meaning."
+    },
+    {
+      "row": 53,
+      "before": [
+        "мигрант",
+        "migrant, immigrant",
+        "Мигрант нашёл новую работу.",
+        "The migrant found a new job."
+      ],
+      "after": [
+        "мигрант",
+        "migrant",
+        "Мигрант нашёл новую работу.",
+        "The migrant found a new job."
+      ],
+      "reason": "Migrant is broader than immigrant."
+    },
+    {
+      "row": 86,
+      "before": [
+        "сношение",
+        "intercourse, relations",
+        "У них было интимное сношение.",
+        "They had intimate intercourse."
+      ],
+      "after": [
+        "сношение",
+        "intercourse, relations",
+        "У них было сношение.",
+        "They had intercourse."
+      ],
+      "reason": "Use standard collocation. Avoid untaught adjective."
+    },
+    {
+      "row": 94,
+      "before": [
+        "малолетний",
+        "underage, juvenile",
+        "Это малолетний ребёнок.",
+        "This is an underage child."
+      ],
+      "after": [
+        "малолетний",
+        "young, underage",
+        "У него малолетний сын.",
+        "He has a young son."
+      ],
+      "reason": "Avoid redundant underage child."
+    },
+    {
+      "row": 99,
+      "before": [
+        "коммуникативный",
+        "communicative",
+        "Она очень коммуникативная.",
+        "She is very communicative."
+      ],
+      "after": [
+        "коммуникативный",
+        "communicative",
+        "Это коммуникативный навык.",
+        "This is a communicative skill."
+      ],
+      "reason": "Distinguish communicative from sociable."
+    },
+    {
+      "row": 110,
+      "before": [
+        "вывернуть",
+        "turn inside out, wring out",
+        "Выверни карман.",
+        "Turn the pocket inside out."
+      ],
+      "after": [
+        "вывернуть",
+        "turn inside out",
+        "Выверни карман.",
+        "Turn the pocket inside out."
+      ],
+      "reason": "Wring out is выжать."
+    },
+    {
+      "row": 159,
+      "before": [
+        "лошадка",
+        "little horse, pony",
+        "Маленькая лошадка бежит.",
+        "The little horse is running."
+      ],
+      "after": [
+        "лошадка",
+        "little horse",
+        "Маленькая лошадка бежит.",
+        "The little horse is running."
+      ],
+      "reason": "Diminutive does not specifically mean pony."
+    },
+    {
+      "row": 172,
+      "before": [
+        "почесать",
+        "scratch, itch",
+        "Почеши мне спину.",
+        "Scratch my back."
+      ],
+      "after": [
+        "почесать",
+        "scratch",
+        "Почеши мне спину.",
+        "Scratch my back."
+      ],
+      "reason": "Itch is not the transitive scratching action."
+    },
+    {
+      "row": 182,
+      "before": [
+        "мох",
+        "moss, lichen",
+        "Мох покрыл камень.",
+        "Moss covered the stone."
+      ],
+      "after": [
+        "мох",
+        "moss",
+        "Мох покрыл камень.",
+        "Moss covered the stone."
+      ],
+      "reason": "Lichen is лишайник."
+    },
+    {
+      "row": 184,
+      "before": [
+        "иероглиф",
+        "hieroglyph",
+        "Я не читаю эти иероглифы.",
+        "I cannot read these hieroglyphs."
+      ],
+      "after": [
+        "иероглиф",
+        "hieroglyph",
+        "Я не умею читать эти иероглифы.",
+        "I cannot read these hieroglyphs."
+      ],
+      "reason": "Match inability rather than simple negation."
+    },
+    {
+      "row": 293,
+      "before": [
+        "выкупить",
+        "to redeem, to buy out",
+        "Он хочет выкупить дом.",
+        "He wants to buy out the house."
+      ],
+      "after": [
+        "выкупить",
+        "to buy back, to redeem",
+        "Он хочет выкупить свой дом обратно.",
+        "He wants to buy back his house."
+      ],
+      "reason": "Buy out a house is not idiomatic."
+    },
+    {
+      "row": 310,
+      "before": [
+        "осмотреться",
+        "to look around, to examine",
+        "Я осмотрелся.",
+        "I looked around."
+      ],
+      "after": [
+        "осмотреться",
+        "to look around",
+        "Я осмотрелся.",
+        "I looked around."
+      ],
+      "reason": "Remove transitive examine sense from reflexive verb."
+    },
+    {
+      "row": 320,
+      "before": [
+        "смешаться",
+        "to mix, to blend",
+        "Краски смешались.",
+        "The paints mix."
+      ],
+      "after": [
+        "смешаться",
+        "to mix, to blend",
+        "Краски смешались.",
+        "The paints have mixed."
+      ],
+      "reason": "Preserve past completed mixing."
+    },
+    {
+      "row": 349,
+      "before": [
+        "резина",
+        "rubber, eraser",
+        "Мяч из резины.",
+        "The ball is made of rubber."
+      ],
+      "after": [
+        "резина",
+        "rubber",
+        "Мяч из резины.",
+        "The ball is made of rubber."
+      ],
+      "reason": "Eraser is ластик or резинка, not резина."
+    },
+    {
+      "row": 370,
+      "before": [
+        "ржать",
+        "to neigh, to bray",
+        "Лошадь может ржать.",
+        "The horse can neigh."
+      ],
+      "after": [
+        "ржать",
+        "to neigh; to laugh loudly (coarse)",
+        "Лошадь может ржать.",
+        "The horse can neigh."
+      ],
+      "reason": "Bray is normally an ass sound."
+    },
+    {
+      "row": 383,
+      "before": [
+        "гастроль",
+        "guest performance",
+        "Сегодня гастроль театра.",
+        "The theater gives a guest performance today."
+      ],
+      "after": [
+        "гастроль",
+        "guest performance; tour",
+        "Гастроли театра начались.",
+        "The theater tour has begun."
+      ],
+      "reason": "Use customary plural гастроли."
+    },
+    {
+      "row": 386,
+      "before": [
+        "рассудить",
+        "judge, reason out",
+        "Судья рассудит спор.",
+        "The judge will judge the dispute."
+      ],
+      "after": [
+        "рассудить",
+        "judge, settle",
+        "Судья рассудит их.",
+        "The judge will judge between them."
+      ],
+      "reason": "Correct verb argument structure."
+    },
+    {
+      "row": 392,
+      "before": [
+        "баржа",
+        "barge",
+        "Баржа идёт по реке.",
+        "The barge goes down the river."
+      ],
+      "after": [
+        "баржа",
+        "barge",
+        "Баржа идёт по реке.",
+        "The barge travels along the river."
+      ],
+      "reason": "Do not add downstream direction."
+    },
+    {
+      "row": 402,
+      "before": [
+        "ощупь",
+        "feel one's way, by touch",
+        "Я иду на ощупь.",
+        "I feel my way."
+      ],
+      "after": [
+        "ощупь",
+        "by touch (на ощупь)",
+        "Я нашёл ключ на ощупь.",
+        "I found the key by touch."
+      ],
+      "reason": "Align phrase gloss and example."
+    },
+    {
+      "row": 427,
+      "before": [
+        "созвездие",
+        "constellation, star cluster",
+        "Это созвездие.",
+        "This is a constellation."
+      ],
+      "after": [
+        "созвездие",
+        "constellation",
+        "Это созвездие.",
+        "This is a constellation."
+      ],
+      "reason": "A constellation is not a physical star cluster."
+    },
+    {
+      "row": 441,
+      "before": [
+        "лепить",
+        "to mold, to sculpt",
+        "Она лепит снег.",
+        "She molds snow."
+      ],
+      "after": [
+        "лепить",
+        "to mold, to sculpt",
+        "Она лепит фигуру из снега.",
+        "She molds a figure out of snow."
+      ],
+      "reason": "Natural object and material construction."
+    },
+    {
+      "row": 446,
+      "before": [
+        "сквер",
+        "square, park",
+        "Мы в сквере.",
+        "We are in the park."
+      ],
+      "after": [
+        "сквер",
+        "small public garden, small park",
+        "Мы в сквере.",
+        "We are in the small park."
+      ],
+      "reason": "Distinguish green space from bare square."
+    },
+    {
+      "row": 474,
+      "before": [
+        "сервисный",
+        "service, servicing",
+        "Это сервисный ключ.",
+        "This is a service key."
+      ],
+      "after": [
+        "сервисный",
+        "service, servicing",
+        "Это сервисный центр.",
+        "This is a service center."
+      ],
+      "reason": "Use clear common collocation."
+    },
+    {
+      "row": 487,
+      "before": [
+        "шорты",
+        "shorts, Bermuda shorts",
+        "Где шорты?",
+        "Where are the shorts?"
+      ],
+      "after": [
+        "шорты",
+        "shorts",
+        "Где шорты?",
+        "Where are the shorts?"
+      ],
+      "reason": "Bermuda shorts are a narrower type."
+    }
+  ]
+}

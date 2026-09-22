@@ -1,0 +1,590 @@
+{
+  "deck": "15260260",
+  "reviewed": 500,
+  "changes": [
+    {
+      "deck": "15260260",
+      "row": 20,
+      "card_number": 3020,
+      "before": [
+        "healthcare",
+        "здравоохранение",
+        "Healthcare is an important right.",
+        "Здравоохранение - важное право."
+      ],
+      "after": [
+        "healthcare",
+        "здравоохранение",
+        "Healthcare is important.",
+        "Здравоохранение важно."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Healthcare is a system; access to it is a right."
+    },
+    {
+      "deck": "15260260",
+      "row": 29,
+      "card_number": 3029,
+      "before": [
+        "parking",
+        "стоянка",
+        "This is a parking place.",
+        "Это место стоянки."
+      ],
+      "after": [
+        "parking",
+        "парковка, стоянка",
+        "Parking is free here.",
+        "Стоянка здесь бесплатная."
+      ],
+      "fields": [
+        "Russian translation",
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Replace awkward место стоянки as parking place. Use earlier vocabulary."
+    },
+    {
+      "deck": "15260260",
+      "row": 55,
+      "card_number": 3055,
+      "before": [
+        "lips",
+        "уста",
+        "Her lips whispered a secret.",
+        "Её уста прошептали секрет."
+      ],
+      "after": [
+        "lips",
+        "губы; уста (поэтическое, устаревающее)",
+        "Her lips whispered a secret.",
+        "Её уста прошептали секрет."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Mark poetic register."
+    },
+    {
+      "deck": "15260260",
+      "row": 67,
+      "card_number": 3067,
+      "before": [
+        "nationality",
+        "национальность",
+        "Her nationality is Russian.",
+        "Её национальность - русская."
+      ],
+      "after": [
+        "nationality",
+        "гражданство; национальность (этническая принадлежность)",
+        "What is your nationality?",
+        "Какое у вас гражданство?"
+      ],
+      "fields": [
+        "Russian translation",
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Distinguish citizenship from ethnicity. Use the citizenship sense without confusing Russian ethnicity and citizenship."
+    },
+    {
+      "deck": "15260260",
+      "row": 110,
+      "card_number": 3110,
+      "before": [
+        "to educate",
+        "воспитывать",
+        "Parents educate their son.",
+        "Родители воспитывают своего сына."
+      ],
+      "after": [
+        "to educate",
+        "обучать; воспитывать",
+        "Parents educate their son at home.",
+        "Родители обучают своего сына дома."
+      ],
+      "fields": [
+        "Russian translation",
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Education is not simply child-rearing. Use earlier vocabulary."
+    },
+    {
+      "deck": "15260260",
+      "row": 111,
+      "card_number": 3111,
+      "before": [
+        "bath",
+        "ванна",
+        "I need a bath this evening.",
+        "Мне нужна ванна сегодня вечером."
+      ],
+      "after": [
+        "bath",
+        "ванна",
+        "I want to take a bath this evening.",
+        "Я хочу принять ванну сегодня вечером."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Natural bathing construction."
+    },
+    {
+      "deck": "15260260",
+      "row": 116,
+      "card_number": 3116,
+      "before": [
+        "target",
+        "целевой",
+        "This is the target group.",
+        "Это целевая группа."
+      ],
+      "after": [
+        "target",
+        "цель, мишень; целевой (прилагательное)",
+        "This is the target group.",
+        "Это целевая группа."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Distinguish noun and attributive adjective."
+    },
+    {
+      "deck": "15260260",
+      "row": 123,
+      "card_number": 3123,
+      "before": [
+        "leather",
+        "кожаный",
+        "She bought a leather jacket.",
+        "Она купила кожаную куртку."
+      ],
+      "after": [
+        "leather",
+        "кожа (материал); кожаный (прилагательное)",
+        "She bought a leather jacket.",
+        "Она купила кожаную куртку."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Include noun meaning of leather."
+    },
+    {
+      "deck": "15260260",
+      "row": 127,
+      "card_number": 3127,
+      "before": [
+        "expertise",
+        "опыт",
+        "His expertise is important.",
+        "Его опыт важен."
+      ],
+      "after": [
+        "expertise",
+        "специальные знания, компетентность",
+        "His expertise is important.",
+        "Его специальные знания важны."
+      ],
+      "fields": [
+        "Russian translation",
+        "Russian example"
+      ],
+      "reason": "Expertise is specialized knowledge or skill, not experience alone."
+    },
+    {
+      "deck": "15260260",
+      "row": 139,
+      "card_number": 3139,
+      "before": [
+        "to obligate",
+        "обязать",
+        "The law can obligate him.",
+        "Закон может обязать его."
+      ],
+      "after": [
+        "to obligate",
+        "обязать",
+        "The law can obligate him to work.",
+        "Закон может обязать его работать."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Complete the obligation construction. Use earlier vocabulary."
+    },
+    {
+      "deck": "15260260",
+      "row": 172,
+      "card_number": 3172,
+      "before": [
+        "bring together",
+        "сводить",
+        "He brings friends together.",
+        "Он сводит друзей."
+      ],
+      "after": [
+        "bring together",
+        "сводить",
+        "Work brings these people together.",
+        "Работа сводит этих людей вместе."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Make bringing together explicit rather than ambiguous сводит друзей."
+    },
+    {
+      "deck": "15260260",
+      "row": 181,
+      "card_number": 3181,
+      "before": [
+        "nightmare",
+        "кошмар",
+        "She had a nightmare at night.",
+        "У неё был кошмар ночью."
+      ],
+      "after": [
+        "nightmare",
+        "кошмар",
+        "I remember that nightmare.",
+        "Я помню тот кошмар."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Use natural nightmare construction. Use earlier vocabulary."
+    },
+    {
+      "deck": "15260260",
+      "row": 205,
+      "card_number": 3205,
+      "before": [
+        "hourly",
+        "часовой",
+        "The hourly pay is high.",
+        "Часовая плата высокая."
+      ],
+      "after": [
+        "hourly",
+        "почасовой; часовой",
+        "The hourly pay is high.",
+        "Почасовая оплата высокая."
+      ],
+      "fields": [
+        "Russian translation",
+        "Russian example"
+      ],
+      "reason": "Natural hourly pay expression."
+    },
+    {
+      "deck": "15260260",
+      "row": 222,
+      "card_number": 3222,
+      "before": [
+        "lover",
+        "любовник",
+        "Her husband has a lover.",
+        "У её мужа есть любовник."
+      ],
+      "after": [
+        "lover",
+        "любовник (мужчина); любовница (женщина)",
+        "Her husband has a lover.",
+        "У её мужа есть любовник."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Clarify gender of lover."
+    },
+    {
+      "deck": "15260260",
+      "row": 266,
+      "card_number": 3266,
+      "before": [
+        "cop",
+        "мент",
+        "The cop arrested the thief.",
+        "Мент арестовал вора."
+      ],
+      "after": [
+        "cop",
+        "коп (разговорное); мент (разговорное, может звучать пренебрежительно); полицейский",
+        "The cop arrested the thief.",
+        "Мент арестовал вора."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Mark register of мент. Keep actual sample target explicit outside usage notes."
+    },
+    {
+      "deck": "15260260",
+      "row": 272,
+      "card_number": 3272,
+      "before": [
+        "cattle",
+        "скот",
+        "The cattle are in the field.",
+        "Скот на поле."
+      ],
+      "after": [
+        "cattle",
+        "скот",
+        "The cattle are in the field.",
+        "Скот в поле."
+      ],
+      "fields": [
+        "Russian example"
+      ],
+      "reason": "Natural field preposition."
+    },
+    {
+      "deck": "15260260",
+      "row": 285,
+      "card_number": 3285,
+      "before": [
+        "rent",
+        "аренда",
+        "We must pay for the rent of the house.",
+        "Нам надо платить за аренду дома."
+      ],
+      "after": [
+        "rent",
+        "аренда",
+        "We must pay the rent for the house.",
+        "Нам надо платить за аренду дома."
+      ],
+      "fields": [
+        "English example"
+      ],
+      "reason": "Natural English rent construction."
+    },
+    {
+      "deck": "15260260",
+      "row": 332,
+      "card_number": 3332,
+      "before": [
+        "pregnant",
+        "беременный",
+        "She is pregnant.",
+        "Она беременна."
+      ],
+      "after": [
+        "pregnant",
+        "беременная",
+        "She is pregnant.",
+        "Она беременна."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Use usual feminine citation form."
+    },
+    {
+      "deck": "15260260",
+      "row": 376,
+      "card_number": 3376,
+      "before": [
+        "customs",
+        "таможенный",
+        "This is a customs rule.",
+        "Это таможенное правило."
+      ],
+      "after": [
+        "customs",
+        "таможня; таможенный (прилагательное)",
+        "This is a customs rule.",
+        "Это таможенное правило."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Include noun sense of customs."
+    },
+    {
+      "deck": "15260260",
+      "row": 377,
+      "card_number": 3377,
+      "before": [
+        "externally",
+        "внешне",
+        "She looks calm externally.",
+        "Она внешне выглядит спокойной."
+      ],
+      "after": [
+        "externally",
+        "внешне",
+        "Externally, the house looks old.",
+        "Внешне дом выглядит старым."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Use externally for exterior appearance with parallel meaning. Use earlier vocabulary."
+    },
+    {
+      "deck": "15260260",
+      "row": 387,
+      "card_number": 3387,
+      "before": [
+        "TV series",
+        "сериал",
+        "I love watching that TV series.",
+        "Мне нравится смотреть этот сериал."
+      ],
+      "after": [
+        "TV series",
+        "сериал",
+        "I like watching that TV series.",
+        "Мне нравится смотреть этот сериал."
+      ],
+      "fields": [
+        "English example"
+      ],
+      "reason": "Match нравится."
+    },
+    {
+      "deck": "15260260",
+      "row": 404,
+      "card_number": 3404,
+      "before": [
+        "plane",
+        "плоскость",
+        "The plane is here.",
+        "Плоскость здесь."
+      ],
+      "after": [
+        "plane",
+        "плоскость (геометрия); самолёт",
+        "The plane is here.",
+        "Плоскость здесь."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Identify mathematical plane sense."
+    },
+    {
+      "deck": "15260260",
+      "row": 429,
+      "card_number": 3429,
+      "before": [
+        "comedy",
+        "комедия",
+        "I love watching a good comedy.",
+        "Мне нравится смотреть хорошую комедию."
+      ],
+      "after": [
+        "comedy",
+        "комедия",
+        "I like watching a good comedy.",
+        "Мне нравится смотреть хорошую комедию."
+      ],
+      "fields": [
+        "English example"
+      ],
+      "reason": "Match нравится."
+    },
+    {
+      "deck": "15260260",
+      "row": 432,
+      "card_number": 3432,
+      "before": [
+        "specificity",
+        "специфика",
+        "The specificity of this work is clear.",
+        "Специфика этой работы ясна."
+      ],
+      "after": [
+        "specificity",
+        "конкретность; специфичность",
+        "This question needs more specificity.",
+        "Этому вопросу нужно больше конкретности."
+      ],
+      "fields": [
+        "Russian translation",
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Specificity is precision or distinctiveness, not merely особенностей работы."
+    },
+    {
+      "deck": "15260260",
+      "row": 437,
+      "card_number": 3437,
+      "before": [
+        "to shoot",
+        "расстрелять",
+        "They will shoot him.",
+        "Они его расстреляют."
+      ],
+      "after": [
+        "to shoot",
+        "расстрелять (казнить выстрелами); стрелять",
+        "They will shoot him.",
+        "Они его расстреляют."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Identify execution sense rather than equating all shooting with расстрелять."
+    },
+    {
+      "deck": "15260260",
+      "row": 470,
+      "card_number": 3470,
+      "before": [
+        "steel",
+        "стальной",
+        "This is a steel door.",
+        "Это стальная дверь."
+      ],
+      "after": [
+        "steel",
+        "сталь; стальной (прилагательное)",
+        "This is a steel door.",
+        "Это стальная дверь."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Include steel as a material noun."
+    },
+    {
+      "deck": "15260260",
+      "row": 476,
+      "card_number": 3476,
+      "before": [
+        "commitment",
+        "обязательство",
+        "Commitment is important.",
+        "Обязательство важно."
+      ],
+      "after": [
+        "commitment",
+        "обязательство",
+        "He made a commitment to work.",
+        "Он взял на себя обязательство работать."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Use countable promise sense rather than dedication mapped to obligation. Use earlier vocabulary."
+    }
+  ]
+}

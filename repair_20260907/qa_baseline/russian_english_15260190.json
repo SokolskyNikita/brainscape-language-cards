@@ -1,0 +1,361 @@
+{
+  "pack": "russian_english",
+  "deck": "15260190",
+  "band": "1500->2000",
+  "sha256": "1653af3cf94739d3068ac30250406abc9cd215d64c9c6e3ae8205026546da2b8",
+  "errors": [],
+  "candidates": [
+    {
+      "row": 12,
+      "q": "крыша",
+      "a": "roof",
+      "qe": "Кот на крыше.",
+      "ae": "The cat's on the roof.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "кот",
+            "band": "1500->2000"
+          }
+        ],
+        "en_vocab": [
+          {
+            "word": "cat",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 32,
+      "q": "привыкнуть",
+      "a": "to get used to",
+      "qe": "Я уже привык.",
+      "ae": "I'm used to it now.",
+      "issues": {
+        "en_target": "to get used to | I'm used to it now."
+      }
+    },
+    {
+      "row": 36,
+      "q": "стекло",
+      "a": "glass",
+      "qe": "Осторожно, стекло!",
+      "ae": "Careful, glass!",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "осторожно",
+            "band": "1500->2000"
+          }
+        ],
+        "en_vocab": [
+          {
+            "word": "careful",
+            "band": "4500->5000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 44,
+      "q": "гореть",
+      "a": "to burn, to be on",
+      "qe": "Свет горит.",
+      "ae": "The light is on.",
+      "issues": {
+        "en_target": "to burn, to be on | The light is on."
+      }
+    },
+    {
+      "row": 101,
+      "q": "удобный",
+      "a": "convenient, comfortable",
+      "qe": "Этот стул удобный.",
+      "ae": "This chair is comfortable.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "стул",
+            "band": "1500->2000"
+          }
+        ],
+        "en_vocab": [
+          {
+            "word": "chair",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 105,
+      "q": "шея",
+      "a": "neck",
+      "qe": "Шея болит.",
+      "ae": "My neck is in pain.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "болит",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 119,
+      "q": "собирать",
+      "a": "to collect, to gather",
+      "qe": "Собери все книги.",
+      "ae": "Collect all the books.",
+      "issues": {
+        "ru_target": "собирать | Собери все книги."
+      }
+    },
+    {
+      "row": 146,
+      "q": "ожидание",
+      "a": "waiting, expectation",
+      "qe": "Устали от ожидания.",
+      "ae": "We're tired of waiting.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "устали",
+            "band": "1500->2000"
+          }
+        ],
+        "en_vocab": [
+          {
+            "word": "tired",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 147,
+      "q": "господь",
+      "a": "Lord, God",
+      "qe": "О господи.",
+      "ae": "Oh Lord.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "oh",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 161,
+      "q": "водитель",
+      "a": "driver",
+      "qe": "Водитель, остановите.",
+      "ae": "Driver, stop.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "остановите",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 185,
+      "q": "обращать",
+      "a": "to turn, to direct",
+      "qe": "Обрати внимание сюда.",
+      "ae": "Turn your attention here.",
+      "issues": {
+        "ru_target": "обращать | Обрати внимание сюда."
+      }
+    },
+    {
+      "row": 222,
+      "q": "обратный",
+      "a": "return, reverse",
+      "qe": "Обратный билет есть?",
+      "ae": "Do you have a return ticket?",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "билет",
+            "band": "1500->2000"
+          }
+        ],
+        "en_vocab": [
+          {
+            "word": "ticket",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 252,
+      "q": "крыло",
+      "a": "wing",
+      "qe": "У птицы крыло болит.",
+      "ae": "The bird's wing is in pain.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "болит",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 278,
+      "q": "попадать",
+      "a": "to get into, to hit",
+      "qe": "Я туда не попадаю.",
+      "ae": "I don't get in there.",
+      "issues": {
+        "en_target": "to get into, to hit | I don't get in there."
+      }
+    },
+    {
+      "row": 281,
+      "q": "следовательно",
+      "a": "therefore",
+      "qe": "Следовательно, это правда.",
+      "ae": "Therefore it's true.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "true",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 297,
+      "q": "крепкий",
+      "a": "strong",
+      "qe": "Кофе крепкий.",
+      "ae": "The coffee is strong.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "кофе",
+            "band": "1500->2000"
+          }
+        ],
+        "en_vocab": [
+          {
+            "word": "coffee",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 304,
+      "q": "китайский",
+      "a": "Chinese",
+      "qe": "Любишь китайскую еду?",
+      "ae": "Do you like Chinese food?",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "food",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 318,
+      "q": "символ",
+      "a": "symbol",
+      "qe": "Это символ мира.",
+      "ae": "That's a symbol of peace.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "peace",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 343,
+      "q": "полтора",
+      "a": "one and a half",
+      "qe": "Жду уже полтора часа.",
+      "ae": "I've been waiting an hour and a half already.",
+      "issues": {
+        "en_target": "one and a half | I've been waiting an hour and a half already."
+      }
+    },
+    {
+      "row": 353,
+      "q": "представляться",
+      "a": "to introduce oneself",
+      "qe": "Он представляется.",
+      "ae": "He introduces himself.",
+      "issues": {
+        "en_target": "to introduce oneself | He introduces himself.",
+        "en_vocab": [
+          {
+            "word": "himself",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 365,
+      "q": "бок",
+      "a": "side",
+      "qe": "У меня болит бок.",
+      "ae": "My side is in pain.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "болит",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 461,
+      "q": "живот",
+      "a": "stomach, belly",
+      "qe": "У меня болит живот.",
+      "ae": "My stomach is in pain.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "болит",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 480,
+      "q": "утверждение",
+      "a": "statement, assertion",
+      "qe": "Это утверждение верно?",
+      "ae": "Is that statement true?",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "true",
+            "band": "1500->2000"
+          }
+        ]
+      }
+    }
+  ]
+}

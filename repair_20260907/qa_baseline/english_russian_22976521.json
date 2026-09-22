@@ -1,0 +1,930 @@
+{
+  "pack": "english_russian",
+  "deck": "22976521",
+  "band": "9500->10000",
+  "sha256": "24eea4c85961d16ac843f9b5a129c216aa4a1c33e08f572878f02209b7178f71",
+  "errors": [],
+  "candidates": [
+    {
+      "row": 8,
+      "q": "to stretch, to tighten",
+      "a": "натягивать",
+      "qe": "I will stretch the cloth.",
+      "ae": "Я натяну ткань.",
+      "issues": {
+        "ru_target": "натягивать | Я натяну ткань.",
+        "ru_vocab": [
+          {
+            "word": "натяну",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 17,
+      "q": "dissolve, disperse",
+      "a": "растворяться",
+      "qe": "Sugar will dissolve in water quickly.",
+      "ae": "Сахар быстро растворится в воде.",
+      "issues": {
+        "ru_target": "растворяться | Сахар быстро растворится в воде."
+      }
+    },
+    {
+      "row": 32,
+      "q": "hinder, impede",
+      "a": "затруднять",
+      "qe": "Heavy rain can hinder the work.",
+      "ae": "Сильный дождь может затруднить работу.",
+      "issues": {
+        "ru_target": "затруднять | Сильный дождь может затруднить работу."
+      }
+    },
+    {
+      "row": 33,
+      "q": "washing, laundry",
+      "a": "стиральный",
+      "qe": "The washing machine is broken.",
+      "ae": "Стиральная машина сломана.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "сломана",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 64,
+      "q": "informatics, computer science",
+      "a": "информатика",
+      "qe": "I study informatics at the university.",
+      "ae": "Я изучаю информатику в университете.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "изучаю",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 75,
+      "q": "to drag on, to tighten",
+      "a": "затягивать",
+      "qe": "The meeting began to drag on.",
+      "ae": "Встреча начала затягиваться.",
+      "issues": {
+        "ru_target": "затягивать | Встреча начала затягиваться.",
+        "ru_vocab": [
+          {
+            "word": "затягиваться",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 76,
+      "q": "to pull oneself together, to realize",
+      "a": "спохватиться",
+      "qe": "He realized it too late.",
+      "ae": "Он спохватился слишком поздно.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "поздно",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 83,
+      "q": "beat off, repel",
+      "a": "отбивать",
+      "qe": "They beat off the enemy.",
+      "ae": "Они отбили врага.",
+      "issues": {
+        "ru_target": "отбивать | Они отбили врага."
+      }
+    },
+    {
+      "row": 155,
+      "q": "to distinguish oneself, to excel",
+      "a": "отличиться",
+      "qe": "He wants to distinguish himself.",
+      "ae": "Он хочет отличиться.",
+      "issues": {
+        "en_target": "to distinguish oneself, to excel | He wants to distinguish himself.",
+        "en_vocab": [
+          {
+            "word": "himself",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 197,
+      "q": "audit, inspection",
+      "a": "аудит",
+      "qe": "We must prepare for the audit.",
+      "ae": "Мы должны подготовиться к аудиту.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "подготовиться",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 199,
+      "q": "insurer, underwriter",
+      "a": "страховщик",
+      "qe": "The insurer paid quickly.",
+      "ae": "Страховщик быстро заплатил.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "заплатил",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 226,
+      "q": "work out, practice",
+      "a": "отрабатывать",
+      "qe": "They will work out this movement.",
+      "ae": "Они отработают это движение.",
+      "issues": {
+        "ru_target": "отрабатывать | Они отработают это движение."
+      }
+    },
+    {
+      "row": 236,
+      "q": "elastic, resilient",
+      "a": "упругий",
+      "qe": "The rubber is elastic.",
+      "ae": "Резина упругая.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "резина",
+            "band": "9500->10000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 254,
+      "q": "to lay, to put",
+      "a": "закладывать",
+      "qe": "They lay the foundation.",
+      "ae": "Они закладывают фундамент.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "фундамент",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 259,
+      "q": "to exaggerate, to overstate",
+      "a": "преувеличивать",
+      "qe": "He will exaggerate the story.",
+      "ae": "Он преувеличит эту историю.",
+      "issues": {
+        "ru_target": "преувеличивать | Он преувеличит эту историю."
+      }
+    },
+    {
+      "row": 275,
+      "q": "radically",
+      "a": "радикально",
+      "qe": "He changed his plan radically.",
+      "ae": "Он радикально изменил свой план.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "изменил",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 283,
+      "q": "to master, to possess",
+      "a": "овладевать",
+      "qe": "He will master the language.",
+      "ae": "Он овладеет языком.",
+      "issues": {
+        "ru_target": "овладевать | Он овладеет языком.",
+        "ru_vocab": [
+          {
+            "word": "овладеет",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 294,
+      "q": "cutlet, patty",
+      "a": "котлета",
+      "qe": "I ordered a chicken cutlet for dinner.",
+      "ae": "Я заказал куриную котлету на ужин.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "заказал",
+            "band": "absent"
+          },
+          {
+            "word": "куриную",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 297,
+      "q": "awkward, clumsy",
+      "a": "неловкий",
+      "qe": "The silence was awkward.",
+      "ae": "Молчание было неловким.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "молчание",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 301,
+      "q": "yawn, gape",
+      "a": "зевать",
+      "qe": "I can't stop yawning today.",
+      "ae": "Я не могу перестать зевать сегодня.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "перестать",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 308,
+      "q": "pathological, morbid",
+      "a": "патологический",
+      "qe": "He showed pathological jealousy.",
+      "ae": "Он проявил патологическую ревность.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "проявил",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 309,
+      "q": "lyceum, lycee",
+      "a": "лицей",
+      "qe": "She finished the lyceum last year.",
+      "ae": "Она окончила лицей в прошлом году.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "окончила",
+            "band": "absent"
+          },
+          {
+            "word": "прошлом",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 316,
+      "q": "to arrive, to fly in",
+      "a": "прилетать",
+      "qe": "The plane will arrive soon.",
+      "ae": "Самолёт скоро прилетит.",
+      "issues": {
+        "ru_target": "прилетать | Самолёт скоро прилетит.",
+        "ru_vocab": [
+          {
+            "word": "самолёт",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 317,
+      "q": "impressive, spectacular",
+      "a": "эффектный",
+      "qe": "Her performance was impressive.",
+      "ae": "Её выступление было эффектным.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "выступление",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 319,
+      "q": "reinforced, strengthened",
+      "a": "усиленный",
+      "qe": "The bridge was reinforced with steel.",
+      "ae": "Мост был усилен сталью.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "сталью",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 337,
+      "q": "painting, decoration",
+      "a": "роспись",
+      "qe": "She admired the painting on the vase.",
+      "ae": "Она восхищалась росписью на вазе.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "восхищалась",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 340,
+      "q": "naively, naive",
+      "a": "наивно",
+      "qe": "She naively trusted the stranger.",
+      "ae": "Она наивно доверилась незнакомцу.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "доверилась",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 345,
+      "q": "to change, to replace",
+      "a": "сменять",
+      "qe": "I need to change my clothes.",
+      "ae": "Мне нужно сменить одежду.",
+      "issues": {
+        "ru_target": "сменять | Мне нужно сменить одежду.",
+        "ru_vocab": [
+          {
+            "word": "сменить",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 348,
+      "q": "immediately, without delay",
+      "a": "незамедлительно",
+      "qe": "Call the doctor immediately!",
+      "ae": "Позвоните врачу незамедлительно!",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "позвоните",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 354,
+      "q": "paste, pasta",
+      "a": "паста",
+      "qe": "Apply the paste to the skin.",
+      "ae": "Нанесите пасту на кожу.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "нанесите",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 356,
+      "q": "urgently, insistently",
+      "a": "настоятельно",
+      "qe": "He insistently asked for an answer.",
+      "ae": "Он настоятельно просил ответа.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "просил",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 357,
+      "q": "to contract, to shrink",
+      "a": "сжиматься",
+      "qe": "Metals contract in the cold.",
+      "ae": "Металлы сжимаются на холоде.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "холоде",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 361,
+      "q": "to strain, to tense up",
+      "a": "напрягаться",
+      "qe": "I had to strain to hear her.",
+      "ae": "Мне пришлось напрягаться, чтобы услышать её.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "услышать",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 362,
+      "q": "disintegrate, fall apart",
+      "a": "распадаться",
+      "qe": "The bread will disintegrate in water.",
+      "ae": "Хлеб распадётся в воде.",
+      "issues": {
+        "ru_target": "распадаться | Хлеб распадётся в воде."
+      }
+    },
+    {
+      "row": 364,
+      "q": "innovation, novelty",
+      "a": "новшество",
+      "qe": "This innovation will help us.",
+      "ae": "Это новшество нам поможет.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "поможет",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 367,
+      "q": "gangway, ramp",
+      "a": "трап",
+      "qe": "Clear the gangway for passengers.",
+      "ae": "Освободите трап для пассажиров.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "освободите",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 368,
+      "q": "secretly, covertly",
+      "a": "тайком",
+      "qe": "She secretly admired him.",
+      "ae": "Она тайком восхищалась им.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "восхищалась",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 378,
+      "q": "electorate, voters",
+      "a": "электорат",
+      "qe": "The electorate wants change.",
+      "ae": "Электорат хочет перемен.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "перемен",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 381,
+      "q": "geologist",
+      "a": "геолог",
+      "qe": "The geologist studied the rocks.",
+      "ae": "Геолог изучал породы.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "изучал",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 385,
+      "q": "unsuccessfully",
+      "a": "неудачно",
+      "qe": "He tried unsuccessfully to open the door.",
+      "ae": "Он неудачно попытался открыть дверь.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "попытался",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 392,
+      "q": "barge, lighter",
+      "a": "баржа",
+      "qe": "The barge floated down the river.",
+      "ae": "Баржа плыла по реке.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "floated",
+            "band": "9500->10000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 405,
+      "q": "award ceremony, presentation",
+      "a": "награждение",
+      "qe": "The award ceremony starts at eight.",
+      "ae": "Церемония награждения начинается в восемь.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "начинается",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 406,
+      "q": "to slip away, to elude",
+      "a": "ускользать",
+      "qe": "He managed to slip away unnoticed.",
+      "ae": "Ему удалось ускользнуть незамеченным.",
+      "issues": {
+        "ru_target": "ускользать | Ему удалось ускользнуть незамеченным."
+      }
+    },
+    {
+      "row": 407,
+      "q": "bilateral, two-sided",
+      "a": "двусторонний",
+      "qe": "They signed a bilateral agreement.",
+      "ae": "Они подписали двустороннее соглашение.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "подписали",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 418,
+      "q": "frosty, freezing",
+      "a": "морозный",
+      "qe": "The morning air felt frosty.",
+      "ae": "Утренний воздух был морозным.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "утренний",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 419,
+      "q": "enumeration, listing",
+      "a": "перечисление",
+      "qe": "The report included an enumeration of facts.",
+      "ae": "Отчёт включал перечисление фактов.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "отчёт",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 435,
+      "q": "to construct, to erect",
+      "a": "возводить",
+      "qe": "They plan to construct a new bridge.",
+      "ae": "Они планируют возвести новый мост.",
+      "issues": {
+        "ru_target": "возводить | Они планируют возвести новый мост.",
+        "ru_vocab": [
+          {
+            "word": "планируют",
+            "band": "absent"
+          },
+          {
+            "word": "возвести",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 438,
+      "q": "canned food, preserves",
+      "a": "консервы",
+      "qe": "I stocked up on canned food.",
+      "ae": "Я запасся консервами.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "запасся",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 443,
+      "q": "estimate, approximate",
+      "a": "прикидывать",
+      "qe": "I can only estimate the cost.",
+      "ae": "Я могу только прикидывать стоимость.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "стоимость",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 445,
+      "q": "rebellion, mutiny",
+      "a": "мятеж",
+      "qe": "The rebellion shook the nation.",
+      "ae": "Мятеж потряс нацию.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "потряс",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 446,
+      "q": "square, park",
+      "a": "сквер",
+      "qe": "Let's meet in the square.",
+      "ae": "Давайте встретимся в сквере.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "встретимся",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 448,
+      "q": "pierce, break through",
+      "a": "пробивать",
+      "qe": "The needle will pierce the fabric easily.",
+      "ae": "Игла легко пробьёт ткань.",
+      "issues": {
+        "ru_target": "пробивать | Игла легко пробьёт ткань."
+      }
+    },
+    {
+      "row": 449,
+      "q": "to look around, to examine",
+      "a": "оглядывать",
+      "qe": "I paused to look around the room.",
+      "ae": "Я остановился, чтобы оглядеть комнату.",
+      "issues": {
+        "ru_target": "оглядывать | Я остановился, чтобы оглядеть комнату."
+      }
+    },
+    {
+      "row": 451,
+      "q": "pull out, extract",
+      "a": "выдернуть",
+      "qe": "Carefully pull out the splinter.",
+      "ae": "Аккуратно выдерните занозу.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "занозу",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 455,
+      "q": "leader, chieftain",
+      "a": "предводитель",
+      "qe": "The leader inspired his followers greatly.",
+      "ae": "Предводитель сильно вдохновил своих последователей.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "greatly",
+            "band": "absent"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "вдохновил",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 457,
+      "q": "cosmetic, cosmetics",
+      "a": "косметический",
+      "qe": "She bought a new cosmetic set.",
+      "ae": "Она купила новый косметический набор.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "набор",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 462,
+      "q": "relax, unwind",
+      "a": "расслабляться",
+      "qe": "Just relax and enjoy the moment.",
+      "ae": "Просто расслабьтесь и наслаждайтесь моментом.",
+      "issues": {
+        "ru_target": "расслабляться | Просто расслабьтесь и наслаждайтесь моментом."
+      }
+    },
+    {
+      "row": 467,
+      "q": "briefly, in brief",
+      "a": "вкратце",
+      "qe": "He explained the concept briefly.",
+      "ae": "Он вкратце объяснил концепцию.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "концепцию",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 472,
+      "q": "Chekist, security officer",
+      "a": "чекист",
+      "qe": "The Chekist monitored the dissidents closely.",
+      "ae": "Чекист тщательно следил за диссидентами.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "следил",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 479,
+      "q": "drag, bring",
+      "a": "притащить",
+      "qe": "I'll drag the sofa over here.",
+      "ae": "Я притащу диван сюда.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "сюда",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 486,
+      "q": "to comprehend, to grasp",
+      "a": "постигать",
+      "qe": "He cannot comprehend the theory.",
+      "ae": "Он не может постичь теорию.",
+      "issues": {
+        "ru_target": "постигать | Он не может постичь теорию.",
+        "ru_vocab": [
+          {
+            "word": "постичь",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 493,
+      "q": "brilliantly, splendidly",
+      "a": "блестяще",
+      "qe": "She danced brilliantly at the competition.",
+      "ae": "Она блестяще танцевала на соревновании.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "соревновании",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 498,
+      "q": "patient, enduring",
+      "a": "терпеливый",
+      "qe": "She is very patient with a child.",
+      "ae": "Она очень терпеливая с ребёнком.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "ребёнком",
+            "band": "absent"
+          }
+        ]
+      }
+    }
+  ]
+}

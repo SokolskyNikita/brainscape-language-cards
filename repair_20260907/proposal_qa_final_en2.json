@@ -1,0 +1,121 @@
+[
+  {
+    "deck": "15260255",
+    "row": 455,
+    "q": "fog",
+    "a": "туман",
+    "qe": "I see fog over the city.",
+    "ae": "Я вижу туман над городом.",
+    "issues": {
+      "en_vocab": [
+        {
+          "word": "over",
+          "band": "1500->2000"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260256",
+    "row": 133,
+    "q": "chain",
+    "a": "цепь",
+    "qe": "This chain is long.",
+    "ae": "Эта цепь длинная.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "длинная",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260256",
+    "row": 262,
+    "q": "metal",
+    "a": "металл",
+    "qe": "Metal is heavy.",
+    "ae": "Металл тяжёлый.",
+    "issues": {
+      "en_vocab": [
+        {
+          "word": "heavy",
+          "band": "3000->3500"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260256",
+    "row": 311,
+    "q": "offense",
+    "a": "обида",
+    "qe": "His words were an offense.",
+    "ae": "Его слова были оскорблением.",
+    "issues": {
+      "ru_target": "обида | Его слова были оскорблением.",
+      "ru_vocab": [
+        {
+          "word": "оскорблением",
+          "band": "3500->4000"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260257",
+    "row": 48,
+    "q": "in a row",
+    "a": "подряд",
+    "qe": "He came three days in a row.",
+    "ae": "Он приходил три дня подряд.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "приходил",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260257",
+    "row": 73,
+    "q": "Mrs.",
+    "a": "миссис",
+    "qe": "Mrs. Brown came today.",
+    "ae": "Миссис Браун пришла сегодня.",
+    "issues": {
+      "en_vocab": [
+        {
+          "word": "brown",
+          "band": "3000->3500"
+        }
+      ],
+      "ru_vocab": [
+        {
+          "word": "браун",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260257",
+    "row": 135,
+    "q": "conveniently",
+    "a": "удобно",
+    "qe": "The hotel is conveniently located.",
+    "ae": "Гостиница удобно расположена.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "расположена",
+          "band": "absent"
+        }
+      ]
+    }
+  }
+]

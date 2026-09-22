@@ -1,0 +1,470 @@
+{
+  "deck": 15260198,
+  "reviewed": 500,
+  "changes": [
+    {
+      "row": 7,
+      "before": [
+        "турецкий",
+        "Turkish, Ottoman",
+        "Я люблю турецкий кофе.",
+        "I love Turkish coffee."
+      ],
+      "after": [
+        "турецкий",
+        "Turkish",
+        "Я люблю турецкий кофе.",
+        "I love Turkish coffee."
+      ],
+      "reason": "Ottoman is османский; not interchangeable."
+    },
+    {
+      "row": 24,
+      "before": [
+        "национальность",
+        "nationality",
+        "Её национальность — русская.",
+        "Her nationality is Russian."
+      ],
+      "after": [
+        "национальность",
+        "ethnicity, ethnic nationality",
+        "Она русская по национальности.",
+        "Her ethnicity is Russian."
+      ],
+      "reason": "Distinguish ethnic identity from citizenship."
+    },
+    {
+      "row": 39,
+      "before": [
+        "плоский",
+        "flat, plane",
+        "Стол совсем плоский.",
+        "The table is flat."
+      ],
+      "after": [
+        "плоский",
+        "flat, plane (adjective)",
+        "Эта поверхность плоская.",
+        "This surface is flat."
+      ],
+      "reason": "Use an unambiguous flat-surface example."
+    },
+    {
+      "row": 42,
+      "before": [
+        "переносить",
+        "to transfer, to postpone",
+        "Мы переносим встречу.",
+        "We postpone the meeting."
+      ],
+      "after": [
+        "переносить",
+        "to transfer, to postpone",
+        "Мы переносим встречу.",
+        "We are postponing the meeting."
+      ],
+      "reason": "Use natural ongoing tense."
+    },
+    {
+      "row": 45,
+      "before": [
+        "живопись",
+        "painting, fine art",
+        "Я люблю живопись.",
+        "I love painting."
+      ],
+      "after": [
+        "живопись",
+        "painting (art)",
+        "Я люблю живопись.",
+        "I love painting."
+      ],
+      "reason": "Fine art is broader than живопись."
+    },
+    {
+      "row": 54,
+      "before": [
+        "экспорт",
+        "export, exports",
+        "Экспорт нефти растёт.",
+        "Oil export is growing."
+      ],
+      "after": [
+        "экспорт",
+        "export, exports",
+        "Экспорт нефти растёт.",
+        "Oil exports are growing."
+      ],
+      "reason": "Natural English count usage."
+    },
+    {
+      "row": 58,
+      "before": [
+        "стабильность",
+        "stability, steadiness",
+        "Нам сейчас нужна большая стабильность.",
+        "We need more stability now."
+      ],
+      "after": [
+        "стабильность",
+        "stability, steadiness",
+        "Нам сейчас нужна большая стабильность.",
+        "We need greater stability now."
+      ],
+      "reason": "More precise comparative pairing."
+    },
+    {
+      "row": 73,
+      "before": [
+        "потрясти",
+        "shake, impress",
+        "Новость потрясет общество.",
+        "The news will shake the community."
+      ],
+      "after": [
+        "потрясти",
+        "shake, impress",
+        "Новость потрясет общество.",
+        "The news will shake society."
+      ],
+      "reason": "Translate общество consistently."
+    },
+    {
+      "row": 95,
+      "before": [
+        "первичный",
+        "primary, initial",
+        "Это первичный этап.",
+        "This is the primary stage."
+      ],
+      "after": [
+        "первичный",
+        "primary, initial",
+        "Это первичная информация.",
+        "This is primary information."
+      ],
+      "reason": "Use natural первичный collocation."
+    },
+    {
+      "row": 145,
+      "before": [
+        "рассылка",
+        "newsletter",
+        "Рассылка готова.",
+        "The newsletter is ready."
+      ],
+      "after": [
+        "рассылка",
+        "mailing, newsletter",
+        "Рассылка готова.",
+        "The newsletter is ready."
+      ],
+      "reason": "Рассылка is sending to recipients, not only newsletter content."
+    },
+    {
+      "row": 159,
+      "before": [
+        "совокупность",
+        "total",
+        "В совокупности это много.",
+        "In total, this is a lot."
+      ],
+      "after": [
+        "совокупность",
+        "totality, set; in total (в совокупности)",
+        "В совокупности это много.",
+        "In total, this is a lot."
+      ],
+      "reason": "Separate noun from adverbial construction."
+    },
+    {
+      "row": 163,
+      "before": [
+        "каша",
+        "porridge, cereal",
+        "Каша ещё горячая.",
+        "The porridge is still hot."
+      ],
+      "after": [
+        "каша",
+        "porridge",
+        "Каша ещё горячая.",
+        "The porridge is still hot."
+      ],
+      "reason": "Cereal may be dry breakfast cereal or grain, not каша."
+    },
+    {
+      "row": 189,
+      "before": [
+        "сотовый",
+        "mobile, cellular",
+        "Где мой сотовый?",
+        "Where is my mobile?"
+      ],
+      "after": [
+        "сотовый",
+        "cellular; mobile phone (сотовый телефон)",
+        "Где мой сотовый?",
+        "Where is my mobile phone?"
+      ],
+      "reason": "Separate adjective from colloquial phone noun."
+    },
+    {
+      "row": 239,
+      "before": [
+        "тем",
+        "so much the better",
+        "Тем лучше.",
+        "So much the better."
+      ],
+      "after": [
+        "тем",
+        "all the (before a comparative); by that",
+        "Тем лучше.",
+        "All the better."
+      ],
+      "reason": "Лучше supplies better, not тем."
+    },
+    {
+      "row": 245,
+      "before": [
+        "ругаться",
+        "to swear, to quarrel",
+        "Они снова ругаются.",
+        "They quarrel again."
+      ],
+      "after": [
+        "ругаться",
+        "to swear, to quarrel",
+        "Они снова ругаются.",
+        "They are quarrelling again."
+      ],
+      "reason": "Natural ongoing tense."
+    },
+    {
+      "row": 275,
+      "before": [
+        "удержаться",
+        "to hold on, to refrain",
+        "Я не смог удержаться.",
+        "I could not hold on."
+      ],
+      "after": [
+        "удержаться",
+        "to hold on, to refrain",
+        "Я не смог удержаться от смеха.",
+        "I could not refrain from laughing."
+      ],
+      "reason": "Make intended physical sense explicit. Use a natural complete refrain construction."
+    },
+    {
+      "row": 285,
+      "before": [
+        "филиал",
+        "branch, subsidiary",
+        "Это наш новый филиал.",
+        "This is our new branch."
+      ],
+      "after": [
+        "филиал",
+        "branch",
+        "Это наш новый филиал.",
+        "This is our new branch."
+      ],
+      "reason": "A subsidiary is not necessarily a branch."
+    },
+    {
+      "row": 287,
+      "before": [
+        "вечность",
+        "eternity, infinity",
+        "Это длилось вечность.",
+        "It lasted an eternity."
+      ],
+      "after": [
+        "вечность",
+        "eternity",
+        "Это длилось вечность.",
+        "It lasted an eternity."
+      ],
+      "reason": "Infinity is not the same as endless time."
+    },
+    {
+      "row": 304,
+      "before": [
+        "правитель",
+        "ruler, governor",
+        "Это наш правитель.",
+        "This is our ruler."
+      ],
+      "after": [
+        "правитель",
+        "ruler",
+        "Это наш правитель.",
+        "This is our ruler."
+      ],
+      "reason": "Governor is not the general meaning of правитель."
+    },
+    {
+      "row": 326,
+      "before": [
+        "научно",
+        "scientifically, scholarly",
+        "Он мыслит научно.",
+        "He thinks scientifically."
+      ],
+      "after": [
+        "научно",
+        "scientifically",
+        "Он мыслит научно.",
+        "He thinks scientifically."
+      ],
+      "reason": "Remove adjective scholarly from adverb gloss."
+    },
+    {
+      "row": 327,
+      "before": [
+        "подружка",
+        "girlfriend, female friend",
+        "Это моя подружка.",
+        "This is my girlfriend."
+      ],
+      "after": [
+        "подружка",
+        "friend (female, informal); girlfriend",
+        "Это моя подружка.",
+        "This is my friend."
+      ],
+      "reason": "Avoid implying romance without context."
+    },
+    {
+      "row": 343,
+      "before": [
+        "освоение",
+        "space exploration",
+        "Освоение космоса продолжается.",
+        "Space exploration continues."
+      ],
+      "after": [
+        "освоение",
+        "exploration, development, mastery",
+        "Освоение космоса продолжается.",
+        "The exploration of space continues."
+      ],
+      "reason": "Space comes from космоса, not освоение."
+    },
+    {
+      "row": 364,
+      "before": [
+        "механический",
+        "mechanical, mechanic",
+        "У него механический голос.",
+        "He has a mechanical voice."
+      ],
+      "after": [
+        "механический",
+        "mechanical",
+        "У него механический голос.",
+        "He has a mechanical voice."
+      ],
+      "reason": "Mechanic as noun is a different part of speech."
+    },
+    {
+      "row": 374,
+      "before": [
+        "календарь",
+        "calendar, almanac",
+        "Где мой календарь?",
+        "Where is my calendar?"
+      ],
+      "after": [
+        "календарь",
+        "calendar",
+        "Где мой календарь?",
+        "Where is my calendar?"
+      ],
+      "reason": "An almanac is not necessarily a calendar."
+    },
+    {
+      "row": 390,
+      "before": [
+        "поп",
+        "priest, pop",
+        "Поп стоит у церкви.",
+        "The priest stands by the church."
+      ],
+      "after": [
+        "поп",
+        "priest (colloquial); pop (music)",
+        "Поп стоит у церкви.",
+        "The priest stands by the church."
+      ],
+      "reason": "Distinguish senses and register."
+    },
+    {
+      "row": 395,
+      "before": [
+        "переписка",
+        "correspondence, exchange of letters",
+        "Наша переписка долгая.",
+        "Our correspondence is long."
+      ],
+      "after": [
+        "переписка",
+        "correspondence, exchange of letters",
+        "Наша переписка продолжается много лет.",
+        "Our correspondence has continued for many years."
+      ],
+      "reason": "Clarify duration in natural wording."
+    },
+    {
+      "row": 417,
+      "before": [
+        "орбита",
+        "orbit, trajectory",
+        "Это высокая орбита.",
+        "This is a high orbit."
+      ],
+      "after": [
+        "орбита",
+        "orbit",
+        "Это высокая орбита.",
+        "This is a high orbit."
+      ],
+      "reason": "Trajectory is broader than orbit."
+    },
+    {
+      "row": 432,
+      "before": [
+        "надевать",
+        "put on, wear",
+        "Надо надевать платье.",
+        "You need to put on a dress."
+      ],
+      "after": [
+        "надевать",
+        "put on",
+        "Надо надевать платье.",
+        "You need to put on a dress."
+      ],
+      "reason": "Distinguish putting clothing on from wearing it."
+    },
+    {
+      "row": 433,
+      "before": [
+        "суп",
+        "soup, broth",
+        "Это хороший суп.",
+        "This is good soup."
+      ],
+      "after": [
+        "суп",
+        "soup",
+        "Это хороший суп.",
+        "This is good soup."
+      ],
+      "reason": "Broth is бульон, not soup generally."
+    }
+  ]
+}

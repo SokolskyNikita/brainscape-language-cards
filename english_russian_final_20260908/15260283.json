@@ -1,0 +1,754 @@
+{
+  "deck": "15260283",
+  "reviewed": 500,
+  "changes": [
+    {
+      "deck": "15260283",
+      "row": 14,
+      "card_number": 8014,
+      "before": [
+        "Kirovsky",
+        "кировский",
+        "I live on Kirovsky street.",
+        "Я живу на Кировской улице."
+      ],
+      "after": [
+        "Kirovsky",
+        "Кировский (в именах собственных); кировский",
+        "I live on Kirovsky Street.",
+        "Я живу на Кировской улице."
+      ],
+      "fields": [
+        "Russian translation",
+        "English example"
+      ],
+      "reason": "Capitalize street name."
+    },
+    {
+      "deck": "15260283",
+      "row": 27,
+      "card_number": 8027,
+      "before": [
+        "dizziness",
+        "головокружение",
+        "She had dizziness.",
+        "У неё было головокружение."
+      ],
+      "after": [
+        "dizziness",
+        "головокружение",
+        "She experienced dizziness.",
+        "У неё было головокружение."
+      ],
+      "fields": [
+        "English example"
+      ],
+      "reason": "Natural English symptom expression."
+    },
+    {
+      "deck": "15260283",
+      "row": 35,
+      "card_number": 8035,
+      "before": [
+        "cottage cheese",
+        "творог",
+        "I love cottage cheese.",
+        "Я люблю творог."
+      ],
+      "after": [
+        "cottage cheese",
+        "зернёный творог; творог",
+        "I love cottage cheese.",
+        "Я люблю творог."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Include characteristic English curd-cheese meaning."
+    },
+    {
+      "deck": "15260283",
+      "row": 72,
+      "card_number": 8072,
+      "before": [
+        "offender",
+        "обидчик",
+        "He is the offender.",
+        "Он обидчик."
+      ],
+      "after": [
+        "offender",
+        "правонарушитель; обидчик",
+        "He is the offender.",
+        "Он обидчик."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Offender often means lawbreaker."
+    },
+    {
+      "deck": "15260283",
+      "row": 78,
+      "card_number": 8078,
+      "before": [
+        "to graze",
+        "пастись",
+        "Cows love to graze in the field.",
+        "Коровы любят пастись на поле."
+      ],
+      "after": [
+        "to graze",
+        "пастись",
+        "Cows love to graze in the field.",
+        "Коровы любят пастись в поле."
+      ],
+      "fields": [
+        "Russian example"
+      ],
+      "reason": "Natural field preposition."
+    },
+    {
+      "deck": "15260283",
+      "row": 83,
+      "card_number": 8083,
+      "before": [
+        "to fuck",
+        "трахнуть",
+        "He wants to fuck her.",
+        "Он хочет её трахнуть."
+      ],
+      "after": [
+        "to fuck",
+        "трахнуть (грубое)",
+        "He wants to fuck her.",
+        "Он хочет её трахнуть."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Mark sexual vulgarity."
+    },
+    {
+      "deck": "15260283",
+      "row": 93,
+      "card_number": 8093,
+      "before": [
+        "subsistence",
+        "прожиточный",
+        "The subsistence minimum grew.",
+        "Прожиточный минимум вырос."
+      ],
+      "after": [
+        "subsistence",
+        "средства к существованию; прожиточный (прилагательное)",
+        "The subsistence minimum grew.",
+        "Прожиточный минимум вырос."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Include noun meaning."
+    },
+    {
+      "deck": "15260283",
+      "row": 108,
+      "card_number": 8108,
+      "before": [
+        "handcuff",
+        "наручник",
+        "The handcuff was new.",
+        "Наручник был новым."
+      ],
+      "after": [
+        "handcuff",
+        "наручники (обычно handcuffs); один браслет наручников",
+        "The handcuffs were new.",
+        "Наручники были новыми."
+      ],
+      "fields": [
+        "Russian translation",
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Use normal plural rather than наручник, which is not a normal term for restraints."
+    },
+    {
+      "deck": "15260283",
+      "row": 111,
+      "card_number": 8111,
+      "before": [
+        "sewing",
+        "швейный",
+        "This is sewing work.",
+        "Это швейная работа."
+      ],
+      "after": [
+        "sewing",
+        "шитьё; швейный (прилагательное)",
+        "This is sewing work.",
+        "Это швейная работа."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Include activity noun."
+    },
+    {
+      "deck": "15260283",
+      "row": 121,
+      "card_number": 8121,
+      "before": [
+        "climatic",
+        "климатический",
+        "Climatic change is slow.",
+        "Климатическое изменение медленное."
+      ],
+      "after": [
+        "climatic",
+        "климатический",
+        "Climatic conditions are important.",
+        "Климатические условия важны."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Avoid unsupported generalization that climatic change is slow. Use prior-deck vocabulary."
+    },
+    {
+      "deck": "15260283",
+      "row": 138,
+      "card_number": 8138,
+      "before": [
+        "pre-death",
+        "предсмертный",
+        "This is his pre-death letter.",
+        "Это его предсмертное письмо."
+      ],
+      "after": [
+        "pre-death",
+        "предсмертный (английское сочетание редкое, преимущественно техническое)",
+        "This is his pre-death letter.",
+        "Это его предсмертное письмо."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Flag nonstandard everyday phrasing."
+    },
+    {
+      "deck": "15260283",
+      "row": 145,
+      "card_number": 8145,
+      "before": [
+        "lilac",
+        "лиловый",
+        "She has a lilac dress.",
+        "У неё лиловое платье."
+      ],
+      "after": [
+        "lilac",
+        "сирень (растение); сиреневый, лиловый (цвет)",
+        "She has a lilac dress.",
+        "У неё лиловое платье."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Include plant and color senses."
+    },
+    {
+      "deck": "15260283",
+      "row": 147,
+      "card_number": 8147,
+      "before": [
+        "mourning",
+        "траурный",
+        "She wore a mourning dress.",
+        "Она надела траурное платье."
+      ],
+      "after": [
+        "mourning",
+        "траур; траурный (прилагательное)",
+        "She wore a mourning dress.",
+        "Она носила траурное платье."
+      ],
+      "fields": [
+        "Russian translation",
+        "Russian example"
+      ],
+      "reason": "Include noun meaning. Wore is not put on."
+    },
+    {
+      "deck": "15260283",
+      "row": 162,
+      "card_number": 8162,
+      "before": [
+        "adverb",
+        "наречие",
+        "\"Quickly\" is an adverb.",
+        "«Быстро» — это наречие."
+      ],
+      "after": [
+        "adverb",
+        "наречие",
+        "This word is an adverb.",
+        "Это слово — наречие."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Preserve the same proposition across languages instead of changing the quoted word."
+    },
+    {
+      "deck": "15260283",
+      "row": 187,
+      "card_number": 8187,
+      "before": [
+        "knowing",
+        "знающий",
+        "He is a knowing man.",
+        "Он знающий человек."
+      ],
+      "after": [
+        "knowing",
+        "понимающий, осведомлённый; знающий",
+        "She gave him a knowing look.",
+        "Она посмотрела на него понимающим взглядом."
+      ],
+      "fields": [
+        "Russian translation",
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Natural knowing-look sense; knowing man is archaic."
+    },
+    {
+      "deck": "15260283",
+      "row": 200,
+      "card_number": 8200,
+      "before": [
+        "to endow",
+        "наделять",
+        "They endow him with power.",
+        "Они наделяют его силой."
+      ],
+      "after": [
+        "to endow",
+        "наделять",
+        "They endow him with power.",
+        "Они наделяют его властью."
+      ],
+      "fields": [
+        "Russian example"
+      ],
+      "reason": "Match authority sense of endow with power."
+    },
+    {
+      "deck": "15260283",
+      "row": 205,
+      "card_number": 8205,
+      "before": [
+        "unmarried",
+        "холостой",
+        "He is still unmarried.",
+        "Он всё ещё холостой."
+      ],
+      "after": [
+        "unmarried",
+        "неженатый, холостой (о мужчине); незамужняя (о женщине)",
+        "He is still unmarried.",
+        "Он всё ещё холостой."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Identify gender-specific Russian forms."
+    },
+    {
+      "deck": "15260283",
+      "row": 217,
+      "card_number": 8217,
+      "before": [
+        "son of a bitch",
+        "сукин сын",
+        "He is a real son of a bitch.",
+        "Он настоящий сукин сын."
+      ],
+      "after": [
+        "son of a bitch",
+        "сукин сын (грубое)",
+        "He is a real son of a bitch.",
+        "Он настоящий сукин сын."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Mark insult register."
+    },
+    {
+      "deck": "15260283",
+      "row": 220,
+      "card_number": 8220,
+      "before": [
+        "cripple",
+        "калека",
+        "War made him a cripple.",
+        "Война сделала его калекой."
+      ],
+      "after": [
+        "cripple",
+        "калека (устаревающее и часто оскорбительное обозначение человека)",
+        "War made him a cripple.",
+        "Война сделала его калекой."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Mark disability slur register."
+    },
+    {
+      "deck": "15260283",
+      "row": 263,
+      "card_number": 8263,
+      "before": [
+        "oil and gas",
+        "нефтегазовый",
+        "This is an oil and gas company.",
+        "Это нефтегазовая компания."
+      ],
+      "after": [
+        "oil and gas",
+        "нефть и газ; нефтегазовый (прилагательное)",
+        "This is an oil and gas company.",
+        "Это нефтегазовая компания."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Include noun phrase."
+    },
+    {
+      "deck": "15260283",
+      "row": 270,
+      "card_number": 8270,
+      "before": [
+        "stare",
+        "пялиться",
+        "He likes to stare.",
+        "Он любит пялиться."
+      ],
+      "after": [
+        "stare",
+        "пристально смотреть; пялиться (разговорное, неодобрительное)",
+        "He likes to stare.",
+        "Он любит пялиться."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Mark rougher Russian equivalent."
+    },
+    {
+      "deck": "15260283",
+      "row": 278,
+      "card_number": 8278,
+      "before": [
+        "dear",
+        "голубчик",
+        "Thank you, dear.",
+        "Спасибо, голубчик."
+      ],
+      "after": [
+        "dear",
+        "дорогой; голубчик (устаревающее или ироническое обращение к мужчине)",
+        "Thank you, dear.",
+        "Спасибо, голубчик."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Identify gender and register."
+    },
+    {
+      "deck": "15260283",
+      "row": 338,
+      "card_number": 8338,
+      "before": [
+        "source code",
+        "исходник",
+        "I read the source code yesterday.",
+        "Я читал исходник вчера."
+      ],
+      "after": [
+        "source code",
+        "исходный код; исходник (разговорное)",
+        "I read the source code yesterday.",
+        "Я читал исходник вчера."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Include standard software term."
+    },
+    {
+      "deck": "15260283",
+      "row": 345,
+      "card_number": 8345,
+      "before": [
+        "drinking",
+        "питьевой",
+        "Install a drinking water filter.",
+        "Установите фильтр для питьевой воды."
+      ],
+      "after": [
+        "drinking",
+        "питьё; питьевой (прилагательное)",
+        "Install a drinking water filter.",
+        "Установите фильтр для питьевой воды."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Include activity noun."
+    },
+    {
+      "deck": "15260283",
+      "row": 360,
+      "card_number": 8360,
+      "before": [
+        "hedge",
+        "изгородь",
+        "The garden has a hedge.",
+        "У сада есть изгородь."
+      ],
+      "after": [
+        "hedge",
+        "живая изгородь",
+        "The garden has a hedge.",
+        "У сада есть живая изгородь."
+      ],
+      "fields": [
+        "Russian translation",
+        "Russian example"
+      ],
+      "reason": "Hedge is living vegetation, not any fence."
+    },
+    {
+      "deck": "15260283",
+      "row": 363,
+      "card_number": 8363,
+      "before": [
+        "rye",
+        "рожь",
+        "They grow rye in the field.",
+        "Они растят рожь в поле."
+      ],
+      "after": [
+        "rye",
+        "рожь",
+        "Rye grows in the field.",
+        "Рожь растёт в поле."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Natural crop-growing verb. Use prior-deck vocabulary."
+    },
+    {
+      "deck": "15260283",
+      "row": 369,
+      "card_number": 8369,
+      "before": [
+        "bro",
+        "браток",
+        "Listen, bro, I know.",
+        "Слушай, браток, я знаю."
+      ],
+      "after": [
+        "bro",
+        "бро, брат (разговорное); браток (фамильярное)",
+        "Listen, bro, I know.",
+        "Слушай, браток, я знаю."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Mark social register."
+    },
+    {
+      "deck": "15260283",
+      "row": 385,
+      "card_number": 8385,
+      "before": [
+        "snowball",
+        "снежок",
+        "The snowball hit the window softly.",
+        "Снежок мягко ударил в окно."
+      ],
+      "after": [
+        "snowball",
+        "снежок",
+        "The snowball hit the window.",
+        "Снежок ударил в окно."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Remove unnatural soft impact description."
+    },
+    {
+      "deck": "15260283",
+      "row": 434,
+      "card_number": 8434,
+      "before": [
+        "Renaissance",
+        "ренессанс",
+        "This picture is from the Renaissance.",
+        "Эта картина эпохи ренессанса."
+      ],
+      "after": [
+        "Renaissance",
+        "Ренессанс",
+        "This picture is from the Renaissance.",
+        "Эта картина эпохи Ренессанса."
+      ],
+      "fields": [
+        "Russian translation",
+        "Russian example"
+      ],
+      "reason": "Capitalize historical period."
+    },
+    {
+      "deck": "15260283",
+      "row": 435,
+      "card_number": 8435,
+      "before": [
+        "thriller",
+        "триллер",
+        "I love watching a good thriller.",
+        "Мне нравится смотреть хороший триллер."
+      ],
+      "after": [
+        "thriller",
+        "триллер",
+        "I like watching a good thriller.",
+        "Мне нравится смотреть хороший триллер."
+      ],
+      "fields": [
+        "English example"
+      ],
+      "reason": "Match нравится."
+    },
+    {
+      "deck": "15260283",
+      "row": 457,
+      "card_number": 8457,
+      "before": [
+        "X-ray",
+        "рентгеновский",
+        "He needs an X-ray examination.",
+        "Ему нужно рентгеновское обследование."
+      ],
+      "after": [
+        "X-ray",
+        "рентгеновский снимок; рентгеновский (прилагательное)",
+        "He needs an X-ray examination.",
+        "Ему нужно рентгеновское обследование."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Include ordinary diagnostic image noun."
+    },
+    {
+      "deck": "15260283",
+      "row": 465,
+      "card_number": 8465,
+      "before": [
+        "bull-calf",
+        "бычок",
+        "The farmer has a new bull-calf.",
+        "У фермера есть бычок."
+      ],
+      "after": [
+        "bull-calf",
+        "бычок",
+        "The farmer has a new bull-calf.",
+        "У фермера есть новый бычок."
+      ],
+      "fields": [
+        "Russian example"
+      ],
+      "reason": "Preserve new modifier."
+    },
+    {
+      "deck": "15260283",
+      "row": 477,
+      "card_number": 8477,
+      "before": [
+        "crab",
+        "краб",
+        "The crab went on the sand.",
+        "Краб полз по песку."
+      ],
+      "after": [
+        "crab",
+        "краб",
+        "The crab crawled on the sand.",
+        "Краб полз по песку."
+      ],
+      "fields": [
+        "English example"
+      ],
+      "reason": "Natural English movement verb matching полз."
+    },
+    {
+      "deck": "15260283",
+      "row": 481,
+      "card_number": 8481,
+      "before": [
+        "pop",
+        "эстрадный",
+        "She loves pop music.",
+        "Она любит эстрадную музыку."
+      ],
+      "after": [
+        "pop",
+        "поп-музыка; эстрадный (о музыке)",
+        "She loves pop music.",
+        "Она любит эстрадную музыку."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Include genre noun."
+    },
+    {
+      "deck": "15260283",
+      "row": 486,
+      "card_number": 8486,
+      "before": [
+        "ozone",
+        "озон",
+        "Ozone protects us.",
+        "Озон защищает нас."
+      ],
+      "after": [
+        "ozone",
+        "озон",
+        "Ozone is a gas.",
+        "Озон — газ."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Avoid blanket claim that ozone is protective regardless of context."
+    }
+  ]
+}

@@ -1,0 +1,495 @@
+[
+  {
+    "row": 22,
+    "cardId": 491520620,
+    "before": {
+      "question": "# Translate:\n\npublic\n\n## Footnote\n\nThe library is public.",
+      "answer": "publico\n\n## Footnote\n\nLa biblioteca es pública.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "public",
+      "qMdClarifier": "",
+      "qMdFootnote": "The library is public.",
+      "aMdPrompt": "",
+      "aMdBody": "publico",
+      "aMdClarifier": "",
+      "aMdFootnote": "La biblioteca es pública."
+    },
+    "after": {
+      "question": "# Translate:\n\npublic\n\n## Footnote\n\nThe library is public.",
+      "answer": "público\n\n## Footnote\n\nLa biblioteca es pública.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "public",
+      "qMdClarifier": "",
+      "qMdFootnote": "The library is public.",
+      "aMdPrompt": "",
+      "aMdBody": "público",
+      "aMdClarifier": "",
+      "aMdFootnote": "La biblioteca es pública."
+    },
+    "reason": "Correct adjective accent; publico is I publish."
+  },
+  {
+    "row": 26,
+    "cardId": 491520624,
+    "before": {
+      "question": "# Translate:\n\nto concer, to involve\n\n## Footnote\n\nYour problems don't concern me.",
+      "answer": "incumbe\n\n## Footnote\n\nTus problemas no me incumben.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "to concer, to involve",
+      "qMdClarifier": "",
+      "qMdFootnote": "Your problems don't concern me.",
+      "aMdPrompt": "",
+      "aMdBody": "incumbe",
+      "aMdClarifier": "",
+      "aMdFootnote": "Tus problemas no me incumben."
+    },
+    "after": {
+      "question": "# Translate:\n\nconcerns, involves\n\n## Footnote\n\nThat problem does not concern me.",
+      "answer": "incumbe\n\n## Footnote\n\nEse problema no me incumbe.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "concerns, involves",
+      "qMdClarifier": "",
+      "qMdFootnote": "That problem does not concern me.",
+      "aMdPrompt": "",
+      "aMdBody": "incumbe",
+      "aMdClarifier": "",
+      "aMdFootnote": "Ese problema no me incumbe."
+    },
+    "reason": "Correct typo and third-person form."
+  },
+  {
+    "row": 28,
+    "cardId": 491520626,
+    "before": {
+      "question": "# Translate:\n\nyou will regret\n\n## Footnote\n\nYou will regret ignoring this advice.",
+      "answer": "arrepentirás\n\n## Footnote\n\nTe arrepentirás de ignorar este consejo.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "you will regret",
+      "qMdClarifier": "",
+      "qMdFootnote": "You will regret ignoring this advice.",
+      "aMdPrompt": "",
+      "aMdBody": "arrepentirás",
+      "aMdClarifier": "",
+      "aMdFootnote": "Te arrepentirás de ignorar este consejo."
+    },
+    "after": {
+      "question": "# Translate:\n\nyou will regret\n\n## Footnote\n\nYou will regret ignoring this advice.",
+      "answer": "te arrepentirás\n\n## Footnote\n\nTe arrepentirás de ignorar este consejo.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "you will regret",
+      "qMdClarifier": "",
+      "qMdFootnote": "You will regret ignoring this advice.",
+      "aMdPrompt": "",
+      "aMdBody": "te arrepentirás",
+      "aMdClarifier": "",
+      "aMdFootnote": "Te arrepentirás de ignorar este consejo."
+    },
+    "reason": "Regret requires reflexive pronoun."
+  },
+  {
+    "row": 37,
+    "cardId": 491520635,
+    "before": {
+      "question": "# Translate:\n\nrespect (imperative, vosotros)\n\n## Footnote\n\nShe's a silent virus carrier.",
+      "answer": "portador\n\n## Footnote\n\nElla es una portadora silenciosa del virus.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "respect (imperative, vosotros)",
+      "qMdClarifier": "",
+      "qMdFootnote": "She's a silent virus carrier.",
+      "aMdPrompt": "",
+      "aMdBody": "portador",
+      "aMdClarifier": "",
+      "aMdFootnote": "Ella es una portadora silenciosa del virus."
+    },
+    "after": {
+      "question": "# Translate:\n\ncarrier\n\n## Footnote\n\nShe's a silent virus carrier.",
+      "answer": "portador\n\n## Footnote\n\nElla es una portadora silenciosa del virus.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "carrier",
+      "qMdClarifier": "",
+      "qMdFootnote": "She's a silent virus carrier.",
+      "aMdPrompt": "",
+      "aMdBody": "portador",
+      "aMdClarifier": "",
+      "aMdFootnote": "Ella es una portadora silenciosa del virus."
+    },
+    "reason": "Replace unrelated corrupted English headword."
+  },
+  {
+    "row": 72,
+    "cardId": 491520670,
+    "before": {
+      "question": "# Translate:\n\nyou will marry\n\n## Footnote\n\nYou will marry her tomorrow.",
+      "answer": "casarás\n\n## Footnote\n\nTe casarás con ella mañana.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "you will marry",
+      "qMdClarifier": "",
+      "qMdFootnote": "You will marry her tomorrow.",
+      "aMdPrompt": "",
+      "aMdBody": "casarás",
+      "aMdClarifier": "",
+      "aMdFootnote": "Te casarás con ella mañana."
+    },
+    "after": {
+      "question": "# Translate:\n\nyou will marry\n\n## Footnote\n\nYou will marry her tomorrow.",
+      "answer": "te casarás\n\n## Footnote\n\nTe casarás con ella mañana.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "you will marry",
+      "qMdClarifier": "",
+      "qMdFootnote": "You will marry her tomorrow.",
+      "aMdPrompt": "",
+      "aMdBody": "te casarás",
+      "aMdClarifier": "",
+      "aMdFootnote": "Te casarás con ella mañana."
+    },
+    "reason": "Marry requires reflexive pronoun in this sense."
+  },
+  {
+    "row": 105,
+    "cardId": 491520704,
+    "before": {
+      "question": "# Translate:\n\naccompanied\n\n## Footnote\n\nShe accompanied him to the store.",
+      "answer": "acompañado\n\n## Footnote\n\nElla lo acompañó a la tienda.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "accompanied",
+      "qMdClarifier": "",
+      "qMdFootnote": "She accompanied him to the store.",
+      "aMdPrompt": "",
+      "aMdBody": "acompañado",
+      "aMdClarifier": "",
+      "aMdFootnote": "Ella lo acompañó a la tienda."
+    },
+    "after": {
+      "question": "# Translate:\n\naccompanied\n\n## Footnote\n\nShe has accompanied him to the store.",
+      "answer": "acompañado\n\n## Footnote\n\nElla lo ha acompañado a la tienda.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "accompanied",
+      "qMdClarifier": "",
+      "qMdFootnote": "She has accompanied him to the store.",
+      "aMdPrompt": "",
+      "aMdBody": "acompañado",
+      "aMdClarifier": "",
+      "aMdFootnote": "Ella lo ha acompañado a la tienda."
+    },
+    "reason": "Use target acompañado."
+  },
+  {
+    "row": 154,
+    "cardId": 734811672,
+    "before": {
+      "question": "# Translate:\n\nruin\n\n## Footnote\n\nI ruined the cake.",
+      "answer": "arruiné\n\n## Footnote\n\nArruiné la torta.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "ruin",
+      "qMdClarifier": "",
+      "qMdFootnote": "I ruined the cake.",
+      "aMdPrompt": "",
+      "aMdBody": "arruiné",
+      "aMdClarifier": "",
+      "aMdFootnote": "Arruiné la torta."
+    },
+    "after": {
+      "question": "# Translate:\n\nI ruined\n\n## Footnote\n\nI ruined the cake.",
+      "answer": "arruiné\n\n## Footnote\n\nArruiné la torta.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "I ruined",
+      "qMdClarifier": "",
+      "qMdFootnote": "I ruined the cake.",
+      "aMdPrompt": "",
+      "aMdBody": "arruiné",
+      "aMdClarifier": "",
+      "aMdFootnote": "Arruiné la torta."
+    },
+    "reason": "Match first-person preterite arruiné."
+  },
+  {
+    "row": 155,
+    "cardId": 491520754,
+    "before": {
+      "question": "# Translate:\n\ndecoy, lure\n\n## Footnote\n\nThe fish bit the lure.",
+      "answer": "señuelo\n\n## Footnote\n\nEl pescado mordió el señuelo",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "decoy, lure",
+      "qMdClarifier": "",
+      "qMdFootnote": "The fish bit the lure.",
+      "aMdPrompt": "",
+      "aMdBody": "señuelo",
+      "aMdClarifier": "",
+      "aMdFootnote": "El pescado mordió el señuelo"
+    },
+    "after": {
+      "question": "# Translate:\n\ndecoy, lure\n\n## Footnote\n\nThe fish bit the lure.",
+      "answer": "señuelo\n\n## Footnote\n\nEl pescado mordió el señuelo.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "decoy, lure",
+      "qMdClarifier": "",
+      "qMdFootnote": "The fish bit the lure.",
+      "aMdPrompt": "",
+      "aMdBody": "señuelo",
+      "aMdClarifier": "",
+      "aMdFootnote": "El pescado mordió el señuelo."
+    },
+    "reason": "Normalize sentence punctuation and remove extraneous quotation marks."
+  },
+  {
+    "row": 205,
+    "cardId": 491520807,
+    "before": {
+      "question": "# Translate:\n\nYankee\n\n## Footnote\n\nI'm tired of watching Yankee films.",
+      "answer": "yanquis\n\n## Footnote\n\nEstoy cansada de ver películas yanquis.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "Yankee",
+      "qMdClarifier": "",
+      "qMdFootnote": "I'm tired of watching Yankee films.",
+      "aMdPrompt": "",
+      "aMdBody": "yanquis",
+      "aMdClarifier": "",
+      "aMdFootnote": "Estoy cansada de ver películas yanquis."
+    },
+    "after": {
+      "question": "# Translate:\n\nYankees\n\n## Footnote\n\nI'm tired of watching Yankee films.",
+      "answer": "yanquis\n\n## Footnote\n\nEstoy cansada de ver películas yanquis.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "Yankees",
+      "qMdClarifier": "",
+      "qMdFootnote": "I'm tired of watching Yankee films.",
+      "aMdPrompt": "",
+      "aMdBody": "yanquis",
+      "aMdClarifier": "",
+      "aMdFootnote": "Estoy cansada de ver películas yanquis."
+    },
+    "reason": "Match plural yanquis."
+  },
+  {
+    "row": 365,
+    "cardId": 491520969,
+    "before": {
+      "question": "# Translate:\n\nsurrendered\n\n## Footnote\n\nHe surrendered after a long battle.",
+      "answer": "rendido\n\n## Footnote\n\nSe rindió después de una larga batalla.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "surrendered",
+      "qMdClarifier": "",
+      "qMdFootnote": "He surrendered after a long battle.",
+      "aMdPrompt": "",
+      "aMdBody": "rendido",
+      "aMdClarifier": "",
+      "aMdFootnote": "Se rindió después de una larga batalla."
+    },
+    "after": {
+      "question": "# Translate:\n\nsurrendered\n\n## Footnote\n\nHe has surrendered.",
+      "answer": "rendido\n\n## Footnote\n\nSe ha rendido.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "surrendered",
+      "qMdClarifier": "",
+      "qMdFootnote": "He has surrendered.",
+      "aMdPrompt": "",
+      "aMdBody": "rendido",
+      "aMdClarifier": "",
+      "aMdFootnote": "Se ha rendido."
+    },
+    "reason": "Use target rendido."
+  },
+  {
+    "row": 386,
+    "cardId": 491520990,
+    "before": {
+      "question": "# Translate:\n\nfirmly\n\n## Footnote\n\nShe firmly held her ground.",
+      "answer": "firmemente\n\n## Footnote\n\nElla se mantuvo firme en su posición.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "firmly",
+      "qMdClarifier": "",
+      "qMdFootnote": "She firmly held her ground.",
+      "aMdPrompt": "",
+      "aMdBody": "firmemente",
+      "aMdClarifier": "",
+      "aMdFootnote": "Ella se mantuvo firme en su posición."
+    },
+    "after": {
+      "question": "# Translate:\n\nfirmly\n\n## Footnote\n\nShe held the rope firmly.",
+      "answer": "firmemente\n\n## Footnote\n\nElla sujetó la cuerda firmemente.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "firmly",
+      "qMdClarifier": "",
+      "qMdFootnote": "She held the rope firmly.",
+      "aMdPrompt": "",
+      "aMdBody": "firmemente",
+      "aMdClarifier": "",
+      "aMdFootnote": "Ella sujetó la cuerda firmemente."
+    },
+    "reason": "Use adverb firmemente."
+  },
+  {
+    "row": 387,
+    "cardId": 491520991,
+    "before": {
+      "question": "# Translate:\n\nbuzzing, hum\n\n## Footnote\n\nThe buzzing of flies filled the room.",
+      "answer": "zumbido\n\n## Footnote\n\nLa habitación estaba zumbando con moscas.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "buzzing, hum",
+      "qMdClarifier": "",
+      "qMdFootnote": "The buzzing of flies filled the room.",
+      "aMdPrompt": "",
+      "aMdBody": "zumbido",
+      "aMdClarifier": "",
+      "aMdFootnote": "La habitación estaba zumbando con moscas."
+    },
+    "after": {
+      "question": "# Translate:\n\nbuzzing, hum\n\n## Footnote\n\nThe buzzing of flies filled the room.",
+      "answer": "zumbido\n\n## Footnote\n\nEl zumbido de las moscas llenaba la habitación.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "buzzing, hum",
+      "qMdClarifier": "",
+      "qMdFootnote": "The buzzing of flies filled the room.",
+      "aMdPrompt": "",
+      "aMdBody": "zumbido",
+      "aMdClarifier": "",
+      "aMdFootnote": "El zumbido de las moscas llenaba la habitación."
+    },
+    "reason": "Use noun zumbido and match the example."
+  },
+  {
+    "row": 446,
+    "cardId": 491521053,
+    "before": {
+      "question": "# Translate:\n\nmentally disabled\n\n## Footnote\n\nMy cousin is mentally disabled and goes to a special school.",
+      "answer": "retardado\n\n## Footnote\n\nMi primo es retrasado y va a una escuela especial.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "mentally disabled",
+      "qMdClarifier": "",
+      "qMdFootnote": "My cousin is mentally disabled and goes to a special school.",
+      "aMdPrompt": "",
+      "aMdBody": "retardado",
+      "aMdClarifier": "",
+      "aMdFootnote": "Mi primo es retrasado y va a una escuela especial."
+    },
+    "after": {
+      "question": "# Translate:\n\ndelayed\n\n## Footnote\n\nThis is a delayed effect.",
+      "answer": "retardado\n\n## Footnote\n\nEste es un efecto retardado.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "delayed",
+      "qMdClarifier": "",
+      "qMdFootnote": "This is a delayed effect.",
+      "aMdPrompt": "",
+      "aMdBody": "retardado",
+      "aMdClarifier": "",
+      "aMdFootnote": "Este es un efecto retardado."
+    },
+    "reason": "Teach an accurate current sense of retardado using the actual target."
+  },
+  {
+    "row": 463,
+    "cardId": 491521071,
+    "before": {
+      "question": "# Translate:\n\nI approach\n\n## Footnote\n\nI approach the timid cat.",
+      "answer": "acerco\n\n## Footnote\n\nMe acerco al gato tímido.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "I approach",
+      "qMdClarifier": "",
+      "qMdFootnote": "I approach the timid cat.",
+      "aMdPrompt": "",
+      "aMdBody": "acerco",
+      "aMdClarifier": "",
+      "aMdFootnote": "Me acerco al gato tímido."
+    },
+    "after": {
+      "question": "# Translate:\n\nI approach\n\n## Footnote\n\nI approach the timid cat.",
+      "answer": "me acerco\n\n## Footnote\n\nMe acerco al gato tímido.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "I approach",
+      "qMdClarifier": "",
+      "qMdFootnote": "I approach the timid cat.",
+      "aMdPrompt": "",
+      "aMdBody": "me acerco",
+      "aMdClarifier": "",
+      "aMdFootnote": "Me acerco al gato tímido."
+    },
+    "reason": "Approach requires acercarse in this construction."
+  },
+  {
+    "row": 480,
+    "cardId": 734811699,
+    "before": {
+      "question": "# Translate:\n\npromise me (imperative, tú)\n\n## Footnote\n\nPromise me you'll stay safe.",
+      "answer": "prométemelo\n\n## Footnote\n\nPrométemelo, te mantendrás a salvo.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "promise me (imperative, tú)",
+      "qMdClarifier": "",
+      "qMdFootnote": "Promise me you'll stay safe.",
+      "aMdPrompt": "",
+      "aMdBody": "prométemelo",
+      "aMdClarifier": "",
+      "aMdFootnote": "Prométemelo, te mantendrás a salvo."
+    },
+    "after": {
+      "question": "# Translate:\n\npromise it to me (imperative, tú)\n\n## Footnote\n\nPromise me you'll stay safe.",
+      "answer": "prométemelo\n\n## Footnote\n\nPrométemelo, te mantendrás a salvo.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "promise it to me (imperative, tú)",
+      "qMdClarifier": "",
+      "qMdFootnote": "Promise me you'll stay safe.",
+      "aMdPrompt": "",
+      "aMdBody": "prométemelo",
+      "aMdClarifier": "",
+      "aMdFootnote": "Prométemelo, te mantendrás a salvo."
+    },
+    "reason": "Translate both clitic objects."
+  },
+  {
+    "row": 483,
+    "cardId": 734811705,
+    "before": {
+      "question": "# Translate:\n\nI lay down\n\n## Footnote\n\nI lay down to rest for a while.",
+      "answer": "me acuesto\n\n## Footnote\n\nMe acuesto a descansar por un rato.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "I lay down",
+      "qMdClarifier": "",
+      "qMdFootnote": "I lay down to rest for a while.",
+      "aMdPrompt": "",
+      "aMdBody": "me acuesto",
+      "aMdClarifier": "",
+      "aMdFootnote": "Me acuesto a descansar por un rato."
+    },
+    "after": {
+      "question": "# Translate:\n\nI lie down\n\n## Footnote\n\nI lay down to rest for a while.",
+      "answer": "me acuesto\n\n## Footnote\n\nMe acuesto a descansar por un rato.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "I lie down",
+      "qMdClarifier": "",
+      "qMdFootnote": "I lay down to rest for a while.",
+      "aMdPrompt": "",
+      "aMdBody": "me acuesto",
+      "aMdClarifier": "",
+      "aMdFootnote": "Me acuesto a descansar por un rato."
+    },
+    "reason": "Correct English lay/lie distinction."
+  },
+  {
+    "row": 497,
+    "cardId": 734811727,
+    "before": {
+      "question": "# Translate:\n\nboarding\n\n## Footnote\n\nBoarding the plane, she felt excited.",
+      "answer": "embarque\n\n## Footnote\n\nAl embarcar el avión, ella se sintió emocionada.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "boarding",
+      "qMdClarifier": "",
+      "qMdFootnote": "Boarding the plane, she felt excited.",
+      "aMdPrompt": "",
+      "aMdBody": "embarque",
+      "aMdClarifier": "",
+      "aMdFootnote": "Al embarcar el avión, ella se sintió emocionada."
+    },
+    "after": {
+      "question": "# Translate:\n\nboarding\n\n## Footnote\n\nBoarding starts at eight.",
+      "answer": "embarque\n\n## Footnote\n\nEl embarque empieza a las ocho.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "boarding",
+      "qMdClarifier": "",
+      "qMdFootnote": "Boarding starts at eight.",
+      "aMdPrompt": "",
+      "aMdBody": "embarque",
+      "aMdClarifier": "",
+      "aMdFootnote": "El embarque empieza a las ocho."
+    },
+    "reason": "Use noun embarque."
+  }
+]

@@ -1,0 +1,390 @@
+{
+  "deck": "15260221",
+  "reviewed": 500,
+  "changes": [
+    {
+      "row": 33,
+      "before": [
+        "насчитываться",
+        "to number, to amount to",
+        "Население города насчитывается в миллионах.",
+        "The population of the city numbers in the millions."
+      ],
+      "after": [
+        "насчитываться",
+        "to number, to amount to",
+        "В городе насчитывается десять школ.",
+        "The schools in the city number ten."
+      ],
+      "reason": "Replace unnatural насчитывается в миллионах population construction. Use prior-deck vocabulary."
+    },
+    {
+      "row": 35,
+      "before": [
+        "пластина",
+        "plate, disc",
+        "Пластина упала на стол.",
+        "The plate fell on the table."
+      ],
+      "after": [
+        "пластина",
+        "plate (flat piece), sheet",
+        "Пластина упала на стол.",
+        "The plate fell on the table."
+      ],
+      "reason": "Disc requires circular form not implied by пластина."
+    },
+    {
+      "row": 36,
+      "before": [
+        "сохранность",
+        "integrity",
+        "Сохранность груза важна.",
+        "The cargo's integrity is important."
+      ],
+      "after": [
+        "сохранность",
+        "safety, preservation",
+        "Мы отвечаем за сохранность груза.",
+        "We are responsible for the safety of the cargo."
+      ],
+      "reason": "Use natural sense of keeping cargo intact."
+    },
+    {
+      "row": 51,
+      "before": [
+        "каковой",
+        "which",
+        "Вот закон, каковой нам нужен.",
+        "Here is the law which we need."
+      ],
+      "after": [
+        "каковой",
+        "which (archaic or bureaucratic)",
+        "Вот закон, каковой нам нужен.",
+        "Here is the law which we need."
+      ],
+      "reason": "Mark uncommon register."
+    },
+    {
+      "row": 65,
+      "before": [
+        "устье",
+        "mouth, estuary",
+        "Мы стоим у устья реки.",
+        "We stand at the river mouth."
+      ],
+      "after": [
+        "устье",
+        "mouth (of a river)",
+        "Мы стоим у устья реки.",
+        "We stand at the river mouth."
+      ],
+      "reason": "Not every river mouth is an estuary."
+    },
+    {
+      "row": 79,
+      "before": [
+        "возлагать",
+        "to place, to impose",
+        "Мы возлагаем надежды на него.",
+        "We place our hopes on him."
+      ],
+      "after": [
+        "возлагать",
+        "to place, to impose",
+        "Мы возлагаем надежды на него.",
+        "We place our hopes in him."
+      ],
+      "reason": "Natural English preposition."
+    },
+    {
+      "row": 108,
+      "before": [
+        "псих",
+        "psycho, nutcase",
+        "Он просто псих.",
+        "He is just a psycho."
+      ],
+      "after": [
+        "псих",
+        "psycho, nutcase (insulting slang)",
+        "Он просто псих.",
+        "He is just a psycho."
+      ],
+      "reason": "Mark register."
+    },
+    {
+      "row": 115,
+      "before": [
+        "брызги",
+        "splashes, spray",
+        "Брызги попали мне в лицо.",
+        "Splashes hit my face."
+      ],
+      "after": [
+        "брызги",
+        "splashes, spray",
+        "Брызги попали мне в лицо.",
+        "The spray hit my face."
+      ],
+      "reason": "Natural mass noun for splashing water."
+    },
+    {
+      "row": 135,
+      "before": [
+        "причал",
+        "quay, pier",
+        "Лодка стоит у причала.",
+        "The boat stands at the pier."
+      ],
+      "after": [
+        "причал",
+        "quay, pier",
+        "Лодка стоит у причала.",
+        "The boat is at the pier."
+      ],
+      "reason": "Avoid boat stands phrasing."
+    },
+    {
+      "row": 174,
+      "before": [
+        "замужество",
+        "marriage, matrimony",
+        "После замужества она уехала.",
+        "After marriage she left."
+      ],
+      "after": [
+        "замужество",
+        "marriage (of a woman)",
+        "После замужества она уехала.",
+        "After her marriage she left."
+      ],
+      "reason": "Preserve gender-specific meaning."
+    },
+    {
+      "row": 184,
+      "before": [
+        "превышение",
+        "excess, abuse",
+        "Это превышение власти.",
+        "This is an abuse of power."
+      ],
+      "after": [
+        "превышение",
+        "excess, exceeding; abuse (превышение власти)",
+        "Это превышение власти.",
+        "This is an abuse of power."
+      ],
+      "reason": "Mark phrase-dependent abuse sense."
+    },
+    {
+      "row": 191,
+      "before": [
+        "зарезать",
+        "to slaughter, to stab",
+        "Он зарезал курицу.",
+        "He slaughtered the chicken."
+      ],
+      "after": [
+        "зарезать",
+        "to slaughter, to stab to death",
+        "Он зарезал курицу.",
+        "He slaughtered the chicken."
+      ],
+      "reason": "Preserve lethal result of зарезать."
+    },
+    {
+      "row": 203,
+      "before": [
+        "изнасилование",
+        "rape, sexual assault",
+        "Это было изнасилование.",
+        "It was rape."
+      ],
+      "after": [
+        "изнасилование",
+        "rape",
+        "Это было изнасилование.",
+        "It was rape."
+      ],
+      "reason": "Sexual assault is broader than rape."
+    },
+    {
+      "row": 207,
+      "before": [
+        "лукавый",
+        "crafty, sly",
+        "У него лукавая улыбка.",
+        "He has a crafty smile."
+      ],
+      "after": [
+        "лукавый",
+        "crafty, sly",
+        "У него лукавая улыбка.",
+        "He has a sly smile."
+      ],
+      "reason": "Natural smile collocation."
+    },
+    {
+      "row": 228,
+      "before": [
+        "проблематика",
+        "issues, problems",
+        "Это наша проблематика.",
+        "These are our issues."
+      ],
+      "after": [
+        "проблематика",
+        "set of issues, subject matter",
+        "Проблематика книги сложна.",
+        "The book deals with a complex set of issues."
+      ],
+      "reason": "Distinguish thematic issues from personal problems."
+    },
+    {
+      "row": 262,
+      "before": [
+        "переступить",
+        "step over, cross",
+        "Не переступи черту.",
+        "Don't step over the line."
+      ],
+      "after": [
+        "переступить",
+        "step over, cross",
+        "Он переступил черту.",
+        "He stepped over the line."
+      ],
+      "reason": "Use natural perfective event."
+    },
+    {
+      "row": 267,
+      "before": [
+        "лось",
+        "moose, elk",
+        "Лось стоит в лесу.",
+        "A moose stands in the forest."
+      ],
+      "after": [
+        "лось",
+        "moose (American English), elk (British English)",
+        "Лось стоит в лесу.",
+        "A moose stands in the forest."
+      ],
+      "reason": "Clarify regional elk ambiguity."
+    },
+    {
+      "row": 284,
+      "before": [
+        "подолгу",
+        "for a long time, at length",
+        "Он подолгу ждал.",
+        "He waited for a long time."
+      ],
+      "after": [
+        "подолгу",
+        "for long periods, for a long time (repeatedly)",
+        "Он подолгу сидит у окна.",
+        "He sits by the window for long periods."
+      ],
+      "reason": "Preserve repeated duration sense."
+    },
+    {
+      "row": 307,
+      "before": [
+        "сожрать",
+        "to devour, to gobble up",
+        "Он всё сожрал.",
+        "He devoured everything."
+      ],
+      "after": [
+        "сожрать",
+        "to devour, to gobble up (coarse slang)",
+        "Он всё сожрал.",
+        "He devoured everything."
+      ],
+      "reason": "Mark register."
+    },
+    {
+      "row": 320,
+      "before": [
+        "трата",
+        "waste, expenditure",
+        "Это пустая трата.",
+        "This is a waste."
+      ],
+      "after": [
+        "трата",
+        "expenditure, spending; waste (пустая трата)",
+        "Это пустая трата времени.",
+        "This is a waste of time."
+      ],
+      "reason": "Clarify waste belongs to negative collocation and complete example."
+    },
+    {
+      "row": 375,
+      "before": [
+        "спрашиваться",
+        "to wonder, to be asked",
+        "Спрашивается, кто это.",
+        "One wonders who this is."
+      ],
+      "after": [
+        "спрашиваться",
+        "to be asked; one wonders (спрашивается)",
+        "Спрашивается, кто это.",
+        "One wonders who this is."
+      ],
+      "reason": "Distinguish impersonal rhetorical use from transitive wonder."
+    },
+    {
+      "row": 410,
+      "before": [
+        "распасться",
+        "fall apart, disintegrate",
+        "Союз скоро распадётся.",
+        "The union will fall apart."
+      ],
+      "after": [
+        "распасться",
+        "fall apart, disintegrate",
+        "Союз скоро распадётся.",
+        "The union will fall apart soon."
+      ],
+      "reason": "Restore скоро."
+    },
+    {
+      "row": 473,
+      "before": [
+        "окинуть",
+        "to glance at, to sweep over",
+        "Окинь взглядом комнату.",
+        "Glance at the room."
+      ],
+      "after": [
+        "окинуть",
+        "to sweep over; to glance over (окинуть взглядом)",
+        "Окинь взглядом комнату.",
+        "Glance over the room."
+      ],
+      "reason": "Mark phrase construction and preserve scanning sense."
+    },
+    {
+      "row": 479,
+      "before": [
+        "прям",
+        "straight, directly",
+        "Иди прям сюда.",
+        "Come straight here."
+      ],
+      "after": [
+        "прям",
+        "straight, directly (colloquial form of прямо)",
+        "Иди прям сюда.",
+        "Come straight here."
+      ],
+      "reason": "Label colloquial shortened adverb."
+    }
+  ]
+}

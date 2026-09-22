@@ -1,0 +1,439 @@
+{
+  "deck": "15260246",
+  "reviewed": 500,
+  "changes": [
+    {
+      "deck": "15260246",
+      "row": 20,
+      "card_number": 20,
+      "before": [
+        "near",
+        "у",
+        "I live near the house.",
+        "Я живу у дома."
+      ],
+      "after": [
+        "near",
+        "около, рядом с, у",
+        "I live near the school.",
+        "Я живу около школы."
+      ],
+      "fields": [
+        "Russian translation",
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Give general near meaning and a natural location example."
+    },
+    {
+      "deck": "15260246",
+      "row": 70,
+      "card_number": 70,
+      "before": [
+        "to have",
+        "иметь",
+        "I want to have time.",
+        "Я хочу иметь время."
+      ],
+      "after": [
+        "to have",
+        "иметь",
+        "I have the right to know.",
+        "Я имею право знать."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Replace unnatural хотеть иметь время with idiomatic иметь право."
+    },
+    {
+      "deck": "15260246",
+      "row": 104,
+      "card_number": 104,
+      "before": [
+        "eye",
+        "глаз",
+        "This is my eye.",
+        "Это мой глаз."
+      ],
+      "after": [
+        "eye",
+        "глаз",
+        "His eye is red.",
+        "Его глаз красный."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Replace unhelpful body-part identification with natural question. Keep supporting vocabulary within first deck."
+    },
+    {
+      "deck": "15260246",
+      "row": 139,
+      "card_number": 139,
+      "before": [
+        "however",
+        "однако",
+        "I know this, however I do not want it.",
+        "Я это знаю, однако я этого не хочу."
+      ],
+      "after": [
+        "however",
+        "однако",
+        "I know the answer; however, I will not say it.",
+        "Я знаю ответ, однако не скажу его."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Repair English comma splice and unclear contrast."
+    },
+    {
+      "deck": "15260246",
+      "row": 145,
+      "card_number": 145,
+      "before": [
+        "take",
+        "взять",
+        "Take my hand.",
+        "Возьми мою руку."
+      ],
+      "after": [
+        "take",
+        "взять",
+        "Take this book.",
+        "Возьми эту книгу."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Use natural transitive взять; take my hand is normally возьми меня за руку."
+    },
+    {
+      "deck": "15260246",
+      "row": 159,
+      "card_number": 159,
+      "before": [
+        "high",
+        "высокий",
+        "The house is very high.",
+        "Дом очень высокий."
+      ],
+      "after": [
+        "high",
+        "высокий",
+        "The water level is high.",
+        "Уровень воды высокий."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Use natural high collocation rather than a high house."
+    },
+    {
+      "deck": "15260246",
+      "row": 182,
+      "card_number": 182,
+      "before": [
+        "god",
+        "бог",
+        "I believe in God.",
+        "Я верю в бога."
+      ],
+      "after": [
+        "god",
+        "бог",
+        "I believe in God.",
+        "Я верю в Бога."
+      ],
+      "fields": [
+        "Russian example"
+      ],
+      "reason": "Capitalize monotheistic proper-name usage to match English."
+    },
+    {
+      "deck": "15260246",
+      "row": 219,
+      "card_number": 219,
+      "before": [
+        "similar",
+        "подобный",
+        "They have similar interests.",
+        "У них подобные интересы."
+      ],
+      "after": [
+        "similar",
+        "подобный",
+        "I have a similar question.",
+        "У меня подобный вопрос."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Use подобный naturally without implying mutual resemblance via подобные интересы."
+    },
+    {
+      "deck": "15260246",
+      "row": 288,
+      "card_number": 288,
+      "before": [
+        "girl",
+        "девушка",
+        "I see a girl.",
+        "Я вижу девушку."
+      ],
+      "after": [
+        "girl",
+        "девушка (молодая женщина); девочка",
+        "I see a girl.",
+        "Я вижу девушку."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Girl can mean a child, not only a young woman."
+    },
+    {
+      "deck": "15260246",
+      "row": 299,
+      "card_number": 299,
+      "before": [
+        "cannot",
+        "нельзя",
+        "You cannot do this.",
+        "Вам нельзя это делать."
+      ],
+      "after": [
+        "cannot",
+        "не мочь; нельзя (запрет)",
+        "You cannot do this.",
+        "Вам нельзя это делать."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Distinguish inability from prohibition."
+    },
+    {
+      "deck": "15260246",
+      "row": 305,
+      "card_number": 305,
+      "before": [
+        "idea",
+        "идея",
+        "I love your idea.",
+        "Мне нравится ваша идея."
+      ],
+      "after": [
+        "idea",
+        "идея",
+        "I like your idea.",
+        "Мне нравится ваша идея."
+      ],
+      "fields": [
+        "English example"
+      ],
+      "reason": "Match нравится without strengthening it to love."
+    },
+    {
+      "deck": "15260246",
+      "row": 321,
+      "card_number": 321,
+      "before": [
+        "to engage",
+        "заниматься",
+        "I engage in research.",
+        "Я занимаюсь исследованием."
+      ],
+      "after": [
+        "to engage",
+        "заниматься, участвовать (engage in)",
+        "I engage in research.",
+        "Я занимаюсь исследованием."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Clarify construction-dependent sense."
+    },
+    {
+      "deck": "15260246",
+      "row": 332,
+      "card_number": 332,
+      "before": [
+        "to lie",
+        "лежать",
+        "She is lying there.",
+        "Она лежит там."
+      ],
+      "after": [
+        "to lie",
+        "лежать (находиться в лежачем положении); лгать",
+        "She is lying there.",
+        "Она лежит там."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Disambiguate lying down from telling lies."
+    },
+    {
+      "deck": "15260246",
+      "row": 394,
+      "card_number": 394,
+      "before": [
+        "long",
+        "долго",
+        "I waited long for an answer.",
+        "Я долго ждал ответа."
+      ],
+      "after": [
+        "long",
+        "долго",
+        "How long did you wait for an answer?",
+        "Как долго вы ждали ответа?"
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Natural English long with negation. Keep the target долго directly in a natural question."
+    },
+    {
+      "deck": "15260246",
+      "row": 395,
+      "card_number": 395,
+      "before": [
+        "to bring",
+        "привести",
+        "I want to bring my friend.",
+        "Я хочу привести своего друга."
+      ],
+      "after": [
+        "to bring",
+        "привести (человека); принести (вещь)",
+        "I want to bring my friend.",
+        "Я хочу привести своего друга."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Differentiate bringing a person from carrying a thing."
+    },
+    {
+      "deck": "15260246",
+      "row": 415,
+      "card_number": 415,
+      "before": [
+        "b",
+        "б",
+        "Write b.",
+        "Напишите б."
+      ],
+      "after": [
+        "b",
+        "би (название латинской буквы b)",
+        "Write the letter b.",
+        "Напишите букву b («би»)."
+      ],
+      "fields": [
+        "Russian translation",
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Latin b is not the Cyrillic letter б; explain letter name."
+    },
+    {
+      "deck": "15260246",
+      "row": 428,
+      "card_number": 428,
+      "before": [
+        "current",
+        "течение",
+        "The current is strong.",
+        "Течение сильное."
+      ],
+      "after": [
+        "current",
+        "течение (воды); ток (электрический)",
+        "The current is strong.",
+        "Течение сильное."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Disambiguate major noun meanings."
+    },
+    {
+      "deck": "15260246",
+      "row": 437,
+      "card_number": 437,
+      "before": [
+        "party",
+        "партия",
+        "This party is in power.",
+        "Эта партия у власти."
+      ],
+      "after": [
+        "party",
+        "партия (политическая); вечеринка",
+        "This party is in power.",
+        "Эта партия у власти."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Distinguish political party and social event."
+    },
+    {
+      "deck": "15260246",
+      "row": 445,
+      "card_number": 445,
+      "before": [
+        "forget",
+        "забыть",
+        "Do not forget this again.",
+        "Не забудьте это снова."
+      ],
+      "after": [
+        "forget",
+        "забыть",
+        "I forgot his name again.",
+        "Я снова забыл его имя."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Replace unnatural Russian prohibition wording."
+    },
+    {
+      "deck": "15260246",
+      "row": 476,
+      "card_number": 476,
+      "before": [
+        "to name",
+        "назвать",
+        "They named this.",
+        "Они назвали это."
+      ],
+      "after": [
+        "to name",
+        "назвать",
+        "They named their son.",
+        "Они назвали своего сына."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Give natural object of naming."
+    }
+  ]
+}

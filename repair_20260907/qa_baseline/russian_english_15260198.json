@@ -1,0 +1,334 @@
+{
+  "pack": "russian_english",
+  "deck": "15260198",
+  "band": "4000->4500",
+  "sha256": "cdeabf56574e210ac09a17ef8f1ca043bd511d26b00389b8837897321eb4ff41",
+  "errors": [],
+  "candidates": [
+    {
+      "row": 2,
+      "q": "усиление",
+      "a": "intensification, reinforcement",
+      "qe": "Мы ждали усиления бури.",
+      "ae": "We waited for the storm's intensification.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "бури",
+            "band": "4000->4500"
+          }
+        ],
+        "en_vocab": [
+          {
+            "word": "storm",
+            "band": "4000->4500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 8,
+      "q": "претендовать",
+      "a": "claim, aspire",
+      "qe": "Она будет претендовать на звание чемпиона.",
+      "ae": "She will claim the championship title.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "чемпиона",
+            "band": "4000->4500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 21,
+      "q": "исключительный",
+      "a": "exceptional, exclusive",
+      "qe": "У неё исключительный талант в живописи.",
+      "ae": "She has exceptional talent in painting.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "живописи",
+            "band": "4000->4500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 38,
+      "q": "тупой",
+      "a": "dull, blunt",
+      "qe": "Нож слишком тупой, чтобы резать.",
+      "ae": "The knife is too dull to cut.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "резать",
+            "band": "4000->4500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 57,
+      "q": "вспышка",
+      "a": "flash, flare",
+      "qe": "Яркая вспышка осветила небо.",
+      "ae": "A bright flash lit the sky.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "осветила",
+            "band": "4000->4500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 63,
+      "q": "обнаруживать",
+      "a": "to detect, to discover",
+      "qe": "Собака обнаруживает след.",
+      "ae": "The dog detects the trail.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "trail",
+            "band": "4000->4500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 82,
+      "q": "железо",
+      "a": "iron, metal",
+      "qe": "Железо - прочный металл.",
+      "ae": "Iron is a strong metal.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "прочный",
+            "band": "4000->4500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 86,
+      "q": "хрен",
+      "a": "horseradish, (slang) damn/darn",
+      "qe": "Я добавил хрен в суп.",
+      "ae": "I added horseradish to the soup.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "суп",
+            "band": "4000->4500"
+          }
+        ],
+        "en_vocab": [
+          {
+            "word": "soup",
+            "band": "4000->4500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 89,
+      "q": "лук",
+      "a": "onion, bow",
+      "qe": "Я режу лук для супа.",
+      "ae": "I cut an onion for soup.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "режу",
+            "band": "4000->4500"
+          },
+          {
+            "word": "супа",
+            "band": "4000->4500"
+          }
+        ],
+        "en_vocab": [
+          {
+            "word": "soup",
+            "band": "4000->4500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 193,
+      "q": "гуманитарный",
+      "a": "humanitarian",
+      "qe": "Это гуманитарная помощь.",
+      "ae": "This is humanitarian aid.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "aid",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 201,
+      "q": "подхватить",
+      "a": "to pick up, to catch",
+      "qe": "Он подхватил мяч.",
+      "ae": "He caught the ball.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "мяч",
+            "band": "4000->4500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 252,
+      "q": "радовать",
+      "a": "to please, to delight",
+      "qe": "Это радует меня.",
+      "ae": "This pleases me.",
+      "issues": {
+        "en_target": "to please, to delight | This pleases me."
+      }
+    },
+    {
+      "row": 269,
+      "q": "поделать",
+      "a": "to do, to make",
+      "qe": "Ничего не поделаешь.",
+      "ae": "You can do nothing.",
+      "issues": {
+        "en_target": "to do, to make | You can do nothing."
+      }
+    },
+    {
+      "row": 294,
+      "q": "ознакомиться",
+      "a": "to get acquainted, to familiarize",
+      "qe": "Ознакомься с этим.",
+      "ae": "Familiarize yourself with this.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "yourself",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 295,
+      "q": "коньяк",
+      "a": "cognac, brandy",
+      "qe": "Налей мне коньяк.",
+      "ae": "Pour me some cognac.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "налей",
+            "band": "4000->4500"
+          }
+        ],
+        "en_vocab": [
+          {
+            "word": "pour",
+            "band": "4000->4500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 339,
+      "q": "годиться",
+      "a": "to be suitable, to fit",
+      "qe": "Это должно годиться.",
+      "ae": "This must be suitable.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "должно",
+            "band": "4000->4500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 360,
+      "q": "исполниться",
+      "a": "to be fulfilled, to come true",
+      "qe": "Мечта должна исполниться.",
+      "ae": "The dream must be fulfilled.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "должна",
+            "band": "4000->4500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 400,
+      "q": "представиться",
+      "a": "introduce oneself, present oneself",
+      "qe": "Мне надо представиться.",
+      "ae": "I need to introduce myself.",
+      "issues": {
+        "en_target": "introduce oneself, present oneself | I need to introduce myself.",
+        "en_vocab": [
+          {
+            "word": "myself",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 461,
+      "q": "животный",
+      "a": "animal, creature",
+      "qe": "Это животный жир.",
+      "ae": "This is animal fat.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "жир",
+            "band": "4000->4500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 468,
+      "q": "жирный",
+      "a": "fat",
+      "qe": "Этот суп жирный.",
+      "ae": "This soup is fat.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "суп",
+            "band": "4000->4500"
+          }
+        ],
+        "en_vocab": [
+          {
+            "word": "soup",
+            "band": "4000->4500"
+          }
+        ]
+      }
+    }
+  ]
+}

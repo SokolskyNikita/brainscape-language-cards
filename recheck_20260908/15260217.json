@@ -1,0 +1,534 @@
+{
+  "deck": 15260217,
+  "reviewed": 500,
+  "changes": [
+    {
+      "row": 30,
+      "before": [
+        "двоюродный",
+        "cousin",
+        "Мой двоюродный брат здесь.",
+        "My cousin is here."
+      ],
+      "after": [
+        "двоюродный",
+        "cousin (in двоюродный брат/сестра)",
+        "Мой двоюродный брат здесь.",
+        "My cousin is here."
+      ],
+      "reason": "Clarify that the noun phrase means cousin."
+    },
+    {
+      "row": 37,
+      "before": [
+        "усадить",
+        "to seat, to plant",
+        "Усади гостей за стол.",
+        "Seat the guests at the table."
+      ],
+      "after": [
+        "усадить",
+        "to seat",
+        "Усади гостей за стол.",
+        "Seat the guests at the table."
+      ],
+      "reason": "Remove misleading standalone plant sense."
+    },
+    {
+      "row": 40,
+      "before": [
+        "конюшня",
+        "stable, stud farm",
+        "Лошадь стоит в конюшне.",
+        "The horse stands in the stable."
+      ],
+      "after": [
+        "конюшня",
+        "stable",
+        "Лошадь стоит в конюшне.",
+        "The horse stands in the stable."
+      ],
+      "reason": "A stud farm is конный завод."
+    },
+    {
+      "row": 41,
+      "before": [
+        "заграничный",
+        "foreign, overseas",
+        "У неё заграничный паспорт.",
+        "She has a foreign passport."
+      ],
+      "after": [
+        "заграничный",
+        "foreign, overseas",
+        "Он купил заграничный товар.",
+        "He bought a foreign product."
+      ],
+      "reason": "A заграничный паспорт is for travel abroad, not necessarily foreign-issued."
+    },
+    {
+      "row": 51,
+      "before": [
+        "ворчать",
+        "grumble, mutter",
+        "Он ворчит с утра.",
+        "He grumbles in the morning."
+      ],
+      "after": [
+        "ворчать",
+        "grumble, mutter",
+        "Он ворчит с утра.",
+        "He has been grumbling since morning."
+      ],
+      "reason": "Translate с утра and ongoing duration."
+    },
+    {
+      "row": 56,
+      "before": [
+        "дядька",
+        "uncle, guy",
+        "Мой дядька живёт во дворе.",
+        "My uncle lives in the yard."
+      ],
+      "after": [
+        "дядька",
+        "uncle, guy",
+        "Мой дядька живёт в деревне.",
+        "My uncle lives in the village."
+      ],
+      "reason": "Replace implausible residence in a yard."
+    },
+    {
+      "row": 90,
+      "before": [
+        "машинист",
+        "engineer, machinist",
+        "Машинист ведёт поезд.",
+        "The engineer drives the train."
+      ],
+      "after": [
+        "машинист",
+        "train driver, engine operator",
+        "Машинист ведёт поезд.",
+        "The train driver drives the train."
+      ],
+      "reason": "Machinist normally means a different trade."
+    },
+    {
+      "row": 107,
+      "before": [
+        "помещик",
+        "landowner, nobleman",
+        "Помещик жил в деревне.",
+        "The landowner lived in the village."
+      ],
+      "after": [
+        "помещик",
+        "landowner",
+        "Помещик жил в деревне.",
+        "The landowner lived in the village."
+      ],
+      "reason": "Nobleman is not equivalent to landowner."
+    },
+    {
+      "row": 123,
+      "before": [
+        "духовно",
+        "spiritually, spiritually-minded",
+        "Она духовно сильна.",
+        "She is spiritually strong."
+      ],
+      "after": [
+        "духовно",
+        "spiritually",
+        "Она духовно сильна.",
+        "She is spiritually strong."
+      ],
+      "reason": "Remove adjective from adverb gloss."
+    },
+    {
+      "row": 134,
+      "before": [
+        "сменяться",
+        "to change, to alternate",
+        "Дни быстро сменяются.",
+        "The days change quickly."
+      ],
+      "after": [
+        "сменяться",
+        "to change, to alternate",
+        "Времена года сменяются.",
+        "The seasons change."
+      ],
+      "reason": "Natural change-over example."
+    },
+    {
+      "row": 169,
+      "before": [
+        "суверенитет",
+        "sovereignty, autonomy",
+        "Страна защищает суверенитет.",
+        "The country defends its sovereignty."
+      ],
+      "after": [
+        "суверенитет",
+        "sovereignty",
+        "Страна защищает суверенитет.",
+        "The country defends its sovereignty."
+      ],
+      "reason": "Autonomy does not mean sovereignty."
+    },
+    {
+      "row": 174,
+      "before": [
+        "пробраться",
+        "sneak in, infiltrate",
+        "Мы пробрались в дом.",
+        "We sneaked in."
+      ],
+      "after": [
+        "пробраться",
+        "sneak in, infiltrate",
+        "Мы пробрались в дом.",
+        "We sneaked into the house."
+      ],
+      "reason": "Restore destination in translation."
+    },
+    {
+      "row": 189,
+      "before": [
+        "дивизион",
+        "division, divisional",
+        "Дивизион стоит здесь.",
+        "The division stands here."
+      ],
+      "after": [
+        "дивизион",
+        "battalion (artillery); squadron",
+        "Артиллерийский дивизион готов к бою.",
+        "The artillery battalion is ready for battle."
+      ],
+      "reason": "Avoid false-friend division and incorrect adjective divisional."
+    },
+    {
+      "row": 193,
+      "before": [
+        "попугай",
+        "parrot, parakeet",
+        "Попугай сидит в клетке.",
+        "The parrot sits in the cage."
+      ],
+      "after": [
+        "попугай",
+        "parrot",
+        "Попугай сидит в клетке.",
+        "The parrot sits in the cage."
+      ],
+      "reason": "Parakeet is a narrower type of parrot."
+    },
+    {
+      "row": 207,
+      "before": [
+        "мостовая",
+        "pavement, cobblestone",
+        "Мостовая мокрая.",
+        "The pavement is wet."
+      ],
+      "after": [
+        "мостовая",
+        "roadway, pavement",
+        "Мостовая мокрая.",
+        "The pavement is wet."
+      ],
+      "reason": "A cobblestone is a stone, not the roadway."
+    },
+    {
+      "row": 210,
+      "before": [
+        "должник",
+        "debtor, borrower",
+        "Должник не платит.",
+        "The debtor does not pay."
+      ],
+      "after": [
+        "должник",
+        "debtor",
+        "Должник не платит.",
+        "The debtor does not pay."
+      ],
+      "reason": "A debtor need not be a borrower."
+    },
+    {
+      "row": 236,
+      "before": [
+        "доводиться",
+        "happen to, be related as",
+        "Он мне доводится дядей.",
+        "He happens to be my uncle."
+      ],
+      "after": [
+        "доводиться",
+        "to happen to; to be related as",
+        "Мне доводилось бывать здесь.",
+        "I happened to be here before."
+      ],
+      "reason": "Separate happen-to sense from kinship sense. More natural English example."
+    },
+    {
+      "row": 252,
+      "before": [
+        "спец",
+        "specialist, spec",
+        "Нам нужен спец.",
+        "We need a specialist."
+      ],
+      "after": [
+        "спец",
+        "specialist (colloquial)",
+        "Нам нужен спец.",
+        "We need a specialist."
+      ],
+      "reason": "Spec is not an English synonym for specialist."
+    },
+    {
+      "row": 264,
+      "before": [
+        "ураган",
+        "hurricane, typhoon",
+        "Идёт сильный ураган.",
+        "A strong hurricane is coming."
+      ],
+      "after": [
+        "ураган",
+        "hurricane",
+        "Идёт сильный ураган.",
+        "A strong hurricane is coming."
+      ],
+      "reason": "Remove narrower regional typhoon synonym."
+    },
+    {
+      "row": 294,
+      "before": [
+        "погружение",
+        "immersion, diving",
+        "Погружение было глубоким.",
+        "The immersion was deep."
+      ],
+      "after": [
+        "погружение",
+        "immersion, diving",
+        "Погружение началось.",
+        "The diving has begun."
+      ],
+      "reason": "Replace awkward deep immersion example."
+    },
+    {
+      "row": 334,
+      "before": [
+        "тамошний",
+        "local, there",
+        "Тамошний народ другой.",
+        "The local people are different."
+      ],
+      "after": [
+        "тамошний",
+        "from there, local to that place",
+        "Тамошний народ другой.",
+        "The people from there are different."
+      ],
+      "reason": "Preserve the distal meaning of тамошний."
+    },
+    {
+      "row": 342,
+      "before": [
+        "лестничный",
+        "stair landing",
+        "Лестничная площадка открыта.",
+        "The stair landing is open."
+      ],
+      "after": [
+        "лестничный",
+        "stair, staircase (attributive)",
+        "Лестничная площадка открыта.",
+        "The stair landing is open."
+      ],
+      "reason": "The adjective alone does not mean landing."
+    },
+    {
+      "row": 365,
+      "before": [
+        "скромность",
+        "modesty, humility",
+        "Ей не хватает скромности.",
+        "She has no modesty."
+      ],
+      "after": [
+        "скромность",
+        "modesty, humility",
+        "Ей не хватает скромности.",
+        "She lacks modesty."
+      ],
+      "reason": "Lack is not necessarily complete absence."
+    },
+    {
+      "row": 382,
+      "before": [
+        "приучить",
+        "to train, to accustom",
+        "Приучи собаку.",
+        "Train the dog."
+      ],
+      "after": [
+        "приучить",
+        "to train, to accustom",
+        "Приучи собаку ждать.",
+        "Train the dog to wait."
+      ],
+      "reason": "Supply the habit required by приучить."
+    },
+    {
+      "row": 413,
+      "before": [
+        "крыться",
+        "to hide, to lie",
+        "Ему негде крыться.",
+        "He has nowhere to hide."
+      ],
+      "after": [
+        "крыться",
+        "to lie, to be hidden",
+        "В этом кроется опасность.",
+        "Danger lies in this."
+      ],
+      "reason": "Use ordinary contemporary крыться construction."
+    },
+    {
+      "row": 422,
+      "before": [
+        "оккупация",
+        "occupation, annexation",
+        "После оккупации.",
+        "After the occupation."
+      ],
+      "after": [
+        "оккупация",
+        "occupation (military)",
+        "После оккупации.",
+        "After the occupation."
+      ],
+      "reason": "Occupation and annexation are distinct."
+    },
+    {
+      "row": 424,
+      "before": [
+        "единомышленник",
+        "like-minded person",
+        "Он мой единомышленник.",
+        "He is a like-minded person."
+      ],
+      "after": [
+        "единомышленник",
+        "like-minded person",
+        "Он мой единомышленник.",
+        "He is a like-minded person who shares my views."
+      ],
+      "reason": "Preserve relation to the speaker."
+    },
+    {
+      "row": 441,
+      "before": [
+        "откинуть",
+        "throw back, recline",
+        "Откинь голову.",
+        "Throw back your head."
+      ],
+      "after": [
+        "откинуть",
+        "throw back",
+        "Откинь голову.",
+        "Throw back your head."
+      ],
+      "reason": "Recline normally corresponds to reflexive откинуться."
+    },
+    {
+      "row": 458,
+      "before": [
+        "раскрытый",
+        "opened, disclosed",
+        "Раскрытая книга.",
+        "An opened book."
+      ],
+      "after": [
+        "раскрытый",
+        "open, disclosed",
+        "Раскрытая книга.",
+        "An open book."
+      ],
+      "reason": "Use natural adjective for book state."
+    },
+    {
+      "row": 467,
+      "before": [
+        "итоговый",
+        "final, summary",
+        "Итоговый день.",
+        "The final day."
+      ],
+      "after": [
+        "итоговый",
+        "final, summary",
+        "Итоговый документ готов.",
+        "The final document is ready."
+      ],
+      "reason": "Use natural итоговый collocation. Use prior-deck vocabulary."
+    },
+    {
+      "row": 488,
+      "before": [
+        "подаваться",
+        "to be served, to apply",
+        "Ужин будет подаваться.",
+        "Dinner will be served."
+      ],
+      "after": [
+        "подаваться",
+        "to be served; to move forward",
+        "Ужин будет подаваться.",
+        "Dinner will be served."
+      ],
+      "reason": "Apply requires a different construction; remove misleading standalone sense."
+    },
+    {
+      "row": 498,
+      "before": [
+        "швед",
+        "Swede, Swedish",
+        "Он швед.",
+        "He is a Swede."
+      ],
+      "after": [
+        "швед",
+        "Swede",
+        "Он швед.",
+        "He is a Swede."
+      ],
+      "reason": "Remove adjective Swedish from person noun."
+    },
+    {
+      "row": 499,
+      "before": [
+        "пучок",
+        "bundle, bunch",
+        "Пучок волос.",
+        "A bundle of hair."
+      ],
+      "after": [
+        "пучок",
+        "bundle, bunch, tuft",
+        "Пучок волос.",
+        "A tuft of hair."
+      ],
+      "reason": "Use natural hair collocation."
+    }
+  ]
+}

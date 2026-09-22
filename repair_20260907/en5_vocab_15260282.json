@@ -1,0 +1,97 @@
+[
+  {
+    "row": 13,
+    "after": ["mistakenly", "ошибочно", "The answer was mistakenly marked.", "Ответ ошибочно отметили."],
+    "reason": "Uses only prior mark/отметить vocabulary and avoids the later word wrong."
+  },
+  {
+    "row": 28,
+    "after": ["oppressive", "тягостный", "The silence was oppressive.", "Тишина была тягостной."],
+    "reason": "Uses prior silence/тишина while preserving the natural oppressive-silence collocation."
+  },
+  {
+    "row": 72,
+    "after": ["sprinkle", "осыпать", "Snow sprinkled the earth.", "Снег осыпал землю."],
+    "reason": "Uses prior snow and earth vocabulary and keeps a natural figurative sprinkle sense."
+  },
+  {
+    "row": 93,
+    "after": ["reader's", "читательский", "We know the reader's response.", "Мы знаем читательский отклик."],
+    "reason": "Replaces untaught изучить with prior know/знать and response/отклик."
+  },
+  {
+    "row": 94,
+    "after": ["correlate", "соотноситься", "The prices correlate with each other.", "Цены соотносятся друг с другом."],
+    "reason": "Supplies the required comparison using only function and prior vocabulary."
+  },
+  {
+    "row": 102,
+    "after": ["soberly", "трезво", "He answered soberly.", "Он ответил трезво."],
+    "reason": "Uses prior answer/ответить vocabulary in a concise natural example."
+  },
+  {
+    "row": 118,
+    "after": ["disorderly", "беспорядочный", "His work was disorderly.", "Его работа была беспорядочной."],
+    "reason": "Avoids the untaught noun отступление while teaching disorganized work naturally."
+  },
+  {
+    "row": 156,
+    "after": ["cashier", "кассир", "The cashier checked this.", "Кассир проверил это."],
+    "reason": "Uses prior check/проверить and removes untaught money and посчитать."
+  },
+  {
+    "row": 250,
+    "after": ["tender", "тендер", "This is a new tender.", "Это новый тендер."],
+    "reason": "Avoids untaught выиграть while preserving the procurement sense."
+  },
+  {
+    "row": 273,
+    "after": ["to be attached", "прилагаться", "The document is attached.", "Документ прилагается."],
+    "reason": "Uses prior document/документ instead of untaught инструкции."
+  },
+  {
+    "row": 297,
+    "after": ["lubricant", "смазка", "The lubricant is for the door.", "Смазка для двери."],
+    "reason": "Avoids untaught hinge and наносить while retaining a concrete door-lubricant use."
+  },
+  {
+    "row": 351,
+    "after": ["triple", "тройной", "Triple coffee is strong.", "Тройной кофе крепкий."],
+    "reason": "Keeps prior coffee vocabulary and removes untaught espresso."
+  },
+  {
+    "row": 363,
+    "after": ["monopolist", "монополист", "The market is under the monopolist's control.", "Рынок под контролем монополиста."],
+    "reason": "Uses prior market and control vocabulary without the untaught verb контролировать."
+  },
+  {
+    "row": 371,
+    "after": ["to roll over", "перекатиться", "The stone can roll over the hill.", "Камень может перекатиться через холм."],
+    "reason": "Uses prior stone and hill vocabulary instead of untaught ball/мяч."
+  },
+  {
+    "row": 389,
+    "after": ["to be denoted", "обозначаться", "Time is denoted by a symbol.", "Время обозначается символом."],
+    "reason": "Uses prior time and symbol vocabulary and removes the untaught letter name."
+  },
+  {
+    "row": 394,
+    "after": ["to lie for a long time", "пролежать", "I can lie for a long time.", "Я могу долго пролежать."],
+    "reason": "Includes the exact English target and avoids untaught bed/постель vocabulary."
+  },
+  {
+    "row": 410,
+    "after": ["obedience", "послушание", "The dog's obedience is clear.", "Послушание собаки очевидно."],
+    "reason": "Avoids untaught проявить and uses a natural nominal construction."
+  },
+  {
+    "row": 441,
+    "after": ["hospitable", "гостеприимный", "They were very hospitable.", "Они были очень гостеприимны."],
+    "reason": "Removes the unnatural complement and the untaught English noun hosts."
+  },
+  {
+    "row": 491,
+    "after": ["fallout", "последствие", "The political fallout was dangerous.", "Политические последствия были опасными."],
+    "reason": "Uses prior dangerous/опасный while retaining the political-consequences sense."
+  }
+]

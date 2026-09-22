@@ -1,0 +1,54 @@
+{
+  "pack": "russian_english",
+  "deck": "15260221",
+  "band": "9000->9500",
+  "sha256": "063785dbd4b4097d82e7ddc02867917f8cf1b3aeb838b3f7e536ee70a94b908f",
+  "errors": [],
+  "candidates": [
+    {
+      "row": 391,
+      "q": "оправдаться",
+      "a": "justify, vindicate",
+      "qe": "Он не смог оправдаться.",
+      "ae": "He could not justify himself.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "himself",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 449,
+      "q": "загонять",
+      "a": "drive in, herd",
+      "qe": "Они загоняют скот в сарай.",
+      "ae": "They drive the cattle into the barn.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "barn",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 491,
+      "q": "поклонение",
+      "a": "worship, adoration",
+      "qe": "Это поклонение идолу.",
+      "ae": "This is worship of an idol.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "идолу",
+            "band": "9000->9500"
+          }
+        ]
+      }
+    }
+  ]
+}

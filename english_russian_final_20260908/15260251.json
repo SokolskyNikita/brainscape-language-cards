@@ -1,0 +1,506 @@
+{
+  "deck": "15260251",
+  "reviewed": 500,
+  "changes": [
+    {
+      "deck": "15260251",
+      "row": 21,
+      "card_number": 1021,
+      "before": [
+        "agreeable",
+        "согласный",
+        "He is agreeable to this.",
+        "Он согласен на это."
+      ],
+      "after": [
+        "agreeable",
+        "согласный (agreeable to); приятный",
+        "He is agreeable to this.",
+        "Он согласен на это."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Clarify willing-versus-pleasant senses."
+    },
+    {
+      "deck": "15260251",
+      "row": 68,
+      "card_number": 1068,
+      "before": [
+        "smile",
+        "улыбка",
+        "She has a smile.",
+        "У неё есть улыбка."
+      ],
+      "after": [
+        "smile",
+        "улыбка",
+        "She has a beautiful smile.",
+        "У неё красивая улыбка."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Natural descriptive example."
+    },
+    {
+      "deck": "15260251",
+      "row": 110,
+      "card_number": 1110,
+      "before": [
+        "sex",
+        "секс",
+        "Sex is a natural human desire.",
+        "Секс - это естественное человеческое желание."
+      ],
+      "after": [
+        "sex",
+        "секс",
+        "Sex is part of life.",
+        "Секс — часть жизни."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Sex is an activity, not itself a desire."
+    },
+    {
+      "deck": "15260251",
+      "row": 125,
+      "card_number": 1125,
+      "before": [
+        "prince",
+        "князь",
+        "The prince was young.",
+        "Князь был молодым."
+      ],
+      "after": [
+        "prince",
+        "принц; князь (титул)",
+        "The prince was young.",
+        "Князь был молодым."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Distinguish royal son from historical князь."
+    },
+    {
+      "deck": "15260251",
+      "row": 135,
+      "card_number": 1135,
+      "before": [
+        "come in",
+        "заходить",
+        "Please, come in and sit down.",
+        "Пожалуйста, заходите и сядьте."
+      ],
+      "after": [
+        "come in",
+        "заходить",
+        "Please come in.",
+        "Пожалуйста, заходите."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Use idiomatic parallel polite imperatives. Remove later-deck supporting verb."
+    },
+    {
+      "deck": "15260251",
+      "row": 154,
+      "card_number": 1154,
+      "before": [
+        "horse",
+        "лошадь",
+        "The horse is in the field.",
+        "Лошадь на поле."
+      ],
+      "after": [
+        "horse",
+        "лошадь",
+        "The horse is in the field.",
+        "Лошадь в поле."
+      ],
+      "fields": [
+        "Russian example"
+      ],
+      "reason": "Use natural Russian location for agricultural field."
+    },
+    {
+      "deck": "15260251",
+      "row": 156,
+      "card_number": 1156,
+      "before": [
+        "girlfriend",
+        "подруга",
+        "She is my girlfriend.",
+        "Она моя подруга."
+      ],
+      "after": [
+        "girlfriend",
+        "девушка (романтические отношения); подруга",
+        "She is my girlfriend.",
+        "Она моя девушка."
+      ],
+      "fields": [
+        "Russian translation",
+        "Russian example"
+      ],
+      "reason": "Make romantic sense explicit rather than ambiguous female friend."
+    },
+    {
+      "deck": "15260251",
+      "row": 174,
+      "card_number": 1174,
+      "before": [
+        "eastern",
+        "восточный",
+        "The eastern wind is cold.",
+        "Восточный ветер холодный."
+      ],
+      "after": [
+        "eastern",
+        "восточный",
+        "The eastern part of the city is beautiful.",
+        "Восточная часть города красивая."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Eastern wind should normally be east/easterly wind; preserve target eastern."
+    },
+    {
+      "deck": "15260251",
+      "row": 205,
+      "card_number": 1205,
+      "before": [
+        "wonderfully",
+        "прекрасно",
+        "She lives wonderfully.",
+        "Она прекрасно живёт."
+      ],
+      "after": [
+        "wonderfully",
+        "прекрасно",
+        "She sings wonderfully.",
+        "Она прекрасно поёт."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Replace unnatural lives wonderfully."
+    },
+    {
+      "deck": "15260251",
+      "row": 222,
+      "card_number": 1222,
+      "before": [
+        "background",
+        "фон",
+        "Music played in the background.",
+        "Музыка играла на фоне."
+      ],
+      "after": [
+        "background",
+        "фон",
+        "The background is white.",
+        "Фон белый."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Replace incomplete Russian music plays на фоне."
+    },
+    {
+      "deck": "15260251",
+      "row": 228,
+      "card_number": 1228,
+      "before": [
+        "request",
+        "просьба",
+        "I sent a request yesterday.",
+        "Я отправил просьбу вчера."
+      ],
+      "after": [
+        "request",
+        "просьба",
+        "I have a request.",
+        "У меня есть просьба."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Use natural request collocation."
+    },
+    {
+      "deck": "15260251",
+      "row": 265,
+      "card_number": 1265,
+      "before": [
+        "television",
+        "телевизор",
+        "I watch television every evening.",
+        "Я смотрю телевизор каждый вечер."
+      ],
+      "after": [
+        "television",
+        "телевизор (приёмник); телевидение",
+        "I watch television every evening.",
+        "Я смотрю телевизор каждый вечер."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Distinguish set from broadcasting medium."
+    },
+    {
+      "deck": "15260251",
+      "row": 324,
+      "card_number": 1324,
+      "before": [
+        "slightly",
+        "слегка",
+        "This is slightly more.",
+        "Это слегка больше."
+      ],
+      "after": [
+        "slightly",
+        "слегка",
+        "He slightly opened the door.",
+        "Он слегка открыл дверь."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Use слегка naturally rather than слегка больше."
+    },
+    {
+      "deck": "15260251",
+      "row": 335,
+      "card_number": 1335,
+      "before": [
+        "pier",
+        "мол",
+        "We walked to the pier.",
+        "Мы пошли к молу."
+      ],
+      "after": [
+        "pier",
+        "пирс, пристань",
+        "We walked to the pier.",
+        "Мы пошли к пирсу."
+      ],
+      "fields": [
+        "Russian translation",
+        "Russian example"
+      ],
+      "reason": "Мол is a breakwater, not a generic pier."
+    },
+    {
+      "deck": "15260251",
+      "row": 344,
+      "card_number": 1344,
+      "before": [
+        "booklet",
+        "книжка",
+        "She has a small booklet.",
+        "У неё есть маленькая книжка."
+      ],
+      "after": [
+        "booklet",
+        "брошюра, небольшая книжка",
+        "She has a small booklet.",
+        "У неё есть небольшая брошюра."
+      ],
+      "fields": [
+        "Russian translation",
+        "Russian example"
+      ],
+      "reason": "Give accurate booklet equivalent."
+    },
+    {
+      "deck": "15260251",
+      "row": 375,
+      "card_number": 1375,
+      "before": [
+        "Lord",
+        "господь",
+        "I believe in the Lord.",
+        "Я верю в господа."
+      ],
+      "after": [
+        "Lord",
+        "Господь",
+        "I believe in the Lord.",
+        "Я верю в Господа."
+      ],
+      "fields": [
+        "Russian translation",
+        "Russian example"
+      ],
+      "reason": "Capitalize divine name and inflection."
+    },
+    {
+      "deck": "15260251",
+      "row": 380,
+      "card_number": 1380,
+      "before": [
+        "vital",
+        "жизненный",
+        "This is a vital question.",
+        "Это жизненный вопрос."
+      ],
+      "after": [
+        "vital",
+        "жизненно важный",
+        "This is a vital question.",
+        "Это жизненно важный вопрос."
+      ],
+      "fields": [
+        "Russian translation",
+        "Russian example"
+      ],
+      "reason": "Жизненный alone does not mean vital in importance."
+    },
+    {
+      "deck": "15260251",
+      "row": 389,
+      "card_number": 1389,
+      "before": [
+        "bridge",
+        "мост",
+        "The bridge is on the river.",
+        "Мост на реке."
+      ],
+      "after": [
+        "bridge",
+        "мост",
+        "The bridge is above the water.",
+        "Мост над водой."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Replace unnatural bridge on river. Use prior-deck vocabulary."
+    },
+    {
+      "deck": "15260251",
+      "row": 405,
+      "card_number": 1405,
+      "before": [
+        "to dream",
+        "мечтать",
+        "She loves to dream.",
+        "Она любит мечтать."
+      ],
+      "after": [
+        "to dream",
+        "мечтать (о желаемом); видеть сны",
+        "She loves to dream.",
+        "Она любит мечтать."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Distinguish aspiration from sleeping dreams."
+    },
+    {
+      "deck": "15260251",
+      "row": 432,
+      "card_number": 1432,
+      "before": [
+        "dream",
+        "мечта",
+        "This is my dream.",
+        "Это моя мечта."
+      ],
+      "after": [
+        "dream",
+        "мечта; сон (во сне)",
+        "This is my dream.",
+        "Это моя мечта."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Distinguish desired aspiration from dream during sleep."
+    },
+    {
+      "deck": "15260251",
+      "row": 438,
+      "card_number": 1438,
+      "before": [
+        "God's",
+        "божий",
+        "This is God's house.",
+        "Это божий дом."
+      ],
+      "after": [
+        "God's",
+        "Божий",
+        "This is God's house.",
+        "Это Божий дом."
+      ],
+      "fields": [
+        "Russian translation",
+        "Russian example"
+      ],
+      "reason": "Match capitalized divine possessive."
+    },
+    {
+      "deck": "15260251",
+      "row": 439,
+      "card_number": 1439,
+      "before": [
+        "plus",
+        "плюс",
+        "Two plus two equals four.",
+        "Два плюс два равно четыре."
+      ],
+      "after": [
+        "plus",
+        "плюс",
+        "Two plus two equals four.",
+        "Два плюс два равно четырём."
+      ],
+      "fields": [
+        "Russian example"
+      ],
+      "reason": "Use dative complement after равно."
+    },
+    {
+      "deck": "15260251",
+      "row": 470,
+      "card_number": 1470,
+      "before": [
+        "to hit",
+        "попадать",
+        "He hits every time.",
+        "Он попадает каждый раз."
+      ],
+      "after": [
+        "to hit",
+        "бить, ударять; попадать (в цель)",
+        "Do not hit him.",
+        "Не бей его."
+      ],
+      "fields": [
+        "Russian translation",
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Supply object for hitting accuracy sense. Use prior-deck object. Clarify hitting a target rather than striking a door. Use the common striking sense and avoid the later supporting word target."
+    }
+  ]
+}

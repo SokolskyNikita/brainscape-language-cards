@@ -1,0 +1,30 @@
+[
+  {
+    "cardId": 735475883,
+    "field": "qSoundUrl",
+    "bytes": 14541,
+    "mime": "audio/mpeg",
+    "matches_generated": true
+  },
+  {
+    "cardId": 735475896,
+    "field": "aSoundUrl",
+    "bytes": 14332,
+    "mime": "audio/mpeg",
+    "matches_generated": true
+  },
+  {
+    "cardId": 735475921,
+    "field": "qSoundUrl",
+    "bytes": 14541,
+    "mime": "audio/mpeg",
+    "matches_generated": true
+  },
+  {
+    "cardId": 735475921,
+    "field": "aSoundUrl",
+    "bytes": 14332,
+    "mime": "audio/mpeg",
+    "matches_generated": true
+  }
+]

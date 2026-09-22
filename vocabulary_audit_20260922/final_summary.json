@@ -1,0 +1,296 @@
+{
+  "english_russian": {
+    "total_cards": 10000,
+    "flagged_cards": 272,
+    "word_card_pairs": 276,
+    "word_occurrences": 276,
+    "unique_word_forms": 72,
+    "reasons": {
+      "later_deck": 239,
+      "same_deck": 35,
+      "absent": 1,
+      "sense_not_taught": 1
+    },
+    "most_common": [
+      [
+        "bought",
+        72
+      ],
+      [
+        "felt",
+        17
+      ],
+      [
+        "eyes",
+        15
+      ],
+      [
+        "opened",
+        12
+      ],
+      [
+        "lost",
+        12
+      ],
+      [
+        "found",
+        10
+      ],
+      [
+        "accepted",
+        7
+      ],
+      [
+        "asked",
+        5
+      ],
+      [
+        "heard",
+        5
+      ],
+      [
+        "told",
+        5
+      ],
+      [
+        "checked",
+        5
+      ],
+      [
+        "reading",
+        4
+      ],
+      [
+        "friends",
+        4
+      ],
+      [
+        "meters",
+        4
+      ],
+      [
+        "rooms",
+        4
+      ],
+      [
+        "said",
+        4
+      ],
+      [
+        "led",
+        4
+      ],
+      [
+        "published",
+        4
+      ],
+      [
+        "things",
+        4
+      ],
+      [
+        "displayed",
+        4
+      ],
+      [
+        "offered",
+        3
+      ],
+      [
+        "covered",
+        3
+      ],
+      [
+        "brought",
+        3
+      ],
+      [
+        "played",
+        3
+      ],
+      [
+        "tears",
+        3
+      ],
+      [
+        "added",
+        3
+      ],
+      [
+        "named",
+        2
+      ],
+      [
+        "listening",
+        2
+      ],
+      [
+        "believed",
+        2
+      ],
+      [
+        "discussed",
+        2
+      ]
+    ],
+    "decisions": {
+      "current_target": 11263,
+      "exact_prior": 26953,
+      "explicit_exemption": 1204,
+      "never_taught_prior_inflection": 7776,
+      "blocked_scheduled_form": 264,
+      "never_taught_target_inflection": 518,
+      "sense_allowed": 226,
+      "expanded_expression": 128,
+      "sense_blocked": 11,
+      "blocked_unintroduced_base": 1
+    }
+  },
+  "russian_english": {
+    "total_cards": 10000,
+    "flagged_cards": 472,
+    "word_card_pairs": 476,
+    "word_occurrences": 476,
+    "unique_word_forms": 197,
+    "reasons": {
+      "later_deck": 300,
+      "base_not_yet_allowed": 13,
+      "absent": 110,
+      "same_deck": 53
+    },
+    "most_common": [
+      [
+        "home",
+        29
+      ],
+      [
+        "need",
+        21
+      ],
+      [
+        "bought",
+        19
+      ],
+      [
+        "ground",
+        17
+      ],
+      [
+        "just",
+        17
+      ],
+      [
+        "pure",
+        15
+      ],
+      [
+        "decision",
+        11
+      ],
+      [
+        "lot",
+        10
+      ],
+      [
+        "working",
+        9
+      ],
+      [
+        "things",
+        8
+      ],
+      [
+        "coming",
+        7
+      ],
+      [
+        "sleeping",
+        7
+      ],
+      [
+        "phone",
+        7
+      ],
+      [
+        "matter",
+        6
+      ],
+      [
+        "standing",
+        6
+      ],
+      [
+        "opened",
+        6
+      ],
+      [
+        "eyes",
+        6
+      ],
+      [
+        "lost",
+        5
+      ],
+      [
+        "advice",
+        5
+      ],
+      [
+        "illness",
+        5
+      ],
+      [
+        "asked",
+        5
+      ],
+      [
+        "times",
+        4
+      ],
+      [
+        "mistake",
+        4
+      ],
+      [
+        "nice",
+        4
+      ],
+      [
+        "released",
+        4
+      ],
+      [
+        "yet",
+        4
+      ],
+      [
+        "expenses",
+        4
+      ],
+      [
+        "quick",
+        4
+      ],
+      [
+        "understood",
+        3
+      ],
+      [
+        "today's",
+        3
+      ]
+    ],
+    "decisions": {
+      "current_target": 10489,
+      "exact_prior": 21737,
+      "never_taught_prior_inflection": 5622,
+      "explicit_exemption": 1159,
+      "blocked_scheduled_form": 351,
+      "expanded_expression": 1197,
+      "never_taught_target_inflection": 1050,
+      "sense_allowed": 118,
+      "blocked_unintroduced_base": 123,
+      "sense_blocked": 2
+    }
+  }
+}

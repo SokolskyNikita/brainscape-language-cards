@@ -1,0 +1,2918 @@
+[
+  {
+    "pack": "english_russian",
+    "deck": "15260283",
+    "row": 38,
+    "before": [
+      "tin",
+      "жесть",
+      "Tin is strong.",
+      "Жесть прочная."
+    ],
+    "after": [
+      "tin",
+      "олово",
+      "Tin is a metal.",
+      "Олово — металл."
+    ],
+    "reason": "Correct mistranslation, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260283",
+    "row": 82,
+    "before": [
+      "plenarium",
+      "пленум",
+      "The plenarium is important.",
+      "Пленум важен."
+    ],
+    "after": [
+      "plenary session",
+      "пленум",
+      "The plenary session is important.",
+      "Пленум важен."
+    ],
+    "reason": "Correct mistranslation, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260283",
+    "row": 113,
+    "before": [
+      "urinary",
+      "мочевой",
+      "This is a urinary problem.",
+      "Это мочевая проблема."
+    ],
+    "after": [
+      "urinary",
+      "мочевой",
+      "The urinary system is important.",
+      "Мочевая система важна."
+    ],
+    "reason": "Correct mistranslation, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260283",
+    "row": 152,
+    "before": [
+      "chivalrous",
+      "рыцарский",
+      "He is a chivalrous man.",
+      "Он рыцарский человек."
+    ],
+    "after": [
+      "chivalrous",
+      "рыцарский",
+      "His behavior was chivalrous.",
+      "Его поведение было рыцарским."
+    ],
+    "reason": "Correct mistranslation, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260283",
+    "row": 194,
+    "before": [
+      "evoke",
+      "навеять",
+      "This song will evoke joy.",
+      "Эта песня навеет радость."
+    ],
+    "after": [
+      "evoke",
+      "навеять",
+      "The song will evoke sadness.",
+      "Песня навеет грусть."
+    ],
+    "reason": "Correct mistranslation, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260283",
+    "row": 204,
+    "before": [
+      "remembrance",
+      "память",
+      "He kept her in remembrance.",
+      "Он хранил о ней память."
+    ],
+    "after": [
+      "remembrance",
+      "память",
+      "She lives in my remembrance.",
+      "Она живёт в моей памяти."
+    ],
+    "reason": "Correct mistranslation, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260283",
+    "row": 222,
+    "before": [
+      "unhindered",
+      "беспрепятственный",
+      "The path was unhindered.",
+      "Путь был беспрепятственным."
+    ],
+    "after": [
+      "unhindered",
+      "беспрепятственный",
+      "Unhindered movement is important.",
+      "Беспрепятственное движение важно."
+    ],
+    "reason": "Correct mistranslation, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260283",
+    "row": 231,
+    "before": [
+      "hijack",
+      "угонять",
+      "They hijack the ship.",
+      "Они угоняют корабль."
+    ],
+    "after": [
+      "hijack",
+      "угонять",
+      "They hijack cars.",
+      "Они угоняют машины."
+    ],
+    "reason": "Correct mistranslation, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260283",
+    "row": 264,
+    "before": [
+      "dimension",
+      "габарит",
+      "Check the box's dimension.",
+      "Проверьте габарит ящика."
+    ],
+    "after": [
+      "dimension",
+      "размер",
+      "Check this dimension.",
+      "Проверьте этот размер."
+    ],
+    "reason": "Correct mistranslation, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260283",
+    "row": 300,
+    "before": [
+      "upholster",
+      "обить",
+      "We will upholster the old sofa.",
+      "Надо обить старый диван."
+    ],
+    "after": [
+      "upholster",
+      "обить",
+      "We need to upholster the old sofa.",
+      "Надо обить старый диван."
+    ],
+    "reason": "Correct mistranslation, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260283",
+    "row": 304,
+    "before": [
+      "grating",
+      "скрежет",
+      "I heard the grating of the door.",
+      "Я слышал скрежет двери."
+    ],
+    "after": [
+      "grating",
+      "скрежет",
+      "I heard a grating sound.",
+      "Я слышал скрежет."
+    ],
+    "reason": "Correct mistranslation, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260283",
+    "row": 331,
+    "before": [
+      "screw up",
+      "закрутить",
+      "I will screw up the lid tightly.",
+      "Я закручу крышку плотно."
+    ],
+    "after": [
+      "to screw on",
+      "закрутить",
+      "I will screw on the lid tightly.",
+      "Я плотно закручу крышку."
+    ],
+    "reason": "Correct mistranslation, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260283",
+    "row": 337,
+    "before": [
+      "to involve",
+      "замешать",
+      "He tried to involve her in fraud.",
+      "Он пытался замешать её в мошенничество."
+    ],
+    "after": [
+      "to involve",
+      "вовлечь",
+      "He tried to involve her in the case.",
+      "Он пытался вовлечь её в дело."
+    ],
+    "reason": "Correct mistranslation, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260283",
+    "row": 339,
+    "before": [
+      "chronological",
+      "хронологический",
+      "The events are chronological.",
+      "События хронологические."
+    ],
+    "after": [
+      "chronological",
+      "хронологический",
+      "The list is chronological.",
+      "Список хронологический."
+    ],
+    "reason": "Correct mistranslation, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260283",
+    "row": 343,
+    "before": [
+      "vigor",
+      "бодрость",
+      "He showed vigor.",
+      "Он показал бодрость."
+    ],
+    "after": [
+      "vigor",
+      "бодрость",
+      "His vigor returned.",
+      "Его бодрость вернулась."
+    ],
+    "reason": "Correct mistranslation, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260283",
+    "row": 361,
+    "before": [
+      "to feel deeply",
+      "прочувствовать",
+      "I want to feel deeply this pain.",
+      "Я хочу прочувствовать эту боль."
+    ],
+    "after": [
+      "to feel deeply",
+      "прочувствовать",
+      "I want to feel this pain deeply.",
+      "Я хочу прочувствовать эту боль."
+    ],
+    "reason": "Correct mistranslation, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260283",
+    "row": 372,
+    "before": [
+      "round dance",
+      "хоровод",
+      "They dance a round dance.",
+      "Они танцуют в хороводе."
+    ],
+    "after": [
+      "round dance",
+      "хоровод",
+      "They joined the round dance.",
+      "Они встали в хоровод."
+    ],
+    "reason": "Correct mistranslation, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260283",
+    "row": 400,
+    "before": [
+      "chasing",
+      "вдогонку",
+      "He runs, chasing the dog.",
+      "Он бежит вдогонку за собакой."
+    ],
+    "after": [
+      "chasing",
+      "преследование",
+      "Chasing the dog was tiring.",
+      "Преследование собаки было утомительным."
+    ],
+    "reason": "Correct mistranslation, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260283",
+    "row": 407,
+    "before": [
+      "company-level",
+      "ротный",
+      "He received a company-level promotion.",
+      "Он получил ротное повышение."
+    ],
+    "after": [
+      "company-level",
+      "ротный",
+      "A company-level exercise began.",
+      "Начались ротные учения."
+    ],
+    "reason": "Correct mistranslation, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260283",
+    "row": 408,
+    "before": [
+      "reliably",
+      "достоверно",
+      "He reliably predicted the outcome.",
+      "Он достоверно предсказал исход."
+    ],
+    "after": [
+      "reliably",
+      "надёжно",
+      "The lock works reliably.",
+      "Замок работает надёжно."
+    ],
+    "reason": "Correct mistranslation, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260283",
+    "row": 415,
+    "before": [
+      "airborne",
+      "десантный",
+      "The airborne soldiers landed at dawn.",
+      "Десантные солдаты сели на рассвете."
+    ],
+    "after": [
+      "airborne",
+      "десантный",
+      "This is an airborne unit.",
+      "Это десантная часть."
+    ],
+    "reason": "Correct mistranslation, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260283",
+    "row": 418,
+    "before": [
+      "hypostasis",
+      "ипостась",
+      "He has a divine hypostasis.",
+      "Он имеет божественную ипостась."
+    ],
+    "after": [
+      "hypostasis",
+      "ипостась",
+      "They discussed the divine hypostasis.",
+      "Они обсуждали божественную ипостась."
+    ],
+    "reason": "Correct mistranslation, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260283",
+    "row": 424,
+    "before": [
+      "splinter",
+      "щепка",
+      "A splinter flew from the tree.",
+      "Щепка улетела от дерева."
+    ],
+    "after": [
+      "splinter",
+      "щепка",
+      "A splinter is in my finger.",
+      "Щепка у меня в пальце."
+    ],
+    "reason": "Correct mistranslation, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260283",
+    "row": 443,
+    "before": [
+      "accentuate",
+      "акцентировать",
+      "Bright colors accentuate her eyes.",
+      "Яркие цвета акцентируют её глаза."
+    ],
+    "after": [
+      "accentuate",
+      "подчёркивать",
+      "Bright colors accentuate her eyes.",
+      "Яркие цвета подчёркивают её глаза."
+    ],
+    "reason": "Correct mistranslation, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260283",
+    "row": 461,
+    "before": [
+      "to slow down",
+      "замедлять",
+      "I need to slow down my step.",
+      "Мне нужно замедлять свой шаг."
+    ],
+    "after": [
+      "to slow down",
+      "замедлять",
+      "I slow down my step.",
+      "Я замедляю шаг."
+    ],
+    "reason": "Correct mistranslation, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260283",
+    "row": 462,
+    "before": [
+      "dig out",
+      "вырыть",
+      "They dug out a hole.",
+      "Они вырыли яму."
+    ],
+    "after": [
+      "dig out",
+      "откопать",
+      "They dug out the box.",
+      "Они откопали ящик."
+    ],
+    "reason": "Correct mistranslation, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260283",
+    "row": 476,
+    "before": [
+      "excess",
+      "избыток",
+      "This excess noise is unbearable.",
+      "Этот избыток шума невыносим."
+    ],
+    "after": [
+      "excess",
+      "избыток",
+      "An excess of noise is harmful.",
+      "Избыток шума вреден."
+    ],
+    "reason": "Correct mistranslation, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260283",
+    "row": 484,
+    "before": [
+      "halo",
+      "ореол",
+      "She had a halo of golden hair.",
+      "У неё был ореол из золотых волос."
+    ],
+    "after": [
+      "halo",
+      "ореол",
+      "She had a halo of golden hair.",
+      "У неё был ореол золотых волос."
+    ],
+    "reason": "Correct mistranslation, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260283",
+    "row": 488,
+    "before": [
+      "transverse",
+      "поперечный",
+      "The bridge has a transverse line.",
+      "Мост имеет поперечную линию."
+    ],
+    "after": [
+      "transverse",
+      "поперечный",
+      "This line is transverse.",
+      "Эта линия поперечная."
+    ],
+    "reason": "Correct mistranslation, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260283",
+    "row": 499,
+    "before": [
+      "piercingly",
+      "пронзительно",
+      "She stared piercingly into his eyes.",
+      "Она пронзительно уставилась ему в глаза."
+    ],
+    "after": [
+      "piercingly",
+      "пронзительно",
+      "She screamed piercingly.",
+      "Она пронзительно закричала."
+    ],
+    "reason": "Correct mistranslation, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260285",
+    "row": 24,
+    "before": [
+      "get into the swing of things",
+      "разыграться",
+      "She will get into the swing of things soon.",
+      "Она скоро разыграется."
+    ],
+    "after": [
+      "get into the swing of things",
+      "войти во вкус",
+      "She will get into the swing of things soon.",
+      "Она скоро войдёт во вкус."
+    ],
+    "reason": "Correct mistranslation, part-of-speech mismatch, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260285",
+    "row": 81,
+    "before": [
+      "Nord",
+      "норд",
+      "The Nord is cold.",
+      "Норд холодный."
+    ],
+    "after": [
+      "north wind",
+      "норд",
+      "A cold north wind blew.",
+      "Дул холодный норд."
+    ],
+    "reason": "Correct mistranslation, part-of-speech mismatch, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260285",
+    "row": 116,
+    "before": [
+      "general's",
+      "генеральский",
+      "The general's plan was clear.",
+      "Генеральский план был ясным."
+    ],
+    "after": [
+      "general's",
+      "генеральский",
+      "The general's uniform was new.",
+      "Генеральская форма была новой."
+    ],
+    "reason": "Correct mistranslation, part-of-speech mismatch, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260285",
+    "row": 139,
+    "before": [
+      "sexually",
+      "сексуально",
+      "She looked at him sexually.",
+      "Она смотрела на него сексуально."
+    ],
+    "after": [
+      "sexually",
+      "сексуально",
+      "She is sexually active.",
+      "Она сексуально активна."
+    ],
+    "reason": "Correct mistranslation, part-of-speech mismatch, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260285",
+    "row": 154,
+    "before": [
+      "convict",
+      "уголовник",
+      "The convict is here.",
+      "Уголовник здесь."
+    ],
+    "after": [
+      "convict",
+      "осуждённый",
+      "The convict is in prison.",
+      "Осуждённый в тюрьме."
+    ],
+    "reason": "Correct mistranslation, part-of-speech mismatch, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260285",
+    "row": 175,
+    "before": [
+      "interruption",
+      "прерывание",
+      "There was a short interruption.",
+      "Было короткое прерывание."
+    ],
+    "after": [
+      "interruption",
+      "прерывание",
+      "The interruption of the signal was brief.",
+      "Прерывание сигнала было коротким."
+    ],
+    "reason": "Correct mistranslation, part-of-speech mismatch, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260285",
+    "row": 181,
+    "before": [
+      "to be entered",
+      "вноситься",
+      "The name is entered here.",
+      "Имя вносится."
+    ],
+    "after": [
+      "to be entered",
+      "вноситься",
+      "The name is entered here.",
+      "Имя вносится здесь."
+    ],
+    "reason": "Correct mistranslation, part-of-speech mismatch, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260285",
+    "row": 202,
+    "before": [
+      "inasmuch",
+      "постольку",
+      "Inasmuch as you agree, we will continue.",
+      "Постольку поскольку вы согласны, мы продолжим."
+    ],
+    "after": [
+      "inasmuch as",
+      "поскольку",
+      "Inasmuch as you agree, we will continue.",
+      "Поскольку вы согласны, мы продолжим."
+    ],
+    "reason": "Correct mistranslation, part-of-speech mismatch, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260285",
+    "row": 205,
+    "before": [
+      "Advent",
+      "Адвент",
+      "They wait for the Advent.",
+      "Они ждут Адвента."
+    ],
+    "after": [
+      "advent, coming",
+      "пришествие",
+      "They await his advent.",
+      "Они ждут его пришествия."
+    ],
+    "reason": "Correct mistranslation, part-of-speech mismatch, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260285",
+    "row": 211,
+    "before": [
+      "dazzlingly",
+      "ослепительно",
+      "She danced dazzlingly.",
+      "Она танцевала ослепительно."
+    ],
+    "after": [
+      "dazzlingly",
+      "ослепительно",
+      "The lights shone dazzlingly.",
+      "Огни сияли ослепительно."
+    ],
+    "reason": "Correct mistranslation, part-of-speech mismatch, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260285",
+    "row": 214,
+    "before": [
+      "duplicate",
+      "дубль",
+      "We need another duplicate.",
+      "Нам нужен ещё один дубль."
+    ],
+    "after": [
+      "duplicate",
+      "дубль",
+      "We need a duplicate.",
+      "Нам нужен дубль."
+    ],
+    "reason": "Correct mistranslation, part-of-speech mismatch, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260285",
+    "row": 224,
+    "before": [
+      "seeming",
+      "кажущийся",
+      "His kindness was only seeming.",
+      "Его доброта была только кажущейся."
+    ],
+    "after": [
+      "seeming",
+      "кажущийся",
+      "The seeming kindness was false.",
+      "Кажущаяся доброта была ложной."
+    ],
+    "reason": "Correct mistranslation, part-of-speech mismatch, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260285",
+    "row": 237,
+    "before": [
+      "expendable",
+      "расходный",
+      "These parts are expendable.",
+      "Эти детали расходные."
+    ],
+    "after": [
+      "expendable",
+      "расходный",
+      "These are expendable materials.",
+      "Это расходные материалы."
+    ],
+    "reason": "Correct mistranslation, part-of-speech mismatch, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260285",
+    "row": 248,
+    "before": [
+      "charter",
+      "уставный",
+      "This is a charter document.",
+      "Это уставный документ."
+    ],
+    "after": [
+      "charter",
+      "устав",
+      "We approved the charter.",
+      "Мы утвердили устав."
+    ],
+    "reason": "Correct mistranslation, part-of-speech mismatch, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260285",
+    "row": 250,
+    "before": [
+      "clutch",
+      "сцепление",
+      "He adjusted the clutch smoothly.",
+      "Он плавно регулировал сцепление."
+    ],
+    "after": [
+      "clutch",
+      "сцепление",
+      "The clutch works smoothly.",
+      "Сцепление работает плавно."
+    ],
+    "reason": "Correct mistranslation, part-of-speech mismatch, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260285",
+    "row": 277,
+    "before": [
+      "to light up",
+      "закуривать",
+      "He began to light up a cigarette.",
+      "Он начал закуривать сигарету."
+    ],
+    "after": [
+      "to light up",
+      "закуривать",
+      "He lights up after dinner.",
+      "Он закуривает после ужина."
+    ],
+    "reason": "Correct mistranslation, part-of-speech mismatch, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260285",
+    "row": 279,
+    "before": [
+      "to arm",
+      "вооружиться",
+      "They decided to arm quickly.",
+      "Они решили быстро вооружиться."
+    ],
+    "after": [
+      "to arm",
+      "вооружиться",
+      "They decided to arm themselves quickly.",
+      "Они решили быстро вооружиться."
+    ],
+    "reason": "Correct mistranslation, part-of-speech mismatch, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260285",
+    "row": 280,
+    "before": [
+      "to lose weight",
+      "худеть",
+      "She decided to lose weight.",
+      "Она решила худеть."
+    ],
+    "after": [
+      "to lose weight",
+      "худеть",
+      "She is losing weight.",
+      "Она худеет."
+    ],
+    "reason": "Correct mistranslation, part-of-speech mismatch, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260285",
+    "row": 301,
+    "before": [
+      "overlapping",
+      "перекрытие",
+      "Overlapping work is a problem.",
+      "Перекрытие работ — проблема."
+    ],
+    "after": [
+      "overlapping",
+      "перекрывающийся",
+      "The overlapping circles are red.",
+      "Перекрывающиеся круги красные."
+    ],
+    "reason": "Correct mistranslation, part-of-speech mismatch, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260285",
+    "row": 370,
+    "before": [
+      "handshake",
+      "рукопожатие",
+      "He gave me a handshake.",
+      "Он дал мне рукопожатие."
+    ],
+    "after": [
+      "handshake",
+      "рукопожатие",
+      "He greeted me with a handshake.",
+      "Он приветствовал меня рукопожатием."
+    ],
+    "reason": "Correct mistranslation, part-of-speech mismatch, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260285",
+    "row": 409,
+    "before": [
+      "agony",
+      "агония",
+      "He screamed in agony from the wound.",
+      "Он кричал в агонии от раны."
+    ],
+    "after": [
+      "agony",
+      "агония",
+      "He was in agony.",
+      "Он был в агонии."
+    ],
+    "reason": "Correct mistranslation, part-of-speech mismatch, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260285",
+    "row": 430,
+    "before": [
+      "Cinderella",
+      "Золушка",
+      "Cinderella lost her shoe.",
+      "Золушка потеряла свою обувь."
+    ],
+    "after": [
+      "Cinderella",
+      "Золушка",
+      "Cinderella danced.",
+      "Золушка танцевала."
+    ],
+    "reason": "Correct mistranslation, part-of-speech mismatch, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260285",
+    "row": 431,
+    "before": [
+      "questioning",
+      "расспрос",
+      "I wait for the questioning.",
+      "Я жду расспроса."
+    ],
+    "after": [
+      "questioning",
+      "расспросы",
+      "The questioning was long.",
+      "Расспросы были долгими."
+    ],
+    "reason": "Correct mistranslation, part-of-speech mismatch, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260285",
+    "row": 444,
+    "before": [
+      "to hoarse",
+      "хрипеть",
+      "He began to hoarse.",
+      "Он начал хрипеть."
+    ],
+    "after": [
+      "to wheeze",
+      "хрипеть",
+      "He began to wheeze.",
+      "Он начал хрипеть."
+    ],
+    "reason": "Correct mistranslation, part-of-speech mismatch, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260285",
+    "row": 446,
+    "before": [
+      "to amuse",
+      "рассмешить",
+      "He wants to amuse her.",
+      "Он хочет рассмешить её."
+    ],
+    "after": [
+      "to amuse",
+      "позабавить",
+      "He wants to amuse her.",
+      "Он хочет её позабавить."
+    ],
+    "reason": "Correct mistranslation, part-of-speech mismatch, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260285",
+    "row": 460,
+    "before": [
+      "squeaky",
+      "скрипучий",
+      "The door is squeaky when opened.",
+      "Дверь скрипучая, когда её открывают."
+    ],
+    "after": [
+      "squeaky",
+      "скрипучий",
+      "The door is squeaky.",
+      "Дверь скрипучая."
+    ],
+    "reason": "Correct mistranslation, part-of-speech mismatch, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260285",
+    "row": 495,
+    "before": [
+      "distinction",
+      "различение",
+      "There is a clear distinction.",
+      "Есть ясное различение."
+    ],
+    "after": [
+      "distinction",
+      "различие",
+      "The distinction between them is clear.",
+      "Различие между ними очевидно."
+    ],
+    "reason": "Correct mistranslation, part-of-speech mismatch, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260285",
+    "row": 497,
+    "before": [
+      "cherish",
+      "лелеять",
+      "I cherish our moments.",
+      "Я лелею наши моменты."
+    ],
+    "after": [
+      "cherish",
+      "лелеять",
+      "She cherishes hope.",
+      "Она лелеет надежду."
+    ],
+    "reason": "Correct mistranslation, part-of-speech mismatch, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260287",
+    "row": 2,
+    "before": [
+      "to be paid",
+      "оплачиваться",
+      "This work is to be paid soon.",
+      "Эта работа скоро будет оплачиваться."
+    ],
+    "after": [
+      "to be paid",
+      "оплачиваться",
+      "This work is paid separately.",
+      "Эта работа оплачивается отдельно."
+    ],
+    "reason": "Correct mistranslation, malformed headword, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260287",
+    "row": 8,
+    "before": [
+      "rummage",
+      "порыться",
+      "I will rummage through the attic.",
+      "Я хочу порыться на чердаке."
+    ],
+    "after": [
+      "rummage",
+      "порыться",
+      "I want to rummage through the attic.",
+      "Я хочу порыться на чердаке."
+    ],
+    "reason": "Correct mistranslation, malformed headword, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260287",
+    "row": 18,
+    "before": [
+      "International",
+      "интернационал",
+      "They sing the International.",
+      "Они поют Интернационал."
+    ],
+    "after": [
+      "Internationale",
+      "интернационал",
+      "They sing the Internationale.",
+      "Они поют Интернационал."
+    ],
+    "reason": "Correct mistranslation, malformed headword, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260287",
+    "row": 25,
+    "before": [
+      "zigzag",
+      "зигзаг",
+      "The path is a zigzag.",
+      "Путь - это зигзаг."
+    ],
+    "after": [
+      "zigzag",
+      "зигзаг",
+      "The path goes in a zigzag.",
+      "Путь идёт зигзагом."
+    ],
+    "reason": "Correct mistranslation, malformed headword, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260287",
+    "row": 32,
+    "before": [
+      "to hum",
+      "загудеть",
+      "The engine hummed softly.",
+      "Двигатель тихо загудел."
+    ],
+    "after": [
+      "to hum",
+      "загудеть",
+      "The engine began to hum softly.",
+      "Двигатель тихо загудел."
+    ],
+    "reason": "Correct mistranslation, malformed headword, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260287",
+    "row": 52,
+    "before": [
+      "barn",
+      "амбар",
+      "The old barn holds all the grain.",
+      "Старый амбар хранит всё зерно."
+    ],
+    "after": [
+      "barn",
+      "амбар",
+      "Grain is kept in the barn.",
+      "Зерно хранится в амбаре."
+    ],
+    "reason": "Correct mistranslation, malformed headword, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260287",
+    "row": 75,
+    "before": [
+      "observatory",
+      "обсерватория",
+      "The observatory sees the stars.",
+      "Обсерватория видит звёзды."
+    ],
+    "after": [
+      "observatory",
+      "обсерватория",
+      "They observe stars at the observatory.",
+      "В обсерватории наблюдают за звёздами."
+    ],
+    "reason": "Correct mistranslation, malformed headword, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260287",
+    "row": 92,
+    "before": [
+      "artistically",
+      "художественно",
+      "She painted the wall artistically.",
+      "Она художественно рисовала на стене."
+    ],
+    "after": [
+      "artistically",
+      "художественно",
+      "She painted on the wall artistically.",
+      "Она художественно рисовала на стене."
+    ],
+    "reason": "Correct mistranslation, malformed headword, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260287",
+    "row": 122,
+    "before": [
+      "movable",
+      "движимый",
+      "This is movable property.",
+      "Это движимая собственность."
+    ],
+    "after": [
+      "movable",
+      "подвижный",
+      "This part is movable.",
+      "Эта часть подвижная."
+    ],
+    "reason": "Correct mistranslation, malformed headword, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260287",
+    "row": 125,
+    "before": [
+      "to incarnate",
+      "воплотиться",
+      "The idea incarnated in him.",
+      "Идея воплотилась в нём."
+    ],
+    "after": [
+      "to incarnate",
+      "воплотиться",
+      "The god incarnated as a man.",
+      "Бог воплотился в человеке."
+    ],
+    "reason": "Correct mistranslation, malformed headword, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260287",
+    "row": 139,
+    "before": [
+      "arrangement",
+      "обустройство",
+      "The arrangement of the room was ready.",
+      "Обустройство комнаты было готово."
+    ],
+    "after": [
+      "arrangement",
+      "обустройство",
+      "The arrangement of the room took a week.",
+      "Обустройство комнаты заняло неделю."
+    ],
+    "reason": "Correct mistranslation, malformed headword, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260287",
+    "row": 142,
+    "before": [
+      "tick",
+      "клещ",
+      "Check for ticks after the walk.",
+      "Проверьте клещей после ходьбы."
+    ],
+    "after": [
+      "tick",
+      "клещ",
+      "A tick is on the dog.",
+      "Клещ на собаке."
+    ],
+    "reason": "Correct mistranslation, malformed headword, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260287",
+    "row": 144,
+    "before": [
+      "weightlessness",
+      "невесомость",
+      "Astronauts feel weightlessness in space.",
+      "Космонавты чувствуют невесомость в пространстве."
+    ],
+    "after": [
+      "weightlessness",
+      "невесомость",
+      "Astronauts feel weightlessness.",
+      "Космонавты чувствуют невесомость."
+    ],
+    "reason": "Correct mistranslation, malformed headword, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260287",
+    "row": 145,
+    "before": [
+      "little thing",
+      "вещица",
+      "She cherished every little thing.",
+      "Она хранила каждую вещицу."
+    ],
+    "after": [
+      "little thing",
+      "вещица",
+      "She bought a little thing.",
+      "Она купила вещицу."
+    ],
+    "reason": "Correct mistranslation, malformed headword, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260287",
+    "row": 151,
+    "before": [
+      "large family",
+      "многодетный",
+      "They have a large family.",
+      "У них многодетная семья."
+    ],
+    "after": [
+      "large family",
+      "многодетная семья",
+      "They have a large family.",
+      "У них многодетная семья."
+    ],
+    "reason": "Correct mistranslation, malformed headword, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260287",
+    "row": 163,
+    "before": [
+      "warn",
+      "предостерегать",
+      "I must warn you.",
+      "Я должен вас предостерегать."
+    ],
+    "after": [
+      "warn",
+      "предостерегать",
+      "I often warn you.",
+      "Я часто предостерегаю вас."
+    ],
+    "reason": "Correct mistranslation, malformed headword, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260287",
+    "row": 183,
+    "before": [
+      "spermatozoon",
+      "сперматозоид",
+      "A spermatozoon reaches the egg.",
+      "Сперматозоид достигает яйца."
+    ],
+    "after": [
+      "spermatozoon",
+      "сперматозоид",
+      "A spermatozoon is a cell.",
+      "Сперматозоид — клетка."
+    ],
+    "reason": "Correct mistranslation, malformed headword, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260287",
+    "row": 188,
+    "before": [
+      "all-terrain vehicle",
+      "вездеход",
+      "The all-terrain vehicle crossed the river easily.",
+      "Вездеход легко перешёл реку."
+    ],
+    "after": [
+      "all-terrain vehicle",
+      "вездеход",
+      "The all-terrain vehicle is near the river.",
+      "Вездеход у реки."
+    ],
+    "reason": "Correct mistranslation, malformed headword, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260287",
+    "row": 194,
+    "before": [
+      "persuasion",
+      "уговор",
+      "She used persuasion.",
+      "Она использовала уговор."
+    ],
+    "after": [
+      "persuasion",
+      "уговоры",
+      "Persuasion works.",
+      "Уговоры действуют."
+    ],
+    "reason": "Correct mistranslation, malformed headword, grammar, or unnatural example alignment. Final adjudication: The second-pass 'She chose persuasion' remains unnatural in both languages. Russian normally uses уговоры in the plural for persuasion/coaxing."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260287",
+    "row": 203,
+    "before": [
+      "to be depicted",
+      "изображаться",
+      "The scene is depicted here.",
+      "Сцена изображается здесь."
+    ],
+    "after": [
+      "to be depicted",
+      "изображаться",
+      "The scene is being depicted here.",
+      "Сцена изображается здесь."
+    ],
+    "reason": "Correct mistranslation, malformed headword, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260287",
+    "row": 205,
+    "before": [
+      "capital investment",
+      "капиталовложение",
+      "He made a capital investment.",
+      "Он сделал капиталовложение."
+    ],
+    "after": [
+      "capital investment",
+      "капиталовложение",
+      "The capital investment was large.",
+      "Капиталовложение было большим."
+    ],
+    "reason": "Correct mistranslation, malformed headword, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260287",
+    "row": 227,
+    "before": [
+      "local history",
+      "краеведение",
+      "I read local history.",
+      "Я читаю краеведение."
+    ],
+    "after": [
+      "local history",
+      "краеведение",
+      "Local history is interesting.",
+      "Краеведение интересно."
+    ],
+    "reason": "Correct mistranslation, malformed headword, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260287",
+    "row": 230,
+    "before": [
+      "to be canceled",
+      "отменяться",
+      "The meeting is to be canceled.",
+      "Встреча отменяется."
+    ],
+    "after": [
+      "to be canceled",
+      "отменяться",
+      "The meeting is being canceled.",
+      "Встреча отменяется."
+    ],
+    "reason": "Correct mistranslation, malformed headword, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260287",
+    "row": 259,
+    "before": [
+      "summing up",
+      "подведение",
+      "The summing up took time.",
+      "Подведение заняло время."
+    ],
+    "after": [
+      "summing up",
+      "подведение итогов",
+      "Summing up took time.",
+      "Подведение итогов заняло время."
+    ],
+    "reason": "Correct mistranslation, malformed headword, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260287",
+    "row": 261,
+    "before": [
+      "repay",
+      "отплатить",
+      "I will repay you.",
+      "Я скоро отплачу тебе."
+    ],
+    "after": [
+      "repay",
+      "отплатить",
+      "I will repay you.",
+      "Я отплачу тебе."
+    ],
+    "reason": "Correct mistranslation, malformed headword, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260287",
+    "row": 267,
+    "before": [
+      "to bite off",
+      "откусить",
+      "He will bite off bread.",
+      "Он откусит хлеб."
+    ],
+    "after": [
+      "to bite off",
+      "откусить",
+      "He will bite off a piece of bread.",
+      "Он откусит кусок хлеба."
+    ],
+    "reason": "Correct mistranslation, malformed headword, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260287",
+    "row": 294,
+    "before": [
+      "potency",
+      "сила",
+      "The medicine has high potency.",
+      "Лекарство имеет большую силу."
+    ],
+    "after": [
+      "potency",
+      "сила действия",
+      "The medicine has high potency.",
+      "У лекарства высокая сила действия."
+    ],
+    "reason": "Correct mistranslation, malformed headword, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260287",
+    "row": 300,
+    "before": [
+      "dentist",
+      "стоматолог",
+      "I visited the dentist yesterday.",
+      "Я посетил стоматолога вчера."
+    ],
+    "after": [
+      "dentist",
+      "стоматолог",
+      "I went to the dentist yesterday.",
+      "Я ходил к стоматологу вчера."
+    ],
+    "reason": "Correct mistranslation, malformed headword, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260287",
+    "row": 316,
+    "before": [
+      "weekday",
+      "будний",
+      "A weekday train.",
+      "Будний поезд."
+    ],
+    "after": [
+      "weekday",
+      "будний день",
+      "It happened on a weekday.",
+      "Это случилось в будний день."
+    ],
+    "reason": "Correct mistranslation, malformed headword, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260287",
+    "row": 321,
+    "before": [
+      "to thread",
+      "продеть",
+      "Thread the needle.",
+      "Проденьте нить."
+    ],
+    "after": [
+      "to thread",
+      "продеть",
+      "Thread the cord through the ring.",
+      "Проденьте шнур через кольцо."
+    ],
+    "reason": "Correct mistranslation, malformed headword, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260287",
+    "row": 352,
+    "before": [
+      "unrealized",
+      "несостоявшийся",
+      "This was an unrealized plan.",
+      "Это был несостоявшийся план."
+    ],
+    "after": [
+      "unrealized",
+      "нереализованный",
+      "This was an unrealized plan.",
+      "Это был нереализованный план."
+    ],
+    "reason": "Correct mistranslation, malformed headword, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260287",
+    "row": 359,
+    "before": [
+      "environmental conservation",
+      "природоохранный",
+      "This is an environmental conservation law.",
+      "Это природоохранный закон."
+    ],
+    "after": [
+      "environmental conservation",
+      "охрана природы",
+      "Environmental conservation is important.",
+      "Охрана природы важна."
+    ],
+    "reason": "Correct mistranslation, malformed headword, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260287",
+    "row": 373,
+    "before": [
+      "restorative",
+      "восстановительный",
+      "He needs a restorative rest.",
+      "Ему нужен восстановительный отдых."
+    ],
+    "after": [
+      "restorative",
+      "восстановительный",
+      "Restorative treatment began.",
+      "Восстановительное лечение началось."
+    ],
+    "reason": "Correct mistranslation, malformed headword, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260287",
+    "row": 382,
+    "before": [
+      "tangibly",
+      "ощутимо",
+      "The pain is tangibly strong.",
+      "Боль ощутимо сильна."
+    ],
+    "after": [
+      "tangibly",
+      "ощутимо",
+      "The price rose tangibly.",
+      "Цена ощутимо выросла."
+    ],
+    "reason": "Correct mistranslation, malformed headword, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260287",
+    "row": 385,
+    "before": [
+      "religiously",
+      "религиозно",
+      "She prayed religiously.",
+      "Она религиозно молилась."
+    ],
+    "after": [
+      "religiously",
+      "набожно",
+      "She prayed religiously.",
+      "Она набожно молилась."
+    ],
+    "reason": "Correct mistranslation, malformed headword, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260287",
+    "row": 402,
+    "before": [
+      "burn out",
+      "выгореть",
+      "The fire will burn out soon.",
+      "Огонь скоро выгорит."
+    ],
+    "after": [
+      "burn out",
+      "выгореть",
+      "The building burned out completely.",
+      "Здание полностью выгорело."
+    ],
+    "reason": "Correct mistranslation, malformed headword, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260287",
+    "row": 405,
+    "before": [
+      "round loaf",
+      "каравай",
+      "The round loaf is here.",
+      "Круглый каравай здесь."
+    ],
+    "after": [
+      "round loaf",
+      "каравай",
+      "The round loaf is fresh.",
+      "Каравай свежий."
+    ],
+    "reason": "Correct mistranslation, malformed headword, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260287",
+    "row": 412,
+    "before": [
+      "Viking",
+      "викинг",
+      "The Viking sails.",
+      "Викинг плывёт."
+    ],
+    "after": [
+      "Viking",
+      "викинг",
+      "The Viking has a sword.",
+      "У викинга есть меч."
+    ],
+    "reason": "Correct mistranslation, malformed headword, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260287",
+    "row": 416,
+    "before": [
+      "to dry",
+      "сохнуть",
+      "Hang the clothes outside to dry.",
+      "Выставьте одежду на улицу, чтобы она сохла."
+    ],
+    "after": [
+      "to dry",
+      "сохнуть",
+      "The clothes dry outside.",
+      "Одежда сохнет на улице."
+    ],
+    "reason": "Correct mistranslation, malformed headword, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260287",
+    "row": 420,
+    "before": [
+      "overlap",
+      "накладываться",
+      "Their schedules overlap significantly.",
+      "Их графики значительно накладываются."
+    ],
+    "after": [
+      "overlap",
+      "пересекаться",
+      "Their schedules overlap significantly.",
+      "Их графики значительно пересекаются."
+    ],
+    "reason": "Correct mistranslation, malformed headword, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260287",
+    "row": 461,
+    "before": [
+      "to finalize",
+      "доработать",
+      "We need to finalize the project.",
+      "Нам нужно доработать проект."
+    ],
+    "after": [
+      "to finalize",
+      "завершить",
+      "We need to finalize the project.",
+      "Нам нужно завершить проект."
+    ],
+    "reason": "Correct mistranslation, malformed headword, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260287",
+    "row": 472,
+    "before": [
+      "appropriately",
+      "уместно",
+      "He acts appropriately.",
+      "Он поступает уместно."
+    ],
+    "after": [
+      "appropriately",
+      "уместно",
+      "He answered appropriately.",
+      "Он ответил уместно."
+    ],
+    "reason": "Correct mistranslation, malformed headword, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260287",
+    "row": 475,
+    "before": [
+      "ingredient",
+      "ингредиент",
+      "Sugar is an ingredient in cakes.",
+      "Сахар - ингредиент в тортах."
+    ],
+    "after": [
+      "ingredient",
+      "ингредиент",
+      "Sugar is a cake ingredient.",
+      "Сахар — ингредиент торта."
+    ],
+    "reason": "Correct mistranslation, malformed headword, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260287",
+    "row": 479,
+    "before": [
+      "joker",
+      "шутник",
+      "He's always been the class joker.",
+      "Он всегда был шутником класса."
+    ],
+    "after": [
+      "joker",
+      "шутник",
+      "He is a real joker.",
+      "Он настоящий шутник."
+    ],
+    "reason": "Correct mistranslation, malformed headword, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260287",
+    "row": 482,
+    "before": [
+      "careless",
+      "небрежный",
+      "A careless error.",
+      "Небрежная ошибка."
+    ],
+    "after": [
+      "careless",
+      "небрежный",
+      "He is careless at work.",
+      "Он небрежен в работе."
+    ],
+    "reason": "Correct mistranslation, malformed headword, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260287",
+    "row": 487,
+    "before": [
+      "senility",
+      "маразм",
+      "Senility appeared in old age.",
+      "Маразм появился в старости."
+    ],
+    "after": [
+      "senility",
+      "маразм",
+      "Senility is terrible.",
+      "Маразм ужасен."
+    ],
+    "reason": "Correct mistranslation, malformed headword, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260287",
+    "row": 490,
+    "before": [
+      "cure",
+      "излечение",
+      "Searching for a cure took years.",
+      "Поиск излечения занял годы."
+    ],
+    "after": [
+      "cure",
+      "излечение",
+      "A complete cure took years.",
+      "Полное излечение заняло годы."
+    ],
+    "reason": "Correct mistranslation, malformed headword, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260287",
+    "row": 491,
+    "before": [
+      "poke around",
+      "ковыряться",
+      "I poke around.",
+      "Я ковыряюсь."
+    ],
+    "after": [
+      "poke around",
+      "ковыряться",
+      "I poke around in the drawer.",
+      "Я ковыряюсь в ящике."
+    ],
+    "reason": "Correct mistranslation, malformed headword, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260287",
+    "row": 499,
+    "before": [
+      "materialistic",
+      "материалистический",
+      "His materialistic view denies God.",
+      "Его материалистический взгляд отрицает Бога."
+    ],
+    "after": [
+      "materialistic",
+      "материалистический",
+      "He has a materialistic view.",
+      "У него материалистический взгляд."
+    ],
+    "reason": "Correct mistranslation, malformed headword, grammar, or unnatural example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "22976521",
+    "row": 36,
+    "before": [
+      "trench, dugout",
+      "траншея",
+      "Soldiers dug a trench.",
+      "Солдаты вырыли траншею."
+    ],
+    "after": [
+      "trench, dugout",
+      "траншея",
+      "Soldiers are in the trench.",
+      "Солдаты в траншее."
+    ],
+    "reason": "Remove an incorrect extra sense or correct grammar and example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "22976521",
+    "row": 42,
+    "before": [
+      "cardboard, carton",
+      "картонный",
+      "I bought a cardboard box.",
+      "Я купил картонный ящик."
+    ],
+    "after": [
+      "cardboard",
+      "картонный",
+      "I bought a cardboard box.",
+      "Я купил картонный ящик."
+    ],
+    "reason": "Remove an incorrect extra sense or correct grammar and example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "22976521",
+    "row": 44,
+    "before": [
+      "register",
+      "регистр",
+      "Write your name in the register.",
+      "Напиши своё имя в регистр."
+    ],
+    "after": [
+      "register",
+      "регистр",
+      "Use a formal register.",
+      "Используйте официальный регистр."
+    ],
+    "reason": "Remove an incorrect extra sense or correct grammar and example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "22976521",
+    "row": 45,
+    "before": [
+      "but, however",
+      "однако",
+      "I tried, however I failed.",
+      "Я пытался, однако не смог."
+    ],
+    "after": [
+      "but, however",
+      "однако",
+      "I tried; however, I failed.",
+      "Я пытался, однако не смог."
+    ],
+    "reason": "Remove an incorrect extra sense or correct grammar and example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "22976521",
+    "row": 51,
+    "before": [
+      "close, lock",
+      "замкнуть",
+      "Please close the chain.",
+      "Пожалуйста, замкните цепь."
+    ],
+    "after": [
+      "close, lock",
+      "замкнуть",
+      "Please lock the door.",
+      "Пожалуйста, замкните дверь."
+    ],
+    "reason": "Remove an incorrect extra sense or correct grammar and example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "22976521",
+    "row": 63,
+    "before": [
+      "certification, certification process",
+      "сертификация",
+      "I got my certification yesterday.",
+      "Я получил сертификацию вчера."
+    ],
+    "after": [
+      "certification",
+      "сертификация",
+      "Certification takes time.",
+      "Сертификация занимает время."
+    ],
+    "reason": "Remove an incorrect extra sense or correct grammar and example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "22976521",
+    "row": 76,
+    "before": [
+      "to realize",
+      "спохватиться",
+      "He realized it.",
+      "Он спохватился."
+    ],
+    "after": [
+      "to realize too late",
+      "спохватиться слишком поздно",
+      "He realized it too late.",
+      "Он спохватился слишком поздно."
+    ],
+    "reason": "Remove an incorrect extra sense or correct grammar and example alignment. Final adjudication: The second-pass 'suddenly realized' still does not express спохватиться, which implies noticing belatedly and reacting."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "22976521",
+    "row": 86,
+    "before": [
+      "intercourse",
+      "сношение",
+      "They had intercourse.",
+      "У них было сношение."
+    ],
+    "after": [
+      "intercourse",
+      "половые отношения",
+      "They had intercourse.",
+      "У них были половые отношения."
+    ],
+    "reason": "Remove an incorrect extra sense or correct grammar and example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "22976521",
+    "row": 97,
+    "before": [
+      "employment, job placement",
+      "трудоустройство",
+      "She found employment.",
+      "Она нашла трудоустройство."
+    ],
+    "after": [
+      "employment, job placement",
+      "трудоустройство",
+      "Job placement took a week.",
+      "Трудоустройство заняло неделю."
+    ],
+    "reason": "Remove an incorrect extra sense or correct grammar and example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "22976521",
+    "row": 99,
+    "before": [
+      "communicative, communicational",
+      "коммуникативный",
+      "She's very communicative.",
+      "Она очень коммуникативная."
+    ],
+    "after": [
+      "sociable, communicative",
+      "коммуникабельный",
+      "She is very sociable.",
+      "Она очень коммуникабельная."
+    ],
+    "reason": "Remove an incorrect extra sense or correct grammar and example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "22976521",
+    "row": 112,
+    "before": [
+      "to hear, to overhear",
+      "услыхать",
+      "I overheard his words.",
+      "Я услыхал его слова."
+    ],
+    "after": [
+      "to hear",
+      "услышать",
+      "I heard his words.",
+      "Я услышал его слова."
+    ],
+    "reason": "Remove an incorrect extra sense or correct grammar and example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "22976521",
+    "row": 122,
+    "before": [
+      "auditor, listener",
+      "аудитор",
+      "The auditor came yesterday.",
+      "Аудитор пришёл вчера."
+    ],
+    "after": [
+      "auditor",
+      "аудитор",
+      "The auditor came yesterday.",
+      "Аудитор пришёл вчера."
+    ],
+    "reason": "Remove an incorrect extra sense or correct grammar and example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "22976521",
+    "row": 147,
+    "before": [
+      "blast furnace",
+      "доменный",
+      "This is a blast-furnace plant.",
+      "Это доменный завод."
+    ],
+    "after": [
+      "blast furnace",
+      "доменная печь",
+      "The blast furnace is hot.",
+      "Доменная печь горячая."
+    ],
+    "reason": "Remove an incorrect extra sense or correct grammar and example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "22976521",
+    "row": 156,
+    "before": [
+      "to calm down, to settle down",
+      "успокаиваться",
+      "Please calm down.",
+      "Пожалуйста, успокаивайтесь."
+    ],
+    "after": [
+      "to calm down, to settle down",
+      "успокоиться",
+      "Please calm down.",
+      "Пожалуйста, успокойтесь."
+    ],
+    "reason": "Remove an incorrect extra sense or correct grammar and example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "22976521",
+    "row": 166,
+    "before": [
+      "bring in, enter",
+      "заносить",
+      "Please bring in the box.",
+      "Пожалуйста, заносите ящик."
+    ],
+    "after": [
+      "bring in, enter",
+      "заносить",
+      "They bring in boxes.",
+      "Они заносят ящики."
+    ],
+    "reason": "Remove an incorrect extra sense or correct grammar and example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "22976521",
+    "row": 178,
+    "before": [
+      "inevitability, unavoidability",
+      "неизбежность",
+      "I know the inevitability of death.",
+      "Я знаю неизбежность смерти."
+    ],
+    "after": [
+      "inevitability, unavoidability",
+      "неизбежность",
+      "I accept the inevitability of death.",
+      "Я принимаю неизбежность смерти."
+    ],
+    "reason": "Remove an incorrect extra sense or correct grammar and example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "22976521",
+    "row": 183,
+    "before": [
+      "parting, separation",
+      "расставание",
+      "Parting is hard.",
+      "Расставание трудное."
+    ],
+    "after": [
+      "parting, separation",
+      "расставание",
+      "Our parting was difficult.",
+      "Наше расставание было трудным."
+    ],
+    "reason": "Remove an incorrect extra sense or correct grammar and example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "22976521",
+    "row": 198,
+    "before": [
+      "excessively, overly",
+      "чрезмерно",
+      "He drinks coffee excessively.",
+      "Он чрезмерно пьёт кофе."
+    ],
+    "after": [
+      "excessively, overly",
+      "чрезмерно",
+      "He drinks excessively.",
+      "Он чрезмерно много пьёт."
+    ],
+    "reason": "Remove an incorrect extra sense or correct grammar and example alignment. Final adjudication: The second-pass standalone Он работает чрезмерно is unidiomatic. Чрезмерно много naturally expresses excessive degree while preserving the target adverb."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "22976521",
+    "row": 204,
+    "before": [
+      "aiming, guidance",
+      "наведение",
+      "The aiming of the gun was slow.",
+      "Наведение пушки было медленным."
+    ],
+    "after": [
+      "aiming, guidance",
+      "наведение",
+      "The guidance system is new.",
+      "Система наведения новая."
+    ],
+    "reason": "Remove an incorrect extra sense or correct grammar and example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "22976521",
+    "row": 213,
+    "before": [
+      "mound, hillock",
+      "бугор",
+      "There is a mound near the house.",
+      "У дома есть бугор."
+    ],
+    "after": [
+      "mound, hillock",
+      "бугор",
+      "A mound rose near the house.",
+      "Возле дома возвышался бугор."
+    ],
+    "reason": "Remove an incorrect extra sense or correct grammar and example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "22976521",
+    "row": 225,
+    "before": [
+      "mastery, acquisition",
+      "овладение",
+      "He needs mastery of the language.",
+      "Ему нужно овладение языком."
+    ],
+    "after": [
+      "mastery, acquisition",
+      "овладение",
+      "Mastery of the language takes time.",
+      "Овладение языком требует времени."
+    ],
+    "reason": "Remove an incorrect extra sense or correct grammar and example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "22976521",
+    "row": 232,
+    "before": [
+      "phoenix, fenix",
+      "феникс",
+      "I know the phoenix.",
+      "Я знаю феникса."
+    ],
+    "after": [
+      "phoenix",
+      "феникс",
+      "I know the phoenix.",
+      "Я знаю феникса."
+    ],
+    "reason": "Remove an incorrect extra sense or correct grammar and example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "22976521",
+    "row": 233,
+    "before": [
+      "fly down",
+      "слетать",
+      "I will fly down to the sea.",
+      "Я слетаю к морю."
+    ],
+    "after": [
+      "fly down",
+      "слететь",
+      "The bird will fly down.",
+      "Птица слетит вниз."
+    ],
+    "reason": "Remove an incorrect extra sense or correct grammar and example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "22976521",
+    "row": 243,
+    "before": [
+      "invariable, inevitable",
+      "непременный",
+      "This is an invariable condition.",
+      "Это непременное условие."
+    ],
+    "after": [
+      "essential, obligatory",
+      "непременный",
+      "This is an essential condition.",
+      "Это непременное условие."
+    ],
+    "reason": "Remove an incorrect extra sense or correct grammar and example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "22976521",
+    "row": 254,
+    "before": [
+      "to lay, to put",
+      "закладывать",
+      "They lay it.",
+      "Они закладывают это."
+    ],
+    "after": [
+      "to lay, to put",
+      "закладывать",
+      "They are laying the foundation.",
+      "Они закладывают основу."
+    ],
+    "reason": "Remove an incorrect extra sense or correct grammar and example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "22976521",
+    "row": 261,
+    "before": [
+      "listen to, overhear",
+      "прослушать",
+      "Listen to this song.",
+      "Прослушай эту песню."
+    ],
+    "after": [
+      "listen to",
+      "прослушать",
+      "Listen to this song.",
+      "Прослушай эту песню."
+    ],
+    "reason": "Remove an incorrect extra sense or correct grammar and example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "22976521",
+    "row": 273,
+    "before": [
+      "presentation, awarding",
+      "вручение",
+      "The presentation of the prize was short.",
+      "Вручение премии было коротким."
+    ],
+    "after": [
+      "presentation, awarding",
+      "вручение",
+      "The presentation of the award was short.",
+      "Вручение награды было коротким."
+    ],
+    "reason": "Remove an incorrect extra sense or correct grammar and example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "22976521",
+    "row": 282,
+    "before": [
+      "to stick in, to plug in",
+      "воткнуть",
+      "He will stick the key in.",
+      "Он воткнёт ключ."
+    ],
+    "after": [
+      "to stick in, to plug in",
+      "воткнуть",
+      "He will stick the key into the lock.",
+      "Он воткнёт ключ в замок."
+    ],
+    "reason": "Remove an incorrect extra sense or correct grammar and example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "22976521",
+    "row": 290,
+    "before": [
+      "speaker",
+      "динамик",
+      "The speaker is loud.",
+      "Динамик громкий."
+    ],
+    "after": [
+      "speaker",
+      "динамик",
+      "The speaker sounds loud.",
+      "Динамик звучит громко."
+    ],
+    "reason": "Remove an incorrect extra sense or correct grammar and example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "22976521",
+    "row": 307,
+    "before": [
+      "purposeful, goal-oriented",
+      "целенаправленный",
+      "Her steps were purposeful.",
+      "Её шаги были целенаправленными."
+    ],
+    "after": [
+      "purposeful, goal-oriented",
+      "целенаправленный",
+      "Her work is purposeful.",
+      "Её работа целенаправленна."
+    ],
+    "reason": "Remove an incorrect extra sense or correct grammar and example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "22976521",
+    "row": 312,
+    "before": [
+      "pit, dig",
+      "яма",
+      "The pit is deep.",
+      "Яма глубокая."
+    ],
+    "after": [
+      "pit",
+      "яма",
+      "The pit is deep.",
+      "Яма глубокая."
+    ],
+    "reason": "Remove an incorrect extra sense or correct grammar and example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "22976521",
+    "row": 316,
+    "before": [
+      "to arrive, to fly in",
+      "прилетать",
+      "It arrives.",
+      "Прилетает."
+    ],
+    "after": [
+      "to fly in",
+      "прилетать",
+      "He flies in every morning.",
+      "Он прилетает каждое утро."
+    ],
+    "reason": "Remove an incorrect extra sense or correct grammar and example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "22976521",
+    "row": 337,
+    "before": [
+      "decoration",
+      "роспись",
+      "The decoration is beautiful.",
+      "Роспись красивая."
+    ],
+    "after": [
+      "decoration",
+      "украшение",
+      "The decoration is beautiful.",
+      "Украшение красивое."
+    ],
+    "reason": "Remove an incorrect extra sense or correct grammar and example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "22976521",
+    "row": 338,
+    "before": [
+      "heel",
+      "пята",
+      "His heel hurts.",
+      "Его пята болит."
+    ],
+    "after": [
+      "heel",
+      "пятка",
+      "His heel hurts.",
+      "Его пятка болит."
+    ],
+    "reason": "Remove an incorrect extra sense or correct grammar and example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "22976521",
+    "row": 340,
+    "before": [
+      "naively, naive",
+      "наивно",
+      "She acted naively.",
+      "Она действовала наивно."
+    ],
+    "after": [
+      "naively",
+      "наивно",
+      "She acted naively.",
+      "Она действовала наивно."
+    ],
+    "reason": "Remove an incorrect extra sense or correct grammar and example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "22976521",
+    "row": 356,
+    "before": [
+      "insistently",
+      "настоятельно",
+      "He spoke insistently.",
+      "Он говорил настоятельно."
+    ],
+    "after": [
+      "insistently",
+      "настоятельно",
+      "He insistently demanded an answer.",
+      "Он настоятельно потребовал ответа."
+    ],
+    "reason": "Remove an incorrect extra sense or correct grammar and example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "22976521",
+    "row": 361,
+    "before": [
+      "to strain, to tense up",
+      "напрягаться",
+      "I strain.",
+      "Я напрягаюсь."
+    ],
+    "after": [
+      "to strain, to tense up",
+      "напрягаться",
+      "I strain at work.",
+      "Я напрягаюсь на работе."
+    ],
+    "reason": "Remove an incorrect extra sense or correct grammar and example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "22976521",
+    "row": 376,
+    "before": [
+      "Jewish, Judaic",
+      "иудейский",
+      "He went to a Jewish service.",
+      "Он пошёл на иудейскую службу."
+    ],
+    "after": [
+      "Jewish, Judaic",
+      "иудейский",
+      "This is a Judaic tradition.",
+      "Это иудейская традиция."
+    ],
+    "reason": "Remove an incorrect extra sense or correct grammar and example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "22976521",
+    "row": 383,
+    "before": [
+      "tour",
+      "гастроль",
+      "The theater is on tour.",
+      "Театр на гастролях."
+    ],
+    "after": [
+      "tour",
+      "гастроли",
+      "The theater is on tour.",
+      "Театр на гастролях."
+    ],
+    "reason": "Remove an incorrect extra sense or correct grammar and example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "22976521",
+    "row": 385,
+    "before": [
+      "unsuccessfully",
+      "неудачно",
+      "He worked unsuccessfully.",
+      "Он работал неудачно."
+    ],
+    "after": [
+      "unsuccessfully",
+      "неудачно",
+      "The meeting ended unsuccessfully.",
+      "Встреча закончилась неудачно."
+    ],
+    "reason": "Remove an incorrect extra sense or correct grammar and example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "22976521",
+    "row": 394,
+    "before": [
+      "whip, knout",
+      "кнут",
+      "The whip hit him.",
+      "Кнут ударил его."
+    ],
+    "after": [
+      "whip, knout",
+      "кнут",
+      "He was hit with a whip.",
+      "Его ударили кнутом."
+    ],
+    "reason": "Remove an incorrect extra sense or correct grammar and example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "22976521",
+    "row": 398,
+    "before": [
+      "to resurrect, to rise again",
+      "воскреснуть",
+      "He will resurrect on the third day.",
+      "Он воскреснет на третий день."
+    ],
+    "after": [
+      "to rise again",
+      "воскреснуть",
+      "He will rise again on the third day.",
+      "Он воскреснет на третий день."
+    ],
+    "reason": "Remove an incorrect extra sense or correct grammar and example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "22976521",
+    "row": 408,
+    "before": [
+      "switching, switching over",
+      "переключение",
+      "Switching channels became annoying.",
+      "Переключение каналов стало раздражать."
+    ],
+    "after": [
+      "switching, switching over",
+      "переключение",
+      "Switching channels began to annoy me.",
+      "Переключение каналов стало раздражать меня."
+    ],
+    "reason": "Remove an incorrect extra sense or correct grammar and example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "22976521",
+    "row": 421,
+    "before": [
+      "revive, animate",
+      "оживить",
+      "Music can revive the soul deeply.",
+      "Музыка может глубоко оживить душу."
+    ],
+    "after": [
+      "revive, animate",
+      "оживить",
+      "Music can revive the soul.",
+      "Музыка может оживить душу."
+    ],
+    "reason": "Remove an incorrect extra sense or correct grammar and example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "22976521",
+    "row": 429,
+    "before": [
+      "neighborly, neighboring",
+      "соседский",
+      "She offered neighborly help with groceries.",
+      "Она предложила соседскую помощь с продуктами."
+    ],
+    "after": [
+      "neighborly, neighboring",
+      "соседский",
+      "This is neighborly help.",
+      "Это соседская помощь."
+    ],
+    "reason": "Remove an incorrect extra sense or correct grammar and example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "22976521",
+    "row": 443,
+    "before": [
+      "estimate, approximate",
+      "прикидывать",
+      "I estimate.",
+      "Я прикидываю."
+    ],
+    "after": [
+      "estimate, approximate",
+      "прикидывать",
+      "I estimate the price.",
+      "Я прикидываю цену."
+    ],
+    "reason": "Remove an incorrect extra sense or correct grammar and example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "22976521",
+    "row": 447,
+    "before": [
+      "to hover, to float",
+      "витать",
+      "Fog began to hover over the river.",
+      "Туман начал витать над рекой."
+    ],
+    "after": [
+      "to float",
+      "витать",
+      "An idea floated in his mind.",
+      "В его голове витала мысль."
+    ],
+    "reason": "Remove an incorrect extra sense or correct grammar and example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "22976521",
+    "row": 452,
+    "before": [
+      "to overflow, to overwhelm",
+      "переполнять",
+      "Water began to overflow the cup.",
+      "Вода начала переполнять чашку."
+    ],
+    "after": [
+      "to overwhelm",
+      "переполнять",
+      "Joy began to overwhelm her.",
+      "Радость начала переполнять её."
+    ],
+    "reason": "Remove an incorrect extra sense or correct grammar and example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "22976521",
+    "row": 456,
+    "before": [
+      "loyalty, allegiance",
+      "лояльность",
+      "His loyalty to the company is strong.",
+      "Его лояльность к компании сильная."
+    ],
+    "after": [
+      "loyalty, allegiance",
+      "лояльность",
+      "His loyalty to the company is obvious.",
+      "Его лояльность к компании очевидна."
+    ],
+    "reason": "Remove an incorrect extra sense or correct grammar and example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "22976521",
+    "row": 459,
+    "before": [
+      "pile on, crowd",
+      "навалиться",
+      "Critics pile on after the loss.",
+      "Критики навалились после поражения."
+    ],
+    "after": [
+      "pile on, crowd",
+      "навалиться",
+      "Critics piled on after the loss.",
+      "Критики навалились после поражения."
+    ],
+    "reason": "Remove an incorrect extra sense or correct grammar and example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "22976521",
+    "row": 461,
+    "before": [
+      "cast iron, iron",
+      "чугунный",
+      "She cooked in a cast iron pot.",
+      "Она готовила в чугунном горшке."
+    ],
+    "after": [
+      "cast-iron",
+      "чугунный",
+      "She cooked in a cast-iron pot.",
+      "Она готовила в чугунном горшке."
+    ],
+    "reason": "Remove an incorrect extra sense or correct grammar and example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "22976521",
+    "row": 476,
+    "before": [
+      "to confess, to admit",
+      "сознаться",
+      "He decided to confess his feelings.",
+      "Он решил сознаться в своих чувствах."
+    ],
+    "after": [
+      "to confess, to admit",
+      "сознаться",
+      "He decided to admit everything.",
+      "Он решил во всём сознаться."
+    ],
+    "reason": "Remove an incorrect extra sense or correct grammar and example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "22976521",
+    "row": 480,
+    "before": [
+      "to be interrupted, to break off",
+      "прерываться",
+      "His speech began to break off.",
+      "Его речь начала прерываться."
+    ],
+    "after": [
+      "to be interrupted, to break off",
+      "прерываться",
+      "His speech kept breaking off.",
+      "Его речь постоянно прерывалась."
+    ],
+    "reason": "Remove an incorrect extra sense or correct grammar and example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "22976521",
+    "row": 495,
+    "before": [
+      "to fell, to knock down",
+      "повалить",
+      "They aimed to fell the old tree.",
+      "Они стремились повалить старое дерево."
+    ],
+    "after": [
+      "to fell, to knock down",
+      "повалить",
+      "They will fell the old tree.",
+      "Они повалят старое дерево."
+    ],
+    "reason": "Remove an incorrect extra sense or correct grammar and example alignment."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "22976521",
+    "row": 496,
+    "before": [
+      "touch, contact",
+      "соприкосновение",
+      "A gentle touch can convey love.",
+      "Нежное соприкосновение может передать любовь."
+    ],
+    "after": [
+      "contact",
+      "соприкосновение",
+      "Contact with water is harmful.",
+      "Соприкосновение с водой вредно."
+    ],
+    "reason": "Remove an incorrect extra sense or correct grammar and example alignment."
+  }
+]

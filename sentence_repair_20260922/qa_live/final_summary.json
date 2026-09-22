@@ -1,0 +1,38 @@
+{
+  "english_russian": {
+    "total_cards": 10000,
+    "flagged_cards": 0,
+    "word_card_pairs": 0,
+    "word_occurrences": 0,
+    "unique_word_forms": 0,
+    "reasons": {},
+    "most_common": [],
+    "decisions": {
+      "current_target": 11277,
+      "exact_prior": 27197,
+      "explicit_exemption": 1412,
+      "never_taught_prior_inflection": 7779,
+      "never_taught_target_inflection": 517,
+      "sense_allowed": 226,
+      "expanded_expression": 128
+    }
+  },
+  "russian_english": {
+    "total_cards": 10000,
+    "flagged_cards": 0,
+    "word_card_pairs": 0,
+    "word_occurrences": 0,
+    "unique_word_forms": 0,
+    "reasons": {},
+    "most_common": [],
+    "decisions": {
+      "current_target": 10554,
+      "exact_prior": 22113,
+      "never_taught_prior_inflection": 5685,
+      "explicit_exemption": 1267,
+      "expanded_expression": 1146,
+      "never_taught_target_inflection": 1058,
+      "sense_allowed": 116
+    }
+  }
+}

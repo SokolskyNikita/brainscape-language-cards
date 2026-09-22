@@ -1,0 +1,211 @@
+{"time": "2026-09-07T23:46:54.947321+00:00", "event": "deck_start", "ordinal": 1, "total": 40, "pack": "english_russian", "deck": "15260246", "band": "1->500", "updates": 26}
+{"time": "2026-09-07T23:47:21.005462+00:00", "event": "card_progress", "deck": "15260246", "updated": 25, "total": 26}
+{"time": "2026-09-07T23:47:32.132526+00:00", "event": "deck_verified", "ordinal": 1, "pack": "english_russian", "pack_id": 21917816, "deck": "15260246", "band": "1->500", "updated": 26, "count": 500, "verified": true, "source_sha256": "ddfd04457f048d563af0f7712fa43de177df270dd557f8df3885db2db1546bdb", "verified_at": "2026-09-07T23:47:32.131438+00:00"}
+{"time": "2026-09-07T23:47:46.821308+00:00", "event": "deck_start", "ordinal": 2, "total": 40, "pack": "english_russian", "deck": "15260248", "band": "500->1000", "updates": 203}
+{"time": "2026-09-07T23:48:11.342133+00:00", "event": "card_progress", "deck": "15260248", "updated": 25, "total": 203}
+{"time": "2026-09-07T23:48:39.078772+00:00", "event": "card_progress", "deck": "15260248", "updated": 50, "total": 203}
+{"time": "2026-09-07T23:49:02.149252+00:00", "event": "card_progress", "deck": "15260248", "updated": 75, "total": 203}
+{"time": "2026-09-07T23:49:31.518047+00:00", "event": "card_progress", "deck": "15260248", "updated": 100, "total": 203}
+{"time": "2026-09-07T23:49:52.751070+00:00", "event": "card_progress", "deck": "15260248", "updated": 125, "total": 203}
+{"time": "2026-09-07T23:51:03.585690+00:00", "event": "card_progress", "deck": "15260248", "updated": 150, "total": 203}
+{"time": "2026-09-07T23:51:36.176529+00:00", "event": "card_progress", "deck": "15260248", "updated": 175, "total": 203}
+{"time": "2026-09-07T23:52:27.973582+00:00", "event": "card_progress", "deck": "15260248", "updated": 200, "total": 203}
+{"time": "2026-09-07T23:52:45.179636+00:00", "event": "deck_verified", "ordinal": 2, "pack": "english_russian", "pack_id": 21917816, "deck": "15260248", "band": "500->1000", "updated": 203, "count": 500, "verified": true, "source_sha256": "6501c2a0f19dd71b48842b9a0e6f970cbf204013b89fdba9c78f315bd5dd9ee1", "verified_at": "2026-09-07T23:52:45.178541+00:00"}
+{"time": "2026-09-07T23:53:01.557533+00:00", "event": "deck_start", "ordinal": 3, "total": 40, "pack": "english_russian", "deck": "15260251", "band": "1000->1500", "updates": 154}
+{"time": "2026-09-07T23:53:27.469597+00:00", "event": "card_progress", "deck": "15260251", "updated": 25, "total": 154}
+{"time": "2026-09-07T23:53:54.081634+00:00", "event": "card_progress", "deck": "15260251", "updated": 50, "total": 154}
+{"time": "2026-09-07T23:54:22.733364+00:00", "event": "card_progress", "deck": "15260251", "updated": 75, "total": 154}
+{"time": "2026-09-07T23:55:30.285258+00:00", "event": "card_progress", "deck": "15260251", "updated": 100, "total": 154}
+{"time": "2026-09-07T23:55:53.765920+00:00", "event": "card_progress", "deck": "15260251", "updated": 125, "total": 154}
+{"time": "2026-09-07T23:56:17.622017+00:00", "event": "card_progress", "deck": "15260251", "updated": 150, "total": 154}
+{"time": "2026-09-07T23:56:38.871944+00:00", "event": "deck_verified", "ordinal": 3, "pack": "english_russian", "pack_id": 21917816, "deck": "15260251", "band": "1000->1500", "updated": 154, "count": 500, "verified": true, "source_sha256": "9eb0d37eafbdfdabd2fa33432063a6a241aa2e7d3799c91400ff951e42b96375", "verified_at": "2026-09-07T23:56:38.870334+00:00"}
+{"time": "2026-09-07T23:56:49.627437+00:00", "event": "deck_start", "ordinal": 4, "total": 40, "pack": "english_russian", "deck": "15260255", "band": "1500->2000", "updates": 120}
+{"time": "2026-09-07T23:57:12.185434+00:00", "event": "card_progress", "deck": "15260255", "updated": 25, "total": 120}
+{"time": "2026-09-07T23:57:42.139320+00:00", "event": "card_progress", "deck": "15260255", "updated": 50, "total": 120}
+{"time": "2026-09-07T23:58:09.883730+00:00", "event": "card_progress", "deck": "15260255", "updated": 75, "total": 120}
+{"time": "2026-09-07T23:59:20.569342+00:00", "event": "card_progress", "deck": "15260255", "updated": 100, "total": 120}
+{"time": "2026-09-07T23:59:54.901601+00:00", "event": "deck_verified", "ordinal": 4, "pack": "english_russian", "pack_id": 21917816, "deck": "15260255", "band": "1500->2000", "updated": 120, "count": 500, "verified": true, "source_sha256": "5243e990e59a4513af8c85647c20e35e35021d5ce10ba4282ef483f9821d060a", "verified_at": "2026-09-07T23:59:54.900296+00:00"}
+{"time": "2026-09-08T00:00:10.276130+00:00", "event": "deck_start", "ordinal": 5, "total": 40, "pack": "english_russian", "deck": "15260256", "band": "2000->2500", "updates": 105}
+{"time": "2026-09-08T00:00:37.442357+00:00", "event": "card_progress", "deck": "15260256", "updated": 25, "total": 105}
+{"time": "2026-09-08T00:01:05.239422+00:00", "event": "card_progress", "deck": "15260256", "updated": 50, "total": 105}
+{"time": "2026-09-08T00:01:33.464760+00:00", "event": "card_progress", "deck": "15260256", "updated": 75, "total": 105}
+{"time": "2026-09-08T00:01:54.438108+00:00", "event": "card_progress", "deck": "15260256", "updated": 100, "total": 105}
+{"time": "2026-09-08T00:02:08.755015+00:00", "event": "deck_verified", "ordinal": 5, "pack": "english_russian", "pack_id": 21917816, "deck": "15260256", "band": "2000->2500", "updated": 105, "count": 500, "verified": true, "source_sha256": "8aa57bf1169b01701de363ba04660ed6b55a38df2c5e0abd5985372a533e88f8", "verified_at": "2026-09-08T00:02:08.752450+00:00"}
+{"time": "2026-09-08T00:02:26.063171+00:00", "event": "deck_start", "ordinal": 6, "total": 40, "pack": "english_russian", "deck": "15260257", "band": "2500->3000", "updates": 129}
+{"time": "2026-09-08T00:02:48.187345+00:00", "event": "card_progress", "deck": "15260257", "updated": 25, "total": 129}
+{"time": "2026-09-08T00:03:17.420777+00:00", "event": "card_progress", "deck": "15260257", "updated": 50, "total": 129}
+{"time": "2026-09-08T00:04:14.834406+00:00", "event": "card_progress", "deck": "15260257", "updated": 75, "total": 129}
+{"time": "2026-09-08T00:04:35.154129+00:00", "event": "card_progress", "deck": "15260257", "updated": 100, "total": 129}
+{"time": "2026-09-08T00:04:55.613281+00:00", "event": "card_progress", "deck": "15260257", "updated": 125, "total": 129}
+{"time": "2026-09-08T00:05:09.115561+00:00", "event": "deck_verified", "ordinal": 6, "pack": "english_russian", "pack_id": 21917816, "deck": "15260257", "band": "2500->3000", "updated": 129, "count": 500, "verified": true, "source_sha256": "bae4ed678ff05cae4d38e7b58366dddd0d7cdb900815e19a2fcef2877f0596af", "verified_at": "2026-09-08T00:05:09.114534+00:00"}
+{"time": "2026-09-08T00:05:23.634215+00:00", "event": "deck_start", "ordinal": 7, "total": 40, "pack": "english_russian", "deck": "15260260", "band": "3000->3500", "updates": 135}
+{"time": "2026-09-08T00:05:55.377707+00:00", "event": "card_progress", "deck": "15260260", "updated": 25, "total": 135}
+{"time": "2026-09-08T00:06:21.062876+00:00", "event": "card_progress", "deck": "15260260", "updated": 50, "total": 135}
+{"time": "2026-09-08T00:06:44.643416+00:00", "event": "card_progress", "deck": "15260260", "updated": 75, "total": 135}
+{"time": "2026-09-08T00:07:11.378387+00:00", "event": "card_progress", "deck": "15260260", "updated": 100, "total": 135}
+{"time": "2026-09-08T00:07:36.178101+00:00", "event": "card_progress", "deck": "15260260", "updated": 125, "total": 135}
+{"time": "2026-09-08T00:07:55.686424+00:00", "event": "deck_verified", "ordinal": 7, "pack": "english_russian", "pack_id": 21917816, "deck": "15260260", "band": "3000->3500", "updated": 135, "count": 500, "verified": true, "source_sha256": "b3e441965cd152dcad6fa5f21c23b9fe4d3ac2595efd3aa17baaf73b46ebf8f6", "verified_at": "2026-09-08T00:07:55.685104+00:00"}
+{"time": "2026-09-08T00:08:10.147830+00:00", "event": "deck_start", "ordinal": 8, "total": 40, "pack": "english_russian", "deck": "15260263", "band": "3500->4000", "updates": 105}
+{"time": "2026-09-08T00:08:33.681853+00:00", "event": "card_progress", "deck": "15260263", "updated": 25, "total": 105}
+{"time": "2026-09-08T00:09:00.751596+00:00", "event": "card_progress", "deck": "15260263", "updated": 50, "total": 105}
+{"time": "2026-09-08T00:10:08.651546+00:00", "event": "card_progress", "deck": "15260263", "updated": 75, "total": 105}
+{"time": "2026-09-08T00:10:30.689437+00:00", "event": "card_progress", "deck": "15260263", "updated": 100, "total": 105}
+{"time": "2026-09-08T00:10:47.802801+00:00", "event": "deck_verified", "ordinal": 8, "pack": "english_russian", "pack_id": 21917816, "deck": "15260263", "band": "3500->4000", "updated": 105, "count": 500, "verified": true, "source_sha256": "3ab15f9045920a557d3245dd33136c977d32e71f4056468e1ad2fff4c5528ddb", "verified_at": "2026-09-08T00:10:47.801056+00:00"}
+{"time": "2026-09-08T00:11:07.904230+00:00", "event": "deck_start", "ordinal": 9, "total": 40, "pack": "english_russian", "deck": "15260266", "band": "4000->4500", "updates": 117}
+{"time": "2026-09-08T00:11:28.456199+00:00", "event": "card_progress", "deck": "15260266", "updated": 25, "total": 117}
+{"time": "2026-09-08T00:11:50.038347+00:00", "event": "card_progress", "deck": "15260266", "updated": 50, "total": 117}
+{"time": "2026-09-08T00:12:33.554218+00:00", "event": "card_progress", "deck": "15260266", "updated": 75, "total": 117}
+{"time": "2026-09-08T00:12:56.365783+00:00", "event": "card_progress", "deck": "15260266", "updated": 100, "total": 117}
+{"time": "2026-09-08T00:13:24.416699+00:00", "event": "deck_verified", "ordinal": 9, "pack": "english_russian", "pack_id": 21917816, "deck": "15260266", "band": "4000->4500", "updated": 117, "count": 500, "verified": true, "source_sha256": "5902418c9cf125ddc94b75d0bb80eae2467e0ee475291ba064c2fc0287b78793", "verified_at": "2026-09-08T00:13:24.415006+00:00"}
+{"time": "2026-09-08T00:13:45.909649+00:00", "event": "deck_start", "ordinal": 10, "total": 40, "pack": "english_russian", "deck": "15260268", "band": "4500->5000", "updates": 68}
+{"time": "2026-09-08T00:14:08.744516+00:00", "event": "card_progress", "deck": "15260268", "updated": 25, "total": 68}
+{"time": "2026-09-08T00:14:39.911652+00:00", "event": "card_progress", "deck": "15260268", "updated": 50, "total": 68}
+{"time": "2026-09-08T00:15:07.181232+00:00", "event": "deck_verified", "ordinal": 10, "pack": "english_russian", "pack_id": 21917816, "deck": "15260268", "band": "4500->5000", "updated": 68, "count": 500, "verified": true, "source_sha256": "5bc6773b18244784ff995c10b6f8506b4f611c51cc126852e9200237086baed6", "verified_at": "2026-09-08T00:15:07.179496+00:00"}
+{"time": "2026-09-08T00:15:21.334693+00:00", "event": "deck_start", "ordinal": 11, "total": 40, "pack": "english_russian", "deck": "15260269", "band": "5000->5500", "updates": 75}
+{"time": "2026-09-08T00:15:42.594420+00:00", "event": "card_progress", "deck": "15260269", "updated": 25, "total": 75}
+{"time": "2026-09-08T00:16:04.844623+00:00", "event": "card_progress", "deck": "15260269", "updated": 50, "total": 75}
+{"time": "2026-09-08T00:16:34.261366+00:00", "event": "card_progress", "deck": "15260269", "updated": 75, "total": 75}
+{"time": "2026-09-08T00:16:44.851294+00:00", "event": "deck_verified", "ordinal": 11, "pack": "english_russian", "pack_id": 21917816, "deck": "15260269", "band": "5000->5500", "updated": 75, "count": 500, "verified": true, "source_sha256": "ef8cfa433ecdbeaa816a624f7a6d7c24a6d851e865c6595ca747a31cdda11390", "verified_at": "2026-09-08T00:16:44.850704+00:00"}
+{"time": "2026-09-08T00:17:05.146576+00:00", "event": "deck_start", "ordinal": 12, "total": 40, "pack": "english_russian", "deck": "15260272", "band": "5500->6000", "updates": 107}
+{"time": "2026-09-08T00:17:32.689250+00:00", "event": "card_progress", "deck": "15260272", "updated": 25, "total": 107}
+{"time": "2026-09-08T00:17:53.697743+00:00", "event": "card_progress", "deck": "15260272", "updated": 50, "total": 107}
+{"time": "2026-09-08T00:18:24.628677+00:00", "event": "card_progress", "deck": "15260272", "updated": 75, "total": 107}
+{"time": "2026-09-08T00:18:48.697904+00:00", "event": "card_progress", "deck": "15260272", "updated": 100, "total": 107}
+{"time": "2026-09-08T00:19:58.688990+00:00", "event": "deck_verified", "ordinal": 12, "pack": "english_russian", "pack_id": 21917816, "deck": "15260272", "band": "5500->6000", "updated": 107, "count": 500, "verified": true, "source_sha256": "aef6323e100cb8cdb6426a975e2cccd11bc2a6b7bce075fdabf263534cc0ada5", "verified_at": "2026-09-08T00:19:58.688083+00:00"}
+{"time": "2026-09-08T00:20:15.141719+00:00", "event": "deck_start", "ordinal": 13, "total": 40, "pack": "english_russian", "deck": "15260277", "band": "6000->6500", "updates": 84}
+{"time": "2026-09-08T00:20:55.412152+00:00", "event": "card_progress", "deck": "15260277", "updated": 25, "total": 84}
+{"time": "2026-09-08T00:21:39.614580+00:00", "event": "card_progress", "deck": "15260277", "updated": 50, "total": 84}
+{"time": "2026-09-08T00:22:06.945853+00:00", "event": "card_progress", "deck": "15260277", "updated": 75, "total": 84}
+{"time": "2026-09-08T00:22:34.595742+00:00", "event": "deck_verified", "ordinal": 13, "pack": "english_russian", "pack_id": 21917816, "deck": "15260277", "band": "6000->6500", "updated": 84, "count": 500, "verified": true, "source_sha256": "5635889df0314c84ea9f1125f0b6dd5c56b3f518731384bfda1113df47bc1bf3", "verified_at": "2026-09-08T00:22:34.595157+00:00"}
+{"time": "2026-09-08T00:22:51.521202+00:00", "event": "deck_start", "ordinal": 14, "total": 40, "pack": "english_russian", "deck": "15260280", "band": "6500->7000", "updates": 95}
+{"time": "2026-09-08T00:23:26.101708+00:00", "event": "card_progress", "deck": "15260280", "updated": 25, "total": 95}
+{"time": "2026-09-08T00:23:52.777164+00:00", "event": "card_progress", "deck": "15260280", "updated": 50, "total": 95}
+{"time": "2026-09-08T00:24:24.773775+00:00", "event": "card_progress", "deck": "15260280", "updated": 75, "total": 95}
+{"time": "2026-09-08T00:25:52.780164+00:00", "event": "deck_verified", "ordinal": 14, "pack": "english_russian", "pack_id": 21917816, "deck": "15260280", "band": "6500->7000", "updated": 95, "count": 500, "verified": true, "source_sha256": "80c7a1b2dc9a01406a1a33a7d18db2e80653fa21d395643da58807cbb1863581", "verified_at": "2026-09-08T00:25:52.778876+00:00"}
+{"time": "2026-09-08T00:26:12.641493+00:00", "event": "deck_start", "ordinal": 15, "total": 40, "pack": "english_russian", "deck": "15260281", "band": "7000->7500", "updates": 131}
+{"time": "2026-09-08T00:26:53.117080+00:00", "event": "card_progress", "deck": "15260281", "updated": 25, "total": 131}
+{"time": "2026-09-08T00:27:13.905266+00:00", "event": "card_progress", "deck": "15260281", "updated": 50, "total": 131}
+{"time": "2026-09-08T00:27:47.991001+00:00", "event": "card_progress", "deck": "15260281", "updated": 75, "total": 131}
+{"time": "2026-09-08T00:28:42.039849+00:00", "event": "card_progress", "deck": "15260281", "updated": 100, "total": 131}
+{"time": "2026-09-08T00:29:17.580274+00:00", "event": "card_progress", "deck": "15260281", "updated": 125, "total": 131}
+{"time": "2026-09-08T00:29:41.699026+00:00", "event": "deck_verified", "ordinal": 15, "pack": "english_russian", "pack_id": 21917816, "deck": "15260281", "band": "7000->7500", "updated": 131, "count": 500, "verified": true, "source_sha256": "199548858703cc1f56c819089ede20fd6fa0f2cedd7a6f9f3009335f6552e1f8", "verified_at": "2026-09-08T00:29:41.698561+00:00"}
+{"time": "2026-09-08T00:29:56.015325+00:00", "event": "deck_start", "ordinal": 16, "total": 40, "pack": "english_russian", "deck": "15260282", "band": "7500->8000", "updates": 160}
+{"time": "2026-09-08T00:30:17.957645+00:00", "event": "card_progress", "deck": "15260282", "updated": 25, "total": 160}
+{"time": "2026-09-08T00:30:41.733577+00:00", "event": "card_progress", "deck": "15260282", "updated": 50, "total": 160}
+{"time": "2026-09-08T00:31:01.445167+00:00", "event": "card_progress", "deck": "15260282", "updated": 75, "total": 160}
+{"time": "2026-09-08T00:31:28.391378+00:00", "event": "card_progress", "deck": "15260282", "updated": 100, "total": 160}
+{"time": "2026-09-08T00:31:56.856198+00:00", "event": "card_progress", "deck": "15260282", "updated": 125, "total": 160}
+{"time": "2026-09-08T00:32:20.926684+00:00", "event": "card_progress", "deck": "15260282", "updated": 150, "total": 160}
+{"time": "2026-09-08T00:32:49.034155+00:00", "event": "deck_verified", "ordinal": 16, "pack": "english_russian", "pack_id": 21917816, "deck": "15260282", "band": "7500->8000", "updated": 160, "count": 500, "verified": true, "source_sha256": "449ec7092dc813228504683fef15b7f5f5135f0f462b4dc6a7a1fa210085166a", "verified_at": "2026-09-08T00:32:49.032663+00:00"}
+{"time": "2026-09-08T00:33:03.039921+00:00", "event": "deck_start", "ordinal": 17, "total": 40, "pack": "english_russian", "deck": "15260283", "band": "8000->8500", "updates": 97}
+{"time": "2026-09-08T00:33:24.923708+00:00", "event": "card_progress", "deck": "15260283", "updated": 25, "total": 97}
+{"time": "2026-09-08T00:33:47.700677+00:00", "event": "card_progress", "deck": "15260283", "updated": 50, "total": 97}
+{"time": "2026-09-08T00:34:14.332157+00:00", "event": "card_progress", "deck": "15260283", "updated": 75, "total": 97}
+{"time": "2026-09-08T00:34:48.052511+00:00", "event": "deck_verified", "ordinal": 17, "pack": "english_russian", "pack_id": 21917816, "deck": "15260283", "band": "8000->8500", "updated": 97, "count": 500, "verified": true, "source_sha256": "a0793c6064e36b1103648dbc2b1f7665f520c7b78d52cb559fbfe9c90c85ed2c", "verified_at": "2026-09-08T00:34:48.051553+00:00"}
+{"time": "2026-09-08T00:35:02.368378+00:00", "event": "deck_start", "ordinal": 18, "total": 40, "pack": "english_russian", "deck": "15260285", "band": "8500->9000", "updates": 115}
+{"time": "2026-09-08T00:35:35.853484+00:00", "event": "card_progress", "deck": "15260285", "updated": 25, "total": 115}
+{"time": "2026-09-08T00:36:04.687642+00:00", "event": "card_progress", "deck": "15260285", "updated": 50, "total": 115}
+{"time": "2026-09-08T00:36:35.454731+00:00", "event": "card_progress", "deck": "15260285", "updated": 75, "total": 115}
+{"time": "2026-09-08T00:36:56.334814+00:00", "event": "card_progress", "deck": "15260285", "updated": 100, "total": 115}
+{"time": "2026-09-08T00:37:21.292378+00:00", "event": "deck_verified", "ordinal": 18, "pack": "english_russian", "pack_id": 21917816, "deck": "15260285", "band": "8500->9000", "updated": 115, "count": 500, "verified": true, "source_sha256": "5c469e5cfda79fcb999061c2570f6d4f32d7e30ef8e77746e0d4561101d52b4e", "verified_at": "2026-09-08T00:37:21.291766+00:00"}
+{"time": "2026-09-08T00:37:35.833667+00:00", "event": "deck_start", "ordinal": 19, "total": 40, "pack": "english_russian", "deck": "15260287", "band": "9000->9500", "updates": 125}
+{"time": "2026-09-08T00:38:03.173172+00:00", "event": "card_progress", "deck": "15260287", "updated": 25, "total": 125}
+{"time": "2026-09-08T00:38:32.863926+00:00", "event": "card_progress", "deck": "15260287", "updated": 50, "total": 125}
+{"time": "2026-09-08T00:39:38.429701+00:00", "event": "card_progress", "deck": "15260287", "updated": 75, "total": 125}
+{"time": "2026-09-08T00:40:00.074509+00:00", "event": "card_progress", "deck": "15260287", "updated": 100, "total": 125}
+{"time": "2026-09-08T00:40:27.902010+00:00", "event": "card_progress", "deck": "15260287", "updated": 125, "total": 125}
+{"time": "2026-09-08T00:40:38.271023+00:00", "event": "deck_verified", "ordinal": 19, "pack": "english_russian", "pack_id": 21917816, "deck": "15260287", "band": "9000->9500", "updated": 125, "count": 500, "verified": true, "source_sha256": "2bec30e177af92a0d560a7663565175f89ba1d331c39b76d68ddd1dbf90aeddb", "verified_at": "2026-09-08T00:40:38.270465+00:00"}
+{"time": "2026-09-08T00:40:52.428204+00:00", "event": "deck_start", "ordinal": 20, "total": 40, "pack": "english_russian", "deck": "22976521", "band": "9500->10000", "updates": 166}
+{"time": "2026-09-08T00:41:13.863021+00:00", "event": "card_progress", "deck": "22976521", "updated": 25, "total": 166}
+{"time": "2026-09-08T00:41:39.980271+00:00", "event": "card_progress", "deck": "22976521", "updated": 50, "total": 166}
+{"time": "2026-09-08T00:42:14.588774+00:00", "event": "card_progress", "deck": "22976521", "updated": 75, "total": 166}
+{"time": "2026-09-08T00:43:10.880911+00:00", "event": "card_progress", "deck": "22976521", "updated": 100, "total": 166}
+{"time": "2026-09-08T00:43:41.926910+00:00", "event": "card_progress", "deck": "22976521", "updated": 125, "total": 166}
+{"time": "2026-09-08T00:45:01.050573+00:00", "event": "card_progress", "deck": "22976521", "updated": 150, "total": 166}
+{"time": "2026-09-08T00:45:36.641466+00:00", "event": "deck_verified", "ordinal": 20, "pack": "english_russian", "pack_id": 21917816, "deck": "22976521", "band": "9500->10000", "updated": 166, "count": 500, "verified": true, "source_sha256": "46396334233e2ee1517715f2096ba022ae4fead8e183de5584996f0248e6c741", "verified_at": "2026-09-08T00:45:36.639082+00:00"}
+{"time": "2026-09-08T00:45:53.414648+00:00", "event": "deck_start", "ordinal": 21, "total": 40, "pack": "russian_english", "deck": "15260182", "band": "1->500", "updates": 29}
+{"time": "2026-09-08T00:46:21.800221+00:00", "event": "card_progress", "deck": "15260182", "updated": 25, "total": 29}
+{"time": "2026-09-08T00:46:39.038595+00:00", "event": "deck_verified", "ordinal": 21, "pack": "russian_english", "pack_id": 21919521, "deck": "15260182", "band": "1->500", "updated": 29, "count": 500, "verified": true, "source_sha256": "caf25fb2e9a4c52a85152ffd8bc860156f141a911673d1983afc34ca363be467", "verified_at": "2026-09-08T00:46:39.037700+00:00"}
+{"time": "2026-09-08T00:46:55.960302+00:00", "event": "deck_start", "ordinal": 22, "total": 40, "pack": "russian_english", "deck": "15260185", "band": "500->1000", "updates": 75}
+{"time": "2026-09-08T00:47:20.444181+00:00", "event": "card_progress", "deck": "15260185", "updated": 25, "total": 75}
+{"time": "2026-09-08T00:48:02.716033+00:00", "event": "card_progress", "deck": "15260185", "updated": 50, "total": 75}
+{"time": "2026-09-08T00:48:38.605218+00:00", "event": "card_progress", "deck": "15260185", "updated": 75, "total": 75}
+{"time": "2026-09-08T00:48:50.101906+00:00", "event": "deck_verified", "ordinal": 22, "pack": "russian_english", "pack_id": 21919521, "deck": "15260185", "band": "500->1000", "updated": 75, "count": 500, "verified": true, "source_sha256": "510d43d2d4e0d8a95b9d9b392e22b6c3405bdae26aa5ac453630ce7ca29cca2e", "verified_at": "2026-09-08T00:48:50.100532+00:00"}
+{"time": "2026-09-08T00:49:04.586626+00:00", "event": "deck_start", "ordinal": 23, "total": 40, "pack": "russian_english", "deck": "15260188", "band": "1000->1500", "updates": 65}
+{"time": "2026-09-08T00:49:58.783083+00:00", "event": "card_progress", "deck": "15260188", "updated": 25, "total": 65}
+{"time": "2026-09-08T00:50:26.045503+00:00", "event": "card_progress", "deck": "15260188", "updated": 50, "total": 65}
+{"time": "2026-09-08T00:52:07.248041+00:00", "event": "deck_verified", "ordinal": 23, "pack": "russian_english", "pack_id": 21919521, "deck": "15260188", "band": "1000->1500", "updated": 65, "count": 500, "verified": true, "source_sha256": "cc6c17854c49d8e104486b636e4086c83096cf1948eb005fa8684264584b2ec8", "verified_at": "2026-09-08T00:52:07.245644+00:00"}
+{"time": "2026-09-08T00:52:24.022272+00:00", "event": "deck_start", "ordinal": 24, "total": 40, "pack": "russian_english", "deck": "15260190", "band": "1500->2000", "updates": 46}
+{"time": "2026-09-08T00:52:58.162503+00:00", "event": "card_progress", "deck": "15260190", "updated": 25, "total": 46}
+{"time": "2026-09-08T00:53:33.223943+00:00", "event": "deck_verified", "ordinal": 24, "pack": "russian_english", "pack_id": 21919521, "deck": "15260190", "band": "1500->2000", "updated": 46, "count": 500, "verified": true, "source_sha256": "deb1163189286030da233a3dcbbba44026dda90479285b64b6119caf265fe2ee", "verified_at": "2026-09-08T00:53:33.222826+00:00"}
+{"time": "2026-09-08T00:53:47.717334+00:00", "event": "deck_start", "ordinal": 25, "total": 40, "pack": "russian_english", "deck": "15260191", "band": "2000->2500", "updates": 38}
+{"time": "2026-09-08T00:54:10.345144+00:00", "event": "card_progress", "deck": "15260191", "updated": 25, "total": 38}
+{"time": "2026-09-08T00:54:32.095077+00:00", "event": "deck_verified", "ordinal": 25, "pack": "russian_english", "pack_id": 21919521, "deck": "15260191", "band": "2000->2500", "updated": 38, "count": 500, "verified": true, "source_sha256": "8b0a8b0f8b969932d18bf689c464879072cfe776a5c59584b5dbdf72345bfa7e", "verified_at": "2026-09-08T00:54:32.094038+00:00"}
+{"time": "2026-09-08T00:54:46.952262+00:00", "event": "deck_start", "ordinal": 26, "total": 40, "pack": "russian_english", "deck": "15260192", "band": "2500->3000", "updates": 37}
+{"time": "2026-09-08T00:55:09.491811+00:00", "event": "card_progress", "deck": "15260192", "updated": 25, "total": 37}
+{"time": "2026-09-08T00:55:41.154068+00:00", "event": "deck_verified", "ordinal": 26, "pack": "russian_english", "pack_id": 21919521, "deck": "15260192", "band": "2500->3000", "updated": 37, "count": 500, "verified": true, "source_sha256": "cab05b3ec1005b38b9c5a0589609104ac02d1a1ac3e836f928e1b44de7f29ba9", "verified_at": "2026-09-08T00:55:41.152151+00:00"}
+{"time": "2026-09-08T00:55:55.472909+00:00", "event": "deck_start", "ordinal": 27, "total": 40, "pack": "russian_english", "deck": "15260194", "band": "3000->3500", "updates": 54}
+{"time": "2026-09-08T00:56:18.172899+00:00", "event": "card_progress", "deck": "15260194", "updated": 25, "total": 54}
+{"time": "2026-09-08T00:56:39.969593+00:00", "event": "card_progress", "deck": "15260194", "updated": 50, "total": 54}
+{"time": "2026-09-08T00:57:02.048784+00:00", "event": "deck_verified", "ordinal": 27, "pack": "russian_english", "pack_id": 21919521, "deck": "15260194", "band": "3000->3500", "updated": 54, "count": 500, "verified": true, "source_sha256": "efe3a0a28c29b6e10453fb663c79547e05fc14846205c8e0f204208e3348be98", "verified_at": "2026-09-08T00:57:02.047566+00:00"}
+{"time": "2026-09-08T00:57:19.716464+00:00", "event": "deck_start", "ordinal": 28, "total": 40, "pack": "russian_english", "deck": "15260196", "band": "3500->4000", "updates": 49}
+{"time": "2026-09-08T00:57:44.570981+00:00", "event": "card_progress", "deck": "15260196", "updated": 25, "total": 49}
+{"time": "2026-09-08T00:58:18.796196+00:00", "event": "deck_verified", "ordinal": 28, "pack": "russian_english", "pack_id": 21919521, "deck": "15260196", "band": "3500->4000", "updated": 49, "count": 500, "verified": true, "source_sha256": "1136d42cb74768bbda2340e899d7ab9dd08c0b2b89136eecc012f5c5fdbf7c6a", "verified_at": "2026-09-08T00:58:18.794562+00:00"}
+{"time": "2026-09-08T00:58:33.118189+00:00", "event": "deck_start", "ordinal": 29, "total": 40, "pack": "russian_english", "deck": "15260198", "band": "4000->4500", "updates": 95}
+{"time": "2026-09-08T00:58:56.828031+00:00", "event": "card_progress", "deck": "15260198", "updated": 25, "total": 95}
+{"time": "2026-09-08T00:59:24.619484+00:00", "event": "card_progress", "deck": "15260198", "updated": 50, "total": 95}
+{"time": "2026-09-08T01:00:20.594253+00:00", "event": "card_progress", "deck": "15260198", "updated": 75, "total": 95}
+{"time": "2026-09-08T01:00:48.543271+00:00", "event": "deck_verified", "ordinal": 29, "pack": "russian_english", "pack_id": 21919521, "deck": "15260198", "band": "4000->4500", "updated": 95, "count": 500, "verified": true, "source_sha256": "28641e80885f43e41712b0fe58ab74736883e557e320974038c4e9e87c904504", "verified_at": "2026-09-08T01:00:48.541863+00:00"}
+{"time": "2026-09-08T01:01:05.699609+00:00", "event": "deck_start", "ordinal": 30, "total": 40, "pack": "russian_english", "deck": "15260200", "band": "4500->5000", "updates": 96}
+{"time": "2026-09-08T01:01:34.352346+00:00", "event": "card_progress", "deck": "15260200", "updated": 25, "total": 96}
+{"time": "2026-09-08T01:02:41.511082+00:00", "event": "card_progress", "deck": "15260200", "updated": 50, "total": 96}
+{"time": "2026-09-08T01:03:08.437540+00:00", "event": "card_progress", "deck": "15260200", "updated": 75, "total": 96}
+{"time": "2026-09-08T01:03:46.448116+00:00", "event": "deck_verified", "ordinal": 30, "pack": "russian_english", "pack_id": 21919521, "deck": "15260200", "band": "4500->5000", "updated": 96, "count": 500, "verified": true, "source_sha256": "4ea4f419152d8a701c47245aa15faf386a2d75052ade135a6b5a494fbfbdd70e", "verified_at": "2026-09-08T01:03:46.447657+00:00"}
+{"time": "2026-09-08T01:04:02.191359+00:00", "event": "deck_start", "ordinal": 31, "total": 40, "pack": "russian_english", "deck": "15260204", "band": "5000->5500", "updates": 74}
+{"time": "2026-09-08T01:04:27.046407+00:00", "event": "card_progress", "deck": "15260204", "updated": 25, "total": 74}
+{"time": "2026-09-08T01:05:32.548887+00:00", "event": "card_progress", "deck": "15260204", "updated": 50, "total": 74}
+{"time": "2026-09-08T01:06:03.118674+00:00", "event": "deck_verified", "ordinal": 31, "pack": "russian_english", "pack_id": 21919521, "deck": "15260204", "band": "5000->5500", "updated": 74, "count": 500, "verified": true, "source_sha256": "02f92fc88ab28d1ddae33fbea1485a0c4d028094f6d4e9d54603ff54d4e1a123", "verified_at": "2026-09-08T01:06:03.117515+00:00"}
+{"time": "2026-09-08T01:06:17.801145+00:00", "event": "deck_start", "ordinal": 32, "total": 40, "pack": "russian_english", "deck": "15260207", "band": "5500->6000", "updates": 81}
+{"time": "2026-09-08T01:06:41.888070+00:00", "event": "card_progress", "deck": "15260207", "updated": 25, "total": 81}
+{"time": "2026-09-08T01:07:52.760109+00:00", "event": "card_progress", "deck": "15260207", "updated": 50, "total": 81}
+{"time": "2026-09-08T01:08:20.895268+00:00", "event": "card_progress", "deck": "15260207", "updated": 75, "total": 81}
+{"time": "2026-09-08T01:08:44.775471+00:00", "event": "deck_verified", "ordinal": 32, "pack": "russian_english", "pack_id": 21919521, "deck": "15260207", "band": "5500->6000", "updated": 81, "count": 500, "verified": true, "source_sha256": "2def6811d88cd34f998c67bced34f49fe6765218185398153b64d46a089647d6", "verified_at": "2026-09-08T01:08:44.774410+00:00"}
+{"time": "2026-09-08T01:09:06.805215+00:00", "event": "deck_start", "ordinal": 33, "total": 40, "pack": "russian_english", "deck": "15260210", "band": "6000->6500", "updates": 38}
+{"time": "2026-09-08T01:09:31.629847+00:00", "event": "card_progress", "deck": "15260210", "updated": 25, "total": 38}
+{"time": "2026-09-08T01:09:54.705872+00:00", "event": "deck_verified", "ordinal": 33, "pack": "russian_english", "pack_id": 21919521, "deck": "15260210", "band": "6000->6500", "updated": 38, "count": 500, "verified": true, "source_sha256": "fd17de4ff638f8bb2b6f5db549e4be391453bd66472723d954a10c72396801d5", "verified_at": "2026-09-08T01:09:54.703500+00:00"}
+{"time": "2026-09-08T01:10:09.194658+00:00", "event": "deck_start", "ordinal": 34, "total": 40, "pack": "russian_english", "deck": "15260213", "band": "6500->7000", "updates": 75}
+{"time": "2026-09-08T01:10:35.397237+00:00", "event": "card_progress", "deck": "15260213", "updated": 25, "total": 75}
+{"time": "2026-09-08T01:10:58.137598+00:00", "event": "card_progress", "deck": "15260213", "updated": 50, "total": 75}
+{"time": "2026-09-08T01:12:04.527745+00:00", "event": "card_progress", "deck": "15260213", "updated": 75, "total": 75}
+{"time": "2026-09-08T01:12:15.215155+00:00", "event": "deck_verified", "ordinal": 34, "pack": "russian_english", "pack_id": 21919521, "deck": "15260213", "band": "6500->7000", "updated": 75, "count": 500, "verified": true, "source_sha256": "74f9008c6a63b60d4054edfd307b382b1d5db97de273d25b5c4755fefd6c2d2c", "verified_at": "2026-09-08T01:12:15.214380+00:00"}
+{"time": "2026-09-08T01:12:29.624513+00:00", "event": "deck_start", "ordinal": 35, "total": 40, "pack": "russian_english", "deck": "15260214", "band": "7000->7500", "updates": 107}
+{"time": "2026-09-08T01:12:51.226567+00:00", "event": "card_progress", "deck": "15260214", "updated": 25, "total": 107}
+{"time": "2026-09-08T01:13:17.953663+00:00", "event": "card_progress", "deck": "15260214", "updated": 50, "total": 107}
+{"time": "2026-09-08T01:13:49.117349+00:00", "event": "card_progress", "deck": "15260214", "updated": 75, "total": 107}
+{"time": "2026-09-08T01:14:56.539427+00:00", "event": "card_progress", "deck": "15260214", "updated": 100, "total": 107}
+{"time": "2026-09-08T01:15:13.876681+00:00", "event": "deck_verified", "ordinal": 35, "pack": "russian_english", "pack_id": 21919521, "deck": "15260214", "band": "7000->7500", "updated": 107, "count": 500, "verified": true, "source_sha256": "eb133d4ede3a76347361a9859ef5c54d0dc59295a9964fc9c85e734e91e9d1c4", "verified_at": "2026-09-08T01:15:13.875853+00:00"}
+{"time": "2026-09-08T01:15:28.403651+00:00", "event": "deck_start", "ordinal": 36, "total": 40, "pack": "russian_english", "deck": "15260215", "band": "7500->8000", "updates": 82}
+{"time": "2026-09-08T01:15:49.370961+00:00", "event": "card_progress", "deck": "15260215", "updated": 25, "total": 82}
+{"time": "2026-09-08T01:16:16.634779+00:00", "event": "card_progress", "deck": "15260215", "updated": 50, "total": 82}
+{"time": "2026-09-08T01:16:45.314045+00:00", "event": "card_progress", "deck": "15260215", "updated": 75, "total": 82}
+{"time": "2026-09-08T01:17:47.348841+00:00", "event": "deck_verified", "ordinal": 36, "pack": "russian_english", "pack_id": 21919521, "deck": "15260215", "band": "7500->8000", "updated": 82, "count": 500, "verified": true, "source_sha256": "97def23ddee2d5d4fba4c40776e3e28cec696c711196c7f4b3012062e2cef0d8", "verified_at": "2026-09-08T01:17:47.347595+00:00"}
+{"time": "2026-09-08T01:18:02.028294+00:00", "event": "deck_start", "ordinal": 37, "total": 40, "pack": "russian_english", "deck": "15260217", "band": "8000->8500", "updates": 71}
+{"time": "2026-09-08T01:18:24.365231+00:00", "event": "card_progress", "deck": "15260217", "updated": 25, "total": 71}
+{"time": "2026-09-08T01:18:48.802751+00:00", "event": "card_progress", "deck": "15260217", "updated": 50, "total": 71}
+{"time": "2026-09-08T01:19:39.539584+00:00", "event": "deck_verified", "ordinal": 37, "pack": "russian_english", "pack_id": 21919521, "deck": "15260217", "band": "8000->8500", "updated": 71, "count": 500, "verified": true, "source_sha256": "79d7493b4b0dcf3f33b10ecdf3e13b499875a38d4d58d3fdf98de59bd25ce0aa", "verified_at": "2026-09-08T01:19:39.538988+00:00"}
+{"time": "2026-09-08T01:19:54.032985+00:00", "event": "deck_start", "ordinal": 38, "total": 40, "pack": "russian_english", "deck": "15260218", "band": "8500->9000", "updates": 80}
+{"time": "2026-09-08T01:20:20.234483+00:00", "event": "card_progress", "deck": "15260218", "updated": 25, "total": 80}
+{"time": "2026-09-08T01:20:46.504423+00:00", "event": "card_progress", "deck": "15260218", "updated": 50, "total": 80}
+{"time": "2026-09-08T01:21:17.617737+00:00", "event": "card_progress", "deck": "15260218", "updated": 75, "total": 80}
+{"time": "2026-09-08T01:22:18.739321+00:00", "event": "deck_verified", "ordinal": 38, "pack": "russian_english", "pack_id": 21919521, "deck": "15260218", "band": "8500->9000", "updated": 80, "count": 500, "verified": true, "source_sha256": "d96ecd3bb698cbc3589ef6145dc201b02f77d89ee1ca1614e239f1a5eb490654", "verified_at": "2026-09-08T01:22:18.738258+00:00"}
+{"time": "2026-09-08T01:22:33.249520+00:00", "event": "deck_start", "ordinal": 39, "total": 40, "pack": "russian_english", "deck": "15260221", "band": "9000->9500", "updates": 98}
+{"time": "2026-09-08T01:23:30.235540+00:00", "event": "card_progress", "deck": "15260221", "updated": 25, "total": 98}
+{"time": "2026-09-08T01:23:52.857231+00:00", "event": "card_progress", "deck": "15260221", "updated": 50, "total": 98}
+{"time": "2026-09-08T01:24:16.947411+00:00", "event": "card_progress", "deck": "15260221", "updated": 75, "total": 98}
+{"time": "2026-09-08T01:25:38.163124+00:00", "event": "deck_verified", "ordinal": 39, "pack": "russian_english", "pack_id": 21919521, "deck": "15260221", "band": "9000->9500", "updated": 98, "count": 500, "verified": true, "source_sha256": "070b9df5825f2df13d658761c946938bf46e8a3f677631382855c4ae81c0725f", "verified_at": "2026-09-08T01:25:38.162098+00:00"}
+{"time": "2026-09-08T01:25:53.897484+00:00", "event": "deck_start", "ordinal": 40, "total": 40, "pack": "russian_english", "deck": "15260224", "band": "9500->10000", "updates": 95}
+{"time": "2026-09-08T01:26:20.949902+00:00", "event": "card_progress", "deck": "15260224", "updated": 25, "total": 95}
+{"time": "2026-09-08T01:26:43.216451+00:00", "event": "card_progress", "deck": "15260224", "updated": 50, "total": 95}
+{"time": "2026-09-08T01:27:08.660311+00:00", "event": "card_progress", "deck": "15260224", "updated": 75, "total": 95}
+{"time": "2026-09-08T01:27:40.653105+00:00", "event": "deck_verified", "ordinal": 40, "pack": "russian_english", "pack_id": 21919521, "deck": "15260224", "band": "9500->10000", "updated": 95, "count": 500, "verified": true, "source_sha256": "d1d7c5fd7e7f895017174b2aac6c081e4d711cd88849d7acbe4a0c39bc3721c9", "verified_at": "2026-09-08T01:27:40.652050+00:00"}
+{"time": "2026-09-08T01:27:40.653326+00:00", "event": "sync_complete", "decks": 40, "cards": 20000, "updated": 3702}

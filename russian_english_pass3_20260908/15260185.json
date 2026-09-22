@@ -1,0 +1,198 @@
+{
+  "deck": 15260185,
+  "reviewed": 500,
+  "changes": [
+    {
+      "row": 16,
+      "before": [
+        "чуть",
+        "a little, slightly",
+        "Жди чуть-чуть.",
+        "Wait a little."
+      ],
+      "after": [
+        "чуть",
+        "a little, slightly",
+        "Это чуть больше.",
+        "This is slightly more."
+      ],
+      "reason": "Use headword itself, not only reduplicated чуть-чуть. Keep the intended sense and use prior vocabulary."
+    },
+    {
+      "row": 72,
+      "before": [
+        "нравиться",
+        "to like",
+        "Мне не нравится.",
+        "I don't like it."
+      ],
+      "after": [
+        "нравиться",
+        "to like (with a dative experiencer)",
+        "Мне не нравится.",
+        "I don't like it."
+      ],
+      "reason": "Explain reversed Russian argument structure."
+    },
+    {
+      "row": 107,
+      "before": [
+        "касаться",
+        "to touch",
+        "Не касайся.",
+        "Don't touch."
+      ],
+      "after": [
+        "касаться",
+        "to touch",
+        "Не касайся меня.",
+        "Don't touch me."
+      ],
+      "reason": "Provide object required by Russian verb."
+    },
+    {
+      "row": 146,
+      "before": [
+        "свободный",
+        "free, available",
+        "Это место свободно?",
+        "Is this place free?"
+      ],
+      "after": [
+        "свободный",
+        "free, available",
+        "Эта комната свободна?",
+        "Is this room available?"
+      ],
+      "reason": "Use unambiguous availability example."
+    },
+    {
+      "row": 175,
+      "before": [
+        "сильно",
+        "badly, a lot",
+        "Я сильно этого хочу.",
+        "I want it badly."
+      ],
+      "after": [
+        "сильно",
+        "strongly, badly, a lot",
+        "Я сильно этого хочу.",
+        "I want it badly."
+      ],
+      "reason": "Include basic adverb sense."
+    },
+    {
+      "row": 221,
+      "before": [
+        "несмотря",
+        "despite",
+        "Несмотря на это.",
+        "Despite that."
+      ],
+      "after": [
+        "несмотря",
+        "despite (несмотря на)",
+        "Несмотря на это.",
+        "Despite that."
+      ],
+      "reason": "Identify required preposition in construction."
+    },
+    {
+      "row": 254,
+      "before": [
+        "ветер",
+        "wind, breeze",
+        "Сегодня ветер очень сильный.",
+        "The wind is very strong today."
+      ],
+      "after": [
+        "ветер",
+        "wind",
+        "Сегодня ветер очень сильный.",
+        "The wind is very strong today."
+      ],
+      "reason": "Breeze is a gentle wind, not an unrestricted synonym."
+    },
+    {
+      "row": 322,
+      "before": [
+        "волос",
+        "hair",
+        "Волос на лице.",
+        "A hair is on the face."
+      ],
+      "after": [
+        "волос",
+        "hair",
+        "На столе лежит волос.",
+        "There is a hair on the table."
+      ],
+      "reason": "Natural context and English phrasing."
+    },
+    {
+      "row": 375,
+      "before": [
+        "никак",
+        "at all",
+        "Я никак не могу понять.",
+        "I cannot understand it at all."
+      ],
+      "after": [
+        "никак",
+        "in no way; at all (with negation)",
+        "Я никак не могу понять.",
+        "I cannot understand it at all."
+      ],
+      "reason": "Do not present negative-polarity phrase as unrestricted meaning."
+    },
+    {
+      "row": 382,
+      "before": [
+        "вовсе",
+        "at all, not at all",
+        "Вовсе нет.",
+        "Not at all."
+      ],
+      "after": [
+        "вовсе",
+        "at all (with negation)",
+        "Вовсе нет.",
+        "Not at all."
+      ],
+      "reason": "Нет supplies negation; вовсе alone does not mean not at all."
+    },
+    {
+      "row": 437,
+      "before": [
+        "впервые",
+        "for the first time",
+        "Я здесь впервые.",
+        "It's my first time here."
+      ],
+      "after": [
+        "впервые",
+        "for the first time",
+        "Я здесь впервые.",
+        "I am here for the first time."
+      ],
+      "reason": "Include complete target phrase."
+    },
+    {
+      "row": 476,
+      "before": [
+        "известно",
+        "it is known",
+        "Мне это известно.",
+        "That's known to me."
+      ],
+      "after": [
+        "известно",
+        "known",
+        "Это известно.",
+        "It is known."
+      ],
+      "reason": "Natural predicate without awkward known to me."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "reviewed_cards": 10000,
+  "decks": 20,
+  "target_mismatch_candidates": 0,
+  "unresolved_vocabulary_candidates": 0,
+  "accepted_function_words": [
+    {
+      "deck": "15260246",
+      "row": 60,
+      "word": "neither",
+      "reason": "Grammatical partner of nor in the neither…nor construction; permitted function word."
+    }
+  ],
+  "structural_checks": [
+    "500 cards per deck",
+    "nonempty headwords and examples",
+    "canonical Brainscape formatting",
+    "CSV round trip",
+    "no identical full cards within a deck"
+  ],
+  "vocabulary_rule": "First 500 may use the whole first band; later bands may use prior bands plus the current target and grammatical function words. Inflections allowed. English→Russian inventory only."
+}

@@ -1,0 +1,342 @@
+{
+  "deck": 15260182,
+  "reviewed": 500,
+  "changes": [
+    {
+      "row": 12,
+      "before": [
+        "как",
+        "how, as",
+        "Как это?",
+        "How so?"
+      ],
+      "after": [
+        "как",
+        "how, as",
+        "Как это работает?",
+        "How does this work?"
+      ],
+      "reason": "Replace vague fragment with a clear how example."
+    },
+    {
+      "row": 43,
+      "before": [
+        "бы",
+        "would",
+        "Я бы был дома.",
+        "I would be home."
+      ],
+      "after": [
+        "бы",
+        "would",
+        "Я бы пришёл, но у меня работа.",
+        "I would come, but I have work."
+      ],
+      "reason": "Natural conditional construction."
+    },
+    {
+      "row": 49,
+      "before": [
+        "сказать",
+        "to say",
+        "Что сказать?",
+        "What to say?"
+      ],
+      "after": [
+        "сказать",
+        "to say",
+        "Что мне сказать?",
+        "What should I say?"
+      ],
+      "reason": "Natural English question."
+    },
+    {
+      "row": 69,
+      "before": [
+        "ни",
+        "neither, nor",
+        "Ни я, ни он.",
+        "Neither me nor him."
+      ],
+      "after": [
+        "ни",
+        "neither, nor",
+        "Ни я, ни он не знаем.",
+        "Neither I nor he knows."
+      ],
+      "reason": "Give neither/nor a complete grammatical context."
+    },
+    {
+      "row": 70,
+      "before": [
+        "сам",
+        "myself",
+        "Сам знаю.",
+        "I know it myself."
+      ],
+      "after": [
+        "сам",
+        "self (emphatic: myself, yourself, himself, etc.)",
+        "Сам знаю.",
+        "I know it myself."
+      ],
+      "reason": "Сам changes with person; it does not always mean myself."
+    },
+    {
+      "row": 81,
+      "before": [
+        "иметь",
+        "to have",
+        "Не имею времени.",
+        "I don't have time."
+      ],
+      "after": [
+        "иметь",
+        "to have",
+        "Я имею право знать.",
+        "I have the right to know."
+      ],
+      "reason": "Use idiomatic иметь construction."
+    },
+    {
+      "row": 100,
+      "before": [
+        "сделать",
+        "to do, to make",
+        "Как сделать?",
+        "How do you do that?"
+      ],
+      "after": [
+        "сделать",
+        "to do, to make",
+        "Как сделать это?",
+        "How can I do this?"
+      ],
+      "reason": "Match the request about doing something."
+    },
+    {
+      "row": 118,
+      "before": [
+        "глаз",
+        "eye",
+        "Что с глазом?",
+        "What's with the eye?"
+      ],
+      "after": [
+        "глаз",
+        "eye",
+        "Что произошло с глазом?",
+        "What happened to the eye?"
+      ],
+      "reason": "Replace unnatural English what is with the eye."
+    },
+    {
+      "row": 134,
+      "before": [
+        "являться",
+        "to be",
+        "Он является другом.",
+        "He is a friend."
+      ],
+      "after": [
+        "являться",
+        "to be",
+        "Он является автором книги.",
+        "He is the author of the book."
+      ],
+      "reason": "Use natural formal является context."
+    },
+    {
+      "row": 136,
+      "before": [
+        "голова",
+        "head",
+        "Что с головой?",
+        "What's with your head?"
+      ],
+      "after": [
+        "голова",
+        "head",
+        "У него большая голова.",
+        "He has a big head."
+      ],
+      "reason": "Replace vague and unnatural example."
+    },
+    {
+      "row": 180,
+      "before": [
+        "высокий",
+        "tall, high",
+        "Он такой высокий.",
+        "He's that tall."
+      ],
+      "after": [
+        "высокий",
+        "tall, high",
+        "Он очень высокий.",
+        "He is very tall."
+      ],
+      "reason": "Avoid changing such/so into demonstrative that."
+    },
+    {
+      "row": 210,
+      "before": [
+        "нужный",
+        "needed, necessary",
+        "Мне нужен этот документ.",
+        "This document is necessary for me."
+      ],
+      "after": [
+        "нужный",
+        "needed, necessary",
+        "Это нужный документ.",
+        "This is a necessary document."
+      ],
+      "reason": "Use direct natural adjective correspondence."
+    },
+    {
+      "row": 229,
+      "before": [
+        "главный",
+        "main, chief",
+        "Кто главный?",
+        "Who's the chief?"
+      ],
+      "after": [
+        "главный",
+        "main, chief",
+        "Это главный вопрос.",
+        "This is the main question."
+      ],
+      "reason": "Demonstrate adjective rather than an ambiguous chief noun."
+    },
+    {
+      "row": 241,
+      "before": [
+        "нога",
+        "leg, foot",
+        "Что с ногой?",
+        "What's with the leg?"
+      ],
+      "after": [
+        "нога",
+        "leg, foot",
+        "Что произошло с ногой?",
+        "What happened to the leg?"
+      ],
+      "reason": "Replace unnatural what is with the leg."
+    },
+    {
+      "row": 281,
+      "before": [
+        "молодой",
+        "young",
+        "Он такой молодой.",
+        "He's that young."
+      ],
+      "after": [
+        "молодой",
+        "young",
+        "Он ещё молодой.",
+        "He is still young."
+      ],
+      "reason": "Natural unambiguous sentence pairing."
+    },
+    {
+      "row": 305,
+      "before": [
+        "письмо",
+        "letter, mail",
+        "Я получил письмо сегодня.",
+        "I received a letter today."
+      ],
+      "after": [
+        "письмо",
+        "letter",
+        "Я получил письмо сегодня.",
+        "I received a letter today."
+      ],
+      "reason": "Mail is collective; письмо denotes a letter."
+    },
+    {
+      "row": 341,
+      "before": [
+        "равный",
+        "equal",
+        "Мы равны.",
+        "We're equals."
+      ],
+      "after": [
+        "равный",
+        "equal",
+        "Мы равны.",
+        "We are equal."
+      ],
+      "reason": "Use corresponding English adjective, not derived noun."
+    },
+    {
+      "row": 397,
+      "before": [
+        "речь",
+        "speech, discussion",
+        "Его речь была о работе.",
+        "His speech was about work."
+      ],
+      "after": [
+        "речь",
+        "speech",
+        "Его речь была о работе.",
+        "His speech was about work."
+      ],
+      "reason": "Discussion is not a standalone sense of речь."
+    },
+    {
+      "row": 421,
+      "before": [
+        "значит",
+        "so, means",
+        "Что это значит?",
+        "What does that mean?"
+      ],
+      "after": [
+        "значит",
+        "means; so (as a discourse marker)",
+        "Что это значит?",
+        "What does that mean?"
+      ],
+      "reason": "Separate verb meaning from discourse marker."
+    },
+    {
+      "row": 485,
+      "before": [
+        "течение",
+        "course, duration",
+        "В течение дня.",
+        "During the course of the day."
+      ],
+      "after": [
+        "течение",
+        "flow, course",
+        "Течение воды быстрое.",
+        "The flow of water is fast."
+      ],
+      "reason": "Teach noun rather than defining only в течение."
+    },
+    {
+      "row": 500,
+      "before": [
+        "зачем",
+        "why",
+        "Зачем это?",
+        "Why is that?"
+      ],
+      "after": [
+        "зачем",
+        "what for, why (purpose)",
+        "Зачем ты пришёл?",
+        "What did you come for?"
+      ],
+      "reason": "Distinguish purpose from cause."
+    }
+  ]
+}

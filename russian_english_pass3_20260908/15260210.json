@@ -1,0 +1,438 @@
+{
+  "deck": "15260210",
+  "reviewed": 500,
+  "changes": [
+    {
+      "row": 14,
+      "before": [
+        "обочина",
+        "shoulder",
+        "Машина стоит на обочине.",
+        "The car stands on the shoulder."
+      ],
+      "after": [
+        "обочина",
+        "roadside, shoulder (of a road)",
+        "Машина стоит на обочине.",
+        "The car is parked on the shoulder."
+      ],
+      "reason": "Specify road meaning and natural parked vehicle phrasing."
+    },
+    {
+      "row": 25,
+      "before": [
+        "прижимать",
+        "to press",
+        "Она прижимает книгу к себе.",
+        "She presses the book to herself."
+      ],
+      "after": [
+        "прижимать",
+        "to press",
+        "Она прижимает книгу к себе.",
+        "She presses the book against herself."
+      ],
+      "reason": "Use idiomatic English preposition."
+    },
+    {
+      "row": 29,
+      "before": [
+        "взнос",
+        "payment",
+        "Я сделал взнос.",
+        "I made a payment."
+      ],
+      "after": [
+        "взнос",
+        "contribution, payment (toward a fund, dues, etc.)",
+        "Я сделал взнос.",
+        "I made a payment."
+      ],
+      "reason": "Clarify the restricted financial sense."
+    },
+    {
+      "row": 68,
+      "before": [
+        "секретарша",
+        "secretary",
+        "Секретарша отвечает на звонок.",
+        "The secretary answers the call."
+      ],
+      "after": [
+        "секретарша",
+        "secretary (female; colloquial Russian)",
+        "Секретарша отвечает на звонок.",
+        "The secretary answers the call."
+      ],
+      "reason": "Preserve gender and register. Keep gender annotation separate from example target."
+    },
+    {
+      "row": 70,
+      "before": [
+        "подсказывать",
+        "to hint",
+        "Она подсказывает ответ.",
+        "She hints at the answer."
+      ],
+      "after": [
+        "подсказывать",
+        "to prompt, to suggest",
+        "Учитель подсказывает ответ.",
+        "The teacher suggests the answer."
+      ],
+      "reason": "Подсказывать is giving prompting help, not merely hinting."
+    },
+    {
+      "row": 82,
+      "before": [
+        "процентный",
+        "interest",
+        "Процентная ставка высокая.",
+        "The interest rate is high."
+      ],
+      "after": [
+        "процентный",
+        "percentage, interest (attributive)",
+        "Процентная ставка высокая.",
+        "The interest rate is high."
+      ],
+      "reason": "Clarify adjective use."
+    },
+    {
+      "row": 111,
+      "before": [
+        "античный",
+        "ancient",
+        "Это античный храм.",
+        "This is an ancient temple."
+      ],
+      "after": [
+        "античный",
+        "classical, ancient Greek or Roman",
+        "Это античный храм.",
+        "This is an ancient Greek or Roman temple."
+      ],
+      "reason": "Античный refers to classical antiquity, not anything ancient."
+    },
+    {
+      "row": 144,
+      "before": [
+        "жрец",
+        "priest",
+        "Древний жрец.",
+        "An ancient priest."
+      ],
+      "after": [
+        "жрец",
+        "priest (in an ancient or pagan religion)",
+        "Древний жрец.",
+        "An ancient priest."
+      ],
+      "reason": "Distinguish жрец from ordinary Christian священник."
+    },
+    {
+      "row": 192,
+      "before": [
+        "импорт",
+        "import",
+        "Импорт растёт.",
+        "Import is growing."
+      ],
+      "after": [
+        "импорт",
+        "imports, importing",
+        "Импорт растёт.",
+        "Imports are growing."
+      ],
+      "reason": "Natural English collective trade noun."
+    },
+    {
+      "row": 198,
+      "before": [
+        "влезть",
+        "to climb through",
+        "Он влез в окно.",
+        "He climbed through the window."
+      ],
+      "after": [
+        "влезть",
+        "to climb in, to climb through",
+        "Он влез в окно.",
+        "He climbed through the window."
+      ],
+      "reason": "Include core directional meaning."
+    },
+    {
+      "row": 253,
+      "before": [
+        "инспекция",
+        "inspection",
+        "Машина прошла инспекцию.",
+        "The car passed inspection."
+      ],
+      "after": [
+        "инспекция",
+        "inspection",
+        "Инспекция школы заняла час.",
+        "The inspection of the school took an hour."
+      ],
+      "reason": "Avoid using инспекция for ordinary vehicle inspection; institutional inspection context. Use a natural inspection event without personifying it."
+    },
+    {
+      "row": 282,
+      "before": [
+        "периодический",
+        "periodic",
+        "Нужен периодический контроль.",
+        "Periodic control is needed."
+      ],
+      "after": [
+        "периодический",
+        "periodic",
+        "Нужен периодический осмотр.",
+        "A periodic inspection is needed."
+      ],
+      "reason": "Use natural English collocation for recurring checks."
+    },
+    {
+      "row": 292,
+      "before": [
+        "неполный",
+        "incomplete",
+        "Работа еще неполная.",
+        "The work is still incomplete."
+      ],
+      "after": [
+        "неполный",
+        "incomplete",
+        "Это неполный список.",
+        "This is an incomplete list."
+      ],
+      "reason": "Replace unnatural неполная работа."
+    },
+    {
+      "row": 297,
+      "before": [
+        "общественно",
+        "socially",
+        "Это общественно важно.",
+        "This is socially important."
+      ],
+      "after": [
+        "общественно",
+        "socially",
+        "Это общественно полезный труд.",
+        "This is socially useful work."
+      ],
+      "reason": "Use idiomatic Russian общественно полезный."
+    },
+    {
+      "row": 318,
+      "before": [
+        "стаж",
+        "experience",
+        "У него большой стаж.",
+        "He has a lot of experience."
+      ],
+      "after": [
+        "стаж",
+        "work experience, length of service",
+        "У него большой стаж.",
+        "He has a lot of work experience."
+      ],
+      "reason": "Specify accumulated employment/service experience."
+    },
+    {
+      "row": 321,
+      "before": [
+        "струна",
+        "string",
+        "Вот струна.",
+        "Here is the string."
+      ],
+      "after": [
+        "струна",
+        "string (of a musical instrument)",
+        "Вот струна.",
+        "Here is the string."
+      ],
+      "reason": "Clarify not ordinary thread or cord."
+    },
+    {
+      "row": 344,
+      "before": [
+        "прицел",
+        "sight",
+        "Проверь прицел.",
+        "Check the sight."
+      ],
+      "after": [
+        "прицел",
+        "sight (of a weapon)",
+        "Проверь прицел.",
+        "Check the sight."
+      ],
+      "reason": "Clarify instrument sense."
+    },
+    {
+      "row": 348,
+      "before": [
+        "избить",
+        "to beat",
+        "Его избили.",
+        "They beat him."
+      ],
+      "after": [
+        "избить",
+        "to beat up",
+        "Его избили.",
+        "They beat him up."
+      ],
+      "reason": "Preserve physical assault sense."
+    },
+    {
+      "row": 362,
+      "before": [
+        "направленность",
+        "direction",
+        "Его направленность ясна.",
+        "Its direction is clear."
+      ],
+      "after": [
+        "направленность",
+        "direction",
+        "Направленность исследования ясна.",
+        "The direction of the research is clear."
+      ],
+      "reason": "Replace ambiguous pronoun with natural explicit context."
+    },
+    {
+      "row": 377,
+      "before": [
+        "воспитатель",
+        "caregiver",
+        "Она воспитатель.",
+        "She is a caregiver."
+      ],
+      "after": [
+        "воспитатель",
+        "educator, childcare worker",
+        "Она воспитатель.",
+        "She is a childcare worker."
+      ],
+      "reason": "Generic caregiver can incorrectly imply medical/home care."
+    },
+    {
+      "row": 382,
+      "before": [
+        "издеваться",
+        "to mock",
+        "Не издевайся.",
+        "Don't mock."
+      ],
+      "after": [
+        "издеваться",
+        "to mock",
+        "Не издевайся надо мной.",
+        "Do not mock me."
+      ],
+      "reason": "Supply object for natural English mock."
+    },
+    {
+      "row": 405,
+      "before": [
+        "наедине",
+        "alone",
+        "Мы остались наедине.",
+        "We were left alone together."
+      ],
+      "after": [
+        "наедине",
+        "alone together, in private",
+        "Мы остались наедине.",
+        "We were left alone together."
+      ],
+      "reason": "Explain two-person private sense of наедине."
+    },
+    {
+      "row": 415,
+      "before": [
+        "вырастать",
+        "to grow up",
+        "Сын быстро вырастает.",
+        "My son is growing up quickly."
+      ],
+      "after": [
+        "вырастать",
+        "to grow up",
+        "Мальчики быстро вырастают.",
+        "Boys grow up quickly."
+      ],
+      "reason": "Use natural recurring imperfective example. Use prior-deck vocabulary."
+    },
+    {
+      "row": 429,
+      "before": [
+        "возложить",
+        "to lay",
+        "Возложи ответственность на него.",
+        "Lay responsibility on him."
+      ],
+      "after": [
+        "возложить",
+        "to lay; to place (responsibility on someone)",
+        "Возложи ответственность на него.",
+        "Place responsibility on him."
+      ],
+      "reason": "Use natural collocation for responsibility."
+    },
+    {
+      "row": 435,
+      "before": [
+        "оный",
+        "that",
+        "В оный день.",
+        "On that day."
+      ],
+      "after": [
+        "оный",
+        "that (archaic)",
+        "В оный день.",
+        "On that day."
+      ],
+      "reason": "Mark obsolete usage."
+    },
+    {
+      "row": 456,
+      "before": [
+        "жрать",
+        "to devour",
+        "Он жрёт мясо.",
+        "He devours meat."
+      ],
+      "after": [
+        "жрать",
+        "to eat, to gobble (coarse slang)",
+        "Он жрёт мясо.",
+        "He gobbles meat."
+      ],
+      "reason": "Preserve coarse register and avoid implying only devouring."
+    },
+    {
+      "row": 460,
+      "before": [
+        "оскорбить",
+        "to insult",
+        "Не оскорби его.",
+        "Don't insult him."
+      ],
+      "after": [
+        "оскорбить",
+        "to insult",
+        "Он оскорбил меня.",
+        "He insulted me."
+      ],
+      "reason": "Use natural perfective event rather than unnatural prohibition."
+    }
+  ]
+}

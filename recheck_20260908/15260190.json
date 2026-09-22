@@ -1,0 +1,134 @@
+{
+  "deck": "15260190",
+  "reviewed": 500,
+  "changes": [
+    {
+      "row": 4,
+      "before": [
+        "южный",
+        "southern",
+        "Южный ветер.",
+        "A southern wind."
+      ],
+      "after": [
+        "южный",
+        "south, southern",
+        "Южный ветер.",
+        "A south wind."
+      ],
+      "reason": "Use the normal directional wind collocation."
+    },
+    {
+      "row": 15,
+      "before": [
+        "продолжаться",
+        "to continue, to go on",
+        "Дождь всё ещё продолжается.",
+        "The rain is still going on."
+      ],
+      "after": [
+        "продолжаться",
+        "to continue, to go on",
+        "Работа продолжается.",
+        "The work continues."
+      ],
+      "reason": "Replace awkward rain is going on with a natural paired sentence."
+    },
+    {
+      "row": 193,
+      "before": [
+        "странно",
+        "strangely, it's strange",
+        "Мне здесь странно.",
+        "It feels strange here."
+      ],
+      "after": [
+        "странно",
+        "strangely, it's strange",
+        "Он странно говорит.",
+        "He speaks strangely."
+      ],
+      "reason": "Use natural Russian and demonstrate the adverb directly."
+    },
+    {
+      "row": 225,
+      "before": [
+        "дальний",
+        "distant, far",
+        "Это дальний путь.",
+        "That's a distant path."
+      ],
+      "after": [
+        "дальний",
+        "distant, far",
+        "Это дальняя страна.",
+        "This is a distant country."
+      ],
+      "reason": "A distant path does not convey дальний путь, a long journey."
+    },
+    {
+      "row": 278,
+      "before": [
+        "попадать",
+        "to get into, to hit",
+        "Я попадаю в цель.",
+        "I hit it."
+      ],
+      "after": [
+        "попадать",
+        "to get into, to hit",
+        "Он попадает в дом через окно.",
+        "He gets into the house through the window."
+      ],
+      "reason": "Replace an example whose English omits the target of the action."
+    },
+    {
+      "row": 360,
+      "before": [
+        "куча",
+        "pile, a bunch",
+        "У меня куча дел.",
+        "I've got a bunch of things."
+      ],
+      "after": [
+        "куча",
+        "pile, a bunch",
+        "У меня куча дел.",
+        "I've got a bunch of things to do."
+      ],
+      "reason": "Дела means tasks here, not possessions."
+    },
+    {
+      "row": 430,
+      "before": [
+        "особо",
+        "particularly, especially",
+        "Мне не особо.",
+        "Not particularly."
+      ],
+      "after": [
+        "особо",
+        "particularly, especially",
+        "Это не особо важно.",
+        "This is not particularly important."
+      ],
+      "reason": "Replace incomplete Russian with a natural sentence."
+    },
+    {
+      "row": 434,
+      "before": [
+        "стремление",
+        "drive, aspiration",
+        "У него сильное стремление.",
+        "He has a strong drive."
+      ],
+      "after": [
+        "стремление",
+        "drive, aspiration",
+        "Его стремление к свободе понятно.",
+        "His aspiration for freedom is understandable."
+      ],
+      "reason": "Give стремление a complement and make the meaning concrete."
+    }
+  ]
+}

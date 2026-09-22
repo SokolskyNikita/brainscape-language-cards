@@ -1,0 +1,747 @@
+{
+  "pack": "english_russian",
+  "deck": "15260256",
+  "band": "2000->2500",
+  "sha256": "fb0544e439e6326729bc323a0925575dd2d2a02738cc79728a89c3a5f1922427",
+  "errors": [],
+  "candidates": [
+    {
+      "row": 9,
+      "q": "minimal",
+      "a": "минимальный",
+      "qe": "The damage was minimal.",
+      "ae": "Ущерб был минимальным.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "damage",
+            "band": "2000->2500"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "ущерб",
+            "band": "2000->2500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 12,
+      "q": "remark",
+      "a": "замечание",
+      "qe": "He made a critical remark.",
+      "ae": "Он сделал критическое замечание.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "critical",
+            "band": "2000->2500"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "критическое",
+            "band": "2000->2500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 17,
+      "q": "to remember",
+      "a": "запомнить",
+      "qe": "Try to remember his name.",
+      "ae": "Попытайся запомнить его имя.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "попытайся",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 21,
+      "q": "railway station",
+      "a": "вокзал",
+      "qe": "Let's meet at the railway station.",
+      "ae": "Давай встретимся на вокзале.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "встретимся",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 32,
+      "q": "grave",
+      "a": "могила",
+      "qe": "She visited her mother's grave.",
+      "ae": "Она посетила могилу своей матери.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "visited",
+            "band": "2000->2500"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "посетила",
+            "band": "2000->2500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 34,
+      "q": "spot",
+      "a": "пятно",
+      "qe": "I see a spot on my shirt.",
+      "ae": "Я вижу пятно на своей рубашке.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "shirt",
+            "band": "2000->2500"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "рубашке",
+            "band": "2000->2500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 40,
+      "q": "twelve",
+      "a": "двенадцать",
+      "qe": "She bought twelve apples.",
+      "ae": "Она купила двенадцать яблок.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "apples",
+            "band": "2000->2500"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "яблок",
+            "band": "2000->2500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 48,
+      "q": "divide",
+      "a": "разделить",
+      "qe": "We must divide the bread.",
+      "ae": "Мы должны разделить хлеб.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "должны",
+            "band": "3000->3500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 50,
+      "q": "cafe",
+      "a": "кафе",
+      "qe": "Let's meet at the cafe.",
+      "ae": "Давай встретимся в кафе.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "встретимся",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 81,
+      "q": "cupboard",
+      "a": "шкаф",
+      "qe": "I store cups in the cupboard.",
+      "ae": "Я храню чашки в шкафу.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "cups",
+            "band": "2000->2500"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "чашки",
+            "band": "2000->2500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 100,
+      "q": "harm",
+      "a": "вред",
+      "qe": "This is harm to the environment.",
+      "ae": "Это вред окружающей среде.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "environment",
+            "band": "2000->2500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 146,
+      "q": "town",
+      "a": "городок",
+      "qe": "We visited a small town.",
+      "ae": "Мы посетили маленький городок.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "visited",
+            "band": "2000->2500"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "посетили",
+            "band": "2000->2500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 148,
+      "q": "bar",
+      "a": "бар",
+      "qe": "Let's meet at the bar.",
+      "ae": "Давайте встретимся в баре.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "встретимся",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 169,
+      "q": "foreigner",
+      "a": "иностранец",
+      "qe": "The foreigner asked a question.",
+      "ae": "Иностранец задал вопрос.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "задал",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 201,
+      "q": "trifle",
+      "a": "мелочь",
+      "qe": "Don't worry, it's only a trifle.",
+      "ae": "Не волнуйся, это только мелочь.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "волнуйся",
+            "band": "2000->2500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 204,
+      "q": "airport",
+      "a": "аэропорт",
+      "qe": "Meet me at the airport.",
+      "ae": "Встреть меня в аэропорту.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "встреть",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 206,
+      "q": "myth",
+      "a": "миф",
+      "qe": "The legend was only a myth.",
+      "ae": "Легенда была только мифом.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "legend",
+            "band": "2000->2500"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "легенда",
+            "band": "2000->2500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 218,
+      "q": "aviation",
+      "a": "авиация",
+      "qe": "Aviation connects parts of the world.",
+      "ae": "Авиация связывает части мира.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "связывает",
+            "band": "2000->2500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 243,
+      "q": "fulfill",
+      "a": "исполнить",
+      "qe": "She will fulfill her promise.",
+      "ae": "Она исполнит своё обещание.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "обещание",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 248,
+      "q": "get rid of",
+      "a": "избавиться",
+      "qe": "We must get rid of this problem.",
+      "ae": "Мы должны избавиться от этой проблемы.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "должны",
+            "band": "3000->3500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 249,
+      "q": "hide",
+      "a": "скрыть",
+      "qe": "I must hide the gift.",
+      "ae": "Я должен скрыть подарок.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "должен",
+            "band": "3000->3500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 258,
+      "q": "contribution",
+      "a": "вклад",
+      "qe": "His contribution changed the project's course.",
+      "ae": "Его вклад изменил ход проекта.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "изменил",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 259,
+      "q": "to prove",
+      "a": "доказывать",
+      "qe": "He worked hard to prove this.",
+      "ae": "Он много работал, чтобы доказать это.",
+      "issues": {
+        "ru_target": "доказывать | Он много работал, чтобы доказать это."
+      }
+    },
+    {
+      "row": 262,
+      "q": "metal",
+      "a": "металл",
+      "qe": "Iron is a strong metal.",
+      "ae": "Железо — сильный металл.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "железо",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 269,
+      "q": "lie",
+      "a": "ложь",
+      "qe": "He told a harmful lie.",
+      "ae": "Он сказал вредную ложь.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "harmful",
+            "band": "2000->2500"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "вредную",
+            "band": "2000->2500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 274,
+      "q": "profile",
+      "a": "профиль",
+      "qe": "He changed his profile picture.",
+      "ae": "Он изменил фотографию профиля.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "изменил",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 284,
+      "q": "activist",
+      "a": "активист",
+      "qe": "The activist fights for justice.",
+      "ae": "Активист борется за справедливость.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "justice",
+            "band": "2000->2500"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "справедливость",
+            "band": "2000->2500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 288,
+      "q": "pancake",
+      "a": "блин",
+      "qe": "I made a pancake for breakfast.",
+      "ae": "Я сделал блин на завтрак.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "breakfast",
+            "band": "2000->2500"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "завтрак",
+            "band": "2000->2500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 289,
+      "q": "twice",
+      "a": "дважды",
+      "qe": "I called him twice today.",
+      "ae": "Я звонил ему дважды сегодня.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "звонил",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 300,
+      "q": "to install",
+      "a": "устанавливать",
+      "qe": "I need to install new software.",
+      "ae": "Мне нужно установить новую программу.",
+      "issues": {
+        "ru_target": "устанавливать | Мне нужно установить новую программу."
+      }
+    },
+    {
+      "row": 334,
+      "q": "trunk",
+      "a": "ствол",
+      "qe": "The tree trunk is thick.",
+      "ae": "Ствол дерева толстый.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "thick",
+            "band": "2000->2500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 341,
+      "q": "catalog",
+      "a": "каталог",
+      "qe": "I have a furniture catalog.",
+      "ae": "У меня есть каталог мебели.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "furniture",
+            "band": "2000->2500"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "мебели",
+            "band": "2000->2500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 376,
+      "q": "digital",
+      "a": "цифровой",
+      "qe": "This is a digital photo.",
+      "ae": "Это цифровое фото.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "photo",
+            "band": "2000->2500"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "фото",
+            "band": "2000->2500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 393,
+      "q": "historian",
+      "a": "историк",
+      "qe": "The historian reads about the past.",
+      "ae": "Историк читает о прошлом.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "прошлом",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 405,
+      "q": "sergeant",
+      "a": "сержант",
+      "qe": "The sergeant gave a command.",
+      "ae": "Сержант дал команду.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "command",
+            "band": "2000->2500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 410,
+      "q": "gigantic",
+      "a": "гигантский",
+      "qe": "The bear's strength is gigantic.",
+      "ae": "Сила медведя гигантская.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "медведя",
+            "band": "2000->2500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 421,
+      "q": "ambassador",
+      "a": "посол",
+      "qe": "The ambassador visited the meeting.",
+      "ae": "Посол посетил встречу.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "visited",
+            "band": "2000->2500"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "посетил",
+            "band": "2000->2500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 432,
+      "q": "jump",
+      "a": "прыгать",
+      "qe": "Cats often jump onto high shelves.",
+      "ae": "Кошки часто прыгают на высокие полки.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "onto",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 433,
+      "q": "to tie",
+      "a": "связывать",
+      "qe": "I learned how to tie knots.",
+      "ae": "Я научился связывать узлы.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "knots",
+            "band": "2000->2500"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "узлы",
+            "band": "2000->2500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 462,
+      "q": "to risk",
+      "a": "рисковать",
+      "qe": "He decided to risk it all.",
+      "ae": "Он решил рискнуть всем.",
+      "issues": {
+        "ru_target": "рисковать | Он решил рискнуть всем.",
+        "ru_vocab": [
+          {
+            "word": "рискнуть",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 476,
+      "q": "beautifully",
+      "a": "красиво",
+      "qe": "She danced beautifully under the stars.",
+      "ae": "Она красиво танцевала под звёздами.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "танцевала",
+            "band": "2000->2500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 482,
+      "q": "ratio",
+      "a": "соотношение",
+      "qe": "The ratio of sugar to water is important.",
+      "ae": "Соотношение сахара и воды важное.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "sugar",
+            "band": "2000->2500"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "сахара",
+            "band": "2000->2500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 489,
+      "q": "flame",
+      "a": "пламя",
+      "qe": "I see the flame of the candle.",
+      "ae": "Я вижу пламя свечи.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "candle",
+            "band": "2000->2500"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "свечи",
+            "band": "2000->2500"
+          }
+        ]
+      }
+    }
+  ]
+}

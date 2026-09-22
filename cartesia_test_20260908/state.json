@@ -1,0 +1,566 @@
+{
+  "cards": [
+    {
+      "number": 1,
+      "cardId": 735501763,
+      "word": "and",
+      "job": {
+        "jobId": "9ff64606ad7917d15ef37149"
+      },
+      "danielJob": {
+        "jobId": "bcb10e8e48f6a3ab37a0b4f1"
+      },
+      "danielNeutralJob": {
+        "jobId": "295367f7b5699d6f752b853b"
+      }
+    },
+    {
+      "number": 2,
+      "cardId": 735501779,
+      "word": "not",
+      "job": {
+        "jobId": "89c4d019cce836d957bb3c40"
+      },
+      "danielJob": {
+        "jobId": "9aac576d23ca977422783c37"
+      },
+      "danielNeutralJob": {
+        "jobId": "22fc7ffeedb00ab479abb5c5"
+      }
+    },
+    {
+      "number": 3,
+      "cardId": 735501798,
+      "word": "I",
+      "job": {
+        "jobId": "c7c77cde8d82766278e58a62"
+      },
+      "danielJob": {
+        "jobId": "3699ba1790b742090259d948"
+      },
+      "danielNeutralJob": {
+        "jobId": "8568d6c5b6103823772a9244"
+      }
+    },
+    {
+      "number": 4,
+      "cardId": 735501819,
+      "word": "with",
+      "job": {
+        "jobId": "baa225424205b45d1493130e"
+      },
+      "danielJob": {
+        "jobId": "51e5e364e4b42dae482bad61"
+      },
+      "danielNeutralJob": {
+        "jobId": "bbe36f828ba9ab2580b6dc23"
+      }
+    },
+    {
+      "number": 5,
+      "cardId": 735501835,
+      "word": "he",
+      "job": {
+        "jobId": "96cc7abfc09a0be692d9b1b4"
+      },
+      "danielJob": {
+        "jobId": "5e601d3a577f8aa606e1229d"
+      },
+      "danielNeutralJob": {
+        "jobId": "7bf7442d0a138780ad05c1fc"
+      }
+    },
+    {
+      "number": 6,
+      "cardId": 735501845,
+      "word": "but",
+      "job": {
+        "jobId": "e128df2fb206be4f75a82ef9"
+      },
+      "danielJob": {
+        "jobId": "2616fd97cf10e531d3ceb312"
+      },
+      "danielNeutralJob": {
+        "jobId": "701e4729762fc23f84a5af92"
+      }
+    },
+    {
+      "number": 7,
+      "cardId": 735502208,
+      "word": "they",
+      "job": {
+        "jobId": "e1f1e15b8f070e3236d5a74a"
+      },
+      "danielJob": {
+        "jobId": "0dcf7f377c50e44cbfd90813"
+      },
+      "danielNeutralJob": {
+        "jobId": "2aa435cbc22f7387fbf6204f"
+      }
+    },
+    {
+      "number": 8,
+      "cardId": 735502222,
+      "word": "we",
+      "job": {
+        "jobId": "a7e501c8a6af681b798f3c5e"
+      },
+      "danielJob": {
+        "jobId": "9b8fbff4da4ad64ec4262ee3"
+      },
+      "danielNeutralJob": {
+        "jobId": "6b8e6414d2bfa79be2915259"
+      }
+    },
+    {
+      "number": 9,
+      "cardId": 735502234,
+      "word": "she",
+      "job": {
+        "jobId": "b3245fa7e16f33a35adf0ba3"
+      },
+      "danielJob": {
+        "jobId": "47535748995efc737e1a3dce"
+      },
+      "danielNeutralJob": {
+        "jobId": "74de56bb1398cd3da27228ed"
+      }
+    },
+    {
+      "number": 10,
+      "cardId": 735502255,
+      "word": "person",
+      "job": {
+        "jobId": "c5c9429671b273a6fa176db4"
+      },
+      "danielJob": {
+        "jobId": "4c16b8ebee9f1980465fb535"
+      },
+      "danielNeutralJob": {
+        "jobId": "99665f1925b0fc68584a491d"
+      }
+    },
+    {
+      "number": 11,
+      "cardId": 735502279,
+      "word": "to say",
+      "job": {
+        "jobId": "376b84febd2d447029292ebf"
+      },
+      "danielJob": {
+        "jobId": "e9784f52c26bdfcdeee066be"
+      },
+      "danielNeutralJob": {
+        "jobId": "7dbe17774ac71cdd5d36709e"
+      }
+    },
+    {
+      "number": 12,
+      "cardId": 735502292,
+      "word": "to know",
+      "job": {
+        "jobId": "d76046c686f38111eb7d0743"
+      },
+      "danielJob": {
+        "jobId": "58c210171e6c16bc9f3c69e6"
+      },
+      "danielNeutralJob": {
+        "jobId": "a8502e84c9d21b1cf7c19360"
+      }
+    },
+    {
+      "number": 13,
+      "cardId": 735502308,
+      "word": "to become",
+      "job": {
+        "jobId": "6dd05e69dcf5c909e23d30ea"
+      },
+      "danielJob": {
+        "jobId": "9b6f94d22db725a5aec4c18e"
+      },
+      "danielNeutralJob": {
+        "jobId": "704ded4d0b4c6ee49eee22e5"
+      }
+    },
+    {
+      "number": 14,
+      "cardId": 735502321,
+      "word": "first",
+      "job": {
+        "jobId": "a804979ce6a188261ff95c38"
+      },
+      "danielJob": {
+        "jobId": "a8996d7666efc36f73346b52"
+      },
+      "danielNeutralJob": {
+        "jobId": "13ebd6d3470503d115e4eaff"
+      }
+    },
+    {
+      "number": 15,
+      "cardId": 735502346,
+      "word": "even",
+      "job": {
+        "jobId": "d64e6e7d0238e448479686d8"
+      },
+      "danielJob": {
+        "jobId": "2587bbab3bddebf9197c4fc3"
+      },
+      "danielNeutralJob": {
+        "jobId": "d0578d6a5ad60b16a8325de7"
+      }
+    },
+    {
+      "number": 16,
+      "cardId": 735502566,
+      "word": "whether",
+      "job": {
+        "jobId": "2e42944cea4b4ee815dd6a6e"
+      },
+      "danielJob": {
+        "jobId": "a15e45ab66ef66bf2357be26"
+      },
+      "danielNeutralJob": {
+        "jobId": "f3d360a9bfe2cd4834c7f09b"
+      }
+    },
+    {
+      "number": 17,
+      "cardId": 735502642,
+      "word": "to have",
+      "job": {
+        "jobId": "ef4d2a88cabf3cc1e9a4fb48"
+      },
+      "danielJob": {
+        "jobId": "28da623c076e98a8fa910cdb"
+      },
+      "danielNeutralJob": {
+        "jobId": "5269d9adde5de017f828d0b6"
+      }
+    },
+    {
+      "number": 18,
+      "cardId": 735502658,
+      "word": "question",
+      "job": {
+        "jobId": "404cd5bb374c676afeca8f33"
+      },
+      "danielJob": {
+        "jobId": "ee01efdaedbf5f51a8152f50"
+      },
+      "danielNeutralJob": {
+        "jobId": "08197818368c059d0d256062"
+      }
+    },
+    {
+      "number": 19,
+      "cardId": 735502680,
+      "word": "place",
+      "job": {
+        "jobId": "750e816cd6db4fc2253d982a"
+      },
+      "danielJob": {
+        "jobId": "bafaf0a79813325bb3bae934"
+      },
+      "danielNeutralJob": {
+        "jobId": "ef6a6675472a6ac798ac12e0"
+      }
+    },
+    {
+      "number": 20,
+      "cardId": 735502697,
+      "word": "friend",
+      "job": {
+        "jobId": "cfe3efefe74d29679531345c"
+      },
+      "danielJob": {
+        "jobId": "7466ce375126f0425004f4f2"
+      },
+      "danielNeutralJob": {
+        "jobId": "6a0cfaa30e97e27b05d7022e"
+      }
+    }
+  ],
+  "pack": {
+    "cardCount": 0,
+    "createdAt": "2026-09-08T16:16:20.000Z",
+    "deckCount": 0,
+    "deckRows": [],
+    "desc": "20-card audio sample. English answer only: word, half-second pause, full example sentence. Skylar, General American. KEEP for manual validation.",
+    "fullName": "Russian to English — Cartesia TEST 2026-09-08",
+    "mixType": "progressive",
+    "name": "Russian to English — Cartesia TEST 2026-09-08",
+    "packId": 24125405,
+    "private": false,
+    "updatedAt": "2026-09-08T16:16:20.000Z",
+    "vkey": "pv1:24125405:1788884180.0:pc:1788884180.0",
+    "permission": "admin",
+    "discoveryMedium": "created",
+    "creatorName": "Nikita Sokolsky",
+    "creatorAvatarUrl": "https://s3.amazonaws.com/brainscape-prod/system/um/008/426/792/avatar_square.jpg?1678655780",
+    "flags": {
+      "canCopy": false,
+      "canDelete": true,
+      "canEditDecks": true,
+      "canEditMetadata": true,
+      "canGrantPermissions": true,
+      "canView": true,
+      "isCertified": false,
+      "isPrivate": false,
+      "uponPro": {
+        "canCopy": true,
+        "canDelete": true,
+        "canEditDecks": true,
+        "canEditMetadata": true,
+        "canGrantPermissions": true,
+        "canView": true
+      },
+      "areDecksEditable": true,
+      "isDeletable": true,
+      "isDuplicatable": false,
+      "isEditable": true
+    },
+    "paths": {
+      "creatorProfilePath": "/profiles/8425783",
+      "dashboardPath": "/l/dashboard/russian-to-english-cartesia-test-2026-09-08-24125405",
+      "enrollmentPath": "/packs/24125405/subscribe",
+      "exportPath": "/packs/24125405/exports.csv",
+      "importPath": "/packs/24125405/add?html_options=hide",
+      "learnersPath": "/l/dashboard/24125405/learners",
+      "shareCompactLink": "https://www.brainscape.com/packs/24125405",
+      "shareLink": "https://www.brainscape.com/p/50M5K-LH-ED3A5",
+      "sharePreviewLink": "https://www.brainscape.com/packs/russian-to-english-cartesia-test-2026-09-08-24125405"
+    },
+    "stats": {
+      "cardCount": 0,
+      "deckCount": 0,
+      "levelCounts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mastery": 0,
+      "percentages": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "seenCount": 0,
+      "subscriberCount": 1,
+      "estTimeLeft": null,
+      "studyRate": null,
+      "totalConfidence": 0,
+      "timeStudied": 0
+    }
+  },
+  "deck": {
+    "aLang": "en",
+    "cardIds": [
+      735501763,
+      735501779,
+      735501798,
+      735501819,
+      735501835,
+      735501845,
+      735502208,
+      735502222,
+      735502234,
+      735502255,
+      735502279,
+      735502292,
+      735502308,
+      735502321,
+      735502346,
+      735502566,
+      735502642,
+      735502658,
+      735502680,
+      735502697
+    ],
+    "contentType": "md",
+    "createdAt": "2026-09-08T16:16:23.000Z",
+    "deckId": 22995414,
+    "desc": "Cartesia Sonic 3.6, en-US. Word + 500 ms pause + example. Separate copies; original vocabulary decks unchanged.",
+    "name": "20 English answers — Daniel neutral — KEEP",
+    "qLang": "",
+    "updatedAt": "2026-09-08T16:32:41.000Z",
+    "vkey": "dv1:22995414:1788885161.0:mdr:v1",
+    "position": 1,
+    "flags": {
+      "canCopy": false,
+      "canDelete": true,
+      "canDuplicate": false,
+      "canEdit": true,
+      "canExport": true,
+      "canMirror": false,
+      "canMove": true,
+      "canStudy": true,
+      "isLocked": false,
+      "uponPro": {
+        "canCopy": true,
+        "canDelete": true,
+        "canDuplicate": true,
+        "canEdit": true,
+        "canExport": true,
+        "canMirror": true,
+        "canMove": true,
+        "canStudy": true
+      },
+      "isDuplicatable": false,
+      "isEditable": true
+    },
+    "stats": {
+      "cardCount": 20,
+      "levelCounts": [
+        16,
+        4,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mastery": 0.04,
+      "percentages": [
+        80,
+        20,
+        0,
+        0,
+        0,
+        0
+      ],
+      "seenCount": 4
+    }
+  },
+  "verified": [
+    {
+      "cardId": 735501763,
+      "number": 1,
+      "answerAudioVerified": true,
+      "sha256": "fcacde6f5f0657695c3d889e472c0d54339ffb1c1d226b53172525ef632ee7a9"
+    },
+    {
+      "cardId": 735501779,
+      "number": 2,
+      "answerAudioVerified": true,
+      "sha256": "4c2910cc59d17358d01985bbd9165fa008d570f3a2112339fe4504c6e177a94c"
+    },
+    {
+      "cardId": 735501798,
+      "number": 3,
+      "answerAudioVerified": true,
+      "sha256": "de0caa877690b5bbe943b370e5d78c80f3ae421d4e09960b878a892b1bdebab8"
+    },
+    {
+      "cardId": 735501819,
+      "number": 4,
+      "answerAudioVerified": true,
+      "sha256": "6d9933902830d24c7ca10278d55eaeb1dac13b42eaf5a4061319a2277f012e36"
+    },
+    {
+      "cardId": 735501835,
+      "number": 5,
+      "answerAudioVerified": true,
+      "sha256": "38f6c133a50839c5edd3034d146b8364d8de17de86a6a89eb863daaf6dc6689d"
+    },
+    {
+      "cardId": 735501845,
+      "number": 6,
+      "answerAudioVerified": true,
+      "sha256": "3efa6f52635d7c12731cb690bcd677f1da758f054b9e2ddccfb28374a65529e3"
+    },
+    {
+      "cardId": 735502208,
+      "number": 7,
+      "answerAudioVerified": true,
+      "sha256": "5dfba67301b3b07ed442fdf8e60432613ce2b3eafdfa10a3666cefae153f02d4"
+    },
+    {
+      "cardId": 735502222,
+      "number": 8,
+      "answerAudioVerified": true,
+      "sha256": "342108e9a2ebdf41c9a7e997fc0f1b0a13bd9f01d1ce7b0833dba54e207f7608"
+    },
+    {
+      "cardId": 735502234,
+      "number": 9,
+      "answerAudioVerified": true,
+      "sha256": "499c26e8ae05470002041693a9ae6925e6568dbd59f0b8e0da19590df59375bb"
+    },
+    {
+      "cardId": 735502255,
+      "number": 10,
+      "answerAudioVerified": true,
+      "sha256": "dbb7d56b5e875ea9cde9c1b1d2b60a3fe4d878bf585cb10285850ec2ffc08a5f"
+    },
+    {
+      "cardId": 735502279,
+      "number": 11,
+      "answerAudioVerified": true,
+      "sha256": "2c90f56c948fb52bb9f1f6dd76d62c90988d28cfe8869f872792c77e4072b245"
+    },
+    {
+      "cardId": 735502292,
+      "number": 12,
+      "answerAudioVerified": true,
+      "sha256": "1930e844298543255460a629c87ad3f99b745e29b442eaf857876a13ff6ea9ca"
+    },
+    {
+      "cardId": 735502308,
+      "number": 13,
+      "answerAudioVerified": true,
+      "sha256": "59b080fffc01c5fdb664873e6867dbbc36dbd8159a21d0da3b980ceb4989d3ea"
+    },
+    {
+      "cardId": 735502321,
+      "number": 14,
+      "answerAudioVerified": true,
+      "sha256": "9469e6f0972849e378396562ee7f83a4023a42f27d4ae144de6727b2eab71fe1"
+    },
+    {
+      "cardId": 735502346,
+      "number": 15,
+      "answerAudioVerified": true,
+      "sha256": "20f5dd7267526201f3797dd33ff8cd4423254864abf8f0d5fedee41ab807e12f"
+    },
+    {
+      "cardId": 735502566,
+      "number": 16,
+      "answerAudioVerified": true,
+      "sha256": "efd3956483cbaff7fa7358d4ea36e19c860b87c92efe0796a1a7fd23b56ec159"
+    },
+    {
+      "cardId": 735502642,
+      "number": 17,
+      "answerAudioVerified": true,
+      "sha256": "ed98ffdffe5ff8289ea6830a63a266ad563cab8afefa03badd948c6407bc199a"
+    },
+    {
+      "cardId": 735502658,
+      "number": 18,
+      "answerAudioVerified": true,
+      "sha256": "026bf7f686b60ada60bd5aacb443a14e1250344cb8a163c854dca83efe09cf07"
+    },
+    {
+      "cardId": 735502680,
+      "number": 19,
+      "answerAudioVerified": true,
+      "sha256": "19886e3f33bf925c3f6ced93fa14f2204df757139691c6ac4e998f1b91efe5a0"
+    },
+    {
+      "cardId": 735502697,
+      "number": 20,
+      "answerAudioVerified": true,
+      "sha256": "71fc67879679c32812eb7aad8b3b215853e948bcb6f80e14c7504d4948a33117"
+    }
+  ],
+  "private": false,
+  "voice": "Daniel",
+  "danielVerified": 20,
+  "danielNeutralVerified": 20
+}

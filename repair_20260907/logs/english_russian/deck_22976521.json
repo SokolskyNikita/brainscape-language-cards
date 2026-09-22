@@ -1,0 +1,2499 @@
+{
+  "deck": "22976521",
+  "pack": "english_russian",
+  "reviewed": 500,
+  "changed": 166,
+  "notes": "Full first pass plus independent full second pass; complete original-to-final change log.",
+  "changes": [
+    {
+      "row": 4,
+      "before": {
+        "qMdBody": "possessed, obsessed",
+        "aMdBody": "одержимый",
+        "qMdFootnote": "She seemed possessed by a strange energy.",
+        "aMdFootnote": "Она казалась одержимой странной энергией."
+      },
+      "after": {
+        "qMdBody": "possessed, obsessed",
+        "aMdBody": "одержимый",
+        "qMdFootnote": "She is obsessed with music.",
+        "aMdFootnote": "Она одержима музыкой."
+      }
+    },
+    {
+      "row": 8,
+      "before": {
+        "qMdBody": "to stretch, to tighten",
+        "aMdBody": "натягивать",
+        "qMdFootnote": "I will stretch the cloth.",
+        "aMdFootnote": "Я натяну ткань."
+      },
+      "after": {
+        "qMdBody": "to stretch, to tighten",
+        "aMdBody": "натягивать",
+        "qMdFootnote": "I am stretching the cloth.",
+        "aMdFootnote": "Я натягиваю ткань."
+      }
+    },
+    {
+      "row": 10,
+      "before": {
+        "qMdBody": "relief, terrain",
+        "aMdBody": "рельеф",
+        "qMdFootnote": "The mountain relief is high.",
+        "aMdFootnote": "Рельеф горы высокий."
+      },
+      "after": {
+        "qMdBody": "relief, terrain",
+        "aMdBody": "рельеф",
+        "qMdFootnote": "The terrain is uneven.",
+        "aMdFootnote": "Рельеф неровный."
+      }
+    },
+    {
+      "row": 15,
+      "before": {
+        "qMdBody": "tight, stiff",
+        "aMdBody": "тугой",
+        "qMdFootnote": "The screw is too tight.",
+        "aMdFootnote": "Винт слишком тугой."
+      },
+      "after": {
+        "qMdBody": "tight, stiff",
+        "aMdBody": "тугой",
+        "qMdFootnote": "The lid is too tight.",
+        "aMdFootnote": "Крышка слишком тугая."
+      }
+    },
+    {
+      "row": 17,
+      "before": {
+        "qMdBody": "dissolve, disperse",
+        "aMdBody": "растворяться",
+        "qMdFootnote": "Sugar will dissolve in water quickly.",
+        "aMdFootnote": "Сахар быстро растворится в воде."
+      },
+      "after": {
+        "qMdBody": "dissolve",
+        "aMdBody": "растворяться",
+        "qMdFootnote": "Sugar dissolves in water.",
+        "aMdFootnote": "Сахар растворяется в воде."
+      }
+    },
+    {
+      "row": 23,
+      "before": {
+        "qMdBody": "scarf, shawl",
+        "aMdBody": "шарф",
+        "qMdFootnote": "She put on a warm scarf.",
+        "aMdFootnote": "Она надела тёплый шарф."
+      },
+      "after": {
+        "qMdBody": "scarf",
+        "aMdBody": "шарф",
+        "qMdFootnote": "She put on a warm scarf.",
+        "aMdFootnote": "Она надела тёплый шарф."
+      }
+    },
+    {
+      "row": 26,
+      "before": {
+        "qMdBody": "dean, dean's office",
+        "aMdBody": "декан",
+        "qMdFootnote": "The dean greeted the students.",
+        "aMdFootnote": "Декан приветствовал студентов."
+      },
+      "after": {
+        "qMdBody": "dean",
+        "aMdBody": "декан",
+        "qMdFootnote": "The dean greeted the students.",
+        "aMdFootnote": "Декан приветствовал студентов."
+      }
+    },
+    {
+      "row": 32,
+      "before": {
+        "qMdBody": "hinder, impede",
+        "aMdBody": "затруднять",
+        "qMdFootnote": "Heavy rain can hinder the work.",
+        "aMdFootnote": "Сильный дождь может затруднить работу."
+      },
+      "after": {
+        "qMdBody": "hinder, impede",
+        "aMdBody": "затруднять",
+        "qMdFootnote": "Heavy rain hinders the work.",
+        "aMdFootnote": "Сильный дождь затрудняет работу."
+      }
+    },
+    {
+      "row": 33,
+      "before": {
+        "qMdBody": "washing, laundry",
+        "aMdBody": "стиральный",
+        "qMdFootnote": "The washing machine is broken.",
+        "aMdFootnote": "Стиральная машина сломана."
+      },
+      "after": {
+        "qMdBody": "washing, laundry",
+        "aMdBody": "стирка",
+        "qMdFootnote": "The washing takes time.",
+        "aMdFootnote": "Стирка занимает время."
+      }
+    },
+    {
+      "row": 35,
+      "before": {
+        "qMdBody": "receipt, voucher",
+        "aMdBody": "квитанция",
+        "qMdFootnote": "Keep your receipt.",
+        "aMdFootnote": "Храните квитанцию."
+      },
+      "after": {
+        "qMdBody": "receipt",
+        "aMdBody": "квитанция",
+        "qMdFootnote": "Keep your receipt.",
+        "aMdFootnote": "Храните квитанцию."
+      }
+    },
+    {
+      "row": 36,
+      "before": {
+        "qMdBody": "trench, dugout",
+        "aMdBody": "траншея",
+        "qMdFootnote": "Soldiers dug a trench.",
+        "aMdFootnote": "Солдаты вырыли траншею."
+      },
+      "after": {
+        "qMdBody": "trench, dugout",
+        "aMdBody": "траншея",
+        "qMdFootnote": "Soldiers are in the trench.",
+        "aMdFootnote": "Солдаты в траншее."
+      }
+    },
+    {
+      "row": 41,
+      "before": {
+        "qMdBody": "swallow, martin",
+        "aMdBody": "ласточка",
+        "qMdFootnote": "A swallow flew over the lake.",
+        "aMdFootnote": "Ласточка пролетела над озером."
+      },
+      "after": {
+        "qMdBody": "swallow",
+        "aMdBody": "ласточка",
+        "qMdFootnote": "The swallow flies.",
+        "aMdFootnote": "Ласточка летит."
+      }
+    },
+    {
+      "row": 42,
+      "before": {
+        "qMdBody": "cardboard, carton",
+        "aMdBody": "картонный",
+        "qMdFootnote": "I bought a cardboard box.",
+        "aMdFootnote": "Я купил картонный ящик."
+      },
+      "after": {
+        "qMdBody": "cardboard",
+        "aMdBody": "картонный",
+        "qMdFootnote": "I bought a cardboard box.",
+        "aMdFootnote": "Я купил картонный ящик."
+      }
+    },
+    {
+      "row": 44,
+      "before": {
+        "qMdBody": "register, registry",
+        "aMdBody": "регистр",
+        "qMdFootnote": "Write your name in the register.",
+        "aMdFootnote": "Напиши своё имя в регистр."
+      },
+      "after": {
+        "qMdBody": "register",
+        "aMdBody": "регистр",
+        "qMdFootnote": "Use a formal register.",
+        "aMdFootnote": "Используйте официальный регистр."
+      }
+    },
+    {
+      "row": 45,
+      "before": {
+        "qMdBody": "but, however",
+        "aMdBody": "однако",
+        "qMdFootnote": "I tried, however I failed.",
+        "aMdFootnote": "Я пытался, однако не смог."
+      },
+      "after": {
+        "qMdBody": "but, however",
+        "aMdBody": "однако",
+        "qMdFootnote": "I tried; however, I failed.",
+        "aMdFootnote": "Я пытался, однако не смог."
+      }
+    },
+    {
+      "row": 46,
+      "before": {
+        "qMdBody": "playwright, dramatist",
+        "aMdBody": "драматург",
+        "qMdFootnote": "The playwright wrote a book.",
+        "aMdFootnote": "Драматург написал книгу."
+      },
+      "after": {
+        "qMdBody": "playwright, dramatist",
+        "aMdBody": "драматург",
+        "qMdFootnote": "The playwright writes.",
+        "aMdFootnote": "Драматург пишет."
+      }
+    },
+    {
+      "row": 50,
+      "before": {
+        "qMdBody": "insufficiency, deficiency",
+        "aMdBody": "недостаточность",
+        "qMdFootnote": "The insufficiency of water is clear.",
+        "aMdFootnote": "Недостаточность воды ясна."
+      },
+      "after": {
+        "qMdBody": "insufficiency, deficiency",
+        "aMdBody": "недостаточность",
+        "qMdFootnote": "Water insufficiency is dangerous.",
+        "aMdFootnote": "Недостаточность воды опасна."
+      }
+    },
+    {
+      "row": 51,
+      "before": {
+        "qMdBody": "close, lock",
+        "aMdBody": "замкнуть",
+        "qMdFootnote": "Please close the chain.",
+        "aMdFootnote": "Пожалуйста, замкните цепь."
+      },
+      "after": {
+        "qMdBody": "close, lock",
+        "aMdBody": "замкнуть",
+        "qMdFootnote": "Please lock the door.",
+        "aMdFootnote": "Пожалуйста, замкните дверь."
+      }
+    },
+    {
+      "row": 57,
+      "before": {
+        "qMdBody": "jar, little jar",
+        "aMdBody": "баночка",
+        "qMdFootnote": "I opened the jar.",
+        "aMdFootnote": "Я открыл баночку."
+      },
+      "after": {
+        "qMdBody": "jar, little jar",
+        "aMdBody": "баночка",
+        "qMdFootnote": "I opened a little jar.",
+        "aMdFootnote": "Я открыл баночку."
+      }
+    },
+    {
+      "row": 63,
+      "before": {
+        "qMdBody": "certification, certification process",
+        "aMdBody": "сертификация",
+        "qMdFootnote": "I got my certification yesterday.",
+        "aMdFootnote": "Я получил сертификацию вчера."
+      },
+      "after": {
+        "qMdBody": "certification",
+        "aMdBody": "сертификация",
+        "qMdFootnote": "Certification takes time.",
+        "aMdFootnote": "Сертификация занимает время."
+      }
+    },
+    {
+      "row": 64,
+      "before": {
+        "qMdBody": "informatics, computer science",
+        "aMdBody": "информатика",
+        "qMdFootnote": "I study informatics at the university.",
+        "aMdFootnote": "Я изучаю информатику в университете."
+      },
+      "after": {
+        "qMdBody": "informatics, computer science",
+        "aMdBody": "информатика",
+        "qMdFootnote": "Informatics matters.",
+        "aMdFootnote": "Информатика важна."
+      }
+    },
+    {
+      "row": 69,
+      "before": {
+        "qMdBody": "badly, poorly",
+        "aMdBody": "худо",
+        "qMdFootnote": "He sings badly.",
+        "aMdFootnote": "Он поёт худо."
+      },
+      "after": {
+        "qMdBody": "badly, poorly",
+        "aMdBody": "плохо",
+        "qMdFootnote": "He sings badly.",
+        "aMdFootnote": "Он поёт плохо."
+      }
+    },
+    {
+      "row": 71,
+      "before": {
+        "qMdBody": "finishing, trim",
+        "aMdBody": "отделка",
+        "qMdFootnote": "The finishing on the table is good.",
+        "aMdFootnote": "Отделка стола хорошая."
+      },
+      "after": {
+        "qMdBody": "finishing, trim",
+        "aMdBody": "отделка",
+        "qMdFootnote": "The table's trim is good.",
+        "aMdFootnote": "Отделка стола хорошая."
+      }
+    },
+    {
+      "row": 75,
+      "before": {
+        "qMdBody": "to drag on, to tighten",
+        "aMdBody": "затягивать",
+        "qMdFootnote": "The meeting began to drag on.",
+        "aMdFootnote": "Встреча начала затягиваться."
+      },
+      "after": {
+        "qMdBody": "to drag on, to tighten",
+        "aMdBody": "затягиваться",
+        "qMdFootnote": "The meeting drags on.",
+        "aMdFootnote": "Встреча затягивается."
+      }
+    },
+    {
+      "row": 76,
+      "before": {
+        "qMdBody": "to pull oneself together, to realize",
+        "aMdBody": "спохватиться",
+        "qMdFootnote": "He realized it too late.",
+        "aMdFootnote": "Он спохватился слишком поздно."
+      },
+      "after": {
+        "qMdBody": "to realize too late",
+        "aMdBody": "спохватиться слишком поздно",
+        "qMdFootnote": "He realized it too late.",
+        "aMdFootnote": "Он спохватился слишком поздно."
+      }
+    },
+    {
+      "row": 79,
+      "before": {
+        "qMdBody": "discuss, agree upon",
+        "aMdBody": "оговорить",
+        "qMdFootnote": "Let's agree upon the price.",
+        "aMdFootnote": "Давайте оговорим цену."
+      },
+      "after": {
+        "qMdBody": "agree upon",
+        "aMdBody": "оговорить",
+        "qMdFootnote": "Let's agree upon the price.",
+        "aMdFootnote": "Давайте оговорим цену."
+      }
+    },
+    {
+      "row": 83,
+      "before": {
+        "qMdBody": "beat off, repel",
+        "aMdBody": "отбивать",
+        "qMdFootnote": "They beat off the enemy.",
+        "aMdFootnote": "Они отбили врага."
+      },
+      "after": {
+        "qMdBody": "beat off, repel",
+        "aMdBody": "отбивать",
+        "qMdFootnote": "They are beating off the enemy.",
+        "aMdFootnote": "Они отбивают врага."
+      }
+    },
+    {
+      "row": 86,
+      "before": {
+        "qMdBody": "intercourse, relations",
+        "aMdBody": "сношение",
+        "qMdFootnote": "They had intercourse.",
+        "aMdFootnote": "У них было сношение."
+      },
+      "after": {
+        "qMdBody": "intercourse",
+        "aMdBody": "половые отношения",
+        "qMdFootnote": "They had intercourse.",
+        "aMdFootnote": "У них были половые отношения."
+      }
+    },
+    {
+      "row": 93,
+      "before": {
+        "qMdBody": "mystery, sacrament",
+        "aMdBody": "таинство",
+        "qMdFootnote": "Marriage is a sacrament.",
+        "aMdFootnote": "Брак — это таинство."
+      },
+      "after": {
+        "qMdBody": "sacrament",
+        "aMdBody": "таинство",
+        "qMdFootnote": "Marriage is a sacrament.",
+        "aMdFootnote": "Брак — это таинство."
+      }
+    },
+    {
+      "row": 96,
+      "before": {
+        "qMdBody": "Nazi, fascist",
+        "aMdBody": "нацист",
+        "qMdFootnote": "He was a Nazi.",
+        "aMdFootnote": "Он был нацистом."
+      },
+      "after": {
+        "qMdBody": "Nazi",
+        "aMdBody": "нацист",
+        "qMdFootnote": "He was a Nazi.",
+        "aMdFootnote": "Он был нацистом."
+      }
+    },
+    {
+      "row": 97,
+      "before": {
+        "qMdBody": "employment, job placement",
+        "aMdBody": "трудоустройство",
+        "qMdFootnote": "She found employment.",
+        "aMdFootnote": "Она нашла трудоустройство."
+      },
+      "after": {
+        "qMdBody": "employment, job placement",
+        "aMdBody": "трудоустройство",
+        "qMdFootnote": "Job placement took a week.",
+        "aMdFootnote": "Трудоустройство заняло неделю."
+      }
+    },
+    {
+      "row": 98,
+      "before": {
+        "qMdBody": "petal, leaflet",
+        "aMdBody": "лепесток",
+        "qMdFootnote": "A petal fell down.",
+        "aMdFootnote": "Лепесток упал вниз."
+      },
+      "after": {
+        "qMdBody": "petal",
+        "aMdBody": "лепесток",
+        "qMdFootnote": "A petal fell down.",
+        "aMdFootnote": "Лепесток упал вниз."
+      }
+    },
+    {
+      "row": 99,
+      "before": {
+        "qMdBody": "communicative, communicational",
+        "aMdBody": "коммуникативный",
+        "qMdFootnote": "She's very communicative.",
+        "aMdFootnote": "Она очень коммуникативная."
+      },
+      "after": {
+        "qMdBody": "sociable, communicative",
+        "aMdBody": "коммуникабельный",
+        "qMdFootnote": "She is very sociable.",
+        "aMdFootnote": "Она очень коммуникабельная."
+      }
+    },
+    {
+      "row": 102,
+      "before": {
+        "qMdBody": "performance, protrusion",
+        "aMdBody": "выступ",
+        "qMdFootnote": "There is a protrusion on the wall.",
+        "aMdFootnote": "На стене есть выступ."
+      },
+      "after": {
+        "qMdBody": "protrusion",
+        "aMdBody": "выступ",
+        "qMdFootnote": "There is a protrusion on the wall.",
+        "aMdFootnote": "На стене есть выступ."
+      }
+    },
+    {
+      "row": 103,
+      "before": {
+        "qMdBody": "training, practice",
+        "aMdBody": "тренировочный",
+        "qMdFootnote": "This is a training camp.",
+        "aMdFootnote": "Это тренировочный лагерь."
+      },
+      "after": {
+        "qMdBody": "training",
+        "aMdBody": "тренировочный",
+        "qMdFootnote": "This is a training camp.",
+        "aMdFootnote": "Это тренировочный лагерь."
+      }
+    },
+    {
+      "row": 107,
+      "before": {
+        "qMdBody": "educational, instructive",
+        "aMdBody": "поучительный",
+        "qMdFootnote": "The movie was educational.",
+        "aMdFootnote": "Фильм был поучительным."
+      },
+      "after": {
+        "qMdBody": "instructive",
+        "aMdBody": "поучительный",
+        "qMdFootnote": "The movie was instructive.",
+        "aMdFootnote": "Фильм был поучительным."
+      }
+    },
+    {
+      "row": 108,
+      "before": {
+        "qMdBody": "cylinder, tank",
+        "aMdBody": "баллон",
+        "qMdFootnote": "The cylinder is empty.",
+        "aMdFootnote": "Баллон пустой."
+      },
+      "after": {
+        "qMdBody": "gas cylinder",
+        "aMdBody": "баллон",
+        "qMdFootnote": "The gas cylinder is empty.",
+        "aMdFootnote": "Баллон пустой."
+      }
+    },
+    {
+      "row": 112,
+      "before": {
+        "qMdBody": "to hear, to overhear",
+        "aMdBody": "услыхать",
+        "qMdFootnote": "I heard his words.",
+        "aMdFootnote": "Я услыхал его слова."
+      },
+      "after": {
+        "qMdBody": "to hear",
+        "aMdBody": "услышать",
+        "qMdFootnote": "I heard his words.",
+        "aMdFootnote": "Я услышал его слова."
+      }
+    },
+    {
+      "row": 122,
+      "before": {
+        "qMdBody": "auditor, listener",
+        "aMdBody": "аудитор",
+        "qMdFootnote": "The auditor came yesterday.",
+        "aMdFootnote": "Аудитор пришёл вчера."
+      },
+      "after": {
+        "qMdBody": "auditor",
+        "aMdBody": "аудитор",
+        "qMdFootnote": "The auditor came yesterday.",
+        "aMdFootnote": "Аудитор пришёл вчера."
+      }
+    },
+    {
+      "row": 123,
+      "before": {
+        "qMdBody": "inheritance, heritage",
+        "aMdBody": "наследование",
+        "qMdFootnote": "Inheritance of land is hard.",
+        "aMdFootnote": "Наследование земли трудное."
+      },
+      "after": {
+        "qMdBody": "inheritance",
+        "aMdBody": "наследование",
+        "qMdFootnote": "Inheritance of land is hard.",
+        "aMdFootnote": "Наследование земли трудное."
+      }
+    },
+    {
+      "row": 124,
+      "before": {
+        "qMdBody": "layout, arrangement",
+        "aMdBody": "уклад",
+        "qMdFootnote": "This old layout of life is simple.",
+        "aMdFootnote": "Этот старый уклад жизни простой."
+      },
+      "after": {
+        "qMdBody": "way of life",
+        "aMdBody": "уклад",
+        "qMdFootnote": "This old way of life is simple.",
+        "aMdFootnote": "Этот старый уклад жизни прост."
+      }
+    },
+    {
+      "row": 135,
+      "before": {
+        "qMdBody": "guest, visitor",
+        "aMdBody": "гостья",
+        "qMdFootnote": "The guest arrived early.",
+        "aMdFootnote": "Гостья прибыла рано."
+      },
+      "after": {
+        "qMdBody": "female guest",
+        "aMdBody": "гостья",
+        "qMdFootnote": "The female guest arrived early.",
+        "aMdFootnote": "Гостья прибыла рано."
+      }
+    },
+    {
+      "row": 142,
+      "before": {
+        "qMdBody": "coffee, coffee-related",
+        "aMdBody": "кофейный",
+        "qMdFootnote": "This is coffee color.",
+        "aMdFootnote": "Это кофейный цвет."
+      },
+      "after": {
+        "qMdBody": "coffee, coffee-related",
+        "aMdBody": "кофейный",
+        "qMdFootnote": "This is coffee-colored.",
+        "aMdFootnote": "Это кофейный цвет."
+      }
+    },
+    {
+      "row": 147,
+      "before": {
+        "qMdBody": "blast furnace, domain",
+        "aMdBody": "доменный",
+        "qMdFootnote": "This is a blast furnace plant.",
+        "aMdFootnote": "Это доменный завод."
+      },
+      "after": {
+        "qMdBody": "blast furnace",
+        "aMdBody": "доменная печь",
+        "qMdFootnote": "The blast furnace is hot.",
+        "aMdFootnote": "Доменная печь горячая."
+      }
+    },
+    {
+      "row": 154,
+      "before": {
+        "qMdBody": "increase, rise",
+        "aMdBody": "повыситься",
+        "qMdFootnote": "Prices will increase soon.",
+        "aMdFootnote": "Цены скоро повысятся."
+      },
+      "after": {
+        "qMdBody": "increase, rise",
+        "aMdBody": "повышаться",
+        "qMdFootnote": "Prices rise.",
+        "aMdFootnote": "Цены повышаются."
+      }
+    },
+    {
+      "row": 156,
+      "before": {
+        "qMdBody": "to calm down, to settle down",
+        "aMdBody": "успокаиваться",
+        "qMdFootnote": "Please calm down.",
+        "aMdFootnote": "Пожалуйста, успокаивайтесь."
+      },
+      "after": {
+        "qMdBody": "to calm down, to settle down",
+        "aMdBody": "успокоиться",
+        "qMdFootnote": "Please calm down.",
+        "aMdFootnote": "Пожалуйста, успокойтесь."
+      }
+    },
+    {
+      "row": 160,
+      "before": {
+        "qMdBody": "wardrobe, closet",
+        "aMdBody": "гардероб",
+        "qMdFootnote": "She opened her wardrobe.",
+        "aMdFootnote": "Она открыла свой гардероб."
+      },
+      "after": {
+        "qMdBody": "wardrobe, closet",
+        "aMdBody": "гардероб",
+        "qMdFootnote": "Her wardrobe is large.",
+        "aMdFootnote": "Её гардероб велик."
+      }
+    },
+    {
+      "row": 164,
+      "before": {
+        "qMdBody": "goal, naked",
+        "aMdBody": "гол",
+        "qMdFootnote": "He scored a goal.",
+        "aMdFootnote": "Он забил гол."
+      },
+      "after": {
+        "qMdBody": "goal",
+        "aMdBody": "гол",
+        "qMdFootnote": "He scored a goal.",
+        "aMdFootnote": "Он забил гол."
+      }
+    },
+    {
+      "row": 166,
+      "before": {
+        "qMdBody": "bring in, enter",
+        "aMdBody": "заносить",
+        "qMdFootnote": "Please bring in the box.",
+        "aMdFootnote": "Пожалуйста, заносите ящик."
+      },
+      "after": {
+        "qMdBody": "bring in, enter",
+        "aMdBody": "заносить",
+        "qMdFootnote": "They bring in boxes.",
+        "aMdFootnote": "Они заносят ящики."
+      }
+    },
+    {
+      "row": 169,
+      "before": {
+        "qMdBody": "hallucination, illusion",
+        "aMdBody": "галлюцинация",
+        "qMdFootnote": "It was a hallucination.",
+        "aMdFootnote": "Это была галлюцинация."
+      },
+      "after": {
+        "qMdBody": "hallucination",
+        "aMdBody": "галлюцинация",
+        "qMdFootnote": "It was a hallucination.",
+        "aMdFootnote": "Это была галлюцинация."
+      }
+    },
+    {
+      "row": 172,
+      "before": {
+        "qMdBody": "scratch, itch",
+        "aMdBody": "почесать",
+        "qMdFootnote": "I need to scratch my hand.",
+        "aMdFootnote": "Мне нужно почесать руку."
+      },
+      "after": {
+        "qMdBody": "scratch",
+        "aMdBody": "почесать",
+        "qMdFootnote": "I need to scratch my hand.",
+        "aMdFootnote": "Мне нужно почесать руку."
+      }
+    },
+    {
+      "row": 177,
+      "before": {
+        "qMdBody": "mental, psychological",
+        "aMdBody": "ментальный",
+        "qMdFootnote": "This is a mental problem.",
+        "aMdFootnote": "Это ментальная проблема."
+      },
+      "after": {
+        "qMdBody": "mental, psychological",
+        "aMdBody": "ментальный",
+        "qMdFootnote": "This is a mental process.",
+        "aMdFootnote": "Это ментальный процесс."
+      }
+    },
+    {
+      "row": 178,
+      "before": {
+        "qMdBody": "inevitability, unavoidability",
+        "aMdBody": "неизбежность",
+        "qMdFootnote": "I know the inevitability of death.",
+        "aMdFootnote": "Я знаю неизбежность смерти."
+      },
+      "after": {
+        "qMdBody": "inevitability, unavoidability",
+        "aMdBody": "неизбежность",
+        "qMdFootnote": "I accept the inevitability of death.",
+        "aMdFootnote": "Я принимаю неизбежность смерти."
+      }
+    },
+    {
+      "row": 181,
+      "before": {
+        "qMdBody": "to plug, to shut up",
+        "aMdBody": "заткнуть",
+        "qMdFootnote": "Please plug the hole.",
+        "aMdFootnote": "Пожалуйста, заткните дыру."
+      },
+      "after": {
+        "qMdBody": "to plug",
+        "aMdBody": "заткнуть",
+        "qMdFootnote": "Please plug the hole.",
+        "aMdFootnote": "Пожалуйста, заткните дыру."
+      }
+    },
+    {
+      "row": 183,
+      "before": {
+        "qMdBody": "parting, separation",
+        "aMdBody": "расставание",
+        "qMdFootnote": "Parting is hard.",
+        "aMdFootnote": "Расставание трудное."
+      },
+      "after": {
+        "qMdBody": "parting, separation",
+        "aMdBody": "расставание",
+        "qMdFootnote": "Our parting was difficult.",
+        "aMdFootnote": "Наше расставание было трудным."
+      }
+    },
+    {
+      "row": 197,
+      "before": {
+        "qMdBody": "audit, inspection",
+        "aMdBody": "аудит",
+        "qMdFootnote": "We must prepare for the audit.",
+        "aMdFootnote": "Мы должны подготовиться к аудиту."
+      },
+      "after": {
+        "qMdBody": "audit, inspection",
+        "aMdBody": "аудит",
+        "qMdFootnote": "The audit matters.",
+        "aMdFootnote": "Аудит важен."
+      }
+    },
+    {
+      "row": 198,
+      "before": {
+        "qMdBody": "excessively, overly",
+        "aMdBody": "чрезмерно",
+        "qMdFootnote": "He drinks coffee excessively.",
+        "aMdFootnote": "Он чрезмерно пьёт кофе."
+      },
+      "after": {
+        "qMdBody": "excessively, overly",
+        "aMdBody": "чрезмерно",
+        "qMdFootnote": "He drinks excessively.",
+        "aMdFootnote": "Он чрезмерно много пьёт."
+      }
+    },
+    {
+      "row": 199,
+      "before": {
+        "qMdBody": "insurer, underwriter",
+        "aMdBody": "страховщик",
+        "qMdFootnote": "The insurer paid quickly.",
+        "aMdFootnote": "Страховщик быстро заплатил."
+      },
+      "after": {
+        "qMdBody": "insurer, underwriter",
+        "aMdBody": "страховщик",
+        "qMdFootnote": "The insurer works.",
+        "aMdFootnote": "Страховщик работает."
+      }
+    },
+    {
+      "row": 204,
+      "before": {
+        "qMdBody": "aiming, guidance",
+        "aMdBody": "наведение",
+        "qMdFootnote": "The aiming of the gun was slow.",
+        "aMdFootnote": "Наведение пушки было медленным."
+      },
+      "after": {
+        "qMdBody": "aiming, guidance",
+        "aMdBody": "наведение",
+        "qMdFootnote": "The guidance system is new.",
+        "aMdFootnote": "Система наведения новая."
+      }
+    },
+    {
+      "row": 212,
+      "before": {
+        "qMdBody": "anonymous, anonym",
+        "aMdBody": "аноним",
+        "qMdFootnote": "This letter is from an anonym.",
+        "aMdFootnote": "Это письмо от анонима."
+      },
+      "after": {
+        "qMdBody": "anonymous",
+        "aMdBody": "анонимный",
+        "qMdFootnote": "The letter was anonymous.",
+        "aMdFootnote": "Письмо было анонимным."
+      }
+    },
+    {
+      "row": 213,
+      "before": {
+        "qMdBody": "mound, hillock",
+        "aMdBody": "бугор",
+        "qMdFootnote": "There is a mound near the house.",
+        "aMdFootnote": "У дома есть бугор."
+      },
+      "after": {
+        "qMdBody": "mound, hillock",
+        "aMdBody": "бугор",
+        "qMdFootnote": "A mound rose near the house.",
+        "aMdFootnote": "Возле дома возвышался бугор."
+      }
+    },
+    {
+      "row": 221,
+      "before": {
+        "qMdBody": "daughter, subsidiary",
+        "aMdBody": "дочерний",
+        "qMdFootnote": "This is a daughter company.",
+        "aMdFootnote": "Это дочерняя компания."
+      },
+      "after": {
+        "qMdBody": "subsidiary",
+        "aMdBody": "дочерний",
+        "qMdFootnote": "This is a subsidiary company.",
+        "aMdFootnote": "Это дочерняя компания."
+      }
+    },
+    {
+      "row": 225,
+      "before": {
+        "qMdBody": "mastery, acquisition",
+        "aMdBody": "овладение",
+        "qMdFootnote": "He needs mastery of the language.",
+        "aMdFootnote": "Ему нужно овладение языком."
+      },
+      "after": {
+        "qMdBody": "mastery, acquisition",
+        "aMdBody": "овладение",
+        "qMdFootnote": "Mastery of the language takes time.",
+        "aMdFootnote": "Овладение языком требует времени."
+      }
+    },
+    {
+      "row": 226,
+      "before": {
+        "qMdBody": "work out, practice",
+        "aMdBody": "отрабатывать",
+        "qMdFootnote": "They will work out this movement.",
+        "aMdFootnote": "Они отработают это движение."
+      },
+      "after": {
+        "qMdBody": "practice",
+        "aMdBody": "отрабатывать",
+        "qMdFootnote": "They are practicing this movement.",
+        "aMdFootnote": "Они отрабатывают это движение."
+      }
+    },
+    {
+      "row": 232,
+      "before": {
+        "qMdBody": "phoenix, fenix",
+        "aMdBody": "феникс",
+        "qMdFootnote": "I know the phoenix.",
+        "aMdFootnote": "Я знаю феникса."
+      },
+      "after": {
+        "qMdBody": "phoenix",
+        "aMdBody": "феникс",
+        "qMdFootnote": "I know the phoenix.",
+        "aMdFootnote": "Я знаю феникса."
+      }
+    },
+    {
+      "row": 233,
+      "before": {
+        "qMdBody": "fly, fly down",
+        "aMdBody": "слетать",
+        "qMdFootnote": "I will fly to the sea.",
+        "aMdFootnote": "Я слетаю к морю."
+      },
+      "after": {
+        "qMdBody": "fly down",
+        "aMdBody": "слететь",
+        "qMdFootnote": "The bird will fly down.",
+        "aMdFootnote": "Птица слетит вниз."
+      }
+    },
+    {
+      "row": 236,
+      "before": {
+        "qMdBody": "elastic, resilient",
+        "aMdBody": "упругий",
+        "qMdFootnote": "The rubber is elastic.",
+        "aMdFootnote": "Резина упругая."
+      },
+      "after": {
+        "qMdBody": "elastic, resilient",
+        "aMdBody": "упругий",
+        "qMdFootnote": "Elastic material.",
+        "aMdFootnote": "Упругий материал."
+      }
+    },
+    {
+      "row": 241,
+      "before": {
+        "qMdBody": "conception, inception",
+        "aMdBody": "зачатие",
+        "qMdFootnote": "The conception was unexpected.",
+        "aMdFootnote": "Зачатие было неожиданным."
+      },
+      "after": {
+        "qMdBody": "conception",
+        "aMdBody": "зачатие",
+        "qMdFootnote": "Conception was unexpected.",
+        "aMdFootnote": "Зачатие было неожиданным."
+      }
+    },
+    {
+      "row": 243,
+      "before": {
+        "qMdBody": "invariable, inevitable",
+        "aMdBody": "непременный",
+        "qMdFootnote": "This is an invariable condition.",
+        "aMdFootnote": "Это непременное условие."
+      },
+      "after": {
+        "qMdBody": "essential, obligatory",
+        "aMdBody": "непременный",
+        "qMdFootnote": "This is an essential condition.",
+        "aMdFootnote": "Это непременное условие."
+      }
+    },
+    {
+      "row": 247,
+      "before": {
+        "qMdBody": "nightingale, thrush",
+        "aMdBody": "соловей",
+        "qMdFootnote": "The nightingale sings in the garden.",
+        "aMdFootnote": "Соловей поёт в саду."
+      },
+      "after": {
+        "qMdBody": "nightingale",
+        "aMdBody": "соловей",
+        "qMdFootnote": "The nightingale sings in the garden.",
+        "aMdFootnote": "Соловей поёт в саду."
+      }
+    },
+    {
+      "row": 250,
+      "before": {
+        "qMdBody": "reminder, notification",
+        "aMdBody": "напоминание",
+        "qMdFootnote": "Set a reminder for the meeting.",
+        "aMdFootnote": "Поставь напоминание о встрече."
+      },
+      "after": {
+        "qMdBody": "reminder, notification",
+        "aMdBody": "напоминание",
+        "qMdFootnote": "The reminder is here.",
+        "aMdFootnote": "Напоминание здесь."
+      }
+    },
+    {
+      "row": 254,
+      "before": {
+        "qMdBody": "to lay, to put",
+        "aMdBody": "закладывать",
+        "qMdFootnote": "They lay the foundation.",
+        "aMdFootnote": "Они закладывают фундамент."
+      },
+      "after": {
+        "qMdBody": "to lay, to put",
+        "aMdBody": "закладывать",
+        "qMdFootnote": "They are laying the foundation.",
+        "aMdFootnote": "Они закладывают основу."
+      }
+    },
+    {
+      "row": 259,
+      "before": {
+        "qMdBody": "to exaggerate, to overstate",
+        "aMdBody": "преувеличивать",
+        "qMdFootnote": "He will exaggerate the story.",
+        "aMdFootnote": "Он преувеличит эту историю."
+      },
+      "after": {
+        "qMdBody": "to exaggerate, to overstate",
+        "aMdBody": "преувеличивать",
+        "qMdFootnote": "He often exaggerates the story.",
+        "aMdFootnote": "Он часто преувеличивает эту историю."
+      }
+    },
+    {
+      "row": 261,
+      "before": {
+        "qMdBody": "listen to, overhear",
+        "aMdBody": "прослушать",
+        "qMdFootnote": "Listen to this song.",
+        "aMdFootnote": "Прослушай эту песню."
+      },
+      "after": {
+        "qMdBody": "listen to",
+        "aMdBody": "прослушать",
+        "qMdFootnote": "Listen to this song.",
+        "aMdFootnote": "Прослушай эту песню."
+      }
+    },
+    {
+      "row": 273,
+      "before": {
+        "qMdBody": "presentation, awarding",
+        "aMdBody": "вручение",
+        "qMdFootnote": "The presentation of the prize was short.",
+        "aMdFootnote": "Вручение премии было коротким."
+      },
+      "after": {
+        "qMdBody": "presentation, awarding",
+        "aMdBody": "вручение",
+        "qMdFootnote": "The presentation of the award was short.",
+        "aMdFootnote": "Вручение награды было коротким."
+      }
+    },
+    {
+      "row": 275,
+      "before": {
+        "qMdBody": "radically",
+        "aMdBody": "радикально",
+        "qMdFootnote": "He changed his plan radically.",
+        "aMdFootnote": "Он радикально изменил свой план."
+      },
+      "after": {
+        "qMdBody": "radically",
+        "aMdBody": "радикально",
+        "qMdFootnote": "He acts radically.",
+        "aMdFootnote": "Он действует радикально."
+      }
+    },
+    {
+      "row": 282,
+      "before": {
+        "qMdBody": "to stick in, to plug in",
+        "aMdBody": "воткнуть",
+        "qMdFootnote": "He will stick the key in.",
+        "aMdFootnote": "Он воткнёт ключ."
+      },
+      "after": {
+        "qMdBody": "to stick in, to plug in",
+        "aMdBody": "воткнуть",
+        "qMdFootnote": "He will stick the key into the lock.",
+        "aMdFootnote": "Он воткнёт ключ в замок."
+      }
+    },
+    {
+      "row": 283,
+      "before": {
+        "qMdBody": "to master, to possess",
+        "aMdBody": "овладевать",
+        "qMdFootnote": "He will master the language.",
+        "aMdFootnote": "Он овладеет языком."
+      },
+      "after": {
+        "qMdBody": "to master, to possess",
+        "aMdBody": "овладевать",
+        "qMdFootnote": "He is mastering the language.",
+        "aMdFootnote": "Он овладевает языком."
+      }
+    },
+    {
+      "row": 287,
+      "before": {
+        "qMdBody": "through, via",
+        "aMdBody": "чрез",
+        "qMdFootnote": "He went through the field.",
+        "aMdFootnote": "Он шёл чрез поле."
+      },
+      "after": {
+        "qMdBody": "through, via",
+        "aMdBody": "через",
+        "qMdFootnote": "He went through the field.",
+        "aMdFootnote": "Он шёл через поле."
+      }
+    },
+    {
+      "row": 290,
+      "before": {
+        "qMdBody": "speaker, dynamic",
+        "aMdBody": "динамик",
+        "qMdFootnote": "The speaker is loud.",
+        "aMdFootnote": "Динамик громкий."
+      },
+      "after": {
+        "qMdBody": "speaker",
+        "aMdBody": "динамик",
+        "qMdFootnote": "The speaker sounds loud.",
+        "aMdFootnote": "Динамик звучит громко."
+      }
+    },
+    {
+      "row": 294,
+      "before": {
+        "qMdBody": "cutlet, patty",
+        "aMdBody": "котлета",
+        "qMdFootnote": "I ordered a chicken cutlet for dinner.",
+        "aMdFootnote": "Я заказал куриную котлету на ужин."
+      },
+      "after": {
+        "qMdBody": "cutlet, patty",
+        "aMdBody": "котлета",
+        "qMdFootnote": "There is a cutlet.",
+        "aMdFootnote": "Здесь есть котлета."
+      }
+    },
+    {
+      "row": 295,
+      "before": {
+        "qMdBody": "student, pupil",
+        "aMdBody": "ученица",
+        "qMdFootnote": "The student solved the problem.",
+        "aMdFootnote": "Ученица решила задачу."
+      },
+      "after": {
+        "qMdBody": "female student",
+        "aMdBody": "ученица",
+        "qMdFootnote": "The female student solved the problem.",
+        "aMdFootnote": "Ученица решила задачу."
+      }
+    },
+    {
+      "row": 297,
+      "before": {
+        "qMdBody": "awkward, clumsy",
+        "aMdBody": "неловкий",
+        "qMdFootnote": "The silence was awkward.",
+        "aMdFootnote": "Молчание было неловким."
+      },
+      "after": {
+        "qMdBody": "awkward, clumsy",
+        "aMdBody": "неловкий",
+        "qMdFootnote": "It was awkward.",
+        "aMdFootnote": "Это было неловко."
+      }
+    },
+    {
+      "row": 301,
+      "before": {
+        "qMdBody": "yawn, gape",
+        "aMdBody": "зевать",
+        "qMdFootnote": "I can't stop yawning today.",
+        "aMdFootnote": "Я не могу перестать зевать сегодня."
+      },
+      "after": {
+        "qMdBody": "yawn",
+        "aMdBody": "зевать",
+        "qMdFootnote": "I am yawning.",
+        "aMdFootnote": "Я зеваю."
+      }
+    },
+    {
+      "row": 307,
+      "before": {
+        "qMdBody": "purposeful, goal-oriented",
+        "aMdBody": "целенаправленный",
+        "qMdFootnote": "Her steps were purposeful.",
+        "aMdFootnote": "Её шаги были целенаправленными."
+      },
+      "after": {
+        "qMdBody": "purposeful, goal-oriented",
+        "aMdBody": "целенаправленный",
+        "qMdFootnote": "Her work is purposeful.",
+        "aMdFootnote": "Её работа целенаправленна."
+      }
+    },
+    {
+      "row": 308,
+      "before": {
+        "qMdBody": "pathological, morbid",
+        "aMdBody": "патологический",
+        "qMdFootnote": "He showed pathological jealousy.",
+        "aMdFootnote": "Он проявил патологическую ревность."
+      },
+      "after": {
+        "qMdBody": "pathological, morbid",
+        "aMdBody": "патологический",
+        "qMdFootnote": "He has pathological jealousy.",
+        "aMdFootnote": "У него патологическая ревность."
+      }
+    },
+    {
+      "row": 309,
+      "before": {
+        "qMdBody": "lyceum, lycee",
+        "aMdBody": "лицей",
+        "qMdFootnote": "She finished the lyceum last year.",
+        "aMdFootnote": "Она окончила лицей в прошлом году."
+      },
+      "after": {
+        "qMdBody": "lyceum, lycee",
+        "aMdBody": "лицей",
+        "qMdFootnote": "The lyceum is here.",
+        "aMdFootnote": "Лицей здесь."
+      }
+    },
+    {
+      "row": 312,
+      "before": {
+        "qMdBody": "pit, dig",
+        "aMdBody": "яма",
+        "qMdFootnote": "The pit is deep.",
+        "aMdFootnote": "Яма глубокая."
+      },
+      "after": {
+        "qMdBody": "pit",
+        "aMdBody": "яма",
+        "qMdFootnote": "The pit is deep.",
+        "aMdFootnote": "Яма глубокая."
+      }
+    },
+    {
+      "row": 316,
+      "before": {
+        "qMdBody": "to arrive, to fly in",
+        "aMdBody": "прилетать",
+        "qMdFootnote": "The plane will arrive soon.",
+        "aMdFootnote": "Самолёт скоро прилетит."
+      },
+      "after": {
+        "qMdBody": "to fly in",
+        "aMdBody": "прилетать",
+        "qMdFootnote": "He flies in every morning.",
+        "aMdFootnote": "Он прилетает каждое утро."
+      }
+    },
+    {
+      "row": 317,
+      "before": {
+        "qMdBody": "impressive, spectacular",
+        "aMdBody": "эффектный",
+        "qMdFootnote": "Her performance was impressive.",
+        "aMdFootnote": "Её выступление было эффектным."
+      },
+      "after": {
+        "qMdBody": "impressive, spectacular",
+        "aMdBody": "эффектный",
+        "qMdFootnote": "The dress was impressive.",
+        "aMdFootnote": "Платье было эффектным."
+      }
+    },
+    {
+      "row": 319,
+      "before": {
+        "qMdBody": "reinforced, strengthened",
+        "aMdBody": "усиленный",
+        "qMdFootnote": "The bridge was reinforced with steel.",
+        "aMdFootnote": "Мост был усилен сталью."
+      },
+      "after": {
+        "qMdBody": "reinforced, strengthened",
+        "aMdBody": "усиленный",
+        "qMdFootnote": "The bridge is reinforced.",
+        "aMdFootnote": "Мост усилен."
+      }
+    },
+    {
+      "row": 322,
+      "before": {
+        "qMdBody": "nightmarish, terrible",
+        "aMdBody": "кошмарный",
+        "qMdFootnote": "It was a nightmarish night.",
+        "aMdFootnote": "Это была кошмарная ночь."
+      },
+      "after": {
+        "qMdBody": "nightmarish",
+        "aMdBody": "кошмарный",
+        "qMdFootnote": "It was a nightmarish journey.",
+        "aMdFootnote": "Это было кошмарное путешествие."
+      }
+    },
+    {
+      "row": 334,
+      "before": {
+        "qMdBody": "turn, coil",
+        "aMdBody": "виток",
+        "qMdFootnote": "The wire made another turn.",
+        "aMdFootnote": "Провод сделал ещё один виток."
+      },
+      "after": {
+        "qMdBody": "turn, coil",
+        "aMdBody": "виток",
+        "qMdFootnote": "The wire made a turn.",
+        "aMdFootnote": "Провод сделал виток."
+      }
+    },
+    {
+      "row": 337,
+      "before": {
+        "qMdBody": "painting, decoration",
+        "aMdBody": "роспись",
+        "qMdFootnote": "She admired the painting on the vase.",
+        "aMdFootnote": "Она восхищалась росписью на вазе."
+      },
+      "after": {
+        "qMdBody": "decoration",
+        "aMdBody": "украшение",
+        "qMdFootnote": "The decoration is beautiful.",
+        "aMdFootnote": "Украшение красивое."
+      }
+    },
+    {
+      "row": 338,
+      "before": {
+        "qMdBody": "heel, fifth",
+        "aMdBody": "пята",
+        "qMdFootnote": "His heel hurts.",
+        "aMdFootnote": "Его пята болит."
+      },
+      "after": {
+        "qMdBody": "heel",
+        "aMdBody": "пятка",
+        "qMdFootnote": "His heel hurts.",
+        "aMdFootnote": "Его пятка болит."
+      }
+    },
+    {
+      "row": 339,
+      "before": {
+        "qMdBody": "comma",
+        "aMdBody": "запятая",
+        "qMdFootnote": "Use a comma here.",
+        "aMdFootnote": "Поставьте здесь запятую."
+      },
+      "after": {
+        "qMdBody": "comma",
+        "aMdBody": "запятая",
+        "qMdFootnote": "A comma is here.",
+        "aMdFootnote": "Запятая здесь."
+      }
+    },
+    {
+      "row": 340,
+      "before": {
+        "qMdBody": "naively, naive",
+        "aMdBody": "наивно",
+        "qMdFootnote": "She naively trusted the stranger.",
+        "aMdFootnote": "Она наивно доверилась незнакомцу."
+      },
+      "after": {
+        "qMdBody": "naively",
+        "aMdBody": "наивно",
+        "qMdFootnote": "She acted naively.",
+        "aMdFootnote": "Она действовала наивно."
+      }
+    },
+    {
+      "row": 345,
+      "before": {
+        "qMdBody": "to change, to replace",
+        "aMdBody": "сменять",
+        "qMdFootnote": "I need to change my clothes.",
+        "aMdFootnote": "Мне нужно сменить одежду."
+      },
+      "after": {
+        "qMdBody": "to change, to replace",
+        "aMdBody": "сменить",
+        "qMdFootnote": "I need to change my clothes.",
+        "aMdFootnote": "Мне нужно сменить одежду."
+      }
+    },
+    {
+      "row": 348,
+      "before": {
+        "qMdBody": "immediately, without delay",
+        "aMdBody": "незамедлительно",
+        "qMdFootnote": "Call the doctor immediately!",
+        "aMdFootnote": "Позвоните врачу незамедлительно!"
+      },
+      "after": {
+        "qMdBody": "immediately, without delay",
+        "aMdBody": "незамедлительно",
+        "qMdFootnote": "Act immediately!",
+        "aMdFootnote": "Действуйте незамедлительно!"
+      }
+    },
+    {
+      "row": 349,
+      "before": {
+        "qMdBody": "rubber, eraser",
+        "aMdBody": "резина",
+        "qMdFootnote": "This is rubber.",
+        "aMdFootnote": "Это резина."
+      },
+      "after": {
+        "qMdBody": "rubber",
+        "aMdBody": "резина",
+        "qMdFootnote": "This is rubber.",
+        "aMdFootnote": "Это резина."
+      }
+    },
+    {
+      "row": 350,
+      "before": {
+        "qMdBody": "recovery, collection",
+        "aMdBody": "взыскание",
+        "qMdFootnote": "Debt recovery began.",
+        "aMdFootnote": "Взыскание долга началось."
+      },
+      "after": {
+        "qMdBody": "collection",
+        "aMdBody": "взыскание",
+        "qMdFootnote": "Debt collection began.",
+        "aMdFootnote": "Взыскание долга началось."
+      }
+    },
+    {
+      "row": 354,
+      "before": {
+        "qMdBody": "paste, pasta",
+        "aMdBody": "паста",
+        "qMdFootnote": "Apply the paste to the skin.",
+        "aMdFootnote": "Нанесите пасту на кожу."
+      },
+      "after": {
+        "qMdBody": "paste",
+        "aMdBody": "паста",
+        "qMdFootnote": "The paste is here.",
+        "aMdFootnote": "Паста здесь."
+      }
+    },
+    {
+      "row": 356,
+      "before": {
+        "qMdBody": "urgently, insistently",
+        "aMdBody": "настоятельно",
+        "qMdFootnote": "He insistently asked for an answer.",
+        "aMdFootnote": "Он настоятельно просил ответа."
+      },
+      "after": {
+        "qMdBody": "insistently",
+        "aMdBody": "настоятельно",
+        "qMdFootnote": "He insistently demanded an answer.",
+        "aMdFootnote": "Он настоятельно потребовал ответа."
+      }
+    },
+    {
+      "row": 357,
+      "before": {
+        "qMdBody": "to contract, to shrink",
+        "aMdBody": "сжиматься",
+        "qMdFootnote": "Metals contract in the cold.",
+        "aMdFootnote": "Металлы сжимаются на холоде."
+      },
+      "after": {
+        "qMdBody": "to contract, to shrink",
+        "aMdBody": "сжиматься",
+        "qMdFootnote": "Metals contract.",
+        "aMdFootnote": "Металлы сжимаются."
+      }
+    },
+    {
+      "row": 361,
+      "before": {
+        "qMdBody": "to strain, to tense up",
+        "aMdBody": "напрягаться",
+        "qMdFootnote": "I had to strain to hear her.",
+        "aMdFootnote": "Мне пришлось напрягаться, чтобы услышать её."
+      },
+      "after": {
+        "qMdBody": "to strain, to tense up",
+        "aMdBody": "напрягаться",
+        "qMdFootnote": "I strain at work.",
+        "aMdFootnote": "Я напрягаюсь на работе."
+      }
+    },
+    {
+      "row": 362,
+      "before": {
+        "qMdBody": "disintegrate, fall apart",
+        "aMdBody": "распадаться",
+        "qMdFootnote": "The bread will disintegrate in water.",
+        "aMdFootnote": "Хлеб распадётся в воде."
+      },
+      "after": {
+        "qMdBody": "disintegrate, fall apart",
+        "aMdBody": "распадаться",
+        "qMdFootnote": "Bread disintegrates in water.",
+        "aMdFootnote": "Хлеб распадается в воде."
+      }
+    },
+    {
+      "row": 364,
+      "before": {
+        "qMdBody": "innovation, novelty",
+        "aMdBody": "новшество",
+        "qMdFootnote": "This innovation will help us.",
+        "aMdFootnote": "Это новшество нам поможет."
+      },
+      "after": {
+        "qMdBody": "innovation, novelty",
+        "aMdBody": "новшество",
+        "qMdFootnote": "The innovation matters.",
+        "aMdFootnote": "Новшество важно."
+      }
+    },
+    {
+      "row": 368,
+      "before": {
+        "qMdBody": "secretly, covertly",
+        "aMdBody": "тайком",
+        "qMdFootnote": "She secretly admired him.",
+        "aMdFootnote": "Она тайком восхищалась им."
+      },
+      "after": {
+        "qMdBody": "secretly, covertly",
+        "aMdBody": "тайком",
+        "qMdFootnote": "She acted secretly.",
+        "aMdFootnote": "Она действовала тайком."
+      }
+    },
+    {
+      "row": 376,
+      "before": {
+        "qMdBody": "Jewish, Judaic",
+        "aMdBody": "иудейский",
+        "qMdFootnote": "He went to a Jewish service.",
+        "aMdFootnote": "Он пошёл на иудейскую службу."
+      },
+      "after": {
+        "qMdBody": "Jewish, Judaic",
+        "aMdBody": "иудейский",
+        "qMdFootnote": "This is a Judaic tradition.",
+        "aMdFootnote": "Это иудейская традиция."
+      }
+    },
+    {
+      "row": 378,
+      "before": {
+        "qMdBody": "electorate, voters",
+        "aMdBody": "электорат",
+        "qMdFootnote": "The electorate wants change.",
+        "aMdFootnote": "Электорат хочет перемен."
+      },
+      "after": {
+        "qMdBody": "electorate, voters",
+        "aMdBody": "электорат",
+        "qMdFootnote": "The electorate votes.",
+        "aMdFootnote": "Электорат голосует."
+      }
+    },
+    {
+      "row": 381,
+      "before": {
+        "qMdBody": "geologist",
+        "aMdBody": "геолог",
+        "qMdFootnote": "The geologist studied the rocks.",
+        "aMdFootnote": "Геолог изучал породы."
+      },
+      "after": {
+        "qMdBody": "geologist",
+        "aMdBody": "геолог",
+        "qMdFootnote": "The geologist is here.",
+        "aMdFootnote": "Геолог здесь."
+      }
+    },
+    {
+      "row": 383,
+      "before": {
+        "qMdBody": "tour, guest performance",
+        "aMdBody": "гастроль",
+        "qMdFootnote": "The theater announced a tour.",
+        "aMdFootnote": "Театр объявил гастроль."
+      },
+      "after": {
+        "qMdBody": "tour",
+        "aMdBody": "гастроли",
+        "qMdFootnote": "The theater is on tour.",
+        "aMdFootnote": "Театр на гастролях."
+      }
+    },
+    {
+      "row": 384,
+      "before": {
+        "qMdBody": "romantic, novelist",
+        "aMdBody": "романтик",
+        "qMdFootnote": "He is a romantic.",
+        "aMdFootnote": "Он романтик."
+      },
+      "after": {
+        "qMdBody": "romantic",
+        "aMdBody": "романтик",
+        "qMdFootnote": "He is a romantic.",
+        "aMdFootnote": "Он романтик."
+      }
+    },
+    {
+      "row": 385,
+      "before": {
+        "qMdBody": "unsuccessfully",
+        "aMdBody": "неудачно",
+        "qMdFootnote": "He tried unsuccessfully to open the door.",
+        "aMdFootnote": "Он неудачно попытался открыть дверь."
+      },
+      "after": {
+        "qMdBody": "unsuccessfully",
+        "aMdBody": "неудачно",
+        "qMdFootnote": "The meeting ended unsuccessfully.",
+        "aMdFootnote": "Встреча закончилась неудачно."
+      }
+    },
+    {
+      "row": 388,
+      "before": {
+        "qMdBody": "urine, pee",
+        "aMdBody": "моча",
+        "qMdFootnote": "This is urine.",
+        "aMdFootnote": "Это моча."
+      },
+      "after": {
+        "qMdBody": "urine",
+        "aMdBody": "моча",
+        "qMdFootnote": "This is urine.",
+        "aMdFootnote": "Это моча."
+      }
+    },
+    {
+      "row": 391,
+      "before": {
+        "qMdBody": "excellent, superb",
+        "aMdBody": "превосходно",
+        "qMdFootnote": "That was excellent.",
+        "aMdFootnote": "Это было превосходно."
+      },
+      "after": {
+        "qMdBody": "excellent, superb",
+        "aMdBody": "превосходный",
+        "qMdFootnote": "The result was excellent.",
+        "aMdFootnote": "Результат был превосходным."
+      }
+    },
+    {
+      "row": 392,
+      "before": {
+        "qMdBody": "barge, lighter",
+        "aMdBody": "баржа",
+        "qMdFootnote": "The barge floated down the river.",
+        "aMdFootnote": "Баржа плыла по реке."
+      },
+      "after": {
+        "qMdBody": "barge, lighter",
+        "aMdBody": "баржа",
+        "qMdFootnote": "The barge is on the river.",
+        "aMdFootnote": "Баржа на реке."
+      }
+    },
+    {
+      "row": 394,
+      "before": {
+        "qMdBody": "whip, knout",
+        "aMdBody": "кнут",
+        "qMdFootnote": "The whip hit him.",
+        "aMdFootnote": "Кнут ударил его."
+      },
+      "after": {
+        "qMdBody": "whip, knout",
+        "aMdBody": "кнут",
+        "qMdFootnote": "He was hit with a whip.",
+        "aMdFootnote": "Его ударили кнутом."
+      }
+    },
+    {
+      "row": 398,
+      "before": {
+        "qMdBody": "to resurrect, to rise again",
+        "aMdBody": "воскреснуть",
+        "qMdFootnote": "He will resurrect on the third day.",
+        "aMdFootnote": "Он воскреснет на третий день."
+      },
+      "after": {
+        "qMdBody": "to rise again",
+        "aMdBody": "воскреснуть",
+        "qMdFootnote": "He will rise again on the third day.",
+        "aMdFootnote": "Он воскреснет на третий день."
+      }
+    },
+    {
+      "row": 399,
+      "before": {
+        "qMdBody": "solve, decipher",
+        "aMdBody": "разгадать",
+        "qMdFootnote": "Can you solve this puzzle?",
+        "aMdFootnote": "Разгадайте эту загадку?"
+      },
+      "after": {
+        "qMdBody": "solve, decipher",
+        "aMdBody": "разгадать",
+        "qMdFootnote": "Can you solve this puzzle?",
+        "aMdFootnote": "Ты можешь разгадать эту загадку?"
+      }
+    },
+    {
+      "row": 405,
+      "before": {
+        "qMdBody": "award ceremony, presentation",
+        "aMdBody": "награждение",
+        "qMdFootnote": "The award ceremony starts at eight.",
+        "aMdFootnote": "Церемония награждения начинается в восемь."
+      },
+      "after": {
+        "qMdBody": "award ceremony",
+        "aMdBody": "награждение",
+        "qMdFootnote": "The award ceremony is today.",
+        "aMdFootnote": "Церемония награждения сегодня."
+      }
+    },
+    {
+      "row": 406,
+      "before": {
+        "qMdBody": "to slip away, to elude",
+        "aMdBody": "ускользать",
+        "qMdFootnote": "He managed to slip away unnoticed.",
+        "aMdFootnote": "Ему удалось ускользнуть незамеченным."
+      },
+      "after": {
+        "qMdBody": "to slip away, to elude",
+        "aMdBody": "ускользать",
+        "qMdFootnote": "He slips away unnoticed.",
+        "aMdFootnote": "Он ускользает незаметно."
+      }
+    },
+    {
+      "row": 407,
+      "before": {
+        "qMdBody": "bilateral, two-sided",
+        "aMdBody": "двусторонний",
+        "qMdFootnote": "They signed a bilateral agreement.",
+        "aMdFootnote": "Они подписали двустороннее соглашение."
+      },
+      "after": {
+        "qMdBody": "bilateral, two-sided",
+        "aMdBody": "двусторонний",
+        "qMdFootnote": "A bilateral agreement.",
+        "aMdFootnote": "Двустороннее соглашение."
+      }
+    },
+    {
+      "row": 408,
+      "before": {
+        "qMdBody": "switching, switching over",
+        "aMdBody": "переключение",
+        "qMdFootnote": "Switching channels became annoying.",
+        "aMdFootnote": "Переключение каналов стало раздражать."
+      },
+      "after": {
+        "qMdBody": "switching, switching over",
+        "aMdBody": "переключение",
+        "qMdFootnote": "Switching channels began to annoy me.",
+        "aMdFootnote": "Переключение каналов стало раздражать меня."
+      }
+    },
+    {
+      "row": 412,
+      "before": {
+        "qMdBody": "gasp, sigh",
+        "aMdBody": "ахнуть",
+        "qMdFootnote": "She gasped in surprise.",
+        "aMdFootnote": "Она ахнула от удивления."
+      },
+      "after": {
+        "qMdBody": "gasp",
+        "aMdBody": "ахнуть",
+        "qMdFootnote": "She gasped in surprise.",
+        "aMdFootnote": "Она ахнула от удивления."
+      }
+    },
+    {
+      "row": 416,
+      "before": {
+        "qMdBody": "look, well",
+        "aMdBody": "ишь",
+        "qMdFootnote": "Look, it is raining!",
+        "aMdFootnote": "Ишь, дождь идёт!"
+      },
+      "after": {
+        "qMdBody": "look",
+        "aMdBody": "ишь",
+        "qMdFootnote": "Look, it is raining!",
+        "aMdFootnote": "Ишь, дождь идёт!"
+      }
+    },
+    {
+      "row": 418,
+      "before": {
+        "qMdBody": "frosty, freezing",
+        "aMdBody": "морозный",
+        "qMdFootnote": "The morning air felt frosty.",
+        "aMdFootnote": "Утренний воздух был морозным."
+      },
+      "after": {
+        "qMdBody": "frosty, freezing",
+        "aMdBody": "морозный",
+        "qMdFootnote": "The air is frosty.",
+        "aMdFootnote": "Воздух морозный."
+      }
+    },
+    {
+      "row": 419,
+      "before": {
+        "qMdBody": "enumeration, listing",
+        "aMdBody": "перечисление",
+        "qMdFootnote": "The report included an enumeration of facts.",
+        "aMdFootnote": "Отчёт включал перечисление фактов."
+      },
+      "after": {
+        "qMdBody": "enumeration, listing",
+        "aMdBody": "перечисление",
+        "qMdFootnote": "I see an enumeration.",
+        "aMdFootnote": "Я вижу перечисление."
+      }
+    },
+    {
+      "row": 421,
+      "before": {
+        "qMdBody": "revive, animate",
+        "aMdBody": "оживить",
+        "qMdFootnote": "Music can revive the soul deeply.",
+        "aMdFootnote": "Музыка может глубоко оживить душу."
+      },
+      "after": {
+        "qMdBody": "revive, animate",
+        "aMdBody": "оживить",
+        "qMdFootnote": "Music can revive the soul.",
+        "aMdFootnote": "Музыка может оживить душу."
+      }
+    },
+    {
+      "row": 426,
+      "before": {
+        "qMdBody": "materialism, materiality",
+        "aMdBody": "материализм",
+        "qMdFootnote": "He writes about materialism.",
+        "aMdFootnote": "Он пишет о материализме."
+      },
+      "after": {
+        "qMdBody": "materialism",
+        "aMdBody": "материализм",
+        "qMdFootnote": "He writes about materialism.",
+        "aMdFootnote": "Он пишет о материализме."
+      }
+    },
+    {
+      "row": 429,
+      "before": {
+        "qMdBody": "neighborly, neighboring",
+        "aMdBody": "соседский",
+        "qMdFootnote": "She offered neighborly help with groceries.",
+        "aMdFootnote": "Она предложила соседскую помощь с продуктами."
+      },
+      "after": {
+        "qMdBody": "neighborly, neighboring",
+        "aMdBody": "соседский",
+        "qMdFootnote": "This is neighborly help.",
+        "aMdFootnote": "Это соседская помощь."
+      }
+    },
+    {
+      "row": 432,
+      "before": {
+        "qMdBody": "pogrom, riot",
+        "aMdBody": "погром",
+        "qMdFootnote": "The pogrom devastated the community.",
+        "aMdFootnote": "Погром опустошил сообщество."
+      },
+      "after": {
+        "qMdBody": "pogrom",
+        "aMdBody": "погром",
+        "qMdFootnote": "The pogrom devastated the community.",
+        "aMdFootnote": "Погром опустошил сообщество."
+      }
+    },
+    {
+      "row": 435,
+      "before": {
+        "qMdBody": "to construct, to erect",
+        "aMdBody": "возводить",
+        "qMdFootnote": "They plan to construct a new bridge.",
+        "aMdFootnote": "Они планируют возвести новый мост."
+      },
+      "after": {
+        "qMdBody": "to construct, to erect",
+        "aMdBody": "возвести",
+        "qMdFootnote": "They will construct a bridge.",
+        "aMdFootnote": "Они возведут мост."
+      }
+    },
+    {
+      "row": 438,
+      "before": {
+        "qMdBody": "canned food, preserves",
+        "aMdBody": "консервы",
+        "qMdFootnote": "I stocked up on canned food.",
+        "aMdFootnote": "Я запасся консервами."
+      },
+      "after": {
+        "qMdBody": "canned food, preserves",
+        "aMdBody": "консервы",
+        "qMdFootnote": "Canned food is here.",
+        "aMdFootnote": "Консервы здесь."
+      }
+    },
+    {
+      "row": 443,
+      "before": {
+        "qMdBody": "estimate, approximate",
+        "aMdBody": "прикидывать",
+        "qMdFootnote": "I can only estimate the cost.",
+        "aMdFootnote": "Я могу только прикидывать стоимость."
+      },
+      "after": {
+        "qMdBody": "estimate, approximate",
+        "aMdBody": "прикидывать",
+        "qMdFootnote": "I estimate the price.",
+        "aMdFootnote": "Я прикидываю цену."
+      }
+    },
+    {
+      "row": 445,
+      "before": {
+        "qMdBody": "rebellion, mutiny",
+        "aMdBody": "мятеж",
+        "qMdFootnote": "The rebellion shook the nation.",
+        "aMdFootnote": "Мятеж потряс нацию."
+      },
+      "after": {
+        "qMdBody": "rebellion, mutiny",
+        "aMdBody": "мятеж",
+        "qMdFootnote": "The rebellion began.",
+        "aMdFootnote": "Мятеж начался."
+      }
+    },
+    {
+      "row": 446,
+      "before": {
+        "qMdBody": "square, park",
+        "aMdBody": "сквер",
+        "qMdFootnote": "Let's meet in the square.",
+        "aMdFootnote": "Давайте встретимся в сквере."
+      },
+      "after": {
+        "qMdBody": "park",
+        "aMdBody": "сквер",
+        "qMdFootnote": "The park is here.",
+        "aMdFootnote": "Сквер здесь."
+      }
+    },
+    {
+      "row": 447,
+      "before": {
+        "qMdBody": "to hover, to float",
+        "aMdBody": "витать",
+        "qMdFootnote": "Fog began to hover over the river.",
+        "aMdFootnote": "Туман начал витать над рекой."
+      },
+      "after": {
+        "qMdBody": "to float",
+        "aMdBody": "витать",
+        "qMdFootnote": "An idea floated in his mind.",
+        "aMdFootnote": "В его голове витала мысль."
+      }
+    },
+    {
+      "row": 448,
+      "before": {
+        "qMdBody": "pierce, break through",
+        "aMdBody": "пробивать",
+        "qMdFootnote": "The needle will pierce the fabric easily.",
+        "aMdFootnote": "Игла легко пробьёт ткань."
+      },
+      "after": {
+        "qMdBody": "pierce, break through",
+        "aMdBody": "пробивать",
+        "qMdFootnote": "The needle pierces fabric.",
+        "aMdFootnote": "Игла пробивает ткань."
+      }
+    },
+    {
+      "row": 449,
+      "before": {
+        "qMdBody": "to look around, to examine",
+        "aMdBody": "оглядывать",
+        "qMdFootnote": "I paused to look around the room.",
+        "aMdFootnote": "Я остановился, чтобы оглядеть комнату."
+      },
+      "after": {
+        "qMdBody": "to look around, to examine",
+        "aMdBody": "оглядеть",
+        "qMdFootnote": "I paused to examine the room.",
+        "aMdFootnote": "Я остановился, чтобы оглядеть комнату."
+      }
+    },
+    {
+      "row": 451,
+      "before": {
+        "qMdBody": "pull out, extract",
+        "aMdBody": "выдернуть",
+        "qMdFootnote": "Carefully pull out the splinter.",
+        "aMdFootnote": "Аккуратно выдерните занозу."
+      },
+      "after": {
+        "qMdBody": "pull out, extract",
+        "aMdBody": "выдернуть",
+        "qMdFootnote": "Pull out the thread.",
+        "aMdFootnote": "Выдерните нить."
+      }
+    },
+    {
+      "row": 452,
+      "before": {
+        "qMdBody": "to overflow, to overwhelm",
+        "aMdBody": "переполнять",
+        "qMdFootnote": "Water began to overflow the cup.",
+        "aMdFootnote": "Вода начала переполнять чашку."
+      },
+      "after": {
+        "qMdBody": "to overwhelm",
+        "aMdBody": "переполнять",
+        "qMdFootnote": "Joy began to overwhelm her.",
+        "aMdFootnote": "Радость начала переполнять её."
+      }
+    },
+    {
+      "row": 455,
+      "before": {
+        "qMdBody": "leader, chieftain",
+        "aMdBody": "предводитель",
+        "qMdFootnote": "The leader inspired his followers greatly.",
+        "aMdFootnote": "Предводитель сильно вдохновил своих последователей."
+      },
+      "after": {
+        "qMdBody": "leader, chieftain",
+        "aMdBody": "предводитель",
+        "qMdFootnote": "The leader is here.",
+        "aMdFootnote": "Предводитель здесь."
+      }
+    },
+    {
+      "row": 456,
+      "before": {
+        "qMdBody": "loyalty, allegiance",
+        "aMdBody": "лояльность",
+        "qMdFootnote": "His loyalty to the company is strong.",
+        "aMdFootnote": "Его лояльность к компании сильная."
+      },
+      "after": {
+        "qMdBody": "loyalty, allegiance",
+        "aMdBody": "лояльность",
+        "qMdFootnote": "His loyalty to the company is obvious.",
+        "aMdFootnote": "Его лояльность к компании очевидна."
+      }
+    },
+    {
+      "row": 457,
+      "before": {
+        "qMdBody": "cosmetic, cosmetics",
+        "aMdBody": "косметический",
+        "qMdFootnote": "She bought a new cosmetic set.",
+        "aMdFootnote": "Она купила новый косметический набор."
+      },
+      "after": {
+        "qMdBody": "cosmetic, cosmetics",
+        "aMdBody": "косметический",
+        "qMdFootnote": "Cosmetic cream.",
+        "aMdFootnote": "Косметический крем."
+      }
+    },
+    {
+      "row": 459,
+      "before": {
+        "qMdBody": "pile on, crowd",
+        "aMdBody": "навалиться",
+        "qMdFootnote": "Critics pile on after the loss.",
+        "aMdFootnote": "Критики навалились после поражения."
+      },
+      "after": {
+        "qMdBody": "pile on, crowd",
+        "aMdBody": "навалиться",
+        "qMdFootnote": "Critics piled on after the loss.",
+        "aMdFootnote": "Критики навалились после поражения."
+      }
+    },
+    {
+      "row": 461,
+      "before": {
+        "qMdBody": "cast iron, iron",
+        "aMdBody": "чугунный",
+        "qMdFootnote": "She cooked in a cast iron pot.",
+        "aMdFootnote": "Она готовила в чугунном горшке."
+      },
+      "after": {
+        "qMdBody": "cast-iron",
+        "aMdBody": "чугунный",
+        "qMdFootnote": "She cooked in a cast-iron pot.",
+        "aMdFootnote": "Она готовила в чугунном горшке."
+      }
+    },
+    {
+      "row": 462,
+      "before": {
+        "qMdBody": "relax, unwind",
+        "aMdBody": "расслабляться",
+        "qMdFootnote": "Just relax and enjoy the moment.",
+        "aMdFootnote": "Просто расслабьтесь и наслаждайтесь моментом."
+      },
+      "after": {
+        "qMdBody": "relax, unwind",
+        "aMdBody": "расслабиться",
+        "qMdFootnote": "Just relax.",
+        "aMdFootnote": "Просто расслабься."
+      }
+    },
+    {
+      "row": 465,
+      "before": {
+        "qMdBody": "cynicism",
+        "aMdBody": "цинизм",
+        "qMdFootnote": "His cynicism is strong.",
+        "aMdFootnote": "Его цинизм сильный."
+      },
+      "after": {
+        "qMdBody": "cynicism",
+        "aMdBody": "цинизм",
+        "qMdFootnote": "His cynicism is clear.",
+        "aMdFootnote": "Его цинизм очевиден."
+      }
+    },
+    {
+      "row": 467,
+      "before": {
+        "qMdBody": "briefly, in brief",
+        "aMdBody": "вкратце",
+        "qMdFootnote": "He explained the concept briefly.",
+        "aMdFootnote": "Он вкратце объяснил концепцию."
+      },
+      "after": {
+        "qMdBody": "briefly, in brief",
+        "aMdBody": "вкратце",
+        "qMdFootnote": "He explained briefly.",
+        "aMdFootnote": "Он объяснил вкратце."
+      }
+    },
+    {
+      "row": 469,
+      "before": {
+        "qMdBody": "slope, bias",
+        "aMdBody": "уклон",
+        "qMdFootnote": "The road has a slope.",
+        "aMdFootnote": "У дороги есть уклон."
+      },
+      "after": {
+        "qMdBody": "slope",
+        "aMdBody": "уклон",
+        "qMdFootnote": "The road has a slope.",
+        "aMdFootnote": "У дороги есть уклон."
+      }
+    },
+    {
+      "row": 472,
+      "before": {
+        "qMdBody": "Chekist, security officer",
+        "aMdBody": "чекист",
+        "qMdFootnote": "The Chekist monitored the dissidents closely.",
+        "aMdFootnote": "Чекист тщательно следил за диссидентами."
+      },
+      "after": {
+        "qMdBody": "Chekist, security officer",
+        "aMdBody": "чекист",
+        "qMdFootnote": "The Chekist is here.",
+        "aMdFootnote": "Чекист здесь."
+      }
+    },
+    {
+      "row": 474,
+      "before": {
+        "qMdBody": "service, servicing",
+        "aMdBody": "сервисный",
+        "qMdFootnote": "This is a service center.",
+        "aMdFootnote": "Это сервисный центр."
+      },
+      "after": {
+        "qMdBody": "service",
+        "aMdBody": "сервисный",
+        "qMdFootnote": "This is a service center.",
+        "aMdFootnote": "Это сервисный центр."
+      }
+    },
+    {
+      "row": 475,
+      "before": {
+        "qMdBody": "to learn, to get to know",
+        "aMdBody": "познавать",
+        "qMdFootnote": "We want to learn the world.",
+        "aMdFootnote": "Мы хотим познавать мир."
+      },
+      "after": {
+        "qMdBody": "to learn, to get to know",
+        "aMdBody": "познавать",
+        "qMdFootnote": "We want to learn about life.",
+        "aMdFootnote": "Мы хотим познавать жизнь."
+      }
+    },
+    {
+      "row": 476,
+      "before": {
+        "qMdBody": "to confess, to admit",
+        "aMdBody": "сознаться",
+        "qMdFootnote": "He decided to confess his feelings.",
+        "aMdFootnote": "Он решил сознаться в своих чувствах."
+      },
+      "after": {
+        "qMdBody": "to confess, to admit",
+        "aMdBody": "сознаться",
+        "qMdFootnote": "He decided to admit everything.",
+        "aMdFootnote": "Он решил во всём сознаться."
+      }
+    },
+    {
+      "row": 479,
+      "before": {
+        "qMdBody": "drag, bring",
+        "aMdBody": "притащить",
+        "qMdFootnote": "I'll drag the sofa over here.",
+        "aMdFootnote": "Я притащу диван сюда."
+      },
+      "after": {
+        "qMdBody": "drag, bring",
+        "aMdBody": "притащить",
+        "qMdFootnote": "I'll drag the sofa.",
+        "aMdFootnote": "Я притащу диван."
+      }
+    },
+    {
+      "row": 480,
+      "before": {
+        "qMdBody": "to be interrupted, to break off",
+        "aMdBody": "прерываться",
+        "qMdFootnote": "His speech began to break off.",
+        "aMdFootnote": "Его речь начала прерываться."
+      },
+      "after": {
+        "qMdBody": "to be interrupted, to break off",
+        "aMdBody": "прерываться",
+        "qMdFootnote": "His speech kept breaking off.",
+        "aMdFootnote": "Его речь постоянно прерывалась."
+      }
+    },
+    {
+      "row": 486,
+      "before": {
+        "qMdBody": "to comprehend, to grasp",
+        "aMdBody": "постигать",
+        "qMdFootnote": "He cannot comprehend the theory.",
+        "aMdFootnote": "Он не может постичь теорию."
+      },
+      "after": {
+        "qMdBody": "to comprehend, to grasp",
+        "aMdBody": "постичь",
+        "qMdFootnote": "He cannot grasp the theory.",
+        "aMdFootnote": "Он не может постичь теорию."
+      }
+    },
+    {
+      "row": 490,
+      "before": {
+        "qMdBody": "dining, canteen",
+        "aMdBody": "столовый",
+        "qMdFootnote": "This is a dining knife.",
+        "aMdFootnote": "Это столовый нож."
+      },
+      "after": {
+        "qMdBody": "dining",
+        "aMdBody": "столовый",
+        "qMdFootnote": "This is a dining knife.",
+        "aMdFootnote": "Это столовый нож."
+      }
+    },
+    {
+      "row": 492,
+      "before": {
+        "qMdBody": "battle, war",
+        "aMdBody": "рать",
+        "qMdFootnote": "The prince led the battle.",
+        "aMdFootnote": "Князь вёл рать."
+      },
+      "after": {
+        "qMdBody": "army",
+        "aMdBody": "рать",
+        "qMdFootnote": "The prince led his army.",
+        "aMdFootnote": "Князь вёл рать."
+      }
+    },
+    {
+      "row": 493,
+      "before": {
+        "qMdBody": "brilliantly, splendidly",
+        "aMdBody": "блестяще",
+        "qMdFootnote": "She danced brilliantly at the competition.",
+        "aMdFootnote": "Она блестяще танцевала на соревновании."
+      },
+      "after": {
+        "qMdBody": "brilliantly, splendidly",
+        "aMdBody": "блестяще",
+        "qMdFootnote": "She danced brilliantly.",
+        "aMdFootnote": "Она блестяще танцевала."
+      }
+    },
+    {
+      "row": 494,
+      "before": {
+        "qMdBody": "observer, reviewer",
+        "aMdBody": "обозреватель",
+        "qMdFootnote": "The observer noted every detail.",
+        "aMdFootnote": "Обозреватель отметил каждую деталь."
+      },
+      "after": {
+        "qMdBody": "reviewer",
+        "aMdBody": "обозреватель",
+        "qMdFootnote": "The reviewer noted every detail.",
+        "aMdFootnote": "Обозреватель отметил каждую деталь."
+      }
+    },
+    {
+      "row": 495,
+      "before": {
+        "qMdBody": "to fell, to knock down",
+        "aMdBody": "повалить",
+        "qMdFootnote": "They aimed to fell the old tree.",
+        "aMdFootnote": "Они стремились повалить старое дерево."
+      },
+      "after": {
+        "qMdBody": "to fell, to knock down",
+        "aMdBody": "повалить",
+        "qMdFootnote": "They will fell the old tree.",
+        "aMdFootnote": "Они повалят старое дерево."
+      }
+    },
+    {
+      "row": 496,
+      "before": {
+        "qMdBody": "touch, contact",
+        "aMdBody": "соприкосновение",
+        "qMdFootnote": "A gentle touch can convey love.",
+        "aMdFootnote": "Нежное соприкосновение может передать любовь."
+      },
+      "after": {
+        "qMdBody": "contact",
+        "aMdBody": "соприкосновение",
+        "qMdFootnote": "Contact with water is harmful.",
+        "aMdFootnote": "Соприкосновение с водой вредно."
+      }
+    },
+    {
+      "row": 498,
+      "before": {
+        "qMdBody": "patient, enduring",
+        "aMdBody": "терпеливый",
+        "qMdFootnote": "She is very patient with a child.",
+        "aMdFootnote": "Она очень терпеливая с ребёнком."
+      },
+      "after": {
+        "qMdBody": "patient, enduring",
+        "aMdBody": "терпеливый",
+        "qMdFootnote": "She is patient.",
+        "aMdFootnote": "Она терпеливая."
+      }
+    },
+    {
+      "row": 500,
+      "before": {
+        "qMdBody": "Belarusian, Byelorussian",
+        "aMdBody": "белорус",
+        "qMdFootnote": "She married a Belarusian man.",
+        "aMdFootnote": "Она вышла замуж за белоруса."
+      },
+      "after": {
+        "qMdBody": "Belarusian, Byelorussian",
+        "aMdBody": "белорус",
+        "qMdFootnote": "The Belarusian man is here.",
+        "aMdFootnote": "Белорус здесь."
+      }
+    }
+  ]
+}

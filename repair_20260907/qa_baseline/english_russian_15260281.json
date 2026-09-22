@@ -1,0 +1,730 @@
+{
+  "pack": "english_russian",
+  "deck": "15260281",
+  "band": "7000->7500",
+  "sha256": "8831b672bd3f170a8eb96eb4f3a98201e51f625eb4d384752e54f809a7358015",
+  "errors": [],
+  "candidates": [
+    {
+      "row": 18,
+      "q": "soften",
+      "a": "смягчить",
+      "qe": "Heat can often soften butter.",
+      "ae": "Тепло часто может смягчить масло.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "butter",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 94,
+      "q": "to cross oneself",
+      "a": "креститься",
+      "qe": "She paused to cross herself.",
+      "ae": "Она остановилась, чтобы креститься.",
+      "issues": {
+        "en_target": "to cross oneself | She paused to cross herself.",
+        "en_vocab": [
+          {
+            "word": "herself",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 106,
+      "q": "regulator",
+      "a": "регулятор",
+      "qe": "The regulator controls the pressure.",
+      "ae": "Регулятор контролирует давление.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "контролирует",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 121,
+      "q": "organizing committee",
+      "a": "оргкомитет",
+      "qe": "The organizing committee met today.",
+      "ae": "Оргкомитет собрался сегодня.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "собрался",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 122,
+      "q": "physical culture",
+      "a": "физкультура",
+      "qe": "Physical culture improves health.",
+      "ae": "Физкультура улучшает здоровье.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "улучшает",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 124,
+      "q": "stuffy",
+      "a": "душный",
+      "qe": "The room felt stuffy and hot.",
+      "ae": "В комнате было душно и жарко.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "жарко",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 135,
+      "q": "upward",
+      "a": "кверху",
+      "qe": "The bird flew upward.",
+      "ae": "Птица полетела кверху.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "полетела",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 140,
+      "q": "the Lord's",
+      "a": "господень",
+      "qe": "The church celebrates the Lord's Day.",
+      "ae": "Церковь празднует Господень день.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "празднует",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 143,
+      "q": "Ryazan",
+      "a": "Рязань",
+      "qe": "I visit Ryazan in summer.",
+      "ae": "Я посещаю Рязань летом.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "посещаю",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 145,
+      "q": "graduate school",
+      "a": "аспирантура",
+      "qe": "She wants graduate school abroad.",
+      "ae": "Она хочет аспирантуру за границей.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "abroad",
+            "band": "7000->7500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 147,
+      "q": "to spill out",
+      "a": "вылиться",
+      "qe": "Water began to spill out.",
+      "ae": "Вода начала выливаться.",
+      "issues": {
+        "ru_target": "вылиться | Вода начала выливаться.",
+        "ru_vocab": [
+          {
+            "word": "выливаться",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 162,
+      "q": "sexuality",
+      "a": "сексуальность",
+      "qe": "She studies her sexuality.",
+      "ae": "Она изучает свою сексуальность.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "изучает",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 170,
+      "q": "burning",
+      "a": "жгучий",
+      "qe": "I felt a burning pain.",
+      "ae": "Я почувствовал жгучую боль.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "почувствовал",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 180,
+      "q": "evenly",
+      "a": "равномерно",
+      "qe": "Spread the paint evenly.",
+      "ae": "Распределите краску равномерно.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "распределите",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 185,
+      "q": "suffocate",
+      "a": "задохнуться",
+      "qe": "I will suffocate here.",
+      "ae": "Я тут задохнусь.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "тут",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 262,
+      "q": "awkwardness",
+      "a": "неловкость",
+      "qe": "I felt the awkwardness.",
+      "ae": "Я почувствовал неловкость.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "почувствовал",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 268,
+      "q": "housewife",
+      "a": "домохозяйка",
+      "qe": "The housewife prepared dinner.",
+      "ae": "Домохозяйка приготовила ужин.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "приготовила",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 277,
+      "q": "drag oneself",
+      "a": "тащиться",
+      "qe": "I had to drag myself to work.",
+      "ae": "Мне пришлось тащиться на работу.",
+      "issues": {
+        "en_target": "drag oneself | I had to drag myself to work."
+      }
+    },
+    {
+      "row": 301,
+      "q": "agility",
+      "a": "ловкость",
+      "qe": "Her agility impressed the coach.",
+      "ae": "Её ловкость произвела впечатление на тренера.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "произвела",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 302,
+      "q": "all-union",
+      "a": "всесоюзный",
+      "qe": "The all-union conference starts tomorrow.",
+      "ae": "Всесоюзная конференция начинается завтра.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "начинается",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 305,
+      "q": "restrain oneself",
+      "a": "сдержаться",
+      "qe": "He could not restrain himself.",
+      "ae": "Он не смог сдержаться.",
+      "issues": {
+        "en_target": "restrain oneself | He could not restrain himself.",
+        "en_vocab": [
+          {
+            "word": "himself",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 322,
+      "q": "Stavropol",
+      "a": "Ставрополь",
+      "qe": "I visited Stavropol last summer.",
+      "ae": "Я посетил Ставрополь прошлым летом.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "прошлым",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 324,
+      "q": "troupe",
+      "a": "труппа",
+      "qe": "The troupe performed well.",
+      "ae": "Труппа хорошо выступила.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "выступила",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 331,
+      "q": "conservatory",
+      "a": "консерватория",
+      "qe": "She studies piano at the conservatory.",
+      "ae": "Она учит пианино в консерватории.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "пианино",
+            "band": "7000->7500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 342,
+      "q": "pact",
+      "a": "пакт",
+      "qe": "They signed a peace pact yesterday.",
+      "ae": "Они подписали мирный пакт вчера.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "подписали",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 352,
+      "q": "pardon",
+      "a": "пардон",
+      "qe": "Pardon, could you repeat that?",
+      "ae": "Пардон, не могли бы вы повторить это?",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "повторить",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 356,
+      "q": "Karelian",
+      "a": "карельский",
+      "qe": "She cooked Karelian pies.",
+      "ae": "Она приготовила карельские пироги.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "приготовила",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 359,
+      "q": "infantryman",
+      "a": "пехотинец",
+      "qe": "The infantryman advanced cautiously.",
+      "ae": "Пехотинец осторожно продвигался вперёд.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "cautiously",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 399,
+      "q": "formality",
+      "a": "формальность",
+      "qe": "It's just a formality now.",
+      "ae": "Это просто формальность.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "just",
+            "band": "9000->9500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 401,
+      "q": "coupon",
+      "a": "талон",
+      "qe": "I redeemed a coupon for bread.",
+      "ae": "Я обменял талон на хлеб.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "обменял",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 404,
+      "q": "bust",
+      "a": "бюст",
+      "qe": "She admired the marble bust in the museum.",
+      "ae": "Она восхищалась мраморным бюстом в музее.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "восхищалась",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 408,
+      "q": "sheriff",
+      "a": "шериф",
+      "qe": "The sheriff arrested the fugitive yesterday.",
+      "ae": "Шериф арестовал беглеца вчера.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "беглеца",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 409,
+      "q": "carrot",
+      "a": "морковь",
+      "qe": "I planted a carrot in the garden.",
+      "ae": "Я посадил морковь в саду.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "посадил",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 412,
+      "q": "summit",
+      "a": "саммит",
+      "qe": "Leaders discussed peace at the summit.",
+      "ae": "Лидеры обсудили мир на саммите.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "лидеры",
+            "band": "absent"
+          },
+          {
+            "word": "обсудили",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 417,
+      "q": "borscht",
+      "a": "борщ",
+      "qe": "I made borscht for dinner.",
+      "ae": "Я приготовил борщ на ужин.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "приготовил",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 419,
+      "q": "legally",
+      "a": "юридически",
+      "qe": "She's legally his wife now.",
+      "ae": "Она теперь юридически его жена.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "теперь",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 422,
+      "q": "rivalry",
+      "a": "соперничество",
+      "qe": "The rivalry between them intensified.",
+      "ae": "Соперничество между ними обострилось.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "обострилось",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 425,
+      "q": "librarian",
+      "a": "библиотекарь",
+      "qe": "The librarian recommended a novel.",
+      "ae": "Библиотекарь порекомендовал роман.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "порекомендовал",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 428,
+      "q": "witchcraft",
+      "a": "колдовство",
+      "qe": "She studied witchcraft for many years.",
+      "ae": "Она изучала колдовство много лет.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "изучала",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 434,
+      "q": "to climb in",
+      "a": "влезать",
+      "qe": "He struggled to climb in the window.",
+      "ae": "Он с трудом пытался влезть в окно.",
+      "issues": {
+        "ru_target": "влезать | Он с трудом пытался влезть в окно."
+      }
+    },
+    {
+      "row": 443,
+      "q": "to erect",
+      "a": "воздвигнуть",
+      "qe": "They plan to erect a new monument.",
+      "ae": "Они планируют воздвигнуть новый памятник.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "планируют",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 446,
+      "q": "diocese",
+      "a": "епархия",
+      "qe": "He works in the Moscow diocese.",
+      "ae": "Он работает в Московской епархии.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "московской",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 450,
+      "q": "semester",
+      "a": "семестр",
+      "qe": "The semester ends in December.",
+      "ae": "Семестр заканчивается в декабре.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "заканчивается",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 457,
+      "q": "exposure",
+      "a": "разоблачение",
+      "qe": "His exposure shocked the community.",
+      "ae": "Его разоблачение потрясло общество.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "потрясло",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 475,
+      "q": "intuitive",
+      "a": "интуитивный",
+      "qe": "This method is intuitive.",
+      "ae": "Этот метод интуитивный.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "метод",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 483,
+      "q": "epithet",
+      "a": "эпитет",
+      "qe": "He earned the epithet \"the Brave.\"",
+      "ae": "Он заслужил эпитет \"Храбрый\".",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "храбрый",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 491,
+      "q": "extramural",
+      "a": "заочный",
+      "qe": "She enrolled in extramural studies.",
+      "ae": "Она поступила на заочное обучение.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "обучение",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 498,
+      "q": "optics",
+      "a": "оптика",
+      "qe": "The optics store sells quality lenses.",
+      "ae": "Магазин оптики продает качественные линзы.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "продает",
+            "band": "absent"
+          },
+          {
+            "word": "линзы",
+            "band": "absent"
+          }
+        ]
+      }
+    }
+  ]
+}

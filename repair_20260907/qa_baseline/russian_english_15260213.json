@@ -1,0 +1,95 @@
+{
+  "pack": "russian_english",
+  "deck": "15260213",
+  "band": "6500->7000",
+  "sha256": "f111756315b82f7a7f6dff82f05b10e29fa21ae070820eb65743f543911e9925",
+  "errors": [],
+  "candidates": [
+    {
+      "row": 17,
+      "q": "пират",
+      "a": "pirate, buccaneer",
+      "qe": "Пират украл сундук с сокровищами.",
+      "ae": "The pirate stole the treasure chest.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "сундук",
+            "band": "6500->7000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 79,
+      "q": "нежелательный",
+      "a": "undesirable, unwanted",
+      "qe": "Курение - нежелательная привычка.",
+      "ae": "Smoking is an undesirable habit.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "курение",
+            "band": "6500->7000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 95,
+      "q": "лопнуть",
+      "a": "burst, pop",
+      "qe": "Шарик внезапно лопнул.",
+      "ae": "The balloon burst suddenly.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "balloon",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 208,
+      "q": "порадовать",
+      "a": "to please, to delight",
+      "qe": "Надо порадовать их.",
+      "ae": "We must please them.",
+      "issues": {
+        "en_target": "to please, to delight | We must please them."
+      }
+    },
+    {
+      "row": 302,
+      "q": "задаваться",
+      "a": "ask oneself, wonder",
+      "qe": "Он начал задаваться вопросом.",
+      "ae": "He began to ask himself a question.",
+      "issues": {
+        "en_target": "ask oneself, wonder | He began to ask himself a question.",
+        "en_vocab": [
+          {
+            "word": "himself",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 484,
+      "q": "заблудиться",
+      "a": "to get lost, to lose one's way",
+      "qe": "Здесь легко заблудиться.",
+      "ae": "It is easy to get lost here.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "easy",
+            "band": "6500->7000"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,458 @@
+{
+  "pack": "english_russian",
+  "deck": "15260269",
+  "band": "5000->5500",
+  "sha256": "dc6dc9966e7a68ec243f8a6281e35eec9de4490bd421fdfb798eec4772b4be8c",
+  "errors": [],
+  "candidates": [
+    {
+      "row": 9,
+      "q": "vector",
+      "a": "вектор",
+      "qe": "The vector points north.",
+      "ae": "Вектор указывает на север.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "указывает",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 33,
+      "q": "greedily",
+      "a": "жадно",
+      "qe": "He greedily ate the cake.",
+      "ae": "Он жадно ел торт.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "cake",
+            "band": "5000->5500"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "торт",
+            "band": "5000->5500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 34,
+      "q": "foliage",
+      "a": "листва",
+      "qe": "I love autumn foliage.",
+      "ae": "Я люблю осеннюю листву.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "осеннюю",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 125,
+      "q": "materially",
+      "a": "материально",
+      "qe": "Her life improved materially.",
+      "ae": "Её жизнь материально улучшилась.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "улучшилась",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 134,
+      "q": "enumerate",
+      "a": "перечислять",
+      "qe": "Please enumerate the names.",
+      "ae": "Пожалуйста, перечислите имена.",
+      "issues": {
+        "ru_target": "перечислять | Пожалуйста, перечислите имена.",
+        "ru_vocab": [
+          {
+            "word": "перечислите",
+            "band": "6000->6500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 145,
+      "q": "pulse",
+      "a": "пульс",
+      "qe": "Check your pulse regularly.",
+      "ae": "Регулярно проверяйте свой пульс.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "проверяйте",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 147,
+      "q": "distortion",
+      "a": "искажение",
+      "qe": "The lens has a distortion.",
+      "ae": "У объектива есть искажение.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "lens",
+            "band": "5000->5500"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "объектива",
+            "band": "5000->5500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 171,
+      "q": "to give oneself up",
+      "a": "отдаваться",
+      "qe": "She will give herself up to art.",
+      "ae": "Она будет отдаваться искусству.",
+      "issues": {
+        "en_target": "to give oneself up | She will give herself up to art.",
+        "en_vocab": [
+          {
+            "word": "herself",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 216,
+      "q": "prediction",
+      "a": "предсказание",
+      "qe": "His prediction came true yesterday.",
+      "ae": "Его предсказание сбылось вчера.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "сбылось",
+            "band": "5000->5500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 235,
+      "q": "to grow",
+      "a": "вырастить",
+      "qe": "I want to grow tomatoes.",
+      "ae": "Я хочу вырастить помидоры.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "tomatoes",
+            "band": "5000->5500"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "помидоры",
+            "band": "5000->5500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 303,
+      "q": "investigative",
+      "a": "следственный",
+      "qe": "The investigative team arrived promptly.",
+      "ae": "Следственная группа прибыла оперативно.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "promptly",
+            "band": "5000->5500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 338,
+      "q": "banana",
+      "a": "банан",
+      "qe": "I ate a banana for breakfast.",
+      "ae": "Я съел банан на завтрак.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "съел",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 360,
+      "q": "furious",
+      "a": "яростный",
+      "qe": "He was furious at the injustice.",
+      "ae": "Он был яростным из-за несправедливости.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "injustice",
+            "band": "5000->5500"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "несправедливости",
+            "band": "5000->5500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 386,
+      "q": "Führer",
+      "a": "фюрер",
+      "qe": "He called himself the Führer.",
+      "ae": "Он называл себя фюрером.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "himself",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 390,
+      "q": "get off",
+      "a": "отделаться",
+      "qe": "He managed to get off lightly.",
+      "ae": "Ему удалось отделаться легко.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "lightly",
+            "band": "8000->8500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 391,
+      "q": "interpret",
+      "a": "толковать",
+      "qe": "I interpret this word differently.",
+      "ae": "Я толкую это слово иначе.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "differently",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 399,
+      "q": "classmate",
+      "a": "одноклассник",
+      "qe": "I met my classmate yesterday.",
+      "ae": "Вчера я встретил своего одноклассника.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "встретил",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 420,
+      "q": "Irkutsk",
+      "a": "Иркутск",
+      "qe": "I visited Irkutsk last summer.",
+      "ae": "Я посетил Иркутск прошлым летом.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "прошлым",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 427,
+      "q": "come to one's senses",
+      "a": "опомниться",
+      "qe": "He finally came to his senses.",
+      "ae": "Он наконец опомнился.",
+      "issues": {
+        "en_target": "come to one's senses | He finally came to his senses."
+      }
+    },
+    {
+      "row": 429,
+      "q": "to defend oneself",
+      "a": "защищаться",
+      "qe": "He needs to defend himself.",
+      "ae": "Ему нужно защищаться.",
+      "issues": {
+        "en_target": "to defend oneself | He needs to defend himself.",
+        "en_vocab": [
+          {
+            "word": "himself",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 430,
+      "q": "to confuse",
+      "a": "перепутать",
+      "qe": "I tried not to confuse the names.",
+      "ae": "Я старался не перепутать имена.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "старался",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 441,
+      "q": "maniac",
+      "a": "маньяк",
+      "qe": "The maniac was here yesterday.",
+      "ae": "Маньяк был тут вчера.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "тут",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 444,
+      "q": "to be prohibited",
+      "a": "запрещаться",
+      "qe": "Smoking is to be prohibited here.",
+      "ae": "Курение тут запрещается.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "тут",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 463,
+      "q": "change one's mind",
+      "a": "передумать",
+      "qe": "She will change her mind.",
+      "ae": "Она передумает.",
+      "issues": {
+        "en_target": "change one's mind | She will change her mind."
+      }
+    },
+    {
+      "row": 471,
+      "q": "to cut",
+      "a": "разрезать",
+      "qe": "Use a knife to cut the cake.",
+      "ae": "Используйте нож, чтобы разрезать торт.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "cake",
+            "band": "5000->5500"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "торт",
+            "band": "5000->5500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 472,
+      "q": "awakening",
+      "a": "пробуждение",
+      "qe": "I felt an awakening.",
+      "ae": "Я почувствовал пробуждение.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "почувствовал",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 475,
+      "q": "patty",
+      "a": "пирожок",
+      "qe": "I ate a meat patty.",
+      "ae": "Я съел пирожок с мясом.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "съел",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 495,
+      "q": "lending",
+      "a": "кредитование",
+      "qe": "The bank specializes in lending.",
+      "ae": "Банк специализируется на кредитовании.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "specializes",
+            "band": "5000->5500"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "специализируется",
+            "band": "5000->5500"
+          }
+        ]
+      }
+    }
+  ]
+}

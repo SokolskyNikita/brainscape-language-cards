@@ -1,0 +1,960 @@
+{
+  "pack": "russian_english",
+  "deck": "15260185",
+  "band": "500->1000",
+  "sha256": "da72a91b77909263c46b9afe2509e82eff13eabf3ecfadc9890837c8698d604b",
+  "errors": [],
+  "candidates": [
+    {
+      "row": 43,
+      "q": "туда",
+      "a": "there",
+      "qe": "Пойдем туда завтра.",
+      "ae": "Let's go there tomorrow.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "завтра",
+            "band": "500->1000"
+          }
+        ],
+        "en_vocab": [
+          {
+            "word": "tomorrow",
+            "band": "500->1000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 48,
+      "q": "попасть",
+      "a": "to get in, to hit",
+      "qe": "Как туда попасть?",
+      "ae": "How do I get in?",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "туда",
+            "band": "500->1000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 99,
+      "q": "весьма",
+      "a": "very, quite",
+      "qe": "Весьма возможно.",
+      "ae": "Quite possible.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "possible",
+            "band": "500->1000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 102,
+      "q": "объект",
+      "a": "object, site",
+      "qe": "Едем на объект.",
+      "ae": "We're going to the site.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "едем",
+            "band": "500->1000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 113,
+      "q": "плечо",
+      "a": "shoulder",
+      "qe": "Боль в плече.",
+      "ae": "Pain in the shoulder.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "боль",
+            "band": "500->1000"
+          }
+        ],
+        "en_vocab": [
+          {
+            "word": "pain",
+            "band": "500->1000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 124,
+      "q": "средний",
+      "a": "average, middle",
+      "qe": "Он среднего роста.",
+      "ae": "He's average height.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "роста",
+            "band": "500->1000"
+          }
+        ],
+        "en_vocab": [
+          {
+            "word": "height",
+            "band": "500->1000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 183,
+      "q": "операция",
+      "a": "operation, surgery",
+      "qe": "Операция завтра.",
+      "ae": "Surgery's tomorrow.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "завтра",
+            "band": "500->1000"
+          }
+        ],
+        "en_vocab": [
+          {
+            "word": "tomorrow",
+            "band": "500->1000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 198,
+      "q": "научный",
+      "a": "scientific",
+      "qe": "Это научный факт?",
+      "ae": "Is that a scientific fact?",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "факт",
+            "band": "500->1000"
+          }
+        ],
+        "en_vocab": [
+          {
+            "word": "fact",
+            "band": "500->1000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 201,
+      "q": "корабль",
+      "a": "ship",
+      "qe": "Корабль в море.",
+      "ae": "The ship's at sea.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "море",
+            "band": "500->1000"
+          }
+        ],
+        "en_vocab": [
+          {
+            "word": "sea",
+            "band": "500->1000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 216,
+      "q": "сложный",
+      "a": "complex, complicated",
+      "qe": "Проблема довольно сложная.",
+      "ae": "The problem is quite complex.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "довольно",
+            "band": "500->1000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 220,
+      "q": "структура",
+      "a": "structure",
+      "qe": "Сложная структура.",
+      "ae": "A complex structure.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "сложная",
+            "band": "500->1000"
+          }
+        ],
+        "en_vocab": [
+          {
+            "word": "complex",
+            "band": "500->1000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 232,
+      "q": "вызвать",
+      "a": "to call, to summon",
+      "qe": "Мне нужно вызвать врача.",
+      "ae": "I need to call a doctor.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "врача",
+            "band": "500->1000"
+          }
+        ],
+        "en_vocab": [
+          {
+            "word": "doctor",
+            "band": "500->1000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 241,
+      "q": "понятие",
+      "a": "concept, notion",
+      "qe": "Сложное понятие.",
+      "ae": "A complex concept.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "сложное",
+            "band": "500->1000"
+          }
+        ],
+        "en_vocab": [
+          {
+            "word": "complex",
+            "band": "500->1000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 243,
+      "q": "поддержка",
+      "a": "support",
+      "qe": "Спасибо за поддержку.",
+      "ae": "Thanks for the support.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "thanks",
+            "band": "500->1000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 250,
+      "q": "услуга",
+      "a": "service, favor",
+      "qe": "Спасибо за услугу.",
+      "ae": "Thanks for the favor.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "thanks",
+            "band": "500->1000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 273,
+      "q": "спина",
+      "a": "back",
+      "qe": "Держи спину.",
+      "ae": "Keep your back straight.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "держи",
+            "band": "500->1000"
+          }
+        ],
+        "en_vocab": [
+          {
+            "word": "keep",
+            "band": "500->1000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 281,
+      "q": "вызывать",
+      "a": "to call, to summon",
+      "qe": "Врача вызывать?",
+      "ae": "Should I call a doctor?",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "врача",
+            "band": "500->1000"
+          }
+        ],
+        "en_vocab": [
+          {
+            "word": "doctor",
+            "band": "500->1000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 283,
+      "q": "руководитель",
+      "a": "leader, manager",
+      "qe": "Она стала руководителем команды.",
+      "ae": "She became the team's leader.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "команды",
+            "band": "500->1000"
+          }
+        ],
+        "en_vocab": [
+          {
+            "word": "team",
+            "band": "500->1000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 287,
+      "q": "страшный",
+      "a": "terrible, scary",
+      "qe": "Страшный сон.",
+      "ae": "A scary dream.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "сон",
+            "band": "500->1000"
+          }
+        ],
+        "en_vocab": [
+          {
+            "word": "dream",
+            "band": "500->1000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 288,
+      "q": "звук",
+      "a": "sound",
+      "qe": "Странный звук.",
+      "ae": "A strange sound.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "странный",
+            "band": "500->1000"
+          }
+        ],
+        "en_vocab": [
+          {
+            "word": "strange",
+            "band": "500->1000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 297,
+      "q": "господин",
+      "a": "Mr., sir",
+      "qe": "Господин директор.",
+      "ae": "Mr. Director.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "директор",
+            "band": "500->1000"
+          }
+        ],
+        "en_vocab": [
+          {
+            "word": "director",
+            "band": "500->1000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 314,
+      "q": "глядеть",
+      "a": "to look",
+      "qe": "Гляди сюда.",
+      "ae": "Look here.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "сюда",
+            "band": "500->1000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 317,
+      "q": "пожалуйста",
+      "a": "please, you're welcome",
+      "qe": "Сюда, пожалуйста.",
+      "ae": "Here, please.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "сюда",
+            "band": "500->1000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 322,
+      "q": "волос",
+      "a": "hair",
+      "qe": "Длинные волосы.",
+      "ae": "Long hair.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "длинные",
+            "band": "500->1000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 329,
+      "q": "процент",
+      "a": "percent",
+      "qe": "Десять процентов.",
+      "ae": "Ten percent.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "десять",
+            "band": "500->1000"
+          }
+        ],
+        "en_vocab": [
+          {
+            "word": "ten",
+            "band": "500->1000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 334,
+      "q": "ребята",
+      "a": "guys, kids",
+      "qe": "Ребята, сюда!",
+      "ae": "Guys, over here!",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "сюда",
+            "band": "500->1000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 345,
+      "q": "видно",
+      "a": "visible, one can see",
+      "qe": "Ничего не видно.",
+      "ae": "You can't see a thing.",
+      "issues": {
+        "en_target": "visible, one can see | You can't see a thing."
+      }
+    },
+    {
+      "row": 359,
+      "q": "западный",
+      "a": "western",
+      "qe": "Западный район.",
+      "ae": "The western district.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "район",
+            "band": "500->1000"
+          }
+        ],
+        "en_vocab": [
+          {
+            "word": "district",
+            "band": "500->1000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 373,
+      "q": "ощущение",
+      "a": "feeling, sensation",
+      "qe": "Странное ощущение.",
+      "ae": "A strange feeling.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "странное",
+            "band": "500->1000"
+          }
+        ],
+        "en_vocab": [
+          {
+            "word": "strange",
+            "band": "500->1000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 375,
+      "q": "никак",
+      "a": "in no way",
+      "qe": "Никак не могу.",
+      "ae": "I just can't.",
+      "issues": {
+        "en_target": "in no way | I just can't."
+      }
+    },
+    {
+      "row": 377,
+      "q": "определить",
+      "a": "to determine, to define",
+      "qe": "Трудно определить.",
+      "ae": "Hard to determine.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "трудно",
+            "band": "500->1000"
+          }
+        ],
+        "en_vocab": [
+          {
+            "word": "hard",
+            "band": "500->1000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 379,
+      "q": "звезда",
+      "a": "star",
+      "qe": "На небе звезда.",
+      "ae": "There's a star in the sky.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "небе",
+            "band": "500->1000"
+          }
+        ],
+        "en_vocab": [
+          {
+            "word": "sky",
+            "band": "500->1000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 386,
+      "q": "контроль",
+      "a": "control",
+      "qe": "Потерял контроль.",
+      "ae": "Lost control.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "потерял",
+            "band": "500->1000"
+          }
+        ],
+        "en_vocab": [
+          {
+            "word": "lost",
+            "band": "500->1000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 393,
+      "q": "старший",
+      "a": "older, elder",
+      "qe": "Мой старший брат.",
+      "ae": "My older brother.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "брат",
+            "band": "500->1000"
+          }
+        ],
+        "en_vocab": [
+          {
+            "word": "brother",
+            "band": "500->1000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 403,
+      "q": "боевой",
+      "a": "combat, fighting",
+      "qe": "Боевой дух.",
+      "ae": "Fighting spirit.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "дух",
+            "band": "500->1000"
+          }
+        ],
+        "en_vocab": [
+          {
+            "word": "spirit",
+            "band": "500->1000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 431,
+      "q": "обратиться",
+      "a": "to turn to, to address",
+      "qe": "Обратись к врачу.",
+      "ae": "Turn to a doctor.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "врачу",
+            "band": "500->1000"
+          }
+        ],
+        "en_vocab": [
+          {
+            "word": "doctor",
+            "band": "500->1000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 433,
+      "q": "встречаться",
+      "a": "to meet, to date",
+      "qe": "Мы встречаемся завтра.",
+      "ae": "We're meeting tomorrow.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "завтра",
+            "band": "500->1000"
+          }
+        ],
+        "en_vocab": [
+          {
+            "word": "tomorrow",
+            "band": "500->1000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 440,
+      "q": "житель",
+      "a": "resident, inhabitant",
+      "qe": "Местный житель.",
+      "ae": "A local resident.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "местный",
+            "band": "500->1000"
+          }
+        ],
+        "en_vocab": [
+          {
+            "word": "local",
+            "band": "500->1000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 448,
+      "q": "едва",
+      "a": "hardly, barely",
+      "qe": "Он едва спал прошлой ночью.",
+      "ae": "He hardly slept last night.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "прошлой",
+            "band": "500->1000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 450,
+      "q": "малый",
+      "a": "small, minor",
+      "qe": "Малый размер.",
+      "ae": "A small size.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "размер",
+            "band": "500->1000"
+          }
+        ],
+        "en_vocab": [
+          {
+            "word": "size",
+            "band": "500->1000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 453,
+      "q": "ухо",
+      "a": "ear",
+      "qe": "Боль в ухе.",
+      "ae": "Pain in the ear.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "боль",
+            "band": "500->1000"
+          }
+        ],
+        "en_vocab": [
+          {
+            "word": "pain",
+            "band": "500->1000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 458,
+      "q": "мужик",
+      "a": "guy, man",
+      "qe": "Нормальный мужик.",
+      "ae": "A normal guy.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "нормальный",
+            "band": "500->1000"
+          }
+        ],
+        "en_vocab": [
+          {
+            "word": "normal",
+            "band": "500->1000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 459,
+      "q": "городской",
+      "a": "city, urban",
+      "qe": "Городской район.",
+      "ae": "A city district.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "район",
+            "band": "500->1000"
+          }
+        ],
+        "en_vocab": [
+          {
+            "word": "district",
+            "band": "500->1000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 466,
+      "q": "рамка",
+      "a": "frame",
+      "qe": "Картина в рамке.",
+      "ae": "The picture's in a frame.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "картина",
+            "band": "500->1000"
+          }
+        ],
+        "en_vocab": [
+          {
+            "word": "picture",
+            "band": "500->1000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 471,
+      "q": "многое",
+      "a": "much, many things",
+      "qe": "Многое зависит от тебя.",
+      "ae": "Much depends on you.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "зависит",
+            "band": "500->1000"
+          }
+        ],
+        "en_vocab": [
+          {
+            "word": "depends",
+            "band": "500->1000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 481,
+      "q": "глубокий",
+      "a": "deep",
+      "qe": "Глубокая река.",
+      "ae": "A deep river.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "река",
+            "band": "500->1000"
+          }
+        ],
+        "en_vocab": [
+          {
+            "word": "river",
+            "band": "500->1000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 487,
+      "q": "заставить",
+      "a": "to make, to force",
+      "qe": "Не заставляй меня.",
+      "ae": "Don't make me.",
+      "issues": {
+        "ru_target": "заставить | Не заставляй меня.",
+        "ru_vocab": [
+          {
+            "word": "заставляй",
+            "band": "1000->1500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 488,
+      "q": "выражение",
+      "a": "expression, phrase",
+      "qe": "Странное выражение.",
+      "ae": "A strange expression.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "странное",
+            "band": "500->1000"
+          }
+        ],
+        "en_vocab": [
+          {
+            "word": "strange",
+            "band": "500->1000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 491,
+      "q": "приводить",
+      "a": "to bring, to lead",
+      "qe": "Приводи его сюда.",
+      "ae": "Bring him here.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "сюда",
+            "band": "500->1000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 494,
+      "q": "автомобиль",
+      "a": "car",
+      "qe": "Вчера я купил новый автомобиль.",
+      "ae": "I bought a new car yesterday.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "вчера",
+            "band": "500->1000"
+          }
+        ],
+        "en_vocab": [
+          {
+            "word": "yesterday",
+            "band": "500->1000"
+          }
+        ]
+      }
+    }
+  ]
+}

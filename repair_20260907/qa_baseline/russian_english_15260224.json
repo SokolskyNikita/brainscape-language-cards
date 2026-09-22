@@ -1,0 +1,112 @@
+{
+  "pack": "russian_english",
+  "deck": "15260224",
+  "band": "9500->10000",
+  "sha256": "aff413e7b3451c65f59bdf03e01be90e30a9bdd96bdcc107b86351ac0fa0552f",
+  "errors": [],
+  "candidates": [
+    {
+      "row": 2,
+      "q": "покаяние",
+      "a": "repentance",
+      "qe": "Он ищет покаяния.",
+      "ae": "He is seeking repentance.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "seeking",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 75,
+      "q": "затягивать",
+      "a": "to drag on, to tighten",
+      "qe": "Встреча затягивается.",
+      "ae": "The meeting is dragging on.",
+      "issues": {
+        "ru_target": "затягивать | Встреча затягивается.",
+        "ru_vocab": [
+          {
+            "word": "затягивается",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 155,
+      "q": "отличиться",
+      "a": "to distinguish oneself, to excel",
+      "qe": "Он отличился на работе.",
+      "ae": "He distinguished himself at work.",
+      "issues": {
+        "en_target": "to distinguish oneself, to excel | He distinguished himself at work.",
+        "en_vocab": [
+          {
+            "word": "himself",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 192,
+      "q": "затаить",
+      "a": "conceal, harbor",
+      "qe": "Он затаил злобу.",
+      "ae": "He harbored malice.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "malice",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 347,
+      "q": "вязать",
+      "a": "knit, tie",
+      "qe": "Она любит вязать шарф.",
+      "ae": "She loves to knit a scarf.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "шарф",
+            "band": "9500->10000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 462,
+      "q": "расслабляться",
+      "a": "relax, unwind",
+      "qe": "Я хочу расслабиться.",
+      "ae": "I want to relax.",
+      "issues": {
+        "ru_target": "расслабляться | Я хочу расслабиться."
+      }
+    },
+    {
+      "row": 463,
+      "q": "прогонять",
+      "a": "drive away, chase away",
+      "qe": "Прогони кота.",
+      "ae": "Drive away the cat.",
+      "issues": {
+        "ru_target": "прогонять | Прогони кота.",
+        "ru_vocab": [
+          {
+            "word": "прогони",
+            "band": "absent"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,422 @@
+{
+  "deck": 15260218,
+  "reviewed": 500,
+  "changes": [
+    {
+      "row": 1,
+      "before": [
+        "непреодолимый",
+        "insurmountable",
+        "Задача казалась непреодолимой.",
+        "The task seemed insurmountable."
+      ],
+      "after": [
+        "непреодолимый",
+        "insurmountable",
+        "Препятствие казалось непреодолимым.",
+        "The obstacle seemed insurmountable."
+      ],
+      "reason": "Use natural collocation."
+    },
+    {
+      "row": 49,
+      "before": [
+        "ревновать",
+        "to be jealous",
+        "Он ревнует жену.",
+        "He is jealous of his wife."
+      ],
+      "after": [
+        "ревновать",
+        "to be jealous (romantically)",
+        "Он ревнует.",
+        "He is jealous."
+      ],
+      "reason": "Jealous of his wife misleadingly suggests envy."
+    },
+    {
+      "row": 67,
+      "before": [
+        "смещение",
+        "shift, displacement",
+        "Это смещение власти.",
+        "This is a shift of power."
+      ],
+      "after": [
+        "смещение",
+        "shift, displacement",
+        "Смещение границы заметно на карте.",
+        "The shift of the border is visible on the map."
+      ],
+      "reason": "Replace unnatural смещение власти."
+    },
+    {
+      "row": 94,
+      "before": [
+        "параграф",
+        "paragraph",
+        "Прочитай этот параграф.",
+        "Read this paragraph."
+      ],
+      "after": [
+        "параграф",
+        "section, paragraph",
+        "Прочитай этот параграф.",
+        "Read this section."
+      ],
+      "reason": "Textbook параграф usually means a numbered section."
+    },
+    {
+      "row": 131,
+      "before": [
+        "гм",
+        "uh",
+        "Гм, не знаю.",
+        "Uh, I don't know."
+      ],
+      "after": [
+        "гм",
+        "hmm",
+        "Гм, не знаю.",
+        "Hmm, I don't know."
+      ],
+      "reason": "Match the hesitation sound."
+    },
+    {
+      "row": 138,
+      "before": [
+        "сортир",
+        "toilet",
+        "Где тут сортир?",
+        "Where is the toilet here?"
+      ],
+      "after": [
+        "сортир",
+        "toilet (coarse colloquial)",
+        "Где тут сортир?",
+        "Where is the toilet here?"
+      ],
+      "reason": "Mark register."
+    },
+    {
+      "row": 169,
+      "before": [
+        "просматриваться",
+        "visible",
+        "Дом просматривается из окна.",
+        "The house is visible from the window."
+      ],
+      "after": [
+        "просматриваться",
+        "to be visible",
+        "Дом просматривается из окна.",
+        "The house is visible from the window."
+      ],
+      "reason": "Retain verbal construction in gloss."
+    },
+    {
+      "row": 173,
+      "before": [
+        "гей",
+        "gay",
+        "Он открыто гей.",
+        "He is openly gay."
+      ],
+      "after": [
+        "гей",
+        "gay man",
+        "Он гей.",
+        "He is a gay man."
+      ],
+      "reason": "Correct noun gloss and calqued Russian example."
+    },
+    {
+      "row": 220,
+      "before": [
+        "нащупать",
+        "feel for, find by touch",
+        "Нащупай ключ.",
+        "Feel for the key."
+      ],
+      "after": [
+        "нащупать",
+        "find by touch",
+        "Нащупай ключ.",
+        "Find the key by touch."
+      ],
+      "reason": "Perfective means finding, not merely feeling for."
+    },
+    {
+      "row": 238,
+      "before": [
+        "сборный",
+        "national team",
+        "Это сборная команда.",
+        "This is the national team."
+      ],
+      "after": [
+        "сборный",
+        "combined, prefabricated",
+        "Это сборный дом.",
+        "This is a prefabricated house."
+      ],
+      "reason": "Adjective alone does not mean national team."
+    },
+    {
+      "row": 244,
+      "before": [
+        "трещать",
+        "creak, crackle",
+        "Дерево трещит.",
+        "The wood is creaking."
+      ],
+      "after": [
+        "трещать",
+        "crackle, crack",
+        "Дрова трещат в печи.",
+        "The firewood is crackling in the stove."
+      ],
+      "reason": "Distinguish cracking from creaking."
+    },
+    {
+      "row": 270,
+      "before": [
+        "мозговой",
+        "brain",
+        "Это мозговой центр.",
+        "This is a brain center."
+      ],
+      "after": [
+        "мозговой",
+        "brain, cerebral",
+        "Это мозговая деятельность.",
+        "This is brain activity."
+      ],
+      "reason": "Мозговой центр is normally a think tank, not literal brain center. Avoid untaught tissue."
+    },
+    {
+      "row": 292,
+      "before": [
+        "уполномоченный",
+        "authorized representative, commissioner",
+        "Он уполномоченный представитель.",
+        "He is an authorized representative."
+      ],
+      "after": [
+        "уполномоченный",
+        "authorized; commissioner",
+        "Он уполномоченный представитель.",
+        "He is an authorized representative."
+      ],
+      "reason": "Separate adjective from representative noun phrase."
+    },
+    {
+      "row": 296,
+      "before": [
+        "ловля",
+        "fishing",
+        "Ему нравится ловля рыбы.",
+        "He likes fishing."
+      ],
+      "after": [
+        "ловля",
+        "catching; fishing",
+        "Ловля рыбы запрещена.",
+        "Fishing is forbidden."
+      ],
+      "reason": "Add general catching sense."
+    },
+    {
+      "row": 302,
+      "before": [
+        "манер",
+        "manner",
+        "У него нет манер.",
+        "He has no manners."
+      ],
+      "after": [
+        "манер",
+        "manner, style",
+        "Он говорит на старый манер.",
+        "He speaks in the old manner."
+      ],
+      "reason": "Манер is not plural manners from манера."
+    },
+    {
+      "row": 328,
+      "before": [
+        "одиночный",
+        "solitary",
+        "Это одиночная камера.",
+        "This is a solitary cell."
+      ],
+      "after": [
+        "одиночный",
+        "single, solitary",
+        "Я услышал одиночный выстрел.",
+        "I heard a single shot."
+      ],
+      "reason": "Use natural English collocation. Avoid untaught confinement. Use prior vocabulary with a natural collocation."
+    },
+    {
+      "row": 330,
+      "before": [
+        "магистр",
+        "master's graduate",
+        "Он уже магистр.",
+        "He is a master's graduate."
+      ],
+      "after": [
+        "магистр",
+        "holder of a master's degree",
+        "Он уже магистр.",
+        "He is already a holder of a master's degree."
+      ],
+      "reason": "Natural English degree-holder wording."
+    },
+    {
+      "row": 334,
+      "before": [
+        "блядь",
+        "fuck",
+        "Блядь, опять!",
+        "Fuck, not again!"
+      ],
+      "after": [
+        "блядь",
+        "fuck (vulgar interjection)",
+        "Блядь, опять!",
+        "Fuck, not again!"
+      ],
+      "reason": "Mark register."
+    },
+    {
+      "row": 377,
+      "before": [
+        "инфаркт",
+        "heart attack",
+        "У него инфаркт.",
+        "He has a heart attack."
+      ],
+      "after": [
+        "инфаркт",
+        "heart attack",
+        "У него был инфаркт.",
+        "He had a heart attack."
+      ],
+      "reason": "Avoid unnatural present simple for an acute event."
+    },
+    {
+      "row": 408,
+      "before": [
+        "раскопка",
+        "excavation",
+        "Где раскопка?",
+        "Where is the excavation?"
+      ],
+      "after": [
+        "раскопка",
+        "excavation",
+        "Здесь идут раскопки.",
+        "Excavations are taking place here."
+      ],
+      "reason": "Use idiomatic plural for archaeological work."
+    },
+    {
+      "row": 437,
+      "before": [
+        "мах",
+        "sweep, swing",
+        "Он сделал мах рукой.",
+        "He made a sweeping gesture."
+      ],
+      "after": [
+        "мах",
+        "sweep, swing",
+        "Он сделал мах ногой.",
+        "He made a swing with his leg."
+      ],
+      "reason": "Use target directly in translated example."
+    },
+    {
+      "row": 438,
+      "before": [
+        "самолюбие",
+        "vanity",
+        "У него большое самолюбие.",
+        "He has great vanity."
+      ],
+      "after": [
+        "самолюбие",
+        "pride, self-esteem",
+        "Это задело его самолюбие.",
+        "This hurt his pride."
+      ],
+      "reason": "Самолюбие is not necessarily vanity."
+    },
+    {
+      "row": 460,
+      "before": [
+        "архиепископ",
+        "archbishop",
+        "Архиепископ в храме.",
+        "The archbishop is in the temple."
+      ],
+      "after": [
+        "архиепископ",
+        "archbishop",
+        "Архиепископ в храме.",
+        "The archbishop is in the church."
+      ],
+      "reason": "Translate храм according to Christian context."
+    },
+    {
+      "row": 462,
+      "before": [
+        "теорема",
+        "theorem",
+        "Это большая теорема.",
+        "This is a big theorem."
+      ],
+      "after": [
+        "теорема",
+        "theorem",
+        "Это важная теорема.",
+        "This is an important theorem."
+      ],
+      "reason": "Natural collocation."
+    },
+    {
+      "row": 468,
+      "before": [
+        "разуметься",
+        "of course",
+        "Это, разумеется, правда.",
+        "This is, of course, true."
+      ],
+      "after": [
+        "разуметься",
+        "to be meant; of course (разумеется)",
+        "Это, разумеется, правда.",
+        "This is, of course, true."
+      ],
+      "reason": "Distinguish verb from lexicalized introductory expression."
+    },
+    {
+      "row": 484,
+      "before": [
+        "дебаты",
+        "debate",
+        "Дебаты уже идут.",
+        "The debate already started."
+      ],
+      "after": [
+        "дебаты",
+        "debate",
+        "Дебаты уже идут.",
+        "The debate is already taking place."
+      ],
+      "reason": "Translate ongoing state rather than past start. Avoid untaught underway."
+    }
+  ]
+}

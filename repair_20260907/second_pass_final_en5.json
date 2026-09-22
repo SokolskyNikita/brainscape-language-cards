@@ -1,0 +1,3152 @@
+[
+  {
+    "pack": "english_russian",
+    "deck": "15260277",
+    "row": 13,
+    "before": [
+      "ward",
+      "воспитанник",
+      "He became his ward after the tragedy.",
+      "Он стал его воспитанником после трагедии."
+    ],
+    "after": [
+      "ward",
+      "подопечный",
+      "He became his ward after the tragedy.",
+      "После трагедии он стал его подопечным."
+    ],
+    "reason": "The guardianship sense of ward is подопечный, not воспитанник."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260277",
+    "row": 28,
+    "before": [
+      "to throw up",
+      "вскинуть",
+      "He is ready to throw up his hands.",
+      "Он готов вскинуть руки."
+    ],
+    "after": [
+      "to throw up",
+      "вскинуть",
+      "He threw his hands up.",
+      "Он вскинул руки."
+    ],
+    "reason": "The old examples mixed an English idiom with a literal Russian action."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260277",
+    "row": 59,
+    "before": [
+      "pathology",
+      "патология",
+      "He reads pathology at university.",
+      "Он читает патологию в университете."
+    ],
+    "after": [
+      "pathology",
+      "патология",
+      "He knows pathology.",
+      "Он знает патологию."
+    ],
+    "reason": "Читает патологию is not a natural collocation."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260277",
+    "row": 61,
+    "before": [
+      "coercion",
+      "принуждение",
+      "He refused the coercion.",
+      "Он отказался от принуждения."
+    ],
+    "after": [
+      "coercion",
+      "принуждение",
+      "They acted under coercion.",
+      "Они действовали под принуждением."
+    ],
+    "reason": "Refuse coercion is unnatural in both languages."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260277",
+    "row": 63,
+    "before": [
+      "sole",
+      "подошва",
+      "I stepped on a stone with my sole.",
+      "Я наступил на камень подошвой."
+    ],
+    "after": [
+      "sole",
+      "подошва",
+      "The stone is under my sole.",
+      "Камень под моей подошвой."
+    ],
+    "reason": "The original instrumental construction was unnatural."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260277",
+    "row": 67,
+    "before": [
+      "privileged",
+      "привилегированный",
+      "He is a privileged student.",
+      "Он привилегированный студент."
+    ],
+    "after": [
+      "surgical",
+      "хирургический",
+      "This is surgical treatment.",
+      "Это хирургическое лечение."
+    ],
+    "reason": "Restore the original surgical concept overwritten by the first pass."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260277",
+    "row": 72,
+    "before": [
+      "accessibility",
+      "доступность",
+      "Accessibility matters to people.",
+      "Доступность важна людям."
+    ],
+    "after": [
+      "accessibility",
+      "доступность",
+      "Accessibility matters to people.",
+      "Доступность важна для людей."
+    ],
+    "reason": "Russian requires для людей here."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260277",
+    "row": 95,
+    "before": [
+      "uh",
+      "гм",
+      "Uh, what was your question again?",
+      "Гм, какой был твой вопрос?"
+    ],
+    "after": [
+      "uh",
+      "гм",
+      "Uh, what was your question?",
+      "Гм, какой был твой вопрос?"
+    ],
+    "reason": "Russian omitted the meaning of again, so remove it from English."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260277",
+    "row": 116,
+    "before": [
+      "to be viewed",
+      "просматриваться",
+      "This file is viewed often.",
+      "Этот файл часто просматривается."
+    ],
+    "after": [
+      "to be viewed",
+      "просматриваться",
+      "The city can be viewed from above.",
+      "Город просматривается сверху."
+    ],
+    "reason": "The new examples use a natural passive/view sense."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260277",
+    "row": 118,
+    "before": [
+      "handle",
+      "рукоятка",
+      "The door handle is cold.",
+      "Рукоятка двери холодная."
+    ],
+    "after": [
+      "handle",
+      "рукоятка",
+      "The knife handle is wooden.",
+      "Рукоятка ножа деревянная."
+    ],
+    "reason": "Рукоятка is a tool or weapon handle, not a door handle."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260277",
+    "row": 136,
+    "before": [
+      "logically",
+      "логически",
+      "The answer is logically simple.",
+      "Ответ логически прост."
+    ],
+    "after": [
+      "logically",
+      "логически",
+      "This answer is logically correct.",
+      "Этот ответ логически верен."
+    ],
+    "reason": "Logically simple was an unnatural collocation."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260277",
+    "row": 149,
+    "before": [
+      "messenger",
+      "посланник",
+      "The messenger delivered the urgent news.",
+      "Посланник доставил срочные новости."
+    ],
+    "after": [
+      "messenger",
+      "посланник",
+      "The messenger brought urgent news.",
+      "Посланник принёс срочную весть."
+    ],
+    "reason": "Russian does not naturally say доставил новости."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260277",
+    "row": 157,
+    "before": [
+      "submissive",
+      "покорный",
+      "She was submissive in the discussion.",
+      "Она была покорной в обсуждении."
+    ],
+    "after": [
+      "submissive",
+      "покорный",
+      "She was submissive to her husband.",
+      "Она была покорна мужу."
+    ],
+    "reason": "Submissive in a discussion was an unnatural relation."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260277",
+    "row": 159,
+    "before": [
+      "wow",
+      "ого",
+      "Wow, that is big!",
+      "Ого, это большое!"
+    ],
+    "after": [
+      "wow",
+      "ого",
+      "Wow, this house is big!",
+      "Ого, этот дом большой!"
+    ],
+    "reason": "The Russian predicate Это большое was incomplete."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260277",
+    "row": 168,
+    "before": [
+      "soviet farm",
+      "совхоз",
+      "He worked on a Soviet farm.",
+      "Он работал в совхозе."
+    ],
+    "after": [
+      "state farm",
+      "совхоз",
+      "He worked on a state farm.",
+      "Он работал в совхозе."
+    ],
+    "reason": "A совхоз is a state farm, not generically a Soviet farm."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260277",
+    "row": 169,
+    "before": [
+      "forbidden",
+      "запретный",
+      "This fruit is forbidden.",
+      "Этот плод запретный."
+    ],
+    "after": [
+      "forbidden",
+      "запретный",
+      "This is forbidden fruit.",
+      "Это запретный плод."
+    ],
+    "reason": "Use the natural fixed noun phrase on both sides."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260277",
+    "row": 183,
+    "before": [
+      "agitation",
+      "агитация",
+      "Political agitation is strong.",
+      "Политическая агитация сильная."
+    ],
+    "after": [
+      "agitation",
+      "агитация",
+      "They began political agitation.",
+      "Они начали политическую агитацию."
+    ],
+    "reason": "Strong agitation was an unnatural predicate."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260277",
+    "row": 190,
+    "before": [
+      "felt boot",
+      "валенок",
+      "She wore a felt boot outside.",
+      "Она носила валенок на улице."
+    ],
+    "after": [
+      "felt boot",
+      "валенок",
+      "She lost a felt boot outside.",
+      "Она потеряла валенок на улице."
+    ],
+    "reason": "The new example gives a natural reason for singular felt boot."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260277",
+    "row": 191,
+    "before": [
+      "boiling water",
+      "кипяток",
+      "The boiling water is hot.",
+      "Кипяток горячий."
+    ],
+    "after": [
+      "boiling water",
+      "кипяток",
+      "Pour boiling water into the cup.",
+      "Налейте кипяток в чашку."
+    ],
+    "reason": "The prior example was tautological."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260277",
+    "row": 207,
+    "before": [
+      "to collapse",
+      "рушиться",
+      "The building may collapse.",
+      "Здание может рушиться."
+    ],
+    "after": [
+      "to collapse",
+      "рушиться",
+      "The building is collapsing.",
+      "Здание рушится."
+    ],
+    "reason": "Align the ongoing aspect on both sides."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260277",
+    "row": 209,
+    "before": [
+      "blink",
+      "мигать",
+      "Stars blink at night.",
+      "Звезды мигают ночью."
+    ],
+    "after": [
+      "blink",
+      "мигать",
+      "The light is blinking.",
+      "Свет мигает."
+    ],
+    "reason": "Stars twinkle rather than blink in this ordinary sense."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260277",
+    "row": 218,
+    "before": [
+      "encouragement",
+      "поощрение",
+      "I need your encouragement.",
+      "Мне нужно твоё поощрение."
+    ],
+    "after": [
+      "encouragement",
+      "поощрение",
+      "I need encouragement.",
+      "Мне нужно поощрение."
+    ],
+    "reason": "The possessive phrase was an unnatural use of поощрение."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260277",
+    "row": 224,
+    "before": [
+      "nausea",
+      "тошнота",
+      "I feel nausea.",
+      "Я чувствую тошноту."
+    ],
+    "after": [
+      "nausea",
+      "тошнота",
+      "I have nausea.",
+      "У меня тошнота."
+    ],
+    "reason": "I feel nausea is unnatural English."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260277",
+    "row": 230,
+    "before": [
+      "unilateral",
+      "односторонний",
+      "His answer was unilateral.",
+      "Его ответ был односторонним."
+    ],
+    "after": [
+      "unilateral",
+      "односторонний",
+      "The agreement is unilateral.",
+      "Соглашение одностороннее."
+    ],
+    "reason": "An answer cannot naturally be unilateral in the intended sense."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260277",
+    "row": 252,
+    "before": [
+      "richly",
+      "богато",
+      "This house is richly made.",
+      "Этот дом богато сделан."
+    ],
+    "after": [
+      "richly",
+      "богато",
+      "She lives richly.",
+      "Она живёт богато."
+    ],
+    "reason": "Richly made was an unnatural collocation."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260277",
+    "row": 275,
+    "before": [
+      "wholly",
+      "всецело",
+      "This is wholly his work.",
+      "Это всецело его работа."
+    ],
+    "after": [
+      "wholly",
+      "всецело",
+      "I wholly agree with him.",
+      "Я всецело с ним согласен."
+    ],
+    "reason": "The prior copular construction was unnatural."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260277",
+    "row": 277,
+    "before": [
+      "painfully",
+      "болезненно",
+      "He takes this painfully.",
+      "Он принимает это болезненно."
+    ],
+    "after": [
+      "painfully",
+      "болезненно",
+      "He reacted painfully to this.",
+      "Он болезненно на это отреагировал."
+    ],
+    "reason": "Take this painfully was an unnatural calque."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260277",
+    "row": 282,
+    "before": [
+      "lead around",
+      "обвести",
+      "He tried to lead me around.",
+      "Он пытался меня обвести."
+    ],
+    "after": [
+      "lead around",
+      "обвести",
+      "He led me around the house.",
+      "Он обвёл меня вокруг дома."
+    ],
+    "reason": "Both old examples omitted the required path."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260277",
+    "row": 298,
+    "before": [
+      "competitiveness",
+      "конкурентоспособность",
+      "They have competitiveness.",
+      "У них есть конкурентоспособность."
+    ],
+    "after": [
+      "competitiveness",
+      "конкурентоспособность",
+      "Their competitiveness is high.",
+      "Их конкурентоспособность высока."
+    ],
+    "reason": "Have competitiveness is unnatural in both languages."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260277",
+    "row": 333,
+    "before": [
+      "throw in",
+      "закинуть",
+      "I will throw in the bag.",
+      "Я закину сумку."
+    ],
+    "after": [
+      "throw in",
+      "закинуть",
+      "I will throw the bag in the car.",
+      "Я закину сумку в машину."
+    ],
+    "reason": "Both old examples omitted the destination."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260277",
+    "row": 344,
+    "before": [
+      "to number",
+      "насчитывать",
+      "The stars number millions.",
+      "Звёзды насчитывают миллионы."
+    ],
+    "after": [
+      "to number",
+      "насчитывать",
+      "The city numbers a million people.",
+      "Город насчитывает миллион человек."
+    ],
+    "reason": "Насчитывать requires a collective or container subject."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260277",
+    "row": 345,
+    "before": [
+      "reasonably",
+      "разумно",
+      "She priced the goods reasonably.",
+      "Она разумно оценила товары."
+    ],
+    "after": [
+      "reasonably",
+      "разумно",
+      "She answered reasonably.",
+      "Она ответила разумно."
+    ],
+    "reason": "Pricing reasonably did not match разумно оценила."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260277",
+    "row": 355,
+    "before": [
+      "what kind of",
+      "каковой",
+      "What kind of law is this?",
+      "Каковой это закон?"
+    ],
+    "after": [
+      "what kind of",
+      "каковой",
+      "What kind of person is he?",
+      "Каков он как человек?"
+    ],
+    "reason": "Replace the malformed Russian question while retaining the bookish pronoun."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260277",
+    "row": 393,
+    "before": [
+      "compressed",
+      "сжатый",
+      "The air was compressed.",
+      "Воздух был сжатый."
+    ],
+    "after": [
+      "compressed",
+      "сжатый",
+      "The air was compressed.",
+      "Воздух был сжат."
+    ],
+    "reason": "Use the correct short-form Russian predicate."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260277",
+    "row": 402,
+    "before": [
+      "to be released",
+      "выпускаться",
+      "New books are to be released every month.",
+      "Новые книги должны выпускаться каждый месяц."
+    ],
+    "after": [
+      "to be released",
+      "выпускаться",
+      "New books are released every month.",
+      "Новые книги выпускаются каждый месяц."
+    ],
+    "reason": "Remove the unnatural obligation reading from both passive examples."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260277",
+    "row": 412,
+    "before": [
+      "to be interrupted",
+      "прерываться",
+      "The call is often interrupted.",
+      "Звонок часто прерывается."
+    ],
+    "after": [
+      "inquire",
+      "осведомиться",
+      "May I inquire about your health?",
+      "Могу я осведомиться о вашем здоровье?"
+    ],
+    "reason": "Restore the original inquire concept overwritten by the first pass."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260277",
+    "row": 420,
+    "before": [
+      "to be translated",
+      "переводиться",
+      "This text is to be translated.",
+      "Этот текст должен переводиться."
+    ],
+    "after": [
+      "to be translated",
+      "переводиться",
+      "This word is translated simply.",
+      "Это слово переводится просто."
+    ],
+    "reason": "The previous obligation construction was unnatural."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260277",
+    "row": 425,
+    "before": [
+      "to build",
+      "выстраивать",
+      "They want to build a plan.",
+      "Они хотят выстраивать план."
+    ],
+    "after": [
+      "to build",
+      "выстраивать",
+      "They want to build a system.",
+      "Они хотят выстраивать систему."
+    ],
+    "reason": "Build a plan was an unnatural collocation."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260277",
+    "row": 428,
+    "before": [
+      "to be appointed",
+      "назначаться",
+      "She is to be appointed soon.",
+      "Она скоро должна назначаться."
+    ],
+    "after": [
+      "to be appointed",
+      "назначаться",
+      "Directors are appointed every year.",
+      "Директора назначаются каждый год."
+    ],
+    "reason": "The prior sentence incorrectly combined a one-time appointment with imperfective passive."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260277",
+    "row": 470,
+    "before": [
+      "to ring",
+      "зазвонить",
+      "I forgot to ring you yesterday.",
+      "Я забыл зазвонить тебе вчера."
+    ],
+    "after": [
+      "to ring",
+      "зазвонить",
+      "The alarm began to ring.",
+      "Будильник зазвонил."
+    ],
+    "reason": "Зазвонить means begin ringing, not phone someone."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260280",
+    "row": 36,
+    "before": [
+      "fugitive",
+      "беглый",
+      "The fugitive is in the forest.",
+      "Беглый в лесу."
+    ],
+    "after": [
+      "fugitive",
+      "беглец",
+      "The fugitive is in the forest.",
+      "Беглец в лесу."
+    ],
+    "reason": "Fix the noun/adjective mismatch."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260280",
+    "row": 38,
+    "before": [
+      "redemption",
+      "выкуп",
+      "The hostage's redemption was expensive.",
+      "Выкуп за заложника был дорогим."
+    ],
+    "after": [
+      "redemption",
+      "искупление",
+      "Redemption is possible.",
+      "Искупление возможно."
+    ],
+    "reason": "The old hostage example meant ransom, not redemption."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260280",
+    "row": 39,
+    "before": [
+      "quotation",
+      "цитирование",
+      "She used quotation in her speech.",
+      "Она использовала цитирование в речи."
+    ],
+    "after": [
+      "quotation",
+      "цитирование",
+      "Quotation is used in the text.",
+      "Цитирование используется в тексте."
+    ],
+    "reason": "Use the process noun naturally with prior-deck vocabulary."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260280",
+    "row": 50,
+    "before": [
+      "oblivion",
+      "забвение",
+      "This name is in oblivion.",
+      "Это имя в забвении."
+    ],
+    "after": [
+      "oblivion",
+      "забвение",
+      "Oblivion is worse than death.",
+      "Забвение хуже смерти."
+    ],
+    "reason": "Use a natural collocation with prior-deck vocabulary."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260280",
+    "row": 69,
+    "before": [
+      "into the depth",
+      "вглубь",
+      "He looked into the depth.",
+      "Он смотрел вглубь."
+    ],
+    "after": [
+      "into the depths",
+      "вглубь",
+      "She walked into the depths of the forest.",
+      "Она пошла вглубь леса."
+    ],
+    "reason": "Correct the malformed English fixed phrase."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260280",
+    "row": 75,
+    "before": [
+      "in front",
+      "спереди",
+      "She stood in front.",
+      "Она стояла спереди."
+    ],
+    "after": [
+      "in front",
+      "спереди",
+      "The entrance is in front.",
+      "Вход спереди."
+    ],
+    "reason": "The old sentence lacked the reference needed for front."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260280",
+    "row": 81,
+    "before": [
+      "bang",
+      "бах",
+      "There was a bang.",
+      "Было «бах»."
+    ],
+    "after": [
+      "bang",
+      "грохот",
+      "There was a bang.",
+      "Раздался грохот."
+    ],
+    "reason": "Fix the noun/interjection mismatch."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260280",
+    "row": 131,
+    "before": [
+      "shoot down",
+      "подбить",
+      "They shot down the bird.",
+      "Они подбили птицу."
+    ],
+    "after": [
+      "shoot down",
+      "сбить",
+      "They shot down the bird.",
+      "Они сбили птицу."
+    ],
+    "reason": "Сбить is the correct target for shooting down a bird and avoids the untaught самолёт."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260280",
+    "row": 152,
+    "before": [
+      "extraction",
+      "извлечение",
+      "The extraction of the tooth was successful.",
+      "Извлечение зуба было успешным."
+    ],
+    "after": [
+      "extraction",
+      "извлечение",
+      "The extraction was automatic.",
+      "Извлечение было автоматическим."
+    ],
+    "reason": "Remove untaught data while retaining a natural matched predicate."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260280",
+    "row": 159,
+    "before": [
+      "insufficiency",
+      "недостаточность",
+      "There is an insufficiency of water.",
+      "Есть недостаточность воды."
+    ],
+    "after": [
+      "insufficiency",
+      "недостаточность",
+      "He has heart insufficiency.",
+      "У него сердечная недостаточность."
+    ],
+    "reason": "Use the standard medical collocation for недостаточность."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260280",
+    "row": 174,
+    "before": [
+      "finishing",
+      "отделка",
+      "The finishing on the table is good.",
+      "Отделка стола хорошая."
+    ],
+    "after": [
+      "finishing",
+      "отделка",
+      "The room's finishing is complete.",
+      "Отделка комнаты завершена."
+    ],
+    "reason": "The prior English table collocation was unnatural."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260280",
+    "row": 183,
+    "before": [
+      "intercourse",
+      "сношение",
+      "They had intercourse.",
+      "У них было сношение."
+    ],
+    "after": [
+      "intercourse",
+      "сношение",
+      "Intercourse between countries stopped.",
+      "Сношения между странами прекратились."
+    ],
+    "reason": "Use the formal relations sense naturally with prior-deck vocabulary."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260280",
+    "row": 219,
+    "before": [
+      "projection",
+      "проекция",
+      "The projection of the movie is clear.",
+      "Проекция фильма ясная."
+    ],
+    "after": [
+      "projection",
+      "проекция",
+      "This is a geometric projection.",
+      "Это геометрическая проекция."
+    ],
+    "reason": "Проекция фильма was an unnatural sense choice."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260280",
+    "row": 243,
+    "before": [
+      "audit",
+      "аудит",
+      "We will prepare the audit.",
+      "Мы подготовим аудит."
+    ],
+    "after": [
+      "audit",
+      "аудит",
+      "The company passed the audit.",
+      "Компания прошла аудит."
+    ],
+    "reason": "Prepare an audit was unnatural on both sides."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260280",
+    "row": 244,
+    "before": [
+      "excessively",
+      "чрезмерно",
+      "He drinks coffee excessively.",
+      "Он чрезмерно пьёт кофе."
+    ],
+    "after": [
+      "excessively",
+      "чрезмерно",
+      "His reaction was excessively sharp.",
+      "Его реакция была чрезмерно резкой."
+    ],
+    "reason": "Replace untaught harsh with the prior-deck sharp/резко word family."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260280",
+    "row": 264,
+    "before": [
+      "hang over",
+      "нависнуть",
+      "Clouds hang over the house.",
+      "Над домом нависли облака."
+    ],
+    "after": [
+      "hang over",
+      "нависнуть",
+      "Clouds hung over the house.",
+      "Над домом нависли облака."
+    ],
+    "reason": "Align English and Russian tense."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260280",
+    "row": 298,
+    "before": [
+      "to stick in",
+      "воткнуть",
+      "He will stick in the key.",
+      "Он воткнёт ключ."
+    ],
+    "after": [
+      "to stick in",
+      "воткнуть",
+      "He stuck the knife into the table.",
+      "Он воткнул нож в стол."
+    ],
+    "reason": "A key is inserted rather than jabbed with воткнуть."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260280",
+    "row": 318,
+    "before": [
+      "foul",
+      "поганый",
+      "The smell was truly foul.",
+      "Запах был по-настоящему поганый."
+    ],
+    "after": [
+      "foul",
+      "поганый",
+      "The smell was truly foul.",
+      "Запах был по-настоящему поганым."
+    ],
+    "reason": "Fix Russian predicate agreement."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260280",
+    "row": 353,
+    "before": [
+      "juicy",
+      "сочный",
+      "The juicy apple dripped down my chin.",
+      "Сочное яблоко стекало по моему подбородку."
+    ],
+    "after": [
+      "juicy",
+      "сочный",
+      "The apple was juicy.",
+      "Яблоко было сочным."
+    ],
+    "reason": "An apple itself does not drip down a chin."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260280",
+    "row": 369,
+    "before": [
+      "switching",
+      "переключение",
+      "Switching channels is difficult.",
+      "Переключение каналов трудно."
+    ],
+    "after": [
+      "switching",
+      "переключение",
+      "Switching channels is a difficult process.",
+      "Переключение каналов — трудный процесс."
+    ],
+    "reason": "Use a natural nominal predicate built entirely from prior-deck vocabulary."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260280",
+    "row": 390,
+    "before": [
+      "tilt",
+      "наклонить",
+      "She will tilt her head curiously.",
+      "Она любопытно наклонит голову."
+    ],
+    "after": [
+      "tilt",
+      "наклонить",
+      "She will tilt her head.",
+      "Она наклонит голову."
+    ],
+    "reason": "Remove the unnatural adverbial manner."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260280",
+    "row": 438,
+    "before": [
+      "consolidation",
+      "закрепление",
+      "We need consolidation of the lesson.",
+      "Нам нужно закрепление урока."
+    ],
+    "after": [
+      "consolidation",
+      "закрепление",
+      "Consolidation of knowledge takes time.",
+      "Закрепление знаний требует времени."
+    ],
+    "reason": "Закрепление урока was an unnatural object."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260280",
+    "row": 469,
+    "before": [
+      "mercilessly",
+      "безжалостно",
+      "He spoke mercilessly.",
+      "Он говорил безжалостно."
+    ],
+    "after": [
+      "mercilessly",
+      "безжалостно",
+      "He beat them mercilessly.",
+      "Он безжалостно бил их."
+    ],
+    "reason": "Speak mercilessly was an unnatural collocation."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260280",
+    "row": 483,
+    "before": [
+      "avalanche",
+      "лавина",
+      "The avalanche is here.",
+      "Лавина здесь."
+    ],
+    "after": [
+      "avalanche",
+      "лавина",
+      "I see an avalanche.",
+      "Я вижу лавину."
+    ],
+    "reason": "Remove untaught сошла while keeping a natural, exact target example."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260280",
+    "row": 490,
+    "before": [
+      "truthfulness",
+      "истинность",
+      "The truthfulness of his words matters.",
+      "Истинность его слов важна."
+    ],
+    "after": [
+      "truthfulness",
+      "правдивость",
+      "His truthfulness matters.",
+      "Его правдивость важна."
+    ],
+    "reason": "Истинность concerns a proposition, not personal truthfulness."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260281",
+    "row": 8,
+    "before": [
+      "mutually",
+      "взаимно",
+      "They mutually agreed.",
+      "Они взаимно согласились."
+    ],
+    "after": [
+      "mutually",
+      "взаимно",
+      "The two factors are mutually dependent.",
+      "Эти два фактора взаимно зависимы."
+    ],
+    "reason": "Mutually agreed was redundant in both languages."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260281",
+    "row": 17,
+    "before": [
+      "cool down",
+      "остыть",
+      "I want to cool down before the talk.",
+      "Я хочу остыть перед разговором."
+    ],
+    "after": [
+      "cool down",
+      "остыть",
+      "The tea needs to cool down.",
+      "Чай должен остыть."
+    ],
+    "reason": "Остыть is literal cooling, not calming down before a talk."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260281",
+    "row": 25,
+    "before": [
+      "to expire",
+      "истекать",
+      "The time will expire soon.",
+      "Срок скоро истекает."
+    ],
+    "after": [
+      "to expire",
+      "истекать",
+      "The contract is expiring soon.",
+      "Срок договора скоро истекает."
+    ],
+    "reason": "Use the natural subject for истекать."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260281",
+    "row": 28,
+    "before": [
+      "to spread apart",
+      "раздвинуть",
+      "She spread apart her hands.",
+      "Она раздвинула руки."
+    ],
+    "after": [
+      "to spread apart",
+      "раздвинуть",
+      "She spread her hands apart.",
+      "Она раздвинула руки."
+    ],
+    "reason": "Uses the prior-deck headword hand/рука and fixes English particle placement."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260281",
+    "row": 58,
+    "before": [
+      "stationary",
+      "стационарный",
+      "I have a stationary telephone.",
+      "У меня стационарный телефон."
+    ],
+    "after": [
+      "stationary",
+      "стационарный",
+      "This is stationary equipment.",
+      "Это стационарное оборудование."
+    ],
+    "reason": "Stationary telephone is not ordinary English."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260281",
+    "row": 64,
+    "before": [
+      "fixation",
+      "фиксация",
+      "The fixation is here.",
+      "Фиксация здесь."
+    ],
+    "after": [
+      "fixation",
+      "фиксация",
+      "The fixation is strong.",
+      "Фиксация прочная."
+    ],
+    "reason": "Replaces unsupported firm with prior-deck strong/прочный."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260281",
+    "row": 70,
+    "before": [
+      "explosive",
+      "взрывной",
+      "The news was explosive.",
+      "Новость была взрывной."
+    ],
+    "after": [
+      "explosive",
+      "взрывной",
+      "This is an explosive mixture.",
+      "Это взрывная смесь."
+    ],
+    "reason": "Explosive news does not naturally translate as взрывная новость."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260281",
+    "row": 91,
+    "before": [
+      "braking",
+      "торможение",
+      "The car's braking saves a life.",
+      "Торможение машины спасает жизнь."
+    ],
+    "after": [
+      "braking",
+      "торможение",
+      "Sharp braking prevented the accident.",
+      "Резкое торможение предотвратило аварию."
+    ],
+    "reason": "The car's braking saves a life was unnatural and mismatched in number."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260281",
+    "row": 94,
+    "before": [
+      "to cross oneself",
+      "креститься",
+      "To cross oneself is possible.",
+      "Креститься можно."
+    ],
+    "after": [
+      "to cross oneself",
+      "креститься",
+      "He began to cross himself.",
+      "Он начал креститься."
+    ],
+    "reason": "Replace a vacuous possibility statement."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260281",
+    "row": 98,
+    "before": [
+      "poetics",
+      "поэтика",
+      "She read the poetics of love.",
+      "Она читала поэтику любви."
+    ],
+    "after": [
+      "poetics",
+      "поэтика",
+      "We discussed the poem's poetics.",
+      "Мы обсуждали поэтику стихотворения."
+    ],
+    "reason": "Uses prior-deck vocabulary and gives poetics its natural academic construction."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260281",
+    "row": 103,
+    "before": [
+      "non-existent",
+      "несуществующий",
+      "The problem is non-existent.",
+      "Проблема несуществующая."
+    ],
+    "after": [
+      "non-existent",
+      "несуществующий",
+      "This is a non-existent problem.",
+      "Это несуществующая проблема."
+    ],
+    "reason": "Fix the marked Russian predicate construction."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260281",
+    "row": 123,
+    "before": [
+      "friction",
+      "трение",
+      "Friction makes heat between surfaces.",
+      "Трение делает тепло между поверхностями."
+    ],
+    "after": [
+      "friction",
+      "трение",
+      "Friction produces heat.",
+      "Трение производит тепло."
+    ],
+    "reason": "Трение делает тепло is an unnatural calque."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260281",
+    "row": 133,
+    "before": [
+      "to upset",
+      "огорчать",
+      "His words upset her deeply.",
+      "Его слова глубоко её огорчают."
+    ],
+    "after": [
+      "to upset",
+      "огорчать",
+      "His words often upset her.",
+      "Его слова часто её огорчают."
+    ],
+    "reason": "Align tense while preserving the imperfective Russian target."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260281",
+    "row": 152,
+    "before": [
+      "writing",
+      "пишущий",
+      "I see a writing student.",
+      "Я вижу пишущего студента."
+    ],
+    "after": [
+      "writing",
+      "пишущий",
+      "The student writing there is my friend.",
+      "Пишущий там студент — мой друг."
+    ],
+    "reason": "Writing student was an unnatural English noun phrase."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260281",
+    "row": 162,
+    "before": [
+      "sexuality",
+      "сексуальность",
+      "She knows her sexuality.",
+      "Она знает свою сексуальность."
+    ],
+    "after": [
+      "sexuality",
+      "сексуальность",
+      "She openly discusses her sexuality.",
+      "Она открыто обсуждает свою сексуальность."
+    ],
+    "reason": "Know one's sexuality was unnatural on both sides."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260281",
+    "row": 166,
+    "before": [
+      "heroism",
+      "героизм",
+      "Heroism shines in war.",
+      "Героизм сияет на войне."
+    ],
+    "after": [
+      "heroism",
+      "героизм",
+      "Heroism saves lives.",
+      "Героизм спасает жизни."
+    ],
+    "reason": "Uses the prior imperfective headword спасать rather than unsupported perfective спас."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260281",
+    "row": 172,
+    "before": [
+      "refueling",
+      "заправка",
+      "We need refueling.",
+      "Нам нужна заправка."
+    ],
+    "after": [
+      "refueling",
+      "заправка",
+      "The car needs refueling.",
+      "Машине нужна заправка."
+    ],
+    "reason": "Add the entity that needs refueling."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260281",
+    "row": 178,
+    "before": [
+      "ladies'",
+      "дамский",
+      "This is a ladies' room.",
+      "Это дамская комната."
+    ],
+    "after": [
+      "ladies'",
+      "дамский",
+      "This is a ladies' hat.",
+      "Это дамская шляпа."
+    ],
+    "reason": "Avoid the mismatched ladies' room sense."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260281",
+    "row": 179,
+    "before": [
+      "to befit",
+      "подобать",
+      "This place befits a queen.",
+      "Это место подобает королеве."
+    ],
+    "after": [
+      "to befit",
+      "подобать",
+      "Such behavior befits a queen.",
+      "Такое поведение подобает королеве."
+    ],
+    "reason": "A place does not naturally befit a queen."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260281",
+    "row": 180,
+    "before": [
+      "evenly",
+      "равномерно",
+      "The paint lies evenly.",
+      "Краска лежит равномерно."
+    ],
+    "after": [
+      "evenly",
+      "равномерно",
+      "The paint spread evenly.",
+      "Краска легла равномерно."
+    ],
+    "reason": "Paint lies evenly was an English calque."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260281",
+    "row": 210,
+    "before": [
+      "to crunch",
+      "хрустеть",
+      "I like to crunch apples.",
+      "Я люблю хрустеть яблоками."
+    ],
+    "after": [
+      "to crunch",
+      "хрустеть",
+      "The snow crunches loudly.",
+      "Снег громко хрустит."
+    ],
+    "reason": "Replaces unsupported underfoot with prior-deck loudly/громко."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260281",
+    "row": 229,
+    "before": [
+      "think up",
+      "додуматься",
+      "She will think up a plan.",
+      "Она додумается до плана."
+    ],
+    "after": [
+      "think up",
+      "придумать",
+      "She will think up a plan.",
+      "Она придумает план."
+    ],
+    "reason": "Додуматься до плана does not mean invent a plan."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260281",
+    "row": 233,
+    "before": [
+      "pood",
+      "пуд",
+      "He lifted one pood.",
+      "Он поднял один пуд."
+    ],
+    "after": [
+      "pood",
+      "пуд",
+      "The load weighed one pood.",
+      "Груз весил один пуд."
+    ],
+    "reason": "A person does not naturally lift a bare unit of weight."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260281",
+    "row": 264,
+    "before": [
+      "to overlap",
+      "перекрывать",
+      "These hours overlap.",
+      "Эти часы перекрывают друг друга."
+    ],
+    "after": [
+      "to overlap",
+      "перекрывать",
+      "These time periods overlap.",
+      "Эти периоды перекрывают друг друга."
+    ],
+    "reason": "Clarify that hours meant time periods."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260281",
+    "row": 277,
+    "before": [
+      "drag oneself",
+      "тащиться",
+      "To drag oneself is hard.",
+      "Тащиться трудно."
+    ],
+    "after": [
+      "drag oneself",
+      "тащиться",
+      "He began to drag himself home.",
+      "Он начал тащиться домой."
+    ],
+    "reason": "Replaces unsupported пришлось with prior-deck begin/начать."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260281",
+    "row": 281,
+    "before": [
+      "to show through",
+      "проступать",
+      "Blood will show through.",
+      "Кровь будет проступать."
+    ],
+    "after": [
+      "to show through",
+      "проступать",
+      "Blood will show through the bandage.",
+      "Кровь будет проступать сквозь повязку."
+    ],
+    "reason": "Both old examples omitted what the blood shows through."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260281",
+    "row": 304,
+    "before": [
+      "inflate",
+      "надуть",
+      "They used a pump to inflate it.",
+      "Они использовали насос, чтобы надуть это."
+    ],
+    "after": [
+      "inflate",
+      "надуть",
+      "Inflate the tire with a pump.",
+      "Надуйте шину насосом."
+    ],
+    "reason": "Uses prior-deck tire/шина and pump/насос."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260281",
+    "row": 311,
+    "before": [
+      "to be pronounced",
+      "произноситься",
+      "This word is to be pronounced slowly.",
+      "Это слово должно произноситься медленно."
+    ],
+    "after": [
+      "to be pronounced",
+      "произноситься",
+      "This word is pronounced slowly.",
+      "Это слово произносится медленно."
+    ],
+    "reason": "Remove the unnatural obligation reading."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260281",
+    "row": 316,
+    "before": [
+      "gynecologist",
+      "гинеколог",
+      "She visited her gynecologist annually.",
+      "Она посетила своего гинеколога."
+    ],
+    "after": [
+      "gynecologist",
+      "гинеколог",
+      "She visited her gynecologist.",
+      "Она посетила своего гинеколога."
+    ],
+    "reason": "Aligns the one-time past event without unsupported посещать."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260281",
+    "row": 326,
+    "before": [
+      "earthen",
+      "земляной",
+      "The earthen pot held fresh water.",
+      "Земляной горшок содержал свежую воду."
+    ],
+    "after": [
+      "earthen",
+      "земляной",
+      "They built an earthen wall.",
+      "Они построили земляную стену."
+    ],
+    "reason": "Земляной горшок is not the normal translation of earthen pot."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260281",
+    "row": 328,
+    "before": [
+      "bargain",
+      "торговаться",
+      "We bargained for a lower price.",
+      "Мы торговались за более низкую цену."
+    ],
+    "after": [
+      "bargain",
+      "торговаться",
+      "We bargained with him.",
+      "Мы торговались с ним."
+    ],
+    "reason": "Fix the wrong Russian preposition."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260281",
+    "row": 348,
+    "before": [
+      "to be derived",
+      "выводиться",
+      "This word is derived from that.",
+      "Это слово выводится из этого."
+    ],
+    "after": [
+      "to be derived",
+      "выводиться",
+      "This formula is derived from that one.",
+      "Эта формула выводится из той."
+    ],
+    "reason": "The derivational sense of выводиться does not fit ordinary word origin."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260281",
+    "row": 352,
+    "before": [
+      "pardon",
+      "пардон",
+      "Pardon, please.",
+      "Пардон, пожалуйста."
+    ],
+    "after": [
+      "pardon",
+      "пардон",
+      "Pardon, what did you say?",
+      "Пардон, что вы сказали?"
+    ],
+    "reason": "Remove the redundant please and make the interjection natural."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260281",
+    "row": 362,
+    "before": [
+      "centennial",
+      "вековой",
+      "This oak is centennial.",
+      "Этот дуб вековой."
+    ],
+    "after": [
+      "centennial",
+      "столетний, столетний юбилей",
+      "The centennial is today.",
+      "Столетний юбилей сегодня."
+    ],
+    "reason": "Use the hundredth-anniversary sense naturally with prior-deck vocabulary. Explicitly include the anniversary noun sense used in the example."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260281",
+    "row": 363,
+    "before": [
+      "falsification",
+      "фальсификация",
+      "The investigation found falsification.",
+      "Расследование нашло фальсификацию."
+    ],
+    "after": [
+      "falsification",
+      "фальсификация",
+      "The investigation confirmed falsification.",
+      "Расследование подтвердило фальсификацию."
+    ],
+    "reason": "Uses prior-deck confirm/подтвердить in a natural collocation."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260281",
+    "row": 367,
+    "before": [
+      "pileup",
+      "завал",
+      "There is a large pileup.",
+      "Есть большой завал."
+    ],
+    "after": [
+      "pileup",
+      "завал",
+      "There is a pileup of boxes.",
+      "Здесь завал из ящиков."
+    ],
+    "reason": "Clarify the heap sense rather than a traffic pileup."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260281",
+    "row": 371,
+    "before": [
+      "smooth surface",
+      "гладь",
+      "I see a smooth surface.",
+      "Я вижу гладь."
+    ],
+    "after": [
+      "smooth surface",
+      "гладь",
+      "The smooth surface of the lake shone.",
+      "Гладь озера сияла."
+    ],
+    "reason": "Гладь denotes a smooth expanse, especially water."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260281",
+    "row": 377,
+    "before": [
+      "mythological",
+      "мифологический",
+      "He is a mythological Greek god.",
+      "Он мифологический греческий бог."
+    ],
+    "after": [
+      "mythological",
+      "мифологический",
+      "He is a mythological hero.",
+      "Он мифологический герой."
+    ],
+    "reason": "Remove redundant and awkward adjective stacking."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260281",
+    "row": 380,
+    "before": [
+      "involvement",
+      "причастность",
+      "I know his involvement.",
+      "Я знаю его причастность."
+    ],
+    "after": [
+      "involvement",
+      "причастность",
+      "His involvement is clear.",
+      "Его причастность ясна."
+    ],
+    "reason": "Know involvement was an unnatural collocation."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260281",
+    "row": 385,
+    "before": [
+      "facial",
+      "лицевой",
+      "He has a facial wound.",
+      "У него лицевая рана."
+    ],
+    "after": [
+      "facial",
+      "лицевой",
+      "This is the facial nerve.",
+      "Это лицевой нерв."
+    ],
+    "reason": "Use a standard collocation with лицевой."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260281",
+    "row": 407,
+    "before": [
+      "inadequacy",
+      "несостоятельность",
+      "The plan showed inadequacy.",
+      "План показал несостоятельность."
+    ],
+    "after": [
+      "inadequacy",
+      "несостоятельность",
+      "The plan's inadequacy was clear.",
+      "Несостоятельность плана была очевидна."
+    ],
+    "reason": "Avoid making the plan the agent that shows inadequacy."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260281",
+    "row": 414,
+    "before": [
+      "to be traced",
+      "прослеживаться",
+      "This pattern can be traced in history.",
+      "Этот узор прослеживается в истории."
+    ],
+    "after": [
+      "to be traced",
+      "прослеживаться",
+      "This influence can be traced in history.",
+      "Это влияние прослеживается в истории."
+    ],
+    "reason": "The prior pattern/узор pairing selected incompatible senses."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260281",
+    "row": 419,
+    "before": [
+      "legally",
+      "юридически",
+      "She is legally married.",
+      "Она юридически состоит в браке."
+    ],
+    "after": [
+      "legally",
+      "юридически",
+      "This is legally important.",
+      "Это юридически важно."
+    ],
+    "reason": "Юридически состоит в браке is an unnatural calque."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260281",
+    "row": 427,
+    "before": [
+      "one hundred percent",
+      "стопроцентный",
+      "This is a one hundred percent result.",
+      "Это стопроцентный результат."
+    ],
+    "after": [
+      "one hundred percent",
+      "стопроцентный",
+      "This is a one hundred percent guarantee.",
+      "Это стопроцентная гарантия."
+    ],
+    "reason": "Use the natural collocation with стопроцентный."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260281",
+    "row": 434,
+    "before": [
+      "to climb in",
+      "влезать",
+      "He climbs in.",
+      "Он влезает."
+    ],
+    "after": [
+      "to climb in",
+      "влезать",
+      "He climbs in through the window.",
+      "Он влезает через окно."
+    ],
+    "reason": "Supply the path required by the action."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260281",
+    "row": 437,
+    "before": [
+      "presiding",
+      "председательствующий",
+      "The presiding chair is here.",
+      "Председательствующий здесь."
+    ],
+    "after": [
+      "presiding",
+      "председательствующий",
+      "The presiding officer is here.",
+      "Председательствующий здесь."
+    ],
+    "reason": "Presiding chair was redundant."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260281",
+    "row": 440,
+    "before": [
+      "to lubricate",
+      "смазать",
+      "I need to lubricate the door.",
+      "Мне нужно смазать дверь."
+    ],
+    "after": [
+      "to lubricate",
+      "смазать",
+      "I need to lubricate the lock.",
+      "Мне нужно смазать замок."
+    ],
+    "reason": "A lock is lubricated, not an entire door."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260281",
+    "row": 457,
+    "before": [
+      "exposure",
+      "разоблачение",
+      "Exposure is dangerous.",
+      "Разоблачение опасно."
+    ],
+    "after": [
+      "exposure",
+      "разоблачение",
+      "The spy feared exposure.",
+      "Шпион боялся разоблачения."
+    ],
+    "reason": "Disambiguate exposure as discovery rather than environmental exposure."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260281",
+    "row": 460,
+    "before": [
+      "demarcation",
+      "разграничение",
+      "The river served as a natural demarcation.",
+      "Река служила естественным разграничением."
+    ],
+    "after": [
+      "demarcation",
+      "разграничение",
+      "The demarcation of the border began.",
+      "Началось разграничение границы."
+    ],
+    "reason": "A river is a boundary, not naturally a demarcation."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260281",
+    "row": 471,
+    "before": [
+      "steadily",
+      "неуклонно",
+      "She works steadily.",
+      "Она работает неуклонно."
+    ],
+    "after": [
+      "steadily",
+      "неуклонно",
+      "Prices are rising steadily.",
+      "Цены неуклонно растут."
+    ],
+    "reason": "Работает неуклонно is an unnatural collocation."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260281",
+    "row": 486,
+    "before": [
+      "switch",
+      "переключиться",
+      "Let's switch topics.",
+      "Давайте переключимся."
+    ],
+    "after": [
+      "switch",
+      "переключиться",
+      "Let's switch to another topic.",
+      "Давайте переключимся на другую тему."
+    ],
+    "reason": "Russian requires a destination after переключиться."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260281",
+    "row": 487,
+    "before": [
+      "ho",
+      "хо",
+      "Ho! Let's go!",
+      "Хо! Пошли!"
+    ],
+    "after": [
+      "ho",
+      "эй",
+      "Ho! Who goes there?",
+      "Эй! Кто идёт?"
+    ],
+    "reason": "Russian хо is not a normal equivalent of the archaic call ho."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260281",
+    "row": 488,
+    "before": [
+      "hospitality",
+      "гостеприимство",
+      "Their hospitality is warm.",
+      "Их гостеприимство тёплое."
+    ],
+    "after": [
+      "hospitality",
+      "гостеприимство",
+      "Thank you for your hospitality.",
+      "Спасибо за гостеприимство."
+    ],
+    "reason": "Use a natural fixed expression with prior-deck vocabulary."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260281",
+    "row": 492,
+    "before": [
+      "communicator",
+      "собеседник",
+      "He is an excellent communicator.",
+      "Он отличный собеседник."
+    ],
+    "after": [
+      "communicator",
+      "коммуникатор",
+      "He is an excellent communicator.",
+      "Он отличный коммуникатор."
+    ],
+    "reason": "Собеседник means interlocutor, not a person skilled at communicating."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260281",
+    "row": 497,
+    "before": [
+      "salute",
+      "салют",
+      "I see a salute in the sky.",
+      "Я вижу салют в небе."
+    ],
+    "after": [
+      "salute",
+      "салют",
+      "The salute marked the victory.",
+      "Салют отметил победу."
+    ],
+    "reason": "Uses prior-deck victory/победа and mark/отметить instead of unsupported победный."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260282",
+    "row": 2,
+    "before": [
+      "dogma",
+      "догма",
+      "His belief was dogma.",
+      "Его убеждение было догмой."
+    ],
+    "after": [
+      "dogma",
+      "догма",
+      "This belief became dogma.",
+      "Это убеждение стало догмой."
+    ],
+    "reason": "A belief is not naturally predicated as dogma without becoming one."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260282",
+    "row": 13,
+    "before": [
+      "mistakenly",
+      "ошибочно",
+      "He mistakenly took my book.",
+      "Он ошибочно взял мою книгу."
+    ],
+    "after": [
+      "mistakenly",
+      "ошибочно",
+      "The answer was mistakenly marked.",
+      "Ответ ошибочно отметили."
+    ],
+    "reason": "Uses only prior mark/отметить vocabulary and avoids the later word wrong."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260282",
+    "row": 20,
+    "before": [
+      "shepherd dog",
+      "овчарка",
+      "The shepherd dog guards the sheep.",
+      "Овчарка охраняет овцу."
+    ],
+    "after": [
+      "shepherd dog",
+      "овчарка",
+      "The shepherd dog guards the sheep.",
+      "Овчарка охраняет овец."
+    ],
+    "reason": "Align singular/plural meaning across examples."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260282",
+    "row": 28,
+    "before": [
+      "oppressive",
+      "тягостный",
+      "The heat is oppressive today.",
+      "Жара сегодня тягостная."
+    ],
+    "after": [
+      "oppressive",
+      "тягостный",
+      "The silence was oppressive.",
+      "Тишина была тягостной."
+    ],
+    "reason": "Uses prior silence/тишина while preserving the natural oppressive-silence collocation."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260282",
+    "row": 32,
+    "before": [
+      "pass-through",
+      "пропускной",
+      "This is a pass-through window.",
+      "Это пропускное окно."
+    ],
+    "after": [
+      "pass-through",
+      "пропускной",
+      "This gate has high pass-through capacity.",
+      "У этих ворот высокая пропускная способность."
+    ],
+    "reason": "Пропускное окно was not a natural equivalent of pass-through window."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260282",
+    "row": 33,
+    "before": [
+      "depart",
+      "отбыть",
+      "The train will soon depart.",
+      "Поезд должен отбыть."
+    ],
+    "after": [
+      "depart",
+      "отбыть",
+      "The train must depart.",
+      "Поезд должен отбыть."
+    ],
+    "reason": "Align modality and remove the English-only time adverb."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260282",
+    "row": 45,
+    "before": [
+      "motherhood",
+      "материнство",
+      "Motherhood is difficult.",
+      "Материнство трудно."
+    ],
+    "after": [
+      "motherhood",
+      "материнство",
+      "Motherhood is not easy.",
+      "Материнство — это нелегко."
+    ],
+    "reason": "Fix the malformed noun-plus-adverb predicate."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260282",
+    "row": 57,
+    "before": [
+      "to have difficulty",
+      "затрудняться",
+      "She has difficulty with this.",
+      "Она затрудняется с этим."
+    ],
+    "after": [
+      "to have difficulty",
+      "затрудняться",
+      "She has difficulty answering.",
+      "Она затрудняется ответить."
+    ],
+    "reason": "Затрудняться normally governs an infinitive here."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260282",
+    "row": 70,
+    "before": [
+      "vulture",
+      "гриф",
+      "A vulture is above the desert.",
+      "Гриф над пустыней."
+    ],
+    "after": [
+      "vulture",
+      "гриф",
+      "A vulture flew over the desert.",
+      "Гриф летел над пустыней."
+    ],
+    "reason": "Replace the verbless location sentence with a natural action."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260282",
+    "row": 72,
+    "before": [
+      "sprinkle",
+      "осыпать",
+      "They sprinkle the earth with snow.",
+      "Они осыпают землю снегом."
+    ],
+    "after": [
+      "sprinkle",
+      "осыпать",
+      "Snow sprinkled the earth.",
+      "Снег осыпал землю."
+    ],
+    "reason": "Uses prior snow and earth vocabulary and keeps a natural figurative sprinkle sense."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260282",
+    "row": 93,
+    "before": [
+      "reader's",
+      "читательский",
+      "This is a reader's book.",
+      "Это читательская книга."
+    ],
+    "after": [
+      "reader's",
+      "читательский",
+      "We know the reader's response.",
+      "Мы знаем читательский отклик."
+    ],
+    "reason": "Replaces untaught изучить with prior know/знать and response/отклик."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260282",
+    "row": 94,
+    "before": [
+      "correlate",
+      "соотноситься",
+      "Prices correlate.",
+      "Цены соотносятся."
+    ],
+    "after": [
+      "correlate",
+      "соотноситься",
+      "The prices correlate with each other.",
+      "Цены соотносятся друг с другом."
+    ],
+    "reason": "Supplies the required comparison using only function and prior vocabulary."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260282",
+    "row": 102,
+    "before": [
+      "soberly",
+      "трезво",
+      "He soberly looked at the situation.",
+      "Он трезво посмотрел на ситуацию."
+    ],
+    "after": [
+      "soberly",
+      "трезво",
+      "He answered soberly.",
+      "Он ответил трезво."
+    ],
+    "reason": "Uses prior answer/ответить vocabulary in a concise natural example."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260282",
+    "row": 111,
+    "before": [
+      "health improvement",
+      "оздоровление",
+      "She needs health improvement.",
+      "Ей нужно оздоровление."
+    ],
+    "after": [
+      "health improvement",
+      "оздоровление",
+      "The program promotes health improvement.",
+      "Программа способствует оздоровлению."
+    ],
+    "reason": "She needs health improvement was unnatural English."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260282",
+    "row": 118,
+    "before": [
+      "disorderly",
+      "беспорядочный",
+      "The room is disorderly.",
+      "Комната беспорядочная."
+    ],
+    "after": [
+      "disorderly",
+      "беспорядочный",
+      "His work was disorderly.",
+      "Его работа была беспорядочной."
+    ],
+    "reason": "Avoids the untaught noun отступление while teaching disorganized work naturally."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260282",
+    "row": 125,
+    "before": [
+      "activation",
+      "активизация",
+      "We need activation of this work.",
+      "Нам нужна активизация этой работы."
+    ],
+    "after": [
+      "activation",
+      "активизация",
+      "The plan requires activation of the process.",
+      "План требует активизации процесса."
+    ],
+    "reason": "Activation of work was an unnatural English collocation."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260282",
+    "row": 134,
+    "before": [
+      "pillar",
+      "устой",
+      "Family is a pillar of society.",
+      "Семья — устой общества."
+    ],
+    "after": [
+      "pillar",
+      "опора",
+      "Family is a pillar of society.",
+      "Семья — опора общества."
+    ],
+    "reason": "Устой is a foundation or abutment, not a figurative pillar in this sentence."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260282",
+    "row": 156,
+    "before": [
+      "cashier",
+      "кассир",
+      "The cashier counted this carefully.",
+      "Кассир внимательно пересчитал это."
+    ],
+    "after": [
+      "cashier",
+      "кассир",
+      "The cashier checked this.",
+      "Кассир проверил это."
+    ],
+    "reason": "Uses prior check/проверить and removes untaught money and посчитать."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260282",
+    "row": 202,
+    "before": [
+      "to listen intently",
+      "вслушиваться",
+      "She listens intently.",
+      "Она вслушивается."
+    ],
+    "after": [
+      "to listen intently",
+      "вслушиваться",
+      "She listens intently to his words.",
+      "Она вслушивается в его слова."
+    ],
+    "reason": "Вслушиваться requires an object with в."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260282",
+    "row": 207,
+    "before": [
+      "set oneself",
+      "задаться",
+      "To set oneself a goal is useful.",
+      "Задаться целью полезно."
+    ],
+    "after": [
+      "to set oneself a goal",
+      "задаться целью",
+      "It is useful to set oneself a goal.",
+      "Полезно задаться целью."
+    ],
+    "reason": "Complete the malformed headword and its governed noun."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260282",
+    "row": 219,
+    "before": [
+      "peck",
+      "клевать",
+      "The chicken pecked the land.",
+      "Курица клевала землю."
+    ],
+    "after": [
+      "peck",
+      "клевать",
+      "The chicken pecked at the grain.",
+      "Курица клевала зерно."
+    ],
+    "reason": "Клевать землю is an unnatural object choice."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260282",
+    "row": 225,
+    "before": [
+      "powerfully",
+      "мощно",
+      "He lifted the box powerfully.",
+      "Он мощно поднял ящик."
+    ],
+    "after": [
+      "powerfully",
+      "мощно",
+      "The engine runs powerfully.",
+      "Двигатель работает мощно."
+    ],
+    "reason": "Lifted powerfully was an unnatural adverb collocation."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260282",
+    "row": 231,
+    "before": [
+      "tumble out",
+      "вывалиться",
+      "The coins tumble out of the bag.",
+      "Монеты вывалились из сумки."
+    ],
+    "after": [
+      "tumble out",
+      "вывалиться",
+      "The coins tumbled out of the bag.",
+      "Монеты вывалились из сумки."
+    ],
+    "reason": "Align tense across examples."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260282",
+    "row": 233,
+    "before": [
+      "passing",
+      "попутный",
+      "A passing car stopped.",
+      "Попутная машина остановилась."
+    ],
+    "after": [
+      "passing",
+      "проезжавший",
+      "A passing car stopped.",
+      "Проезжавшая машина остановилась."
+    ],
+    "reason": "Попутный means going the same way, not merely passing."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260282",
+    "row": 239,
+    "before": [
+      "lifelong",
+      "пожизненный",
+      "He received a lifelong sentence.",
+      "Он получил пожизненный срок."
+    ],
+    "after": [
+      "lifelong",
+      "пожизненный",
+      "He received a lifelong ban.",
+      "Он получил пожизненный запрет."
+    ],
+    "reason": "Lifelong sentence is not idiomatic English; life sentence is."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260282",
+    "row": 240,
+    "before": [
+      "waft",
+      "веять",
+      "The wind will waft from the sea.",
+      "Ветер будет веять с моря."
+    ],
+    "after": [
+      "waft",
+      "доноситься",
+      "Music wafted from the window.",
+      "Из окна доносилась музыка."
+    ],
+    "reason": "Веять describes wind blowing, not something wafting from a source."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260282",
+    "row": 247,
+    "before": [
+      "Messiah",
+      "мессия",
+      "They waited for the Messiah.",
+      "Они ждали мессию."
+    ],
+    "after": [
+      "Messiah",
+      "мессия",
+      "They waited for the Messiah.",
+      "Они ждали Мессию."
+    ],
+    "reason": "Capitalize the proper-title use in the Russian example."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260282",
+    "row": 250,
+    "before": [
+      "tender",
+      "тендер",
+      "They got the tender.",
+      "Они получили тендер."
+    ],
+    "after": [
+      "tender",
+      "тендер",
+      "This is a new tender.",
+      "Это новый тендер."
+    ],
+    "reason": "Avoids untaught выиграть while preserving the procurement sense."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260282",
+    "row": 273,
+    "before": [
+      "to be attached",
+      "прилагаться",
+      "The papers are to be attached.",
+      "Бумаги должны прилагаться."
+    ],
+    "after": [
+      "to be attached",
+      "прилагаться",
+      "The document is attached.",
+      "Документ прилагается."
+    ],
+    "reason": "Uses prior document/документ instead of untaught инструкции."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260282",
+    "row": 279,
+    "before": [
+      "standing",
+      "стоящий",
+      "A standing man waited at the door.",
+      "У двери ждал стоящий мужчина."
+    ],
+    "after": [
+      "standing",
+      "стоящий",
+      "The man standing at the door waited.",
+      "Стоящий у двери мужчина ждал."
+    ],
+    "reason": "Avoid the redundant standing man construction while retaining the participle."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260282",
+    "row": 285,
+    "before": [
+      "convocation",
+      "созыв",
+      "The convocation is on Monday.",
+      "Созыв в понедельник."
+    ],
+    "after": [
+      "convocation",
+      "созыв",
+      "The new convocation began work.",
+      "Новый созыв начал работу."
+    ],
+    "reason": "Созыв в понедельник was incomplete and ambiguous."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260282",
+    "row": 297,
+    "before": [
+      "lubricant",
+      "смазка",
+      "There is lubricant on the door.",
+      "На двери есть смазка."
+    ],
+    "after": [
+      "lubricant",
+      "смазка",
+      "The lubricant is for the door.",
+      "Смазка для двери."
+    ],
+    "reason": "Avoids untaught hinge and наносить while retaining a concrete door-lubricant use."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260282",
+    "row": 313,
+    "before": [
+      "to despair",
+      "отчаяться",
+      "She despaired about the future.",
+      "Она отчаялась из-за будущего."
+    ],
+    "after": [
+      "to despair",
+      "отчаяться",
+      "She despaired of the future.",
+      "Она отчаялась в будущем."
+    ],
+    "reason": "Fix the unnatural Russian causal preposition."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260282",
+    "row": 320,
+    "before": [
+      "enchant",
+      "очаровать",
+      "Her smile can enchant.",
+      "Её улыбка может очаровать."
+    ],
+    "after": [
+      "enchant",
+      "очаровать",
+      "Her smile can enchant him.",
+      "Её улыбка может очаровать его."
+    ],
+    "reason": "Supply the required object on both sides."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260282",
+    "row": 321,
+    "before": [
+      "wrong",
+      "неправый",
+      "He is on the wrong side of the dispute.",
+      "Он на неправой стороне спора."
+    ],
+    "after": [
+      "wrong",
+      "неправый",
+      "He was wrong in the dispute.",
+      "В споре он был неправ."
+    ],
+    "reason": "Wrong side of a dispute was a calque and used неправый unnaturally."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260282",
+    "row": 333,
+    "before": [
+      "robbery",
+      "ограбление",
+      "I saw a robbery.",
+      "Я вижу ограбление."
+    ],
+    "after": [
+      "robbery",
+      "ограбление",
+      "I saw a robbery.",
+      "Я видел ограбление."
+    ],
+    "reason": "Align past tense across examples."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260282",
+    "row": 348,
+    "before": [
+      "offended",
+      "обиженный",
+      "She felt deeply offended by his words.",
+      "Она глубоко обижена его словами."
+    ],
+    "after": [
+      "offended",
+      "обиженный",
+      "She is offended by his words.",
+      "Она обижена его словами."
+    ],
+    "reason": "Align tense and simplify the mismatched construction."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260282",
+    "row": 351,
+    "before": [
+      "triple",
+      "тройной",
+      "Triple coffee is strong.",
+      "Тройной кофе крепкий."
+    ],
+    "after": [
+      "triple",
+      "тройной",
+      "This is a triple blow.",
+      "Это тройной удар."
+    ],
+    "reason": "Use a natural collocation with prior-deck vocabulary."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260282",
+    "row": 354,
+    "before": [
+      "decode",
+      "расшифровать",
+      "Experts managed to decode the ancient script.",
+      "Эксперты смогли расшифровать древний текст."
+    ],
+    "after": [
+      "decode",
+      "расшифровать",
+      "Experts decoded the ancient text.",
+      "Эксперты расшифровали древний текст."
+    ],
+    "reason": "Align script/text sense and tense."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260282",
+    "row": 363,
+    "before": [
+      "monopolist",
+      "монополист",
+      "The monopolist rules.",
+      "Монополист правит."
+    ],
+    "after": [
+      "monopolist",
+      "монополист",
+      "The market is under the monopolist's control.",
+      "Рынок под контролем монополиста."
+    ],
+    "reason": "Uses prior market and control vocabulary without the untaught verb контролировать."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260282",
+    "row": 366,
+    "before": [
+      "give a lift",
+      "подвезти",
+      "Can you give a lift home?",
+      "Можешь подвезти домой?"
+    ],
+    "after": [
+      "give a lift",
+      "подвезти",
+      "Can you give me a lift home?",
+      "Можешь подвезти меня домой?"
+    ],
+    "reason": "Restore the missing object on both sides."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260282",
+    "row": 371,
+    "before": [
+      "to roll over",
+      "перевалить",
+      "He can roll over the hill.",
+      "Он может перевалить через холм."
+    ],
+    "after": [
+      "to roll over",
+      "перекатиться",
+      "The stone can roll over the hill.",
+      "Камень может перекатиться через холм."
+    ],
+    "reason": "Uses prior stone and hill vocabulary instead of untaught ball/мяч."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260282",
+    "row": 378,
+    "before": [
+      "well-known",
+      "общеизвестный",
+      "He is a well-known writer.",
+      "Он общеизвестный писатель."
+    ],
+    "after": [
+      "well-known",
+      "общеизвестный",
+      "This is a well-known fact.",
+      "Это общеизвестный факт."
+    ],
+    "reason": "Общеизвестный naturally modifies facts, not a writer."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260282",
+    "row": 379,
+    "before": [
+      "to drive in",
+      "заезжать",
+      "He drives in.",
+      "Он заезжает."
+    ],
+    "after": [
+      "to drive in",
+      "заезжать",
+      "He drives into the yard.",
+      "Он заезжает во двор."
+    ],
+    "reason": "Supply the destination required by заезжать."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260282",
+    "row": 383,
+    "before": [
+      "vocation",
+      "поприще",
+      "This is her vocation.",
+      "Это её поприще."
+    ],
+    "after": [
+      "vocation",
+      "призвание",
+      "This is her vocation.",
+      "Это её призвание."
+    ],
+    "reason": "Поприще means a field of activity, not vocation."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260282",
+    "row": 389,
+    "before": [
+      "to be denoted",
+      "обозначаться",
+      "Symbols are denoted clearly.",
+      "Символы обозначаются ясно."
+    ],
+    "after": [
+      "to be denoted",
+      "обозначаться",
+      "Time is denoted by a symbol.",
+      "Время обозначается символом."
+    ],
+    "reason": "Uses prior time and symbol vocabulary and removes the untaught letter name."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260282",
+    "row": 394,
+    "before": [
+      "to lie for a long time",
+      "пролежать",
+      "To lie for a long time is hard.",
+      "Пролежать долго трудно."
+    ],
+    "after": [
+      "to lie for a long time",
+      "пролежать",
+      "I can lie for a long time.",
+      "Я могу долго пролежать."
+    ],
+    "reason": "Includes the exact English target and avoids untaught bed/постель vocabulary."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260282",
+    "row": 410,
+    "before": [
+      "obedience",
+      "послушание",
+      "The dog showed obedience.",
+      "Собака показала послушание."
+    ],
+    "after": [
+      "obedience",
+      "послушание",
+      "The dog's obedience is clear.",
+      "Послушание собаки очевидно."
+    ],
+    "reason": "Avoids untaught проявить and uses a natural nominal construction."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260282",
+    "row": 431,
+    "before": [
+      "bleeding",
+      "кровотечение",
+      "I see bleeding.",
+      "Я вижу кровотечение."
+    ],
+    "after": [
+      "bleeding",
+      "кровотечение",
+      "The bleeding stopped.",
+      "Кровотечение остановилось."
+    ],
+    "reason": "I see bleeding was unnatural English."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260282",
+    "row": 441,
+    "before": [
+      "hospitable",
+      "гостеприимный",
+      "They were very hospitable to us.",
+      "Они были очень гостеприимны к нам."
+    ],
+    "after": [
+      "hospitable",
+      "гостеприимный",
+      "They were very hospitable.",
+      "Они были очень гостеприимны."
+    ],
+    "reason": "Removes the unnatural complement and the untaught English noun hosts."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260282",
+    "row": 445,
+    "before": [
+      "deafening",
+      "оглушительный",
+      "The concert's noise was deafening.",
+      "Шум на концерте был оглушительным."
+    ],
+    "after": [
+      "deafening",
+      "оглушительный",
+      "The noise at the concert was deafening.",
+      "Шум на концерте был оглушительным."
+    ],
+    "reason": "Fix the awkward English possessive."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260282",
+    "row": 448,
+    "before": [
+      "helplessly",
+      "беспомощно",
+      "She watched helplessly as it happened.",
+      "Она беспомощно наблюдала, как это произошло."
+    ],
+    "after": [
+      "helplessly",
+      "беспомощно",
+      "She watched helplessly.",
+      "Она беспомощно наблюдала."
+    ],
+    "reason": "Remove the tense mismatch in the subordinate event."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260282",
+    "row": 475,
+    "before": [
+      "to deliver",
+      "довезти",
+      "I will deliver it.",
+      "Я довезу это."
+    ],
+    "after": [
+      "to deliver",
+      "доставить",
+      "I will deliver the letter.",
+      "Я доставлю письмо."
+    ],
+    "reason": "Довезти requires transport to a stated destination and is too narrow here."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260282",
+    "row": 491,
+    "before": [
+      "fallout",
+      "последствие",
+      "The fallout was dangerous.",
+      "Последствие было опасным."
+    ],
+    "after": [
+      "fallout",
+      "последствие",
+      "The political fallout was dangerous.",
+      "Политические последствия были опасными."
+    ],
+    "reason": "Uses prior dangerous/опасный while retaining the political-consequences sense."
+  },
+  {
+    "pack": "english_russian",
+    "deck": "15260282",
+    "row": 500,
+    "before": [
+      "publicist",
+      "пресс-агент",
+      "The publicist wrote to the paper.",
+      "Пресс-агент написал в газету."
+    ],
+    "after": [
+      "publicist",
+      "пресс-агент",
+      "The publicist contacted the newspaper.",
+      "Пресс-агент связался с газетой."
+    ],
+    "reason": "Use the publicity-agent sense naturally."
+  }
+]

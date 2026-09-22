@@ -1,0 +1,524 @@
+[
+  {
+    "row": 77,
+    "cardId": 491522829,
+    "before": {
+      "question": "# Translate:\n\ncuban garlic sauce\n\n## Footnote\n\nThe best part of the stew is the garlic sauce.",
+      "answer": "mojo\n\n## Footnote\n\nLo mejor del guisado es el mojo.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "cuban garlic sauce",
+      "qMdClarifier": "",
+      "qMdFootnote": "The best part of the stew is the garlic sauce.",
+      "aMdPrompt": "",
+      "aMdBody": "mojo",
+      "aMdClarifier": "",
+      "aMdFootnote": "Lo mejor del guisado es el mojo."
+    },
+    "after": {
+      "question": "# Translate:\n\ngarlic sauce\n\n## Footnote\n\nThe best part of the stew is the garlic sauce.",
+      "answer": "mojo\n\n## Footnote\n\nLo mejor del guisado es el mojo.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "garlic sauce",
+      "qMdClarifier": "",
+      "qMdFootnote": "The best part of the stew is the garlic sauce.",
+      "aMdPrompt": "",
+      "aMdBody": "mojo",
+      "aMdClarifier": "",
+      "aMdFootnote": "Lo mejor del guisado es el mojo."
+    },
+    "reason": "Mojo is not exclusively Cuban; preserve example."
+  },
+  {
+    "row": 81,
+    "cardId": 491522833,
+    "before": {
+      "question": "# Translate:\n\ntrained\n\n## Footnote\n\nShe trained her dog daily.",
+      "answer": "entrenó\n\n## Footnote\n\nElla entrenó a su perro diariamente.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "trained",
+      "qMdClarifier": "",
+      "qMdFootnote": "She trained her dog daily.",
+      "aMdPrompt": "",
+      "aMdBody": "entrenó",
+      "aMdClarifier": "",
+      "aMdFootnote": "Ella entrenó a su perro diariamente."
+    },
+    "after": {
+      "question": "# Translate:\n\nhe or she trained\n\n## Footnote\n\nShe trained her dog daily.",
+      "answer": "entrenó\n\n## Footnote\n\nElla entrenó a su perro diariamente.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "he or she trained",
+      "qMdClarifier": "",
+      "qMdFootnote": "She trained her dog daily.",
+      "aMdPrompt": "",
+      "aMdBody": "entrenó",
+      "aMdClarifier": "",
+      "aMdFootnote": "Ella entrenó a su perro diariamente."
+    },
+    "reason": "Clarify conjugated preterite."
+  },
+  {
+    "row": 147,
+    "cardId": 491522900,
+    "before": {
+      "question": "# Translate:\n\nyou will recover\n\n## Footnote\n\nDon't worry, you will recover soon.",
+      "answer": "recuperarás\n\n## Footnote\n\nNo te preocupes, te recuperarás pronto.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "you will recover",
+      "qMdClarifier": "",
+      "qMdFootnote": "Don't worry, you will recover soon.",
+      "aMdPrompt": "",
+      "aMdBody": "recuperarás",
+      "aMdClarifier": "",
+      "aMdFootnote": "No te preocupes, te recuperarás pronto."
+    },
+    "after": {
+      "question": "# Translate:\n\nyou will recover\n\n## Footnote\n\nDon't worry, you will recover soon.",
+      "answer": "te recuperarás\n\n## Footnote\n\nNo te preocupes, te recuperarás pronto.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "you will recover",
+      "qMdClarifier": "",
+      "qMdFootnote": "Don't worry, you will recover soon.",
+      "aMdPrompt": "",
+      "aMdBody": "te recuperarás",
+      "aMdClarifier": "",
+      "aMdFootnote": "No te preocupes, te recuperarás pronto."
+    },
+    "reason": "Reflexive pronoun required in recovery sense."
+  },
+  {
+    "row": 176,
+    "cardId": 491522929,
+    "before": {
+      "question": "# Translate:\n\nstarred\n\n## Footnote\n\nThe sky starred with countless lights.",
+      "answer": "estrellado\n\n## Footnote\n\nEl cielo estrellado con innumerables luces.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "starred",
+      "qMdClarifier": "",
+      "qMdFootnote": "The sky starred with countless lights.",
+      "aMdPrompt": "",
+      "aMdBody": "estrellado",
+      "aMdClarifier": "",
+      "aMdFootnote": "El cielo estrellado con innumerables luces."
+    },
+    "after": {
+      "question": "# Translate:\n\nstarry\n\n## Footnote\n\nWe looked at the starry sky.",
+      "answer": "estrellado\n\n## Footnote\n\nMiramos el cielo estrellado.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "starry",
+      "qMdClarifier": "",
+      "qMdFootnote": "We looked at the starry sky.",
+      "aMdPrompt": "",
+      "aMdBody": "estrellado",
+      "aMdClarifier": "",
+      "aMdFootnote": "Miramos el cielo estrellado."
+    },
+    "reason": "Replace incorrect starred verb and incomplete example."
+  },
+  {
+    "row": 180,
+    "cardId": 491522933,
+    "before": {
+      "question": "# Translate:\n\nparticipated\n\n## Footnote\n\nShe participated in the marathon yesterday.",
+      "answer": "participado\n\n## Footnote\n\nElla participó en el maratón ayer.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "participated",
+      "qMdClarifier": "",
+      "qMdFootnote": "She participated in the marathon yesterday.",
+      "aMdPrompt": "",
+      "aMdBody": "participado",
+      "aMdClarifier": "",
+      "aMdFootnote": "Ella participó en el maratón ayer."
+    },
+    "after": {
+      "question": "# Translate:\n\nparticipated\n\n## Footnote\n\nShe has participated in the race.",
+      "answer": "participado\n\n## Footnote\n\nHa participado en la carrera.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "participated",
+      "qMdClarifier": "",
+      "qMdFootnote": "She has participated in the race.",
+      "aMdPrompt": "",
+      "aMdBody": "participado",
+      "aMdClarifier": "",
+      "aMdFootnote": "Ha participado en la carrera."
+    },
+    "reason": "Use target participado."
+  },
+  {
+    "row": 200,
+    "cardId": 491522953,
+    "before": {
+      "question": "# Translate:\n\nyou say (subjunctive)\n\n## Footnote\n\nWhatever you say, I'll follow.",
+      "answer": "digáis\n\n## Footnote\n\nLo que digáis, seguiré.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "you say (subjunctive)",
+      "qMdClarifier": "",
+      "qMdFootnote": "Whatever you say, I'll follow.",
+      "aMdPrompt": "",
+      "aMdBody": "digáis",
+      "aMdClarifier": "",
+      "aMdFootnote": "Lo que digáis, seguiré."
+    },
+    "after": {
+      "question": "# Translate:\n\nyou say (subjunctive)\n\n## Footnote\n\nI don't want you to say that.",
+      "answer": "digáis\n\n## Footnote\n\nNo quiero que digáis eso.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "you say (subjunctive)",
+      "qMdClarifier": "",
+      "qMdFootnote": "I don't want you to say that.",
+      "aMdPrompt": "",
+      "aMdBody": "digáis",
+      "aMdClarifier": "",
+      "aMdFootnote": "No quiero que digáis eso."
+    },
+    "reason": "Natural matched subjunctive example."
+  },
+  {
+    "row": 219,
+    "cardId": 491522972,
+    "before": {
+      "question": "# Translate:\n\ncrippled, hindered\n\n## Footnote\n\nI was so tired that I felt crippled.",
+      "answer": "impedido\n\n## Footnote\n\nEstaba tan cansado que me sentí impedido",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "crippled, hindered",
+      "qMdClarifier": "",
+      "qMdFootnote": "I was so tired that I felt crippled.",
+      "aMdPrompt": "",
+      "aMdBody": "impedido",
+      "aMdClarifier": "",
+      "aMdFootnote": "Estaba tan cansado que me sentí impedido"
+    },
+    "after": {
+      "question": "# Translate:\n\ncrippled, hindered\n\n## Footnote\n\nI was so tired that I felt crippled.",
+      "answer": "impedido\n\n## Footnote\n\nEstaba tan cansado que me sentí impedido.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "crippled, hindered",
+      "qMdClarifier": "",
+      "qMdFootnote": "I was so tired that I felt crippled.",
+      "aMdPrompt": "",
+      "aMdBody": "impedido",
+      "aMdClarifier": "",
+      "aMdFootnote": "Estaba tan cansado que me sentí impedido."
+    },
+    "reason": "Normalize sentence punctuation and remove extraneous quotation marks."
+  },
+  {
+    "row": 252,
+    "cardId": 491523005,
+    "before": {
+      "question": "# Translate:\n\ncontainer, recipient\n\n## Footnote\n\nWash every kitchen container thoroughly.",
+      "answer": "trasto\n\n## Footnote\n\nLava todos los trastos de cocina minuciosamente.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "container, recipient",
+      "qMdClarifier": "",
+      "qMdFootnote": "Wash every kitchen container thoroughly.",
+      "aMdPrompt": "",
+      "aMdBody": "trasto",
+      "aMdClarifier": "",
+      "aMdFootnote": "Lava todos los trastos de cocina minuciosamente."
+    },
+    "after": {
+      "question": "# Translate:\n\nutensil, piece of junk\n\n## Footnote\n\nWash every kitchen utensil thoroughly.",
+      "answer": "trasto\n\n## Footnote\n\nLava todos los trastos de cocina minuciosamente.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "utensil, piece of junk",
+      "qMdClarifier": "",
+      "qMdFootnote": "Wash every kitchen utensil thoroughly.",
+      "aMdPrompt": "",
+      "aMdBody": "trasto",
+      "aMdClarifier": "",
+      "aMdFootnote": "Lava todos los trastos de cocina minuciosamente."
+    },
+    "reason": "Recipient is a false friend; use natural trasto sense."
+  },
+  {
+    "row": 281,
+    "cardId": 491523035,
+    "before": {
+      "question": "# Translate:\n\nwait for me (imperative, tú)\n\n## Footnote\n\nPlease, wait for me outside.",
+      "answer": "espéreme\n\n## Footnote\n\nPor favor, espéreme afuera.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "wait for me (imperative, tú)",
+      "qMdClarifier": "",
+      "qMdFootnote": "Please, wait for me outside.",
+      "aMdPrompt": "",
+      "aMdBody": "espéreme",
+      "aMdClarifier": "",
+      "aMdFootnote": "Por favor, espéreme afuera."
+    },
+    "after": {
+      "question": "# Translate:\n\nwait for me (imperative, usted)\n\n## Footnote\n\nPlease, wait for me outside.",
+      "answer": "espéreme\n\n## Footnote\n\nPor favor, espéreme afuera.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "wait for me (imperative, usted)",
+      "qMdClarifier": "",
+      "qMdFootnote": "Please, wait for me outside.",
+      "aMdPrompt": "",
+      "aMdBody": "espéreme",
+      "aMdClarifier": "",
+      "aMdFootnote": "Por favor, espéreme afuera."
+    },
+    "reason": "Espéreme is formal usted, not tú."
+  },
+  {
+    "row": 286,
+    "cardId": 734814215,
+    "before": {
+      "question": "# Translate:\n\nI will stay\n\n## Footnote\n\nI will stay here tonight.",
+      "answer": "quedaré\n\n## Footnote\n\nMe quedaré aquí esta noche.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "I will stay",
+      "qMdClarifier": "",
+      "qMdFootnote": "I will stay here tonight.",
+      "aMdPrompt": "",
+      "aMdBody": "quedaré",
+      "aMdClarifier": "",
+      "aMdFootnote": "Me quedaré aquí esta noche."
+    },
+    "after": {
+      "question": "# Translate:\n\nI will stay\n\n## Footnote\n\nI will stay here tonight.",
+      "answer": "me quedaré\n\n## Footnote\n\nMe quedaré aquí esta noche.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "I will stay",
+      "qMdClarifier": "",
+      "qMdFootnote": "I will stay here tonight.",
+      "aMdPrompt": "",
+      "aMdBody": "me quedaré",
+      "aMdClarifier": "",
+      "aMdFootnote": "Me quedaré aquí esta noche."
+    },
+    "reason": "Reflexive pronoun required."
+  },
+  {
+    "row": 317,
+    "cardId": 491523072,
+    "before": {
+      "question": "# Translate:\n\nlay (imperative, vosotros)\n\n## Footnote\n\nPut the book here.",
+      "answer": "poned\n\n## Footnote\n\nPoned el libro aquí",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "lay (imperative, vosotros)",
+      "qMdClarifier": "",
+      "qMdFootnote": "Put the book here.",
+      "aMdPrompt": "",
+      "aMdBody": "poned",
+      "aMdClarifier": "",
+      "aMdFootnote": "Poned el libro aquí"
+    },
+    "after": {
+      "question": "# Translate:\n\nput (imperative, vosotros)\n\n## Footnote\n\nPut the book here.",
+      "answer": "poned\n\n## Footnote\n\nPoned el libro aquí.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "put (imperative, vosotros)",
+      "qMdClarifier": "",
+      "qMdFootnote": "Put the book here.",
+      "aMdPrompt": "",
+      "aMdBody": "poned",
+      "aMdClarifier": "",
+      "aMdFootnote": "Poned el libro aquí."
+    },
+    "reason": "Normalize sentence punctuation and remove extraneous quotation marks."
+  },
+  {
+    "row": 342,
+    "cardId": 491523098,
+    "before": {
+      "question": "# Translate:\n\nflooded\n\n## Footnote\n\nThe basement flooded after the storm.",
+      "answer": "inundado\n\n## Footnote\n\nEl sótano se inundó después de la tormenta.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "flooded",
+      "qMdClarifier": "",
+      "qMdFootnote": "The basement flooded after the storm.",
+      "aMdPrompt": "",
+      "aMdBody": "inundado",
+      "aMdClarifier": "",
+      "aMdFootnote": "El sótano se inundó después de la tormenta."
+    },
+    "after": {
+      "question": "# Translate:\n\nflooded\n\n## Footnote\n\nThe basement is flooded.",
+      "answer": "inundado\n\n## Footnote\n\nEl sótano está inundado.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "flooded",
+      "qMdClarifier": "",
+      "qMdFootnote": "The basement is flooded.",
+      "aMdPrompt": "",
+      "aMdBody": "inundado",
+      "aMdClarifier": "",
+      "aMdFootnote": "El sótano está inundado."
+    },
+    "reason": "Use target inundado."
+  },
+  {
+    "row": 385,
+    "cardId": 491523141,
+    "before": {
+      "question": "# Translate:\n\nI retired\n\n## Footnote\n\nI retired gracefully from the stage.",
+      "answer": "retiré\n\n## Footnote\n\nMe retiré con gracia del escenario.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "I retired",
+      "qMdClarifier": "",
+      "qMdFootnote": "I retired gracefully from the stage.",
+      "aMdPrompt": "",
+      "aMdBody": "retiré",
+      "aMdClarifier": "",
+      "aMdFootnote": "Me retiré con gracia del escenario."
+    },
+    "after": {
+      "question": "# Translate:\n\nI retired\n\n## Footnote\n\nI retired gracefully from the stage.",
+      "answer": "me retiré\n\n## Footnote\n\nMe retiré con gracia del escenario.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "I retired",
+      "qMdClarifier": "",
+      "qMdFootnote": "I retired gracefully from the stage.",
+      "aMdPrompt": "",
+      "aMdBody": "me retiré",
+      "aMdClarifier": "",
+      "aMdFootnote": "Me retiré con gracia del escenario."
+    },
+    "reason": "Reflexive pronoun needed for withdrawing oneself."
+  },
+  {
+    "row": 392,
+    "cardId": 491523148,
+    "before": {
+      "question": "# Translate:\n\nenjoys (subjunctive)\n\n## Footnote\n\nI hope she enjoys dancing on weekends.",
+      "answer": "divierta\n\n## Footnote\n\nEspero que ella se divierta bailando los fines de semana.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "enjoys (subjunctive)",
+      "qMdClarifier": "",
+      "qMdFootnote": "I hope she enjoys dancing on weekends.",
+      "aMdPrompt": "",
+      "aMdBody": "divierta",
+      "aMdClarifier": "",
+      "aMdFootnote": "Espero que ella se divierta bailando los fines de semana."
+    },
+    "after": {
+      "question": "# Translate:\n\nhas fun (subjunctive)\n\n## Footnote\n\nI hope she enjoys dancing on weekends.",
+      "answer": "divierta\n\n## Footnote\n\nEspero que ella se divierta bailando los fines de semana.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "has fun (subjunctive)",
+      "qMdClarifier": "",
+      "qMdFootnote": "I hope she enjoys dancing on weekends.",
+      "aMdPrompt": "",
+      "aMdBody": "divierta",
+      "aMdClarifier": "",
+      "aMdFootnote": "Espero que ella se divierta bailando los fines de semana."
+    },
+    "reason": "Reflexive divertirse means have fun."
+  },
+  {
+    "row": 462,
+    "cardId": 734814231,
+    "before": {
+      "question": "# Translate:\n\nhurry up (imperative, ustedes)\n\n## Footnote\n\n\"Hurry up, we're going to be late!\"",
+      "answer": "apresúrense\n\n## Footnote\n\n\"¡Apresúrense, vamos a llegar tarde!\"",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "hurry up (imperative, ustedes)",
+      "qMdClarifier": "",
+      "qMdFootnote": "\"Hurry up, we're going to be late!\"",
+      "aMdPrompt": "",
+      "aMdBody": "apresúrense",
+      "aMdClarifier": "",
+      "aMdFootnote": "\"¡Apresúrense, vamos a llegar tarde!\""
+    },
+    "after": {
+      "question": "# Translate:\n\nhurry up (imperative, ustedes)\n\n## Footnote\n\nHurry up, we're going to be late!",
+      "answer": "apresúrense\n\n## Footnote\n\n¡Apresúrense, vamos a llegar tarde!",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "hurry up (imperative, ustedes)",
+      "qMdClarifier": "",
+      "qMdFootnote": "Hurry up, we're going to be late!",
+      "aMdPrompt": "",
+      "aMdBody": "apresúrense",
+      "aMdClarifier": "",
+      "aMdFootnote": "¡Apresúrense, vamos a llegar tarde!"
+    },
+    "reason": "Normalize sentence punctuation and remove extraneous quotation marks."
+  },
+  {
+    "row": 471,
+    "cardId": 734814244,
+    "before": {
+      "question": "# Translate:\n\ninvolved\n\n## Footnote\n\nShe got involved in the project.",
+      "answer": "involucró\n\n## Footnote\n\nElla se involucró en el proyecto.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "involved",
+      "qMdClarifier": "",
+      "qMdFootnote": "She got involved in the project.",
+      "aMdPrompt": "",
+      "aMdBody": "involucró",
+      "aMdClarifier": "",
+      "aMdFootnote": "Ella se involucró en el proyecto."
+    },
+    "after": {
+      "question": "# Translate:\n\nhe or she involved\n\n## Footnote\n\nShe involved her friends in the project.",
+      "answer": "involucró\n\n## Footnote\n\nElla involucró a sus amigos en el proyecto.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "he or she involved",
+      "qMdClarifier": "",
+      "qMdFootnote": "She involved her friends in the project.",
+      "aMdPrompt": "",
+      "aMdBody": "involucró",
+      "aMdClarifier": "",
+      "aMdFootnote": "Ella involucró a sus amigos en el proyecto."
+    },
+    "reason": "Distinguish preterite involucró from participle involucrado."
+  },
+  {
+    "row": 477,
+    "cardId": 734814256,
+    "before": {
+      "question": "# Translate:\n\nget on (imperative, ustedes)\n\n## Footnote\n\n\"Get on the bus, quickly!\"",
+      "answer": "súbanse\n\n## Footnote\n\n\"Súbanse al autobús, ¡rápido!\"",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "get on (imperative, ustedes)",
+      "qMdClarifier": "",
+      "qMdFootnote": "\"Get on the bus, quickly!\"",
+      "aMdPrompt": "",
+      "aMdBody": "súbanse",
+      "aMdClarifier": "",
+      "aMdFootnote": "\"Súbanse al autobús, ¡rápido!\""
+    },
+    "after": {
+      "question": "# Translate:\n\nget on (imperative, ustedes)\n\n## Footnote\n\nGet on the bus, quickly!",
+      "answer": "súbanse\n\n## Footnote\n\nSúbanse al autobús, ¡rápido!",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "get on (imperative, ustedes)",
+      "qMdClarifier": "",
+      "qMdFootnote": "Get on the bus, quickly!",
+      "aMdPrompt": "",
+      "aMdBody": "súbanse",
+      "aMdClarifier": "",
+      "aMdFootnote": "Súbanse al autobús, ¡rápido!"
+    },
+    "reason": "Normalize sentence punctuation and remove extraneous quotation marks."
+  },
+  {
+    "row": 492,
+    "cardId": 734814293,
+    "before": {
+      "question": "# Translate:\n\nremaining\n\n## Footnote\n\nOnly two cookies remain.",
+      "answer": "restante\n\n## Footnote\n\nSolo quedan dos galletas restantes.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "remaining",
+      "qMdClarifier": "",
+      "qMdFootnote": "Only two cookies remain.",
+      "aMdPrompt": "",
+      "aMdBody": "restante",
+      "aMdClarifier": "",
+      "aMdFootnote": "Solo quedan dos galletas restantes."
+    },
+    "after": {
+      "question": "# Translate:\n\nremaining\n\n## Footnote\n\nWe ate the remaining cookies.",
+      "answer": "restante\n\n## Footnote\n\nComimos las galletas restantes.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "remaining",
+      "qMdClarifier": "",
+      "qMdFootnote": "We ate the remaining cookies.",
+      "aMdPrompt": "",
+      "aMdBody": "restante",
+      "aMdClarifier": "",
+      "aMdFootnote": "Comimos las galletas restantes."
+    },
+    "reason": "Use adjective restante naturally."
+  }
+]

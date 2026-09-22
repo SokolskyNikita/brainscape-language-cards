@@ -1,0 +1,294 @@
+{
+  "deck": 15260215,
+  "reviewed": 500,
+  "changes": [
+    {
+      "row": 48,
+      "before": [
+        "принудительный",
+        "compulsory, forced",
+        "Это принудительный труд.",
+        "This is compulsory labor."
+      ],
+      "after": [
+        "принудительный",
+        "compulsory, forced",
+        "Это принудительный труд.",
+        "This is forced labor."
+      ],
+      "reason": "Use the standard collocation."
+    },
+    {
+      "row": 67,
+      "before": [
+        "пальчик",
+        "little finger",
+        "Она поцеловала его пальчик.",
+        "She kissed his little finger."
+      ],
+      "after": [
+        "пальчик",
+        "finger (diminutive)",
+        "Она поцеловала его пальчик.",
+        "She kissed his finger."
+      ],
+      "reason": "The diminutive does not specifically mean pinky."
+    },
+    {
+      "row": 131,
+      "before": [
+        "срываться",
+        "to come off, to slip",
+        "Кнопка снова срывается.",
+        "The button keeps coming off."
+      ],
+      "after": [
+        "срываться",
+        "to come off, to slip",
+        "Он срывается со скалы.",
+        "He slips off the cliff."
+      ],
+      "reason": "Use a natural Russian collocation."
+    },
+    {
+      "row": 164,
+      "before": [
+        "носовой",
+        "nasal",
+        "У него носовой голос.",
+        "He has a nasal voice."
+      ],
+      "after": [
+        "носовой",
+        "nasal",
+        "Это носовой звук.",
+        "This is a nasal sound."
+      ],
+      "reason": "Use a natural collocation for nasal."
+    },
+    {
+      "row": 167,
+      "before": [
+        "арбитражный",
+        "arbitration",
+        "Это арбитражный суд.",
+        "This is an arbitration court."
+      ],
+      "after": [
+        "арбитражный",
+        "arbitration",
+        "Это арбитражное соглашение.",
+        "This is an arbitration agreement."
+      ],
+      "reason": "Avoid conflating a commercial court with private arbitration."
+    },
+    {
+      "row": 185,
+      "before": [
+        "проложить",
+        "lay, pave",
+        "Они проложили дорогу.",
+        "They paved the road."
+      ],
+      "after": [
+        "проложить",
+        "to lay, to build",
+        "Они проложили кабель.",
+        "They laid a cable."
+      ],
+      "reason": "Laying a route does not necessarily mean paving it."
+    },
+    {
+      "row": 193,
+      "before": [
+        "значиться",
+        "to be listed",
+        "Его имя значится в списке.",
+        "His name is listed."
+      ],
+      "after": [
+        "значиться",
+        "to be listed",
+        "Его имя значится в документе.",
+        "His name is listed in the document."
+      ],
+      "reason": "Translate the full example."
+    },
+    {
+      "row": 243,
+      "before": [
+        "свершиться",
+        "to come true",
+        "Мечта свершилась.",
+        "The dream came true."
+      ],
+      "after": [
+        "свершиться",
+        "to take place, to come to pass",
+        "Свершилось важное событие.",
+        "An important event took place."
+      ],
+      "reason": "A dream comes true with сбыться, not свершиться."
+    },
+    {
+      "row": 283,
+      "before": [
+        "рассердиться",
+        "to get angry",
+        "Он легко рассердился.",
+        "He got angry easily."
+      ],
+      "after": [
+        "рассердиться",
+        "to get angry",
+        "Он сразу рассердился.",
+        "He got angry immediately."
+      ],
+      "reason": "Natural aspect and adverb pairing."
+    },
+    {
+      "row": 311,
+      "before": [
+        "доставаться",
+        "to get, to end up with",
+        "Мне всегда достаётся это.",
+        "I always end up with this."
+      ],
+      "after": [
+        "доставаться",
+        "to get, to end up with",
+        "Мне всегда достаётся эта работа.",
+        "I always end up with this work."
+      ],
+      "reason": "Natural word order and concrete context."
+    },
+    {
+      "row": 325,
+      "before": [
+        "увидать",
+        "to see",
+        "Я увидал его там.",
+        "I did see him there."
+      ],
+      "after": [
+        "увидать",
+        "to see",
+        "Я увидал его там.",
+        "I saw him there."
+      ],
+      "reason": "Remove unsupported emphatic did."
+    },
+    {
+      "row": 348,
+      "before": [
+        "сахарный",
+        "sugary, sugar",
+        "Это сахарный напиток.",
+        "This is a sugary drink."
+      ],
+      "after": [
+        "сахарный",
+        "sugar (attributive)",
+        "Это сахарный завод.",
+        "This is a sugar factory."
+      ],
+      "reason": "Sugar-containing drinks are normally сладкие; use a clear attributive sense."
+    },
+    {
+      "row": 350,
+      "before": [
+        "декорация",
+        "decoration, set",
+        "Декорация уже готова.",
+        "The set is ready."
+      ],
+      "after": [
+        "декорация",
+        "stage set, scenery",
+        "Декорация уже готова.",
+        "The stage set is ready."
+      ],
+      "reason": "Distinguish theatrical scenery from generic decoration."
+    },
+    {
+      "row": 397,
+      "before": [
+        "записной",
+        "notebook",
+        "Это записная книжка.",
+        "This is a notebook."
+      ],
+      "after": [
+        "записной",
+        "for notes (записная книжка: notebook)",
+        "Используй эту записную книжку для заметок.",
+        "Use this notebook for notes."
+      ],
+      "reason": "The adjective itself is not the noun notebook. Use the adjective directly without awkward notebook definition. Demonstrate the common phrase with natural wording."
+    },
+    {
+      "row": 425,
+      "before": [
+        "подскочить",
+        "jump",
+        "Кот подскочил на кровать.",
+        "The cat jumped on the bed."
+      ],
+      "after": [
+        "подскочить",
+        "to jump up",
+        "Он подскочил от страха.",
+        "He jumped up in fear."
+      ],
+      "reason": "Jumping onto a bed is вскочить, not подскочить."
+    },
+    {
+      "row": 432,
+      "before": [
+        "опережать",
+        "to overtake, to outstrip",
+        "Она опережает нас.",
+        "She is overtaking us."
+      ],
+      "after": [
+        "опережать",
+        "to be ahead of, to outstrip",
+        "Она опережает нас.",
+        "She is ahead of us."
+      ],
+      "reason": "Опережать describes being ahead rather than the passing action."
+    },
+    {
+      "row": 480,
+      "before": [
+        "обитание",
+        "habitat",
+        "Это место обитания.",
+        "This is a habitat."
+      ],
+      "after": [
+        "обитание",
+        "habitation, living",
+        "Обитание здесь невозможно.",
+        "Habitation here is impossible."
+      ],
+      "reason": "Habitat is место обитания rather than обитание alone. Keep the noun meaning and prior vocabulary."
+    },
+    {
+      "row": 497,
+      "before": [
+        "сдохнуть",
+        "die",
+        "Собака скоро сдохнет.",
+        "The dog will soon die."
+      ],
+      "after": [
+        "сдохнуть",
+        "to die (coarse, usually of animals)",
+        "Собака скоро сдохнет.",
+        "The dog will soon die."
+      ],
+      "reason": "Mark the coarse register."
+    }
+  ]
+}

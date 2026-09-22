@@ -1,0 +1,57 @@
+{
+  "id": "db6b0ed5-d5d3-463d-ae85-518a07d3c2b4",
+  "is_owner": false,
+  "status": "active",
+  "description": "Approachable American female ideal for customer care and support.",
+  "created_at": "2026-03-31T17:37:05.961Z",
+  "gender": "feminine",
+  "language": "en",
+  "country": "US",
+  "is_pro": false,
+  "name": "Skylar",
+  "tagline": "Friendly Guide",
+  "access": "public",
+  "visibility": "all",
+  "accents": [
+    {
+      "accent": "general-american",
+      "locale": "en-US",
+      "is_native": true
+    },
+    {
+      "accent": "standard-hindi",
+      "locale": "hi-IN",
+      "is_native": false
+    },
+    {
+      "accent": "mexican",
+      "locale": "es-MX",
+      "is_native": false
+    },
+    {
+      "accent": "standard-german",
+      "locale": "de-DE",
+      "is_native": false
+    },
+    {
+      "accent": "israeli",
+      "locale": "he-IL",
+      "is_native": false
+    },
+    {
+      "accent": "standard-italian",
+      "locale": "it-IT",
+      "is_native": false
+    },
+    {
+      "accent": "brazilian-portuguese",
+      "locale": "pt-BR",
+      "is_native": false
+    },
+    {
+      "accent": "central-tamil",
+      "locale": "ta-IN",
+      "is_native": false
+    }
+  ]
+}

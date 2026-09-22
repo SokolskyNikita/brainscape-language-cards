@@ -1,0 +1,437 @@
+[
+  {
+    "row": 40,
+    "cardId": 491517912,
+    "before": {
+      "question": "# Translate:\n\nworry\n\n## Footnote\n\nDon't worry, everything will be fine.",
+      "answer": "preocupación\n\n## Footnote\n\nNo te preocupes, todo estará bien.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "worry",
+      "qMdClarifier": "",
+      "qMdFootnote": "Don't worry, everything will be fine.",
+      "aMdPrompt": "",
+      "aMdBody": "preocupación",
+      "aMdClarifier": "",
+      "aMdFootnote": "No te preocupes, todo estará bien."
+    },
+    "after": {
+      "question": "# Translate:\n\nworry\n\n## Footnote\n\nMoney is my main worry.",
+      "answer": "preocupación\n\n## Footnote\n\nEl dinero es mi principal preocupación.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "worry",
+      "qMdClarifier": "",
+      "qMdFootnote": "Money is my main worry.",
+      "aMdPrompt": "",
+      "aMdBody": "preocupación",
+      "aMdClarifier": "",
+      "aMdFootnote": "El dinero es mi principal preocupación."
+    },
+    "reason": "Use noun preocupación."
+  },
+  {
+    "row": 57,
+    "cardId": 491517929,
+    "before": {
+      "question": "# Translate:\n\nhappen\n\n## Footnote\n\nI don't know what will happen.",
+      "answer": "suceda\n\n## Footnote\n\nNo sé qué suceda.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "happen",
+      "qMdClarifier": "",
+      "qMdFootnote": "I don't know what will happen.",
+      "aMdPrompt": "",
+      "aMdBody": "suceda",
+      "aMdClarifier": "",
+      "aMdFootnote": "No sé qué suceda."
+    },
+    "after": {
+      "question": "# Translate:\n\nhappen (subjunctive)\n\n## Footnote\n\nI don't want that to happen.",
+      "answer": "suceda\n\n## Footnote\n\nNo quiero que eso suceda.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "happen (subjunctive)",
+      "qMdClarifier": "",
+      "qMdFootnote": "I don't want that to happen.",
+      "aMdPrompt": "",
+      "aMdBody": "suceda",
+      "aMdClarifier": "",
+      "aMdFootnote": "No quiero que eso suceda."
+    },
+    "reason": "Natural subjunctive example."
+  },
+  {
+    "row": 89,
+    "cardId": 491517961,
+    "before": {
+      "question": "# Translate:\n\nscript\n\n## Footnote\n\nHe wrote the script in a month.",
+      "answer": "guión\n\n## Footnote\n\nEscribió el guión en un mes.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "script",
+      "qMdClarifier": "",
+      "qMdFootnote": "He wrote the script in a month.",
+      "aMdPrompt": "",
+      "aMdBody": "guión",
+      "aMdClarifier": "",
+      "aMdFootnote": "Escribió el guión en un mes."
+    },
+    "after": {
+      "question": "# Translate:\n\nscript\n\n## Footnote\n\nHe wrote the script in a month.",
+      "answer": "guion\n\n## Footnote\n\nEscribió el guion en un mes.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "script",
+      "qMdClarifier": "",
+      "qMdFootnote": "He wrote the script in a month.",
+      "aMdPrompt": "",
+      "aMdBody": "guion",
+      "aMdClarifier": "",
+      "aMdFootnote": "Escribió el guion en un mes."
+    },
+    "reason": "Current standard spelling guion."
+  },
+  {
+    "row": 117,
+    "cardId": 734808412,
+    "before": {
+      "question": "# Translate:\n\nmmm (expression of pleasure)\n\n## Footnote\n\nMmm, this cake is delicious!",
+      "answer": "mm,\n\n## Footnote\n\nMmm, ¡este pastel está delicioso!",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "mmm (expression of pleasure)",
+      "qMdClarifier": "",
+      "qMdFootnote": "Mmm, this cake is delicious!",
+      "aMdPrompt": "",
+      "aMdBody": "mm,",
+      "aMdClarifier": "",
+      "aMdFootnote": "Mmm, ¡este pastel está delicioso!"
+    },
+    "after": {
+      "question": "# Translate:\n\nmmm (expression of pleasure)\n\n## Footnote\n\nMmm, this cake is delicious!",
+      "answer": "mmm\n\n## Footnote\n\nMmm, ¡este pastel está delicioso!",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "mmm (expression of pleasure)",
+      "qMdClarifier": "",
+      "qMdFootnote": "Mmm, this cake is delicious!",
+      "aMdPrompt": "",
+      "aMdBody": "mmm",
+      "aMdClarifier": "",
+      "aMdFootnote": "Mmm, ¡este pastel está delicioso!"
+    },
+    "reason": "Remove stray comma and align interjection spelling."
+  },
+  {
+    "row": 123,
+    "cardId": 491517995,
+    "before": {
+      "question": "# Translate:\n\nI took, I carried\n\n## Footnote\n\nI took the book from the shelf.",
+      "answer": "llevé\n\n## Footnote\n\nTomé el libro de la estantería.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "I took, I carried",
+      "qMdClarifier": "",
+      "qMdFootnote": "I took the book from the shelf.",
+      "aMdPrompt": "",
+      "aMdBody": "llevé",
+      "aMdClarifier": "",
+      "aMdFootnote": "Tomé el libro de la estantería."
+    },
+    "after": {
+      "question": "# Translate:\n\nI took, I carried\n\n## Footnote\n\nI took the book to school.",
+      "answer": "llevé\n\n## Footnote\n\nLlevé el libro a la escuela.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "I took, I carried",
+      "qMdClarifier": "",
+      "qMdFootnote": "I took the book to school.",
+      "aMdPrompt": "",
+      "aMdBody": "llevé",
+      "aMdClarifier": "",
+      "aMdFootnote": "Llevé el libro a la escuela."
+    },
+    "reason": "Use llevar for taking something to a place."
+  },
+  {
+    "row": 199,
+    "cardId": 491518071,
+    "before": {
+      "question": "# Translate:\n\ntake you out\n\n## Footnote\n\nI want to get you out of my mind.",
+      "answer": "sacarte\n\n## Footnote\n\nQuiero sacarte de mi mente.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "take you out",
+      "qMdClarifier": "",
+      "qMdFootnote": "I want to get you out of my mind.",
+      "aMdPrompt": "",
+      "aMdBody": "sacarte",
+      "aMdClarifier": "",
+      "aMdFootnote": "Quiero sacarte de mi mente."
+    },
+    "after": {
+      "question": "# Translate:\n\nto take you out\n\n## Footnote\n\nI want to take you out of here.",
+      "answer": "sacarte\n\n## Footnote\n\nQuiero sacarte de aquí.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "to take you out",
+      "qMdClarifier": "",
+      "qMdFootnote": "I want to take you out of here.",
+      "aMdPrompt": "",
+      "aMdBody": "sacarte",
+      "aMdClarifier": "",
+      "aMdFootnote": "Quiero sacarte de aquí."
+    },
+    "reason": "Align target phrase and example."
+  },
+  {
+    "row": 208,
+    "cardId": 491518080,
+    "before": {
+      "question": "# Translate:\n\nleave (you, subjunctive)\n\n## Footnote\n\nI want you to leave this house.",
+      "answer": "salgas\n\n## Footnote\n\nQuiero que salgas de esta casa",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "leave (you, subjunctive)",
+      "qMdClarifier": "",
+      "qMdFootnote": "I want you to leave this house.",
+      "aMdPrompt": "",
+      "aMdBody": "salgas",
+      "aMdClarifier": "",
+      "aMdFootnote": "Quiero que salgas de esta casa"
+    },
+    "after": {
+      "question": "# Translate:\n\nleave (you, subjunctive)\n\n## Footnote\n\nI want you to leave this house.",
+      "answer": "salgas\n\n## Footnote\n\nQuiero que salgas de esta casa.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "leave (you, subjunctive)",
+      "qMdClarifier": "",
+      "qMdFootnote": "I want you to leave this house.",
+      "aMdPrompt": "",
+      "aMdBody": "salgas",
+      "aMdClarifier": "",
+      "aMdFootnote": "Quiero que salgas de esta casa."
+    },
+    "reason": "Normalize sentence punctuation and remove extraneous quotation marks."
+  },
+  {
+    "row": 220,
+    "cardId": 491518092,
+    "before": {
+      "question": "# Translate:\n\nallowed\n\n## Footnote\n\nPets are not allowed here.",
+      "answer": "permitido\n\n## Footnote\n\nNo se permiten mascotas aquí.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "allowed",
+      "qMdClarifier": "",
+      "qMdFootnote": "Pets are not allowed here.",
+      "aMdPrompt": "",
+      "aMdBody": "permitido",
+      "aMdClarifier": "",
+      "aMdFootnote": "No se permiten mascotas aquí."
+    },
+    "after": {
+      "question": "# Translate:\n\nallowed\n\n## Footnote\n\nSmoking is not allowed here.",
+      "answer": "permitido\n\n## Footnote\n\nNo está permitido fumar aquí.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "allowed",
+      "qMdClarifier": "",
+      "qMdFootnote": "Smoking is not allowed here.",
+      "aMdPrompt": "",
+      "aMdBody": "permitido",
+      "aMdClarifier": "",
+      "aMdFootnote": "No está permitido fumar aquí."
+    },
+    "reason": "Use participle permitido."
+  },
+  {
+    "row": 287,
+    "cardId": 491518159,
+    "before": {
+      "question": "# Translate:\n\nyou stole\n\n## Footnote\n\n\"You stole my heart instantly.\"",
+      "answer": "robaste\n\n## Footnote\n\n\"Me robaste el corazón al instante.\"",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "you stole",
+      "qMdClarifier": "",
+      "qMdFootnote": "\"You stole my heart instantly.\"",
+      "aMdPrompt": "",
+      "aMdBody": "robaste",
+      "aMdClarifier": "",
+      "aMdFootnote": "\"Me robaste el corazón al instante.\""
+    },
+    "after": {
+      "question": "# Translate:\n\nyou stole\n\n## Footnote\n\nYou stole my heart instantly.",
+      "answer": "robaste\n\n## Footnote\n\nMe robaste el corazón al instante.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "you stole",
+      "qMdClarifier": "",
+      "qMdFootnote": "You stole my heart instantly.",
+      "aMdPrompt": "",
+      "aMdBody": "robaste",
+      "aMdClarifier": "",
+      "aMdFootnote": "Me robaste el corazón al instante."
+    },
+    "reason": "Normalize sentence punctuation and remove extraneous quotation marks."
+  },
+  {
+    "row": 305,
+    "cardId": 734808417,
+    "before": {
+      "question": "# Translate:\n\nI found out\n\n## Footnote\n\nShe found out the truth yesterday.",
+      "answer": "me enteré\n\n## Footnote\n\nElla se enteró de la verdad ayer.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "I found out",
+      "qMdClarifier": "",
+      "qMdFootnote": "She found out the truth yesterday.",
+      "aMdPrompt": "",
+      "aMdBody": "me enteré",
+      "aMdClarifier": "",
+      "aMdFootnote": "Ella se enteró de la verdad ayer."
+    },
+    "after": {
+      "question": "# Translate:\n\nI found out\n\n## Footnote\n\nI found out the truth yesterday.",
+      "answer": "me enteré\n\n## Footnote\n\nMe enteré de la verdad ayer.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "I found out",
+      "qMdClarifier": "",
+      "qMdFootnote": "I found out the truth yesterday.",
+      "aMdPrompt": "",
+      "aMdBody": "me enteré",
+      "aMdClarifier": "",
+      "aMdFootnote": "Me enteré de la verdad ayer."
+    },
+    "reason": "Match first-person headword."
+  },
+  {
+    "row": 327,
+    "cardId": 491518199,
+    "before": {
+      "question": "# Translate:\n\nlook after, attend to\n\n## Footnote\n\nOur neighbours looked after us very nicely when we went to their house.",
+      "answer": "atender\n\n## Footnote\n\nLos vecinos nos atendieron muy bien cuando fuimos a su casa",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "look after, attend to",
+      "qMdClarifier": "",
+      "qMdFootnote": "Our neighbours looked after us very nicely when we went to their house.",
+      "aMdPrompt": "",
+      "aMdBody": "atender",
+      "aMdClarifier": "",
+      "aMdFootnote": "Los vecinos nos atendieron muy bien cuando fuimos a su casa"
+    },
+    "after": {
+      "question": "# Translate:\n\nlook after, attend to\n\n## Footnote\n\nOur neighbours looked after us very nicely when we went to their house.",
+      "answer": "atender\n\n## Footnote\n\nLos vecinos nos atendieron muy bien cuando fuimos a su casa.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "look after, attend to",
+      "qMdClarifier": "",
+      "qMdFootnote": "Our neighbours looked after us very nicely when we went to their house.",
+      "aMdPrompt": "",
+      "aMdBody": "atender",
+      "aMdClarifier": "",
+      "aMdFootnote": "Los vecinos nos atendieron muy bien cuando fuimos a su casa."
+    },
+    "reason": "Normalize sentence punctuation and remove extraneous quotation marks."
+  },
+  {
+    "row": 393,
+    "cardId": 491518265,
+    "before": {
+      "question": "# Translate:\n\nI lied\n\n## Footnote\n\nI lied, it wasn't true",
+      "answer": "mentí\n\n## Footnote\n\nMentí, no era verdad.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "I lied",
+      "qMdClarifier": "",
+      "qMdFootnote": "I lied, it wasn't true",
+      "aMdPrompt": "",
+      "aMdBody": "mentí",
+      "aMdClarifier": "",
+      "aMdFootnote": "Mentí, no era verdad."
+    },
+    "after": {
+      "question": "# Translate:\n\nI lied\n\n## Footnote\n\nI lied, it wasn't true.",
+      "answer": "mentí\n\n## Footnote\n\nMentí, no era verdad.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "I lied",
+      "qMdClarifier": "",
+      "qMdFootnote": "I lied, it wasn't true.",
+      "aMdPrompt": "",
+      "aMdBody": "mentí",
+      "aMdClarifier": "",
+      "aMdFootnote": "Mentí, no era verdad."
+    },
+    "reason": "Normalize sentence punctuation and remove extraneous quotation marks."
+  },
+  {
+    "row": 409,
+    "cardId": 491518281,
+    "before": {
+      "question": "# Translate:\n\nnumber\n\n## Footnote\n\nShe got his number easily.",
+      "answer": "numero\n\n## Footnote\n\nElla consiguió su número fácilmente.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "number",
+      "qMdClarifier": "",
+      "qMdFootnote": "She got his number easily.",
+      "aMdPrompt": "",
+      "aMdBody": "numero",
+      "aMdClarifier": "",
+      "aMdFootnote": "Ella consiguió su número fácilmente."
+    },
+    "after": {
+      "question": "# Translate:\n\nnumber\n\n## Footnote\n\nShe got his number easily.",
+      "answer": "número\n\n## Footnote\n\nElla consiguió su número fácilmente.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "number",
+      "qMdClarifier": "",
+      "qMdFootnote": "She got his number easily.",
+      "aMdPrompt": "",
+      "aMdBody": "número",
+      "aMdClarifier": "",
+      "aMdFootnote": "Ella consiguió su número fácilmente."
+    },
+    "reason": "Correct noun accent; numero is I number."
+  },
+  {
+    "row": 447,
+    "cardId": 491518320,
+    "before": {
+      "question": "# Translate:\n\naccustomed\n\n## Footnote\n\nHe became accustomed to early mornings.",
+      "answer": "acostumbrado\n\n## Footnote\n\nSe acostumbró a las mañanas temprano.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "accustomed",
+      "qMdClarifier": "",
+      "qMdFootnote": "He became accustomed to early mornings.",
+      "aMdPrompt": "",
+      "aMdBody": "acostumbrado",
+      "aMdClarifier": "",
+      "aMdFootnote": "Se acostumbró a las mañanas temprano."
+    },
+    "after": {
+      "question": "# Translate:\n\naccustomed\n\n## Footnote\n\nHe is accustomed to getting up early.",
+      "answer": "acostumbrado\n\n## Footnote\n\nEstá acostumbrado a levantarse temprano.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "accustomed",
+      "qMdClarifier": "",
+      "qMdFootnote": "He is accustomed to getting up early.",
+      "aMdPrompt": "",
+      "aMdBody": "acostumbrado",
+      "aMdClarifier": "",
+      "aMdFootnote": "Está acostumbrado a levantarse temprano."
+    },
+    "reason": "Use acostumbrado and natural early-morning construction."
+  },
+  {
+    "row": 496,
+    "cardId": 734808464,
+    "before": {
+      "question": "# Translate:\n\nburned\n\n## Footnote\n\nThe toast burned in the toaster.",
+      "answer": "quemado\n\n## Footnote\n\nEl pan se quemó en la tostadora.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "burned",
+      "qMdClarifier": "",
+      "qMdFootnote": "The toast burned in the toaster.",
+      "aMdPrompt": "",
+      "aMdBody": "quemado",
+      "aMdClarifier": "",
+      "aMdFootnote": "El pan se quemó en la tostadora."
+    },
+    "after": {
+      "question": "# Translate:\n\nburned\n\n## Footnote\n\nThe toast is burned.",
+      "answer": "quemado\n\n## Footnote\n\nEl pan tostado está quemado.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "burned",
+      "qMdClarifier": "",
+      "qMdFootnote": "The toast is burned.",
+      "aMdPrompt": "",
+      "aMdBody": "quemado",
+      "aMdClarifier": "",
+      "aMdFootnote": "El pan tostado está quemado."
+    },
+    "reason": "Use adjective quemado."
+  }
+]

@@ -1,0 +1,422 @@
+{
+  "deck": "15260207",
+  "reviewed": 500,
+  "changes": [
+    {
+      "row": 18,
+      "before": [
+        "жопа",
+        "butt, ass",
+        "Он упал на жопу.",
+        "He fell on his butt."
+      ],
+      "after": [
+        "жопа",
+        "ass, arse (vulgar)",
+        "Он упал на жопу.",
+        "He fell on his ass."
+      ],
+      "reason": "Preserve vulgar register rather than mild butt."
+    },
+    {
+      "row": 78,
+      "before": [
+        "недра",
+        "depths, bowels",
+        "Недра богаты нефтью.",
+        "The depths are rich in oil."
+      ],
+      "after": [
+        "недра",
+        "depths, bowels (of the earth)",
+        "Недра земли богаты нефтью.",
+        "The depths of the earth are rich in oil."
+      ],
+      "reason": "Supply natural context for geological noun."
+    },
+    {
+      "row": 84,
+      "before": [
+        "прилавок",
+        "counter, showcase",
+        "Она у прилавка.",
+        "She is at the counter."
+      ],
+      "after": [
+        "прилавок",
+        "counter (in a shop)",
+        "Она у прилавка.",
+        "She is at the counter."
+      ],
+      "reason": "Showcase is normally витрина."
+    },
+    {
+      "row": 102,
+      "before": [
+        "мудрец",
+        "wise man, sage",
+        "Старый мудрец сказал.",
+        "The old sage spoke."
+      ],
+      "after": [
+        "мудрец",
+        "wise man, sage",
+        "Старый мудрец дал совет.",
+        "The old sage gave advice."
+      ],
+      "reason": "Complete transitive сказал fragment naturally."
+    },
+    {
+      "row": 115,
+      "before": [
+        "го",
+        "go, let's go",
+        "Го домой.",
+        "Let's go home."
+      ],
+      "after": [
+        "го",
+        "let’s go (internet slang); go (board game)",
+        "Го домой.",
+        "Let's go home."
+      ],
+      "reason": "Distinguish slang invitation and board game."
+    },
+    {
+      "row": 121,
+      "before": [
+        "шедевр",
+        "masterpiece, work of art",
+        "Это шедевр.",
+        "This is a masterpiece."
+      ],
+      "after": [
+        "шедевр",
+        "masterpiece",
+        "Это шедевр.",
+        "This is a masterpiece."
+      ],
+      "reason": "Not every work of art is a masterpiece."
+    },
+    {
+      "row": 138,
+      "before": [
+        "станок",
+        "machine, lathe",
+        "Станок работает.",
+        "The machine is working."
+      ],
+      "after": [
+        "станок",
+        "machine tool, lathe",
+        "Станок работает.",
+        "The machine tool is working."
+      ],
+      "reason": "Specify manufacturing tool rather than any machine."
+    },
+    {
+      "row": 149,
+      "before": [
+        "луг",
+        "meadow, field",
+        "Большой луг.",
+        "A big meadow."
+      ],
+      "after": [
+        "луг",
+        "meadow",
+        "Большой луг.",
+        "A big meadow."
+      ],
+      "reason": "Distinguish meadow from a generic field."
+    },
+    {
+      "row": 158,
+      "before": [
+        "бессознательный",
+        "unconscious, subconscious",
+        "Он в бессознательном состоянии.",
+        "He is unconscious."
+      ],
+      "after": [
+        "бессознательный",
+        "unconscious",
+        "Он в бессознательном состоянии.",
+        "He is unconscious."
+      ],
+      "reason": "Avoid confusing бессознательный with подсознательный."
+    },
+    {
+      "row": 175,
+      "before": [
+        "торжественно",
+        "solemnly, ceremoniously",
+        "Он торжественно сказал.",
+        "He spoke solemnly."
+      ],
+      "after": [
+        "торжественно",
+        "solemnly, ceremoniously",
+        "Он торжественно объявил об этом.",
+        "He solemnly announced this."
+      ],
+      "reason": "Complete Russian transitive clause."
+    },
+    {
+      "row": 199,
+      "before": [
+        "урод",
+        "freak, ugly person",
+        "Какой урод!",
+        "What a freak he is!"
+      ],
+      "after": [
+        "урод",
+        "freak, ugly person (insulting)",
+        "Какой урод!",
+        "What a freak he is!"
+      ],
+      "reason": "Mark insulting register."
+    },
+    {
+      "row": 217,
+      "before": [
+        "хан",
+        "khan, ruler",
+        "Великий хан.",
+        "The great khan."
+      ],
+      "after": [
+        "хан",
+        "khan (a ruler’s title)",
+        "Великий хан.",
+        "The great khan."
+      ],
+      "reason": "Generic ruler is not an independent equivalent."
+    },
+    {
+      "row": 219,
+      "before": [
+        "трибуна",
+        "rostrum, tribune",
+        "Он на трибуне.",
+        "He is on the rostrum."
+      ],
+      "after": [
+        "трибуна",
+        "rostrum, platform; stands (stadium)",
+        "Он на трибуне.",
+        "He is on the rostrum."
+      ],
+      "reason": "Avoid false friend tribune as a person."
+    },
+    {
+      "row": 227,
+      "before": [
+        "организовывать",
+        "organize, arrange",
+        "Мы организовываем вечер.",
+        "We organize an evening."
+      ],
+      "after": [
+        "организовывать",
+        "organize, arrange",
+        "Мы организовываем встречу.",
+        "We are organizing a meeting."
+      ],
+      "reason": "Replace incomplete-sounding organize an evening."
+    },
+    {
+      "row": 237,
+      "before": [
+        "проволока",
+        "wire, cable",
+        "Тонкая проволока.",
+        "A thin wire."
+      ],
+      "after": [
+        "проволока",
+        "wire",
+        "Тонкая проволока.",
+        "A thin wire."
+      ],
+      "reason": "Cable is normally кабель or трос."
+    },
+    {
+      "row": 247,
+      "before": [
+        "соображать",
+        "to reason, to figure out",
+        "Я не соображаю.",
+        "I can't figure it out."
+      ],
+      "after": [
+        "соображать",
+        "to think, to reason, to figure out",
+        "Я сейчас плохо соображаю.",
+        "I cannot think clearly right now."
+      ],
+      "reason": "Match impaired thinking sense instead of unspecified figuring out."
+    },
+    {
+      "row": 259,
+      "before": [
+        "пожаловать",
+        "welcome, to welcome",
+        "Добро пожаловать.",
+        "Welcome."
+      ],
+      "after": [
+        "пожаловать",
+        "to grant; to arrive (formal); welcome (добро пожаловать)",
+        "Добро пожаловать.",
+        "Welcome."
+      ],
+      "reason": "Welcome belongs to the full greeting, not transitive verb пожаловать."
+    },
+    {
+      "row": 271,
+      "before": [
+        "даль",
+        "distance, range",
+        "За рекой видна даль.",
+        "The distance is visible beyond the river."
+      ],
+      "after": [
+        "даль",
+        "distance (far-off space)",
+        "Он смотрел в тёмную даль.",
+        "He looked into the dark distance."
+      ],
+      "reason": "Avoid unnatural visible distance example. Use the target noun даль rather than the related adverb вдаль."
+    },
+    {
+      "row": 294,
+      "before": [
+        "немой",
+        "mute, dumb",
+        "Он немой.",
+        "He is mute."
+      ],
+      "after": [
+        "немой",
+        "mute, unable to speak",
+        "Он немой.",
+        "He is mute."
+      ],
+      "reason": "Avoid ambiguous dated dumb."
+    },
+    {
+      "row": 313,
+      "before": [
+        "огурец",
+        "cucumber, gherkin",
+        "Свежий огурец.",
+        "A fresh cucumber."
+      ],
+      "after": [
+        "огурец",
+        "cucumber",
+        "Свежий огурец.",
+        "A fresh cucumber."
+      ],
+      "reason": "Gherkin is a specific small cucumber, not the general noun."
+    },
+    {
+      "row": 333,
+      "before": [
+        "братец",
+        "little brother, bro",
+        "Где братец?",
+        "Where is my little brother?"
+      ],
+      "after": [
+        "братец",
+        "brother (affectionate or familiar form)",
+        "Где братец?",
+        "Where is my brother?"
+      ],
+      "reason": "Diminutive does not necessarily mean a younger brother."
+    },
+    {
+      "row": 379,
+      "before": [
+        "электричка",
+        "electric train",
+        "Где электричка?",
+        "Where is the electric train?"
+      ],
+      "after": [
+        "электричка",
+        "suburban electric train",
+        "Где электричка?",
+        "Where is the suburban electric train?"
+      ],
+      "reason": "Specify ordinary commuter-train sense."
+    },
+    {
+      "row": 380,
+      "before": [
+        "хм",
+        "hmm, uh",
+        "Хм, это странно.",
+        "Hmm, that is strange."
+      ],
+      "after": [
+        "хм",
+        "hmm",
+        "Хм, это странно.",
+        "Hmm, that is strange."
+      ],
+      "reason": "Uh is not an equivalent of thoughtful хм."
+    },
+    {
+      "row": 452,
+      "before": [
+        "сборная",
+        "national team",
+        "Наша сборная.",
+        "Our national team."
+      ],
+      "after": [
+        "сборная",
+        "representative team; national team (сборная страны)",
+        "Наша сборная.",
+        "Our representative team."
+      ],
+      "reason": "Not every сборная represents a nation."
+    },
+    {
+      "row": 480,
+      "before": [
+        "кавказский",
+        "Caucasian",
+        "Кавказский край.",
+        "The Caucasian region."
+      ],
+      "after": [
+        "кавказский",
+        "Caucasian (from the Caucasus)",
+        "Кавказский край.",
+        "The Caucasian region."
+      ],
+      "reason": "Distinguish geographic adjective from English racial usage."
+    },
+    {
+      "row": 497,
+      "before": [
+        "плюнуть",
+        "to spit",
+        "Не плюнь.",
+        "Do not spit."
+      ],
+      "after": [
+        "плюнуть",
+        "to spit",
+        "Он плюнул на землю.",
+        "He spat on the ground."
+      ],
+      "reason": "Use natural perfective example rather than unnatural prohibition."
+    }
+  ]
+}

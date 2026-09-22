@@ -1,0 +1,182 @@
+{
+  "deck": 15260191,
+  "reviewed": 500,
+  "changes": [
+    {
+      "row": 17,
+      "before": [
+        "захватить",
+        "to grab, to seize",
+        "Захвати ключи!",
+        "Grab the keys!"
+      ],
+      "after": [
+        "захватить",
+        "to grab, to seize; to bring along",
+        "Захвати ключи!",
+        "Bring the keys along!"
+      ],
+      "reason": "Захватить in this context means taking something along."
+    },
+    {
+      "row": 117,
+      "before": [
+        "таковой",
+        "as such",
+        "Проблемы как таковой нет.",
+        "There isn't a problem as such."
+      ],
+      "after": [
+        "таковой",
+        "such; as such (как таковой)",
+        "Проблемы как таковой нет.",
+        "There isn't a problem as such."
+      ],
+      "reason": "Separate pronoun from fixed phrase."
+    },
+    {
+      "row": 119,
+      "before": [
+        "поход",
+        "hike, outing",
+        "Пойдём в поход?",
+        "Shall we go hiking?"
+      ],
+      "after": [
+        "поход",
+        "hike, outing",
+        "Это долгий поход.",
+        "This is a long hike."
+      ],
+      "reason": "Use target noun directly."
+    },
+    {
+      "row": 142,
+      "before": [
+        "знакомство",
+        "acquaintance",
+        "Это старое знакомство.",
+        "That's an old acquaintance."
+      ],
+      "after": [
+        "знакомство",
+        "acquaintance (relationship), introduction",
+        "Наше знакомство началось в школе.",
+        "Our acquaintance began at school."
+      ],
+      "reason": "Avoid confusing an acquaintance person with the relationship."
+    },
+    {
+      "row": 151,
+      "before": [
+        "остаток",
+        "leftover, remainder",
+        "Это остаток.",
+        "That's the leftover."
+      ],
+      "after": [
+        "остаток",
+        "remainder, rest",
+        "Это остаток суммы.",
+        "This is the remainder of the sum."
+      ],
+      "reason": "Avoid unnatural singular the leftover."
+    },
+    {
+      "row": 283,
+      "before": [
+        "наркотик",
+        "drug",
+        "Это наркотик?",
+        "Is that a drug?"
+      ],
+      "after": [
+        "наркотик",
+        "narcotic, illicit drug",
+        "Это наркотик?",
+        "Is that a narcotic?"
+      ],
+      "reason": "Distinguish наркотик from medicine drug."
+    },
+    {
+      "row": 315,
+      "before": [
+        "жениться",
+        "to get married",
+        "Когда женишься?",
+        "When are you getting married?"
+      ],
+      "after": [
+        "жениться",
+        "to get married (of a man)",
+        "Когда женишься?",
+        "When are you getting married?"
+      ],
+      "reason": "Preserve gender-specific verb usage."
+    },
+    {
+      "row": 365,
+      "before": [
+        "предназначить",
+        "to destine, to assign",
+        "Это ей предназначено.",
+        "This is destined for her."
+      ],
+      "after": [
+        "предназначить",
+        "to intend for, to assign",
+        "Это предназначено для тебя.",
+        "This is intended for you."
+      ],
+      "reason": "Correct intended purpose rather than fate."
+    },
+    {
+      "row": 415,
+      "before": [
+        "борт",
+        "board, side",
+        "Все на борт!",
+        "All on board!"
+      ],
+      "after": [
+        "борт",
+        "side (of a vessel); on board (на борту/на борт)",
+        "Все на борт!",
+        "All on board!"
+      ],
+      "reason": "Board is construction-specific, not the standalone noun."
+    },
+    {
+      "row": 462,
+      "before": [
+        "замуж",
+        "married, to marry",
+        "Она хочет замуж.",
+        "She wants to get married."
+      ],
+      "after": [
+        "замуж",
+        "to get married (of a woman; выйти замуж)",
+        "Она хочет замуж.",
+        "She wants to get married."
+      ],
+      "reason": "Mark construction and gender."
+    },
+    {
+      "row": 491,
+      "before": [
+        "непосредственный",
+        "direct, immediate",
+        "Он мой непосредственный начальник.",
+        "He's my direct boss."
+      ],
+      "after": [
+        "непосредственный",
+        "direct, immediate",
+        "Он мой непосредственный начальник.",
+        "He is my immediate boss."
+      ],
+      "reason": "Use natural English collocation."
+    }
+  ]
+}

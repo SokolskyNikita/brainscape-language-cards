@@ -1,0 +1,310 @@
+{
+  "deck": "15260204",
+  "reviewed": 500,
+  "changes": [
+    {
+      "row": 18,
+      "before": [
+        "ан",
+        "but (particle)",
+        "Думал да, ан нет.",
+        "I thought yes, but no."
+      ],
+      "after": [
+        "ан",
+        "but (archaic particle)",
+        "Я думал, он дома, ан нет.",
+        "I thought he was home, but he was not."
+      ],
+      "reason": "Replace unnatural elliptical example; label archaic usage."
+    },
+    {
+      "row": 23,
+      "before": [
+        "валютный",
+        "currency",
+        "Валютный курс упал.",
+        "The currency rate fell."
+      ],
+      "after": [
+        "валютный",
+        "currency",
+        "Валютный курс упал.",
+        "The currency exchange rate fell."
+      ],
+      "reason": "Use natural English term for валютный курс."
+    },
+    {
+      "row": 27,
+      "before": [
+        "оболочка",
+        "shell",
+        "Оболочка яйца слабая.",
+        "The egg's shell is weak."
+      ],
+      "after": [
+        "оболочка",
+        "shell",
+        "Это защитная оболочка.",
+        "This is a protective shell."
+      ],
+      "reason": "Eggshell is normally скорлупа; use a natural оболочка example."
+    },
+    {
+      "row": 48,
+      "before": [
+        "конфета",
+        "candy, sweet",
+        "Дай конфету.",
+        "Give me some candy."
+      ],
+      "after": [
+        "конфета",
+        "candy, sweet",
+        "Дай конфету.",
+        "Give me a sweet."
+      ],
+      "reason": "Preserve singular count in Russian example."
+    },
+    {
+      "row": 64,
+      "before": [
+        "ползти",
+        "to crawl",
+        "Младенец учится ползти.",
+        "The infant is learning to crawl."
+      ],
+      "after": [
+        "ползти",
+        "to crawl",
+        "Младенец ползёт ко мне.",
+        "The infant is crawling toward me."
+      ],
+      "reason": "Use directional ползти naturally rather than learning the activity ползать."
+    },
+    {
+      "row": 111,
+      "before": [
+        "очистить",
+        "clean",
+        "Очисти стол.",
+        "Clean the table."
+      ],
+      "after": [
+        "очистить",
+        "to clean, to clear, to purify",
+        "Очисти стол.",
+        "Clear the table."
+      ],
+      "reason": "Match очистить стол meaning."
+    },
+    {
+      "row": 124,
+      "before": [
+        "гвардия",
+        "guard",
+        "Гвардия охраняет дворец.",
+        "The guard protects the palace."
+      ],
+      "after": [
+        "гвардия",
+        "guards (elite troops)",
+        "Гвардия охраняет дворец.",
+        "The guards protect the palace."
+      ],
+      "reason": "Preserve military collective meaning."
+    },
+    {
+      "row": 136,
+      "before": [
+        "отпечаток",
+        "fingerprint",
+        "Вот его отпечаток.",
+        "Here is his fingerprint."
+      ],
+      "after": [
+        "отпечаток",
+        "print, impression; fingerprint (отпечаток пальца)",
+        "Вот отпечаток его пальца.",
+        "Here is his fingerprint."
+      ],
+      "reason": "Fingerprint requires пальца; отпечаток alone means print/impression."
+    },
+    {
+      "row": 147,
+      "before": [
+        "накрыть",
+        "set",
+        "Накрой на стол.",
+        "Set the table."
+      ],
+      "after": [
+        "накрыть",
+        "to cover; to set (the table)",
+        "Накрой на стол.",
+        "Set the table."
+      ],
+      "reason": "Identify phrase-dependent sense."
+    },
+    {
+      "row": 227,
+      "before": [
+        "обидно",
+        "it's a shame",
+        "Обидно это слышать.",
+        "It's a shame to hear this."
+      ],
+      "after": [
+        "обидно",
+        "hurtful, upsetting; it is a shame",
+        "Это обидно слышать.",
+        "This is hurtful to hear."
+      ],
+      "reason": "Convey emotional hurt naturally."
+    },
+    {
+      "row": 228,
+      "before": [
+        "мамаша",
+        "mama",
+        "Мамаша здесь.",
+        "Mama is here."
+      ],
+      "after": [
+        "мамаша",
+        "mother (colloquial, sometimes dismissive)",
+        "Мамаша здесь.",
+        "The mother is here."
+      ],
+      "reason": "Мамаша is not the affectionate address mama."
+    },
+    {
+      "row": 230,
+      "before": [
+        "наводить",
+        "put in order",
+        "Он наводит порядок.",
+        "He is putting things in order."
+      ],
+      "after": [
+        "наводить",
+        "to direct; to put in order (наводить порядок)",
+        "Он наводит порядок.",
+        "He is putting things in order."
+      ],
+      "reason": "Mark the full construction needed for this sense."
+    },
+    {
+      "row": 316,
+      "before": [
+        "навести",
+        "aim",
+        "Наведи на цель.",
+        "Aim at the target."
+      ],
+      "after": [
+        "навести",
+        "aim",
+        "Наведи оружие на цель.",
+        "Aim the weapon at the target."
+      ],
+      "reason": "Supply the object required by навести."
+    },
+    {
+      "row": 353,
+      "before": [
+        "зажечь",
+        "light",
+        "Надо зажечь свечу.",
+        "Light the candle."
+      ],
+      "after": [
+        "зажечь",
+        "light",
+        "Надо зажечь свечу.",
+        "We need to light the candle."
+      ],
+      "reason": "Restore necessity expressed by надо."
+    },
+    {
+      "row": 391,
+      "before": [
+        "северо",
+        "north",
+        "Поверни на северо-запад.",
+        "Turn north-west."
+      ],
+      "after": [
+        "северо",
+        "north- (in compounds)",
+        "Поверни на северо-запад.",
+        "Turn north-west."
+      ],
+      "reason": "Label compound element rather than independent noun."
+    },
+    {
+      "row": 418,
+      "before": [
+        "неправда",
+        "lie",
+        "Это неправда.",
+        "This is a lie."
+      ],
+      "after": [
+        "неправда",
+        "untruth, something untrue",
+        "Это неправда.",
+        "This is untrue."
+      ],
+      "reason": "Do not imply intentional lying in every неправда."
+    },
+    {
+      "row": 480,
+      "before": [
+        "дружно",
+        "together",
+        "Они дружно работают.",
+        "They work together."
+      ],
+      "after": [
+        "дружно",
+        "together, in harmony",
+        "Они живут дружно.",
+        "They live together in harmony."
+      ],
+      "reason": "Preserve harmonious cooperative sense, not mere togetherness."
+    },
+    {
+      "row": 486,
+      "before": [
+        "погибший",
+        "deceased",
+        "Погибший был молод.",
+        "The deceased was young."
+      ],
+      "after": [
+        "погибший",
+        "dead, deceased (from an accident, violence, etc.)",
+        "Погибший был молод.",
+        "The deceased was young."
+      ],
+      "reason": "Clarify погибший rather than any deceased person."
+    },
+    {
+      "row": 499,
+      "before": [
+        "задержаться",
+        "stay",
+        "Я решил задержаться.",
+        "I decided to stay."
+      ],
+      "after": [
+        "задержаться",
+        "to stay longer, to be delayed",
+        "Я решил задержаться.",
+        "I decided to stay longer."
+      ],
+      "reason": "Preserve задержаться sense of staying beyond expected time."
+    }
+  ]
+}

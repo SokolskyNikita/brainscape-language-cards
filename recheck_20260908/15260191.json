@@ -1,0 +1,134 @@
+{
+  "deck": "15260191",
+  "reviewed": 500,
+  "changes": [
+    {
+      "row": 99,
+      "before": [
+        "удивление",
+        "surprise, astonishment",
+        "Её подарок был приятным удивлением.",
+        "Her gift was a pleasant surprise."
+      ],
+      "after": [
+        "удивление",
+        "surprise, astonishment",
+        "Он посмотрел на меня с удивлением.",
+        "He looked at me in surprise."
+      ],
+      "reason": "Удивление is the feeling of surprise, not a surprise gift."
+    },
+    {
+      "row": 121,
+      "before": [
+        "владеть",
+        "to own, to command",
+        "Он владеет языком.",
+        "He has a command of the language."
+      ],
+      "after": [
+        "владеть",
+        "to own, to command",
+        "Он владеет этим домом.",
+        "He owns this house."
+      ],
+      "reason": "Demonstrate the taught verb rather than substituting the noun command."
+    },
+    {
+      "row": 180,
+      "before": [
+        "ремонт",
+        "renovation, repairs",
+        "Идёт ремонт.",
+        "The repairs continue."
+      ],
+      "after": [
+        "ремонт",
+        "renovation, repairs",
+        "Идёт ремонт.",
+        "The repairs are under way."
+      ],
+      "reason": "Идёт ремонт describes ongoing repairs without asserting continuation."
+    },
+    {
+      "row": 229,
+      "before": [
+        "сдать",
+        "to pass, to hand in",
+        "Я сдал это.",
+        "I passed it."
+      ],
+      "after": [
+        "сдать",
+        "to pass, to hand in",
+        "Я сдал документы.",
+        "I handed in the documents."
+      ],
+      "reason": "Clarify the handed-in sense with an explicit object."
+    },
+    {
+      "row": 369,
+      "before": [
+        "тратить",
+        "to spend",
+        "Не трать время.",
+        "Don't spend time."
+      ],
+      "after": [
+        "тратить",
+        "to spend",
+        "Не трать время на это.",
+        "Don't spend time on this."
+      ],
+      "reason": "Complete the English verb phrase naturally."
+    },
+    {
+      "row": 433,
+      "before": [
+        "выпускать",
+        "to release, to issue",
+        "Они выпускают новый фильм.",
+        "They release a new movie."
+      ],
+      "after": [
+        "выпускать",
+        "to release, to issue",
+        "Они выпускают новый фильм.",
+        "They are releasing a new movie."
+      ],
+      "reason": "Match the current release described by the Russian example."
+    },
+    {
+      "row": 452,
+      "before": [
+        "карточка",
+        "card",
+        "У меня нет карточки.",
+        "I don't have my card."
+      ],
+      "after": [
+        "карточка",
+        "card",
+        "У меня нет карточки.",
+        "I don't have a card."
+      ],
+      "reason": "Do not add ownership absent from the Russian."
+    },
+    {
+      "row": 480,
+      "before": [
+        "нанести",
+        "to apply, to inflict",
+        "Нанеси удар.",
+        "Inflict a blow."
+      ],
+      "after": [
+        "нанести",
+        "to apply, to inflict, to deal",
+        "Он нанёс удар.",
+        "He dealt a blow."
+      ],
+      "reason": "Replace unnatural inflict a blow with deal a blow."
+    }
+  ]
+}

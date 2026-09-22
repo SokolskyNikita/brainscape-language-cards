@@ -1,0 +1,15 @@
+# Independent complete semantic review
+
+Read repair_20260907/INSTRUCTIONS.md first. You are the stronger second-pass reviewer of the assigned staged decks. First pass reviewed all cards but missed some clear errors; do not assume unchanged cards are correct. Read ALL 500 cards of each assigned deck from repair_20260907/staged/PACK/deck_ID.csv in batches of 100. Use brainscape.cards_from_path (add project root to sys.path) and print compact row/headwords/examples. The helper.dump function reads ORIGINALS, so do NOT use it for this pass.
+
+Correct genuine mistranslations and wrong extra senses, sentence grammar, unnatural calques, mismatched meanings, target omissions, and unsupported vocabulary. Be conservative about legitimate alternate senses. Some earlier audit suggestions were incorrect: казать really means show (dialect/archaic); suite->свита valid; колеблись is a valid imperative but колеблись спросить is unnatural. Do not 'repair' those facts wrongly. Avoid overfitting literal word matching when ordinary inflection/grammar preserves the lexical item. Do not convert an adjective into a noun to force target detection. Preserve Russian question lemmas in RU->EN. Preserve valid English headwords in EN->RU, but fix demonstrably incorrect English.
+
+Examples of misses seen in current first-pass staging: EN ford→форд with river crossing (correct брод), lyrics→лирика for song lyrics (correct текст песни/слова песни), 'Мы поднимаем тост' (say произносим тост), 'Он ведущий человек' (choose a natural leading + noun), 'The house will get to my son' (unnatural), 'He prefers verbal speech' (tautological). These indicate why full review is necessary.
+
+Supporting vocabulary must be PRIOR-deck headwords only (except first deck uses its own whole deck); common function words are exempt. Current target itself allowed. Use repair_20260907/vocab/PACK/ID.txt as initial inventory; final qa.py will check against updated prior heads. Prefer natural concrete 3–8-word examples; avoid vacuous 'X is here' blanket replacements. Preserve good cards.
+
+DO NOT edit staged files, originals, or other reviewers' scripts. Write your proposed corrections to repair_20260907/second_pass_NAME.json as a JSON LIST of objects:
+{"pack":"english_russian","deck":"15260269","row":401,"before":["q","a","qe","ae"],"after":["q","a","qe","ae"],"reason":"short concrete reason"}
+Use actual latest staged values for before. 'after' is a complete four-string tuple in QUESTION/ANSWER orientation. No ellipses. Include only needed corrections. Record every assigned deck and 500 reviewed in a separate second_pass_NAME_reviewed.json, with count of proposed changes. Verify all row references match latest staging. Owners' first passes are now done; quality_ru / quality_en may independently report overlapping suggestions, main will reconcile.
+
+Return findings paths and counts. Do not spawn sub-agents. No Brainscape calls. The main agent will integrate proposals and validate them. If unsure, explain it in a separate notes file rather than introducing a speculative change.

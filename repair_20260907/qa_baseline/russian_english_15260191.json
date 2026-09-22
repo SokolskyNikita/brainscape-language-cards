@@ -1,0 +1,245 @@
+{
+  "pack": "russian_english",
+  "deck": "15260191",
+  "band": "2000->2500",
+  "sha256": "7893e0ac26efae750c3ded1f9ebfeff196b6aed1ef121c91993196bbbdb5ea26",
+  "errors": [],
+  "candidates": [
+    {
+      "row": 32,
+      "q": "строй",
+      "a": "formation, order",
+      "qe": "Все в строю?",
+      "ae": "Everyone in formation?",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "everyone",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 86,
+      "q": "вслед",
+      "a": "after, following",
+      "qe": "Она побежала вслед за своим братом.",
+      "ae": "She ran after her brother.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "побежала",
+            "band": "2000->2500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 88,
+      "q": "определяться",
+      "a": "to make up one's mind, to be determined",
+      "qe": "Он ещё определяется.",
+      "ae": "He's still making up his mind.",
+      "issues": {
+        "en_target": "to make up one's mind, to be determined | He's still making up his mind."
+      }
+    },
+    {
+      "row": 155,
+      "q": "программный",
+      "a": "software, program",
+      "qe": "Программный код.",
+      "ae": "The program code.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "код",
+            "band": "2000->2500"
+          }
+        ],
+        "en_vocab": [
+          {
+            "word": "code",
+            "band": "2000->2500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 180,
+      "q": "ремонт",
+      "a": "renovation, repairs",
+      "qe": "У нас ремонт.",
+      "ae": "We're renovating.",
+      "issues": {
+        "en_target": "renovation, repairs | We're renovating.",
+        "en_vocab": [
+          {
+            "word": "renovating",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 229,
+      "q": "сдать",
+      "a": "to pass, to hand in",
+      "qe": "Я сдал экзамен.",
+      "ae": "I passed the exam.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "экзамен",
+            "band": "2000->2500"
+          }
+        ],
+        "en_vocab": [
+          {
+            "word": "exam",
+            "band": "2000->2500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 233,
+      "q": "удача",
+      "a": "luck, fortune",
+      "qe": "Удачи на экзамене!",
+      "ae": "Good luck on your exam!",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "экзамене",
+            "band": "2000->2500"
+          }
+        ],
+        "en_vocab": [
+          {
+            "word": "exam",
+            "band": "2000->2500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 301,
+      "q": "контролировать",
+      "a": "to control",
+      "qe": "Не могу себя контролировать.",
+      "ae": "I can't control myself.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "myself",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 406,
+      "q": "решиться",
+      "a": "to make up one's mind, to dare",
+      "qe": "Она наконец решилась.",
+      "ae": "She finally made up her mind.",
+      "issues": {
+        "en_target": "to make up one's mind, to dare | She finally made up her mind."
+      }
+    },
+    {
+      "row": 414,
+      "q": "судно",
+      "a": "ship, vessel",
+      "qe": "Судно уже в порту.",
+      "ae": "The ship's already in port.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "порту",
+            "band": "2000->2500"
+          }
+        ],
+        "en_vocab": [
+          {
+            "word": "port",
+            "band": "2000->2500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 445,
+      "q": "особенный",
+      "a": "special, particular",
+      "qe": "У неё есть особенный талант.",
+      "ae": "She has a special talent.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "талант",
+            "band": "2000->2500"
+          }
+        ],
+        "en_vocab": [
+          {
+            "word": "talent",
+            "band": "2000->2500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 451,
+      "q": "пустить",
+      "a": "to let, to release",
+      "qe": "Пусти меня!",
+      "ae": "Let me in!",
+      "issues": {
+        "en_target": "to let, to release | Let me in!"
+      }
+    },
+    {
+      "row": 453,
+      "q": "подавать",
+      "a": "to pass, to serve",
+      "qe": "Подай чай.",
+      "ae": "Pass the tea.",
+      "issues": {
+        "ru_target": "подавать | Подай чай."
+      }
+    },
+    {
+      "row": 460,
+      "q": "исчезать",
+      "a": "to disappear, to vanish",
+      "qe": "Деньги исчезают слишком быстро.",
+      "ae": "The money disappears too fast.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "деньги",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 480,
+      "q": "нанести",
+      "a": "to apply, to inflict",
+      "qe": "Нанеси краску.",
+      "ae": "Apply the paint.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "краску",
+            "band": "2000->2500"
+          }
+        ]
+      }
+    }
+  ]
+}

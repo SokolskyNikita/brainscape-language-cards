@@ -1,0 +1,213 @@
+{
+  "model": "sonic-3.6",
+  "voice": "Daniel",
+  "voiceId": "47c38ca4-5f35-497b-b1a3-415245fb35e1",
+  "locale": "en-US",
+  "pauseMs": 500,
+  "generation_config": {
+    "emotion": "neutral",
+    "speed": 0.9
+  },
+  "items": [
+    {
+      "number": 1,
+      "sourceCardId": 489003351,
+      "question": "# Translate:\n\nи\n\n## Footnote\n\nКнига и стол.",
+      "answer": "and\n\n## Footnote\n\nThe book and the table.",
+      "word": "and",
+      "sentence": "The book and the table.",
+      "transcript": "and. <break time=\"500ms\"/>The book and the table.",
+      "file": "01.mp3"
+    },
+    {
+      "number": 2,
+      "sourceCardId": 489003353,
+      "question": "# Translate:\n\nне\n\n## Footnote\n\nЭто не книга.",
+      "answer": "not\n\n## Footnote\n\nThis is not a book.",
+      "word": "not",
+      "sentence": "This is not a book.",
+      "transcript": "not. <break time=\"500ms\"/>This is not a book.",
+      "file": "02.mp3"
+    },
+    {
+      "number": 3,
+      "sourceCardId": 489003355,
+      "question": "# Translate:\n\nя\n\n## Footnote\n\nЯ дома.",
+      "answer": "I\n\n## Footnote\n\nI'm at home.",
+      "word": "I",
+      "sentence": "I'm at home.",
+      "transcript": "I. <break time=\"500ms\"/>I'm at home.",
+      "file": "03.mp3"
+    },
+    {
+      "number": 4,
+      "sourceCardId": 489003358,
+      "question": "# Translate:\n\nс\n\n## Footnote\n\nЯ с ним.",
+      "answer": "with\n\n## Footnote\n\nI'm with him.",
+      "word": "with",
+      "sentence": "I'm with him.",
+      "transcript": "with. <break time=\"500ms\"/>I'm with him.",
+      "file": "04.mp3"
+    },
+    {
+      "number": 5,
+      "sourceCardId": 489003359,
+      "question": "# Translate:\n\nон\n\n## Footnote\n\nОн дома.",
+      "answer": "he\n\n## Footnote\n\nHe's at home.",
+      "word": "he",
+      "sentence": "He's at home.",
+      "transcript": "he. <break time=\"500ms\"/>He's at home.",
+      "file": "05.mp3"
+    },
+    {
+      "number": 6,
+      "sourceCardId": 489003367,
+      "question": "# Translate:\n\nно\n\n## Footnote\n\nЯ дома, но он — нет.",
+      "answer": "but\n\n## Footnote\n\nI'm home, but he isn't.",
+      "word": "but",
+      "sentence": "I'm home, but he isn't.",
+      "transcript": "but. <break time=\"500ms\"/>I'm home, but he isn't.",
+      "file": "06.mp3"
+    },
+    {
+      "number": 7,
+      "sourceCardId": 489003368,
+      "question": "# Translate:\n\nони\n\n## Footnote\n\nЭто они.",
+      "answer": "they\n\n## Footnote\n\nThat's them.",
+      "word": "they",
+      "sentence": "That's them.",
+      "transcript": "they. <break time=\"500ms\"/>That's them.",
+      "file": "07.mp3"
+    },
+    {
+      "number": 8,
+      "sourceCardId": 489003369,
+      "question": "# Translate:\n\nмы\n\n## Footnote\n\nЭто мы.",
+      "answer": "we\n\n## Footnote\n\nThat's us.",
+      "word": "we",
+      "sentence": "That's us.",
+      "transcript": "we. <break time=\"500ms\"/>That's us.",
+      "file": "08.mp3"
+    },
+    {
+      "number": 9,
+      "sourceCardId": 489003370,
+      "question": "# Translate:\n\nона\n\n## Footnote\n\nЭто она.",
+      "answer": "she\n\n## Footnote\n\nThat's her.",
+      "word": "she",
+      "sentence": "That's her.",
+      "transcript": "she. <break time=\"500ms\"/>That's her.",
+      "file": "09.mp3"
+    },
+    {
+      "number": 10,
+      "sourceCardId": 489003386,
+      "question": "# Translate:\n\nчеловек\n\n## Footnote\n\nЧто за человек?",
+      "answer": "person\n\n## Footnote\n\nWhat kind of person is that?",
+      "word": "person",
+      "sentence": "What kind of person is that?",
+      "transcript": "person. <break time=\"500ms\"/>What kind of person is that?",
+      "file": "10.mp3"
+    },
+    {
+      "number": 11,
+      "sourceCardId": 489003399,
+      "question": "# Translate:\n\nсказать\n\n## Footnote\n\nЧто мне сказать?",
+      "answer": "to say\n\n## Footnote\n\nWhat should I say?",
+      "word": "to say",
+      "sentence": "What should I say?",
+      "transcript": "to say. <break time=\"500ms\"/>What should I say?",
+      "file": "11.mp3"
+    },
+    {
+      "number": 12,
+      "sourceCardId": 489003406,
+      "question": "# Translate:\n\nзнать\n\n## Footnote\n\nЯ его знаю.",
+      "answer": "to know\n\n## Footnote\n\nI know him.",
+      "word": "to know",
+      "sentence": "I know him.",
+      "transcript": "to know. <break time=\"500ms\"/>I know him.",
+      "file": "12.mp3"
+    },
+    {
+      "number": 13,
+      "sourceCardId": 489003413,
+      "question": "# Translate:\n\nстать\n\n## Footnote\n\nКем он стал?",
+      "answer": "to become\n\n## Footnote\n\nWhat did he become?",
+      "word": "to become",
+      "sentence": "What did he become?",
+      "transcript": "to become. <break time=\"500ms\"/>What did he become?",
+      "file": "13.mp3"
+    },
+    {
+      "number": 14,
+      "sourceCardId": 489003415,
+      "question": "# Translate:\n\nпервый\n\n## Footnote\n\nЯ первый.",
+      "answer": "first\n\n## Footnote\n\nI'm first.",
+      "word": "first",
+      "sentence": "I'm first.",
+      "transcript": "first. <break time=\"500ms\"/>I'm first.",
+      "file": "14.mp3"
+    },
+    {
+      "number": 15,
+      "sourceCardId": 489003416,
+      "question": "# Translate:\n\nдаже\n\n## Footnote\n\nЯ даже не знаю.",
+      "answer": "even\n\n## Footnote\n\nI don't even know.",
+      "word": "even",
+      "sentence": "I don't even know.",
+      "transcript": "even. <break time=\"500ms\"/>I don't even know.",
+      "file": "15.mp3"
+    },
+    {
+      "number": 16,
+      "sourceCardId": 489003426,
+      "question": "# Translate:\n\nли\n\n## Footnote\n\nНе знаю, дома ли он.",
+      "answer": "whether\n\n## Footnote\n\nI don't know whether he's home.",
+      "word": "whether",
+      "sentence": "I don't know whether he's home.",
+      "transcript": "whether. <break time=\"500ms\"/>I don't know whether he's home.",
+      "file": "16.mp3"
+    },
+    {
+      "number": 17,
+      "sourceCardId": 489003431,
+      "question": "# Translate:\n\nиметь\n\n## Footnote\n\nЯ имею право знать.",
+      "answer": "to have\n\n## Footnote\n\nI have the right to know.",
+      "word": "to have",
+      "sentence": "I have the right to know.",
+      "transcript": "to have. <break time=\"500ms\"/>I have the right to know.",
+      "file": "17.mp3"
+    },
+    {
+      "number": 18,
+      "sourceCardId": 489003434,
+      "question": "# Translate:\n\nвопрос\n\n## Footnote\n\nУ меня вопрос.",
+      "answer": "question\n\n## Footnote\n\nI've got a question.",
+      "word": "question",
+      "sentence": "I've got a question.",
+      "transcript": "question. <break time=\"500ms\"/>I've got a question.",
+      "file": "18.mp3"
+    },
+    {
+      "number": 19,
+      "sourceCardId": 489003440,
+      "question": "# Translate:\n\nместо\n\n## Footnote\n\nЭто моё место.",
+      "answer": "place\n\n## Footnote\n\nThat's my place.",
+      "word": "place",
+      "sentence": "That's my place.",
+      "transcript": "place. <break time=\"500ms\"/>That's my place.",
+      "file": "19.mp3"
+    },
+    {
+      "number": 20,
+      "sourceCardId": 489003445,
+      "question": "# Translate:\n\nдруг\n\n## Footnote\n\nЭто мой друг.",
+      "answer": "friend\n\n## Footnote\n\nThat's my friend.",
+      "word": "friend",
+      "sentence": "That's my friend.",
+      "transcript": "friend. <break time=\"500ms\"/>That's my friend.",
+      "file": "20.mp3"
+    }
+  ]
+}

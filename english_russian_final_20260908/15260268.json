@@ -1,0 +1,651 @@
+{
+  "deck": "15260268",
+  "reviewed": 500,
+  "changes": [
+    {
+      "deck": "15260268",
+      "row": 1,
+      "card_number": 4501,
+      "before": [
+        "anthem",
+        "гимн",
+        "They sang the national anthem proudly.",
+        "Они гордо пели гимн."
+      ],
+      "after": [
+        "anthem",
+        "гимн",
+        "They sang the national anthem proudly.",
+        "Они гордо пели национальный гимн."
+      ],
+      "fields": [
+        "Russian example"
+      ],
+      "reason": "Preserve national modifier."
+    },
+    {
+      "deck": "15260268",
+      "row": 4,
+      "card_number": 4504,
+      "before": [
+        "addiction",
+        "пристрастие",
+        "His addiction to coffee is strong.",
+        "Его пристрастие к кофе сильное."
+      ],
+      "after": [
+        "addiction",
+        "зависимость; пристрастие",
+        "His addiction to coffee is strong.",
+        "Его пристрастие к кофе сильное."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Include addiction as dependence."
+    },
+    {
+      "deck": "15260268",
+      "row": 16,
+      "card_number": 4516,
+      "before": [
+        "small town",
+        "местечко",
+        "She misses her small town.",
+        "Ей не хватает её местечка."
+      ],
+      "after": [
+        "small town",
+        "маленький город, городок; местечко",
+        "She misses her small town.",
+        "Ей не хватает её маленького города."
+      ],
+      "fields": [
+        "Russian translation",
+        "Russian example"
+      ],
+      "reason": "Use natural town expression."
+    },
+    {
+      "deck": "15260268",
+      "row": 34,
+      "card_number": 4534,
+      "before": [
+        "subordination",
+        "подчинение",
+        "Subordination ensures organizational efficiency.",
+        "Подчинение обеспечивает организационную эффективность."
+      ],
+      "after": [
+        "subordination",
+        "подчинение",
+        "Subordination is important in the army.",
+        "Подчинение важно в армии."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Simplify abstract example and avoid unqualified efficiency claim."
+    },
+    {
+      "deck": "15260268",
+      "row": 47,
+      "card_number": 4547,
+      "before": [
+        "tactical",
+        "тактический",
+        "He made a tactical plan.",
+        "Он сделал тактический план."
+      ],
+      "after": [
+        "tactical",
+        "тактический",
+        "He made a tactical plan.",
+        "Он составил тактический план."
+      ],
+      "fields": [
+        "Russian example"
+      ],
+      "reason": "Natural plan-making collocation."
+    },
+    {
+      "deck": "15260268",
+      "row": 58,
+      "card_number": 4558,
+      "before": [
+        "slavery",
+        "рабство",
+        "Slavery ended long ago.",
+        "Рабство закончилось давно."
+      ],
+      "after": [
+        "slavery",
+        "рабство",
+        "This book is about slavery.",
+        "Эта книга о рабстве."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Avoid false blanket claim that slavery no longer exists."
+    },
+    {
+      "deck": "15260268",
+      "row": 68,
+      "card_number": 4568,
+      "before": [
+        "indirect",
+        "косвенный",
+        "His answer was indirect.",
+        "Его ответ был косвенным."
+      ],
+      "after": [
+        "indirect",
+        "косвенный",
+        "This is indirect control.",
+        "Это косвенный контроль."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Use natural косвенный collocation. Use earlier vocabulary."
+    },
+    {
+      "deck": "15260268",
+      "row": 70,
+      "card_number": 4570,
+      "before": [
+        "organic",
+        "органический",
+        "I prefer organic food.",
+        "Я предпочитаю органическую еду."
+      ],
+      "after": [
+        "organic",
+        "органический",
+        "I prefer organic food.",
+        "Я предпочитаю органические продукты."
+      ],
+      "fields": [
+        "Russian example"
+      ],
+      "reason": "Natural Russian organic-food phrase."
+    },
+    {
+      "deck": "15260268",
+      "row": 106,
+      "card_number": 4606,
+      "before": [
+        "privilege",
+        "привилегия",
+        "Education is a significant privilege.",
+        "Образование — это значительная привилегия."
+      ],
+      "after": [
+        "privilege",
+        "привилегия",
+        "It was a great privilege.",
+        "Это была большая привилегия."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Natural context without treating education as privilege alone."
+    },
+    {
+      "deck": "15260268",
+      "row": 107,
+      "card_number": 4607,
+      "before": [
+        "stock",
+        "фондовый",
+        "This is a stock market.",
+        "Это фондовый рынок."
+      ],
+      "after": [
+        "stock",
+        "акции; запас; фондовый (прилагательное)",
+        "This is a stock market.",
+        "Это фондовый рынок."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Include noun senses rather than only stock-market adjective."
+    },
+    {
+      "deck": "15260268",
+      "row": 125,
+      "card_number": 4625,
+      "before": [
+        "concrete",
+        "бетонный",
+        "This is a concrete wall.",
+        "Это бетонная стена."
+      ],
+      "after": [
+        "concrete",
+        "бетон; бетонный (прилагательное); конкретный (не абстрактный)",
+        "This is a concrete wall.",
+        "Это бетонная стена."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Include material and abstract-opposite senses."
+    },
+    {
+      "deck": "15260268",
+      "row": 162,
+      "card_number": 4662,
+      "before": [
+        "superficial",
+        "поверхностный",
+        "His knowledge is superficial.",
+        "Его знание поверхностное."
+      ],
+      "after": [
+        "superficial",
+        "поверхностный",
+        "His knowledge is superficial.",
+        "Его знания поверхностны."
+      ],
+      "fields": [
+        "Russian example"
+      ],
+      "reason": "Natural plural for general knowledge."
+    },
+    {
+      "deck": "15260268",
+      "row": 168,
+      "card_number": 4668,
+      "before": [
+        "alone",
+        "наедине",
+        "She wanted to be alone with him.",
+        "Она хотела быть наедине с ним."
+      ],
+      "after": [
+        "alone",
+        "один, в одиночестве; наедине (с кем-либо)",
+        "She wanted to be alone with him.",
+        "Она хотела быть наедине с ним."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Clarify alone-with construction."
+    },
+    {
+      "deck": "15260268",
+      "row": 191,
+      "card_number": 4691,
+      "before": [
+        "young lady",
+        "барышня",
+        "The young lady is in the room.",
+        "Барышня в комнате."
+      ],
+      "after": [
+        "young lady",
+        "молодая женщина; барышня (устаревающее или шутливое)",
+        "The young lady is in the room.",
+        "Барышня в комнате."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Mark register."
+    },
+    {
+      "deck": "15260268",
+      "row": 193,
+      "card_number": 4693,
+      "before": [
+        "nastiness",
+        "гадость",
+        "I will not eat this nastiness.",
+        "Я не буду есть такую гадость."
+      ],
+      "after": [
+        "nastiness",
+        "гадость",
+        "His words were full of nastiness.",
+        "Его слова были полны гадости."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Nastiness is normally a quality rather than a countable disgusting food."
+    },
+    {
+      "deck": "15260268",
+      "row": 196,
+      "card_number": 4696,
+      "before": [
+        "eat",
+        "жрать",
+        "Dogs like to eat meat.",
+        "Собаки любят жрать мясо."
+      ],
+      "after": [
+        "eat",
+        "есть; жрать (грубое)",
+        "Dogs like to eat meat.",
+        "Собаки любят жрать мясо."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Mark vulgar equivalent."
+    },
+    {
+      "deck": "15260268",
+      "row": 242,
+      "card_number": 4742,
+      "before": [
+        "to reduce",
+        "сократить",
+        "We will reduce the list.",
+        "Мы сократим список."
+      ],
+      "after": [
+        "to reduce",
+        "сократить",
+        "We will reduce costs.",
+        "Мы сократим расходы."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Clarify shortening a list rather than reduce the list. Use earlier vocabulary."
+    },
+    {
+      "deck": "15260268",
+      "row": 246,
+      "card_number": 4746,
+      "before": [
+        "extremity",
+        "крайность",
+        "That is the other extremity.",
+        "Это другая крайность."
+      ],
+      "after": [
+        "extremity",
+        "крайняя точка, оконечность; крайность",
+        "He stood at the extremity of the bridge.",
+        "Он стоял в крайней точке моста."
+      ],
+      "fields": [
+        "Russian translation",
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Demonstrate endpoint sense rather than confuse extremity with the other extreme."
+    },
+    {
+      "deck": "15260268",
+      "row": 267,
+      "card_number": 4767,
+      "before": [
+        "bronze",
+        "бронзовый",
+        "She has a bronze medal.",
+        "У неё есть бронзовая медаль."
+      ],
+      "after": [
+        "bronze",
+        "бронза; бронзовый (прилагательное)",
+        "She has a bronze medal.",
+        "У неё есть бронзовая медаль."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Include material noun."
+    },
+    {
+      "deck": "15260268",
+      "row": 275,
+      "card_number": 4775,
+      "before": [
+        "to fit in",
+        "укладываться",
+        "The work must fit in an hour.",
+        "Работа должна укладываться в час."
+      ],
+      "after": [
+        "to fit in",
+        "укладываться",
+        "All these things fit in one bag.",
+        "Все эти вещи укладываются в одну сумку."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Use complete fit-in construction. Use natural matching container-capacity construction."
+    },
+    {
+      "deck": "15260268",
+      "row": 295,
+      "card_number": 4795,
+      "before": [
+        "flax",
+        "лён",
+        "Flax is in the field.",
+        "Лён лежит в поле."
+      ],
+      "after": [
+        "flax",
+        "лён",
+        "Flax grows in the field.",
+        "Лён растёт в поле."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Avoid adding lying to neutral location."
+    },
+    {
+      "deck": "15260268",
+      "row": 303,
+      "card_number": 4803,
+      "before": [
+        "silhouette",
+        "силуэт",
+        "A silhouette stands in the light.",
+        "Силуэт стоит в свете."
+      ],
+      "after": [
+        "silhouette",
+        "силуэт",
+        "A silhouette is visible in the light.",
+        "На свету виден силуэт."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Natural silhouette description."
+    },
+    {
+      "deck": "15260268",
+      "row": 343,
+      "card_number": 4843,
+      "before": [
+        "ordinary person",
+        "обыватель",
+        "An ordinary person is here.",
+        "Обыватель здесь."
+      ],
+      "after": [
+        "ordinary person",
+        "обычный человек; обыватель (часто неодобрительное)",
+        "An ordinary person is here.",
+        "Обыватель здесь."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Ordinary person is neutral, обыватель often judgmental."
+    },
+    {
+      "deck": "15260268",
+      "row": 349,
+      "card_number": 4849,
+      "before": [
+        "Sverdlovsk",
+        "Свердловск",
+        "Sverdlovsk is a large city.",
+        "Свердловск - большой город."
+      ],
+      "after": [
+        "Sverdlovsk",
+        "Свердловск (историческое название Екатеринбурга)",
+        "My grandfather lived in Sverdlovsk.",
+        "Мой дед жил в Свердловске."
+      ],
+      "fields": [
+        "Russian translation",
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Use historical context for former city name."
+    },
+    {
+      "deck": "15260268",
+      "row": 362,
+      "card_number": 4862,
+      "before": [
+        "proclaim",
+        "провозгласить",
+        "They will proclaim their love.",
+        "Они провозгласят свою любовь."
+      ],
+      "after": [
+        "proclaim",
+        "провозгласить",
+        "They will proclaim victory.",
+        "Они провозгласят победу."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Natural proclaim collocation."
+    },
+    {
+      "deck": "15260268",
+      "row": 368,
+      "card_number": 4868,
+      "before": [
+        "mineral",
+        "минеральный",
+        "I bought mineral water.",
+        "Я купил минеральную воду."
+      ],
+      "after": [
+        "mineral",
+        "минерал; минеральный (прилагательное)",
+        "I bought mineral water.",
+        "Я купил минеральную воду."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Include noun meaning."
+    },
+    {
+      "deck": "15260268",
+      "row": 373,
+      "card_number": 4873,
+      "before": [
+        "Easter",
+        "пасха",
+        "Easter is in spring.",
+        "Пасха весной."
+      ],
+      "after": [
+        "Easter",
+        "Пасха",
+        "Easter is in spring.",
+        "Пасха весной."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Capitalize holiday."
+    },
+    {
+      "deck": "15260268",
+      "row": 396,
+      "card_number": 4896,
+      "before": [
+        "limitation period",
+        "давность",
+        "The limitation period is over.",
+        "Срок давности прошёл."
+      ],
+      "after": [
+        "limitation period",
+        "срок давности",
+        "The limitation period is over.",
+        "Срок давности прошёл."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Include complete legal term."
+    },
+    {
+      "deck": "15260268",
+      "row": 427,
+      "card_number": 4927,
+      "before": [
+        "ask oneself",
+        "задаваться",
+        "I often ask myself why.",
+        "Я часто задаюсь вопросом, почему."
+      ],
+      "after": [
+        "ask oneself",
+        "задаваться вопросом",
+        "I often ask myself why.",
+        "Я часто задаюсь вопросом, почему."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Include required question noun."
+    },
+    {
+      "deck": "15260268",
+      "row": 439,
+      "card_number": 4939,
+      "before": [
+        "to set up",
+        "подставить",
+        "He will set up his rival.",
+        "Он подставит своего соперника."
+      ],
+      "after": [
+        "to set up",
+        "подставить (кого-либо, обвинить обманом); установить, организовать",
+        "He will set up his rival.",
+        "Он подставит своего соперника."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Identify framing sense of set up."
+    }
+  ]
+}

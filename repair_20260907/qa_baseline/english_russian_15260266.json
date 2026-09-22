@@ -1,0 +1,528 @@
+{
+  "pack": "english_russian",
+  "deck": "15260266",
+  "band": "4000->4500",
+  "sha256": "72d403ce159305a3233fc42c406a701101e4e741d2dbd6fe19da9d800a261473",
+  "errors": [],
+  "candidates": [
+    {
+      "row": 93,
+      "q": "shaft",
+      "a": "вал",
+      "qe": "The machine needs a new shaft.",
+      "ae": "Машине нужен новый вал.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "machine",
+            "band": "4000->4500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 96,
+      "q": "to separate",
+      "a": "отделять",
+      "qe": "Please separate the paper.",
+      "ae": "Пожалуйста, отделите бумагу.",
+      "issues": {
+        "ru_target": "отделять | Пожалуйста, отделите бумагу.",
+        "ru_vocab": [
+          {
+            "word": "отделите",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 104,
+      "q": "all-Russian",
+      "a": "всероссийский",
+      "qe": "The all-Russian competition starts tomorrow.",
+      "ae": "Всероссийский конкурс начинается завтра.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "начинается",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 108,
+      "q": "wait a bit",
+      "a": "погодить",
+      "qe": "Just wait a bit, please.",
+      "ae": "Пожалуйста, погодите немного.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "just",
+            "band": "9000->9500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 111,
+      "q": "squadron",
+      "a": "эскадрилья",
+      "qe": "The squadron flew over the city.",
+      "ae": "Эскадрилья пролетела над городом.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "пролетела",
+            "band": "4000->4500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 117,
+      "q": "to present",
+      "a": "предъявлять",
+      "qe": "He failed to present ID.",
+      "ae": "Он не предъявил удостоверение.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "id",
+            "band": "4000->4500"
+          }
+        ],
+        "ru_target": "предъявлять | Он не предъявил удостоверение.",
+        "ru_vocab": [
+          {
+            "word": "удостоверение",
+            "band": "4000->4500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 150,
+      "q": "holidays",
+      "a": "каникулы",
+      "qe": "School holidays start next week.",
+      "ae": "Школьные каникулы начинаются на следующей неделе.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "школьные",
+            "band": "absent"
+          },
+          {
+            "word": "начинаются",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 157,
+      "q": "fly by",
+      "a": "пролететь",
+      "qe": "The years fly by quickly.",
+      "ae": "Годы быстро пролетают.",
+      "issues": {
+        "ru_target": "пролететь | Годы быстро пролетают.",
+        "ru_vocab": [
+          {
+            "word": "пролетают",
+            "band": "5000->5500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 179,
+      "q": "broken",
+      "a": "разбитый",
+      "qe": "The cup is now broken.",
+      "ae": "Чашка теперь разбита.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "теперь",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 185,
+      "q": "find oneself",
+      "a": "очутиться",
+      "qe": "I found myself in the city.",
+      "ae": "Я очутился в городе.",
+      "issues": {
+        "en_target": "find oneself | I found myself in the city."
+      }
+    },
+    {
+      "row": 200,
+      "q": "to connect",
+      "a": "соединять",
+      "qe": "I need to connect these wires.",
+      "ae": "Мне нужно соединить эти провода.",
+      "issues": {
+        "ru_target": "соединять | Мне нужно соединить эти провода."
+      }
+    },
+    {
+      "row": 202,
+      "q": "to turn on",
+      "a": "включаться",
+      "qe": "The light will turn on soon.",
+      "ae": "Свет скоро включится.",
+      "issues": {
+        "ru_target": "включаться | Свет скоро включится.",
+        "ru_vocab": [
+          {
+            "word": "включится",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 207,
+      "q": "detection",
+      "a": "выявление",
+      "qe": "Early detection saves lives.",
+      "ae": "Раннее выявление спасает жизни.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "раннее",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 209,
+      "q": "brake",
+      "a": "тормоз",
+      "qe": "The brake will stop the car.",
+      "ae": "Тормоз остановит машину.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "остановит",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 216,
+      "q": "to be resolved",
+      "a": "разрешаться",
+      "qe": "The issue will be resolved soon.",
+      "ae": "Проблема скоро разрешится.",
+      "issues": {
+        "ru_target": "разрешаться | Проблема скоро разрешится.",
+        "ru_vocab": [
+          {
+            "word": "разрешится",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 220,
+      "q": "get stuck",
+      "a": "застрять",
+      "qe": "I get stuck in the door.",
+      "ae": "Я застреваю в двери.",
+      "issues": {
+        "ru_target": "застрять | Я застреваю в двери.",
+        "ru_vocab": [
+          {
+            "word": "застреваю",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 221,
+      "q": "charitable",
+      "a": "благотворительный",
+      "qe": "She runs a charitable organization.",
+      "ae": "Она управляет благотворительной организацией.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "управляет",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 227,
+      "q": "pigeon",
+      "a": "голубь",
+      "qe": "A pigeon sat on the windowsill.",
+      "ae": "Голубь сидел на подоконнике.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "windowsill",
+            "band": "4000->4500"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "подоконнике",
+            "band": "4000->4500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 232,
+      "q": "squirrel",
+      "a": "белка",
+      "qe": "The squirrel climbed the tree.",
+      "ae": "Белка забралась на дерево.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "забралась",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 233,
+      "q": "legendary",
+      "a": "легендарный",
+      "qe": "His skills were legendary.",
+      "ae": "Его навыки были легендарными.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "навыки",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 245,
+      "q": "mathematician",
+      "a": "математик",
+      "qe": "The mathematician solved the complex equation.",
+      "ae": "Математик решил сложное уравнение.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "equation",
+            "band": "4000->4500"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "уравнение",
+            "band": "4000->4500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 252,
+      "q": "to be characterized",
+      "a": "характеризоваться",
+      "qe": "This region is characterized by its climate.",
+      "ae": "Этот регион характеризуется своим климатом.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "регион",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 257,
+      "q": "stroller",
+      "a": "коляска",
+      "qe": "She pushed the stroller through the park.",
+      "ae": "Она толкала коляску через парк.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "толкала",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 259,
+      "q": "physiognomy",
+      "a": "физиономия",
+      "qe": "Her physiognomy revealed her true feelings.",
+      "ae": "Её физиономия выдала её истинные чувства.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "выдала",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 261,
+      "q": "progressive",
+      "a": "прогрессивный",
+      "qe": "She supports progressive educational reforms.",
+      "ae": "Она поддерживает прогрессивные образовательные реформы.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "образовательные",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 267,
+      "q": "indignation",
+      "a": "возмущение",
+      "qe": "She felt indignation.",
+      "ae": "Она почувствовала возмущение.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "почувствовала",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 268,
+      "q": "to climb out",
+      "a": "вылезать",
+      "qe": "He managed to climb out.",
+      "ae": "Он смог вылезти.",
+      "issues": {
+        "ru_target": "вылезать | Он смог вылезти.",
+        "ru_vocab": [
+          {
+            "word": "вылезти",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 275,
+      "q": "escape",
+      "a": "бегство",
+      "qe": "He planned his escape at night.",
+      "ae": "Он планировал своё бегство ночью.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "планировал",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 280,
+      "q": "rib",
+      "a": "ребро",
+      "qe": "He broke a rib.",
+      "ae": "Он сломал ребро.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "сломал",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 295,
+      "q": "matrimonial",
+      "a": "брачный",
+      "qe": "They offer matrimonial services.",
+      "ae": "Они предлагают брачные услуги.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "предлагают",
+            "band": "absent"
+          },
+          {
+            "word": "услуги",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 298,
+      "q": "thickness",
+      "a": "толщина",
+      "qe": "Measure the thickness of the wall.",
+      "ae": "Измерьте толщину стены.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "измерьте",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 299,
+      "q": "thrice",
+      "a": "трижды",
+      "qe": "He called her name thrice.",
+      "ae": "Он трижды позвал её по имени.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "позвал",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 458,
+      "q": "hint",
+      "a": "подсказывать",
+      "qe": "Please hint the answer.",
+      "ae": "Пожалуйста, подскажи ответ.",
+      "issues": {
+        "ru_target": "подсказывать | Пожалуйста, подскажи ответ.",
+        "ru_vocab": [
+          {
+            "word": "подскажи",
+            "band": "absent"
+          }
+        ]
+      }
+    }
+  ]
+}

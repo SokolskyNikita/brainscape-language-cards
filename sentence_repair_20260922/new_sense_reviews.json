@@ -1,0 +1,42 @@
+[
+  {
+    "pack": "russian_english",
+    "overall": 6603,
+    "head": "wrestler, fighter",
+    "example": "The wrestler fell on the floor.",
+    "ru": "борец",
+    "word": "fell",
+    "action": "resolve_sense",
+    "sense": "fall",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      307,
+      904
+    ],
+    "current_target_lemmas": [
+      "fall"
+    ],
+    "reason": "Past of fall, not fell = cut/knock down."
+  },
+  {
+    "pack": "russian_english",
+    "overall": 7007,
+    "head": "cent, penny",
+    "example": "I found a cent on the road.",
+    "ru": "цент",
+    "word": "found",
+    "action": "resolve_sense",
+    "sense": "find",
+    "exact_reference_positions": [
+      1650
+    ],
+    "base_reference_positions": [
+      143,
+      939
+    ],
+    "current_target_lemmas": [
+      "find"
+    ],
+    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
+  }
+]

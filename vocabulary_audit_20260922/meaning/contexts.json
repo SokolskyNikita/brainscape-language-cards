@@ -1,0 +1,3003 @@
+{
+  "saw": [
+    {
+      "pack": "english_russian",
+      "overall": 134,
+      "head": "before",
+      "example": "I saw him before the meeting.",
+      "ru": "перед"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 700,
+      "head": "once",
+      "example": "Once, I saw him here.",
+      "ru": "однажды"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 713,
+      "head": "performance",
+      "example": "I saw a performance.",
+      "ru": "представление"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 788,
+      "head": "yesterday",
+      "example": "I saw you yesterday.",
+      "ru": "вчера"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 920,
+      "head": "advertisement",
+      "example": "I saw your advertisement.",
+      "ru": "реклама"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 1041,
+      "head": "something",
+      "example": "I saw something strange.",
+      "ru": "нечто"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 1581,
+      "head": "palace",
+      "example": "We saw the palace.",
+      "ru": "дворец"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 1887,
+      "head": "monastery",
+      "example": "He saw the ancient monastery.",
+      "ru": "монастырь"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 2516,
+      "head": "dragon",
+      "example": "I saw a dragon.",
+      "ru": "дракон"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 2711,
+      "head": "prophet",
+      "example": "The prophet saw the war.",
+      "ru": "пророк"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 2783,
+      "head": "gallery",
+      "example": "We saw pictures in the gallery.",
+      "ru": "галерея"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 3124,
+      "head": "snake",
+      "example": "I saw a snake in the grass.",
+      "ru": "змея"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 3163,
+      "head": "cosmonaut",
+      "example": "The cosmonaut saw a star.",
+      "ru": "космонавт"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 3370,
+      "head": "ghost",
+      "example": "I saw a ghost.",
+      "ru": "призрак"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 3622,
+      "head": "premier",
+      "example": "He saw the premier yesterday.",
+      "ru": "премьер"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 3740,
+      "head": "steamer",
+      "example": "I saw the steamer at dawn.",
+      "ru": "пароход"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 3819,
+      "head": "to come to",
+      "example": "I saw him come to slowly.",
+      "ru": "очнуться"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 3840,
+      "head": "tiger",
+      "example": "I saw a tiger.",
+      "ru": "тигр"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 3961,
+      "head": "deer",
+      "example": "I saw a deer on the road.",
+      "ru": "олень"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 4835,
+      "head": "from afar",
+      "example": "I saw him from afar.",
+      "ru": "издали"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 5058,
+      "head": "ridge",
+      "example": "We saw the mountain ridge.",
+      "ru": "хребет"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 5279,
+      "head": "eyewitness",
+      "example": "The eyewitness saw the man.",
+      "ru": "очевидец"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 5305,
+      "head": "confusion",
+      "example": "I saw her confusion.",
+      "ru": "замешательство"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 5325,
+      "head": "waterfall",
+      "example": "We saw a waterfall.",
+      "ru": "водопад"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 5760,
+      "head": "eclipse",
+      "example": "We saw the eclipse yesterday.",
+      "ru": "затмение"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 6020,
+      "head": "imaginary",
+      "example": "He saw an imaginary enemy.",
+      "ru": "мнимый"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 6448,
+      "head": "scorpion",
+      "example": "I saw a scorpion.",
+      "ru": "скорпион"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 7287,
+      "head": "splendor",
+      "example": "I saw the splendor of the palace.",
+      "ru": "великолепие"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 7554,
+      "head": "saw",
+      "example": "He has a new saw.",
+      "ru": "пила"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 7833,
+      "head": "robbery",
+      "example": "I saw a robbery.",
+      "ru": "ограбление"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 7844,
+      "head": "to saw",
+      "example": "He began to saw the wood.",
+      "ru": "пилить"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 8025,
+      "head": "blackness",
+      "example": "I saw only blackness.",
+      "ru": "чернота"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 8190,
+      "head": "substitution",
+      "example": "I saw the substitution.",
+      "ru": "подмена"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 8528,
+      "head": "canyon",
+      "example": "We saw a canyon.",
+      "ru": "каньон"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 8563,
+      "head": "gazelle",
+      "example": "I saw a gazelle.",
+      "ru": "газель"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 8644,
+      "head": "cascade",
+      "example": "We saw a cascade.",
+      "ru": "каскад"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 8696,
+      "head": "mangy",
+      "example": "I saw a mangy dog.",
+      "ru": "паршивый"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 8933,
+      "head": "astronaut",
+      "example": "The astronaut saw Earth.",
+      "ru": "астронавт"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 9263,
+      "head": "eminence",
+      "example": "I saw His Eminence.",
+      "ru": "выдающееся положение; возвышенность; высокопреосвященство (титул: His Eminence)"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 9366,
+      "head": "film adaptation",
+      "example": "I saw the film adaptation of the book.",
+      "ru": "экранизация"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 9584,
+      "head": "in the distance, far away",
+      "example": "I saw a house in the distance.",
+      "ru": "вдалеке"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 9717,
+      "head": "poster, playbill",
+      "example": "I saw a poster on the wall.",
+      "ru": "афиша"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 9769,
+      "head": "little shop, small store",
+      "example": "I saw a little shop.",
+      "ru": "магазинчик"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 9900,
+      "head": "to stride, to step",
+      "example": "I saw him stride forward.",
+      "ru": "шагать; зашагать (начать шагать)"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 194,
+      "head": "to see",
+      "example": "I saw him.",
+      "ru": "увидеть"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 804,
+      "head": "once, one day",
+      "example": "I saw him once.",
+      "ru": "однажды"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 1071,
+      "head": "advertisement, advertising",
+      "example": "I saw your advertisement on the internet.",
+      "ru": "реклама"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 3509,
+      "head": "underwater, submarine",
+      "example": "We saw the underwater world.",
+      "ru": "подводный"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 3836,
+      "head": "lightning, zipper",
+      "example": "I saw lightning.",
+      "ru": "молния"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 4060,
+      "head": "scout, intelligence agent",
+      "example": "The scout saw the enemy.",
+      "ru": "разведчик"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 4246,
+      "head": "hare",
+      "example": "I saw a hare.",
+      "ru": "заяц"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 4694,
+      "head": "poster, placard",
+      "example": "I saw a poster on the wall.",
+      "ru": "плакат"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 6245,
+      "head": "exhibition",
+      "example": "I saw this exhibition.",
+      "ru": "экспозиция"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 7614,
+      "head": "smirk",
+      "example": "I saw his smirk.",
+      "ru": "усмешка"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 7825,
+      "head": "to see",
+      "example": "I saw him there.",
+      "ru": "увидать"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 8003,
+      "head": "alien, extraterrestrial",
+      "example": "We saw an alien.",
+      "ru": "инопланетянин"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 8112,
+      "head": "general practitioner",
+      "example": "I saw the general practitioner.",
+      "ru": "терапевт"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 8721,
+      "head": "ghost",
+      "example": "I saw a ghost.",
+      "ru": "привидение"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 9444,
+      "head": "clip, music video",
+      "example": "I saw a new music video.",
+      "ru": "клип"
+    }
+  ],
+  "found": [
+    {
+      "pack": "english_russian",
+      "overall": 181,
+      "head": "solution",
+      "example": "We found the solution.",
+      "ru": "решение"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 406,
+      "head": "easily",
+      "example": "She easily found the answer.",
+      "ru": "легко"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 510,
+      "head": "dollar",
+      "example": "I found a dollar.",
+      "ru": "доллар"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 552,
+      "head": "internet",
+      "example": "I found this on the internet.",
+      "ru": "интернет"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 964,
+      "head": "forum",
+      "example": "I found answers on the forum.",
+      "ru": "форум"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 1363,
+      "head": "found",
+      "example": "They want to found a new school.",
+      "ru": "основать"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 1540,
+      "head": "peace",
+      "example": "She found peace in nature.",
+      "ru": "покой"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 1650,
+      "head": "to be found",
+      "example": "The key will be found.",
+      "ru": "найтись"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 1833,
+      "head": "corpse",
+      "example": "They found a corpse.",
+      "ru": "труп"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 1851,
+      "head": "drug",
+      "example": "He found drugs.",
+      "ru": "наркотик; лекарство"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 1865,
+      "head": "bone",
+      "example": "The dog found a bone.",
+      "ru": "кость"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 1922,
+      "head": "bomb",
+      "example": "They found a bomb.",
+      "ru": "бомба"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 2022,
+      "head": "note",
+      "example": "She found a note under the door.",
+      "ru": "записка"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 2292,
+      "head": "bear",
+      "example": "The bear found a large fish.",
+      "ru": "медведь"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 2453,
+      "head": "replacement",
+      "example": "I found a good replacement.",
+      "ru": "замена"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 2554,
+      "head": "feather",
+      "example": "She found a bird's feather outside.",
+      "ru": "перо"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 2569,
+      "head": "nerve",
+      "example": "The doctor found the nerve.",
+      "ru": "нерв"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 2645,
+      "head": "kopeck",
+      "example": "I found a kopeck on the street.",
+      "ru": "копейка"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 2670,
+      "head": "fragment",
+      "example": "I found a fragment of the letter.",
+      "ru": "фрагмент"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 2692,
+      "head": "stick",
+      "example": "He found a big stick outside.",
+      "ru": "палка"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 2705,
+      "head": "piece of paper",
+      "example": "I found a piece of paper.",
+      "ru": "бумажка"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 2746,
+      "head": "programmer",
+      "example": "The programmer found an error quickly.",
+      "ru": "программист"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 2784,
+      "head": "coin",
+      "example": "I found a coin under the sofa.",
+      "ru": "монета"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 2949,
+      "head": "supplier",
+      "example": "We found a new supplier.",
+      "ru": "поставщик"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 2954,
+      "head": "manuscript",
+      "example": "She found an old manuscript.",
+      "ru": "рукопись"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 2999,
+      "head": "recipe",
+      "example": "I found a new recipe.",
+      "ru": "рецепт"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 3070,
+      "head": "mushroom",
+      "example": "I found a mushroom in the forest.",
+      "ru": "гриб"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 3591,
+      "head": "dwelling",
+      "example": "They found an ancient dwelling underground.",
+      "ru": "жилище"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 3633,
+      "head": "treasure",
+      "example": "We found treasure in the house.",
+      "ru": "сокровище"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 3821,
+      "head": "compatriot",
+      "example": "She found a compatriot in the city.",
+      "ru": "соотечественник"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 3932,
+      "head": "cassette",
+      "example": "I found an old cassette.",
+      "ru": "кассета"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 3986,
+      "head": "detective",
+      "example": "The detective found the answer quickly.",
+      "ru": "детектив"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 4003,
+      "head": "niche",
+      "example": "He found his niche in art.",
+      "ru": "ниша"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 4040,
+      "head": "deposit",
+      "example": "They found a gold deposit.",
+      "ru": "месторождение"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 4048,
+      "head": "compromise",
+      "example": "We found a compromise.",
+      "ru": "компромисс"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 4073,
+      "head": "special service",
+      "example": "The special service found the man.",
+      "ru": "спецслужба (разведка или безопасность); специальная служба"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 4115,
+      "head": "bowels",
+      "example": "They found gold in the earth's bowels.",
+      "ru": "кишечник; недра (переносное)"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 4285,
+      "head": "TV channel",
+      "example": "I found a new TV channel.",
+      "ru": "телеканал"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 4415,
+      "head": "cockroach",
+      "example": "I found a cockroach in the soup.",
+      "ru": "таракан"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 4485,
+      "head": "shelter",
+      "example": "They found shelter from the storm.",
+      "ru": "убежище"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 4876,
+      "head": "chest",
+      "example": "He found treasure in the old chest.",
+      "ru": "сундук"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 4890,
+      "head": "uranium",
+      "example": "They found uranium.",
+      "ru": "уран"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 5017,
+      "head": "attic",
+      "example": "I found old books in the attic.",
+      "ru": "чердак"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 5024,
+      "head": "tape recorder",
+      "example": "I found my old tape recorder.",
+      "ru": "магнитофон"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 5063,
+      "head": "cent",
+      "example": "I found a cent outside.",
+      "ru": "цент"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 5101,
+      "head": "consolation",
+      "example": "She found consolation in his words.",
+      "ru": "утешение"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 5249,
+      "head": "banknote",
+      "example": "I found a banknote on the street.",
+      "ru": "купюра"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 5593,
+      "head": "groat",
+      "example": "I found a groat in my pocket.",
+      "ru": "гроут (старинная британская монета)"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 5664,
+      "head": "tumor",
+      "example": "The doctor found a tumor.",
+      "ru": "опухоль"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 5837,
+      "head": "incidentally",
+      "example": "I found this incidentally.",
+      "ru": "кстати; случайно; попутно"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 5959,
+      "head": "like-minded person",
+      "example": "I found a like-minded person.",
+      "ru": "единомышленник"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 6161,
+      "head": "dungeon",
+      "example": "They found a dungeon in the castle.",
+      "ru": "подземелье"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 6188,
+      "head": "contemplation",
+      "example": "She found peace in quiet contemplation.",
+      "ru": "созерцание"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 6391,
+      "head": "artifact",
+      "example": "They found an ancient artifact underground.",
+      "ru": "артефакт"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 6661,
+      "head": "migrant",
+      "example": "The migrant found work.",
+      "ru": "мигрант"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 6695,
+      "head": "fellow traveler",
+      "example": "He found a fellow traveler.",
+      "ru": "попутчик"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 6708,
+      "head": "pebble",
+      "example": "I found a smooth pebble.",
+      "ru": "камешек"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 6788,
+      "head": "little shop",
+      "example": "I found a little shop.",
+      "ru": "магазинчик"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 6863,
+      "head": "by touch",
+      "example": "He found the key by touch.",
+      "ru": "на ощупь"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 7114,
+      "head": "companion",
+      "example": "He found a faithful companion.",
+      "ru": "спутник"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 7132,
+      "head": "burial mound",
+      "example": "They found an ancient burial mound.",
+      "ru": "курган"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 7160,
+      "head": "overnight stay",
+      "example": "We found a place for an overnight stay.",
+      "ru": "ночлег"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 7318,
+      "head": "little restaurant",
+      "example": "We found a cozy little restaurant.",
+      "ru": "ресторанчик"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 7341,
+      "head": "cache",
+      "example": "They found a cache underground.",
+      "ru": "тайник"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 7381,
+      "head": "little bag",
+      "example": "She found coins in the little bag.",
+      "ru": "мешочек"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 7481,
+      "head": "to found",
+      "example": "He wants to found a new city.",
+      "ru": "основать"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 7552,
+      "head": "pearl",
+      "example": "She found a pearl.",
+      "ru": "жемчужина"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 7586,
+      "head": "floppy disk",
+      "example": "I found an old floppy disk.",
+      "ru": "дискета"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 7612,
+      "head": "fossil",
+      "example": "They found a fossil.",
+      "ru": "ископаемое"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 7791,
+      "head": "operative",
+      "example": "The operative found the man.",
+      "ru": "оперативник"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 7932,
+      "head": "sought",
+      "example": "The sought document was finally found.",
+      "ru": "искомый"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 8201,
+      "head": "typo",
+      "example": "I found a typo in the letter.",
+      "ru": "опечатка"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 8634,
+      "head": "cipher",
+      "example": "He found the cipher.",
+      "ru": "шифр"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 8666,
+      "head": "contraband",
+      "example": "They found contraband.",
+      "ru": "контрабанда"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 8709,
+      "head": "Kurgan",
+      "example": "They found artifacts inside the kurgan.",
+      "ru": "курган"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 8741,
+      "head": "grotto",
+      "example": "We found a mysterious sea grotto.",
+      "ru": "грот"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 8859,
+      "head": "mummy",
+      "example": "They found a mummy.",
+      "ru": "мумия"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 8956,
+      "head": "secluded",
+      "example": "They found a secluded spot for lunch.",
+      "ru": "укромный"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 8966,
+      "head": "videocassette",
+      "example": "I found an old videocassette yesterday.",
+      "ru": "видеокассета"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 9103,
+      "head": "oasis",
+      "example": "They found an oasis in the desert.",
+      "ru": "оазис"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 9116,
+      "head": "VCR",
+      "example": "I found an old VCR in the attic.",
+      "ru": "видеомагнитофон"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 9160,
+      "head": "bedbug",
+      "example": "I found a bedbug in my room.",
+      "ru": "клоп"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 9165,
+      "head": "clot",
+      "example": "The doctor found a clot.",
+      "ru": "сгусток"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 9178,
+      "head": "cartridge case",
+      "example": "He found a cartridge case outside.",
+      "ru": "гильза"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 9181,
+      "head": "stub",
+      "example": "I found an old ticket stub.",
+      "ru": "корешок"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 9550,
+      "head": "insufficiency, deficiency",
+      "example": "The doctor found heart insufficiency.",
+      "ru": "недостаточность"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 9553,
+      "head": "migrant, immigrant",
+      "example": "The migrant found work.",
+      "ru": "мигрант"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 9609,
+      "head": "fellow traveler, companion",
+      "example": "He found a fellow traveler.",
+      "ru": "попутчик"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 9640,
+      "head": "pebble, small stone",
+      "example": "I found a pebble.",
+      "ru": "камешек"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 9825,
+      "head": "treasure, stash",
+      "example": "They found ancient treasure.",
+      "ru": "клад"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 9873,
+      "head": "rod, bar",
+      "example": "I found a rod.",
+      "ru": "прут"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 9902,
+      "head": "by touch, to the touch",
+      "example": "He found the key by touch.",
+      "ru": "на ощупь"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 164,
+      "head": "to find",
+      "example": "I found it.",
+      "ru": "найти"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 792,
+      "head": "to find, to discover",
+      "example": "We found it.",
+      "ru": "обнаружить"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 2208,
+      "head": "box, case",
+      "example": "I found a cat in the box.",
+      "ru": "коробка"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 2257,
+      "head": "corpse",
+      "example": "They found a corpse there.",
+      "ru": "труп"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 2640,
+      "head": "nowhere, anywhere",
+      "example": "He is nowhere to be found.",
+      "ru": "нигде"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 3502,
+      "head": "piece of paper, note",
+      "example": "I found a piece of paper.",
+      "ru": "бумажка"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 3617,
+      "head": "coin",
+      "example": "I found a coin.",
+      "ru": "монета"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 3937,
+      "head": "to find",
+      "example": "I found the key.",
+      "ru": "отыскать"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 4027,
+      "head": "mushroom, fungus",
+      "example": "I found a mushroom in the forest.",
+      "ru": "гриб"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 4047,
+      "head": "original",
+      "example": "I found the original of the painting.",
+      "ru": "оригинал"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 4196,
+      "head": "find, catch",
+      "example": "I found him at home.",
+      "ru": "застать"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 5511,
+      "head": "intelligence agency",
+      "example": "The intelligence agency found him.",
+      "ru": "спецслужба"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 5755,
+      "head": "to be found, to turn up",
+      "example": "The keys were found.",
+      "ru": "обнаружиться"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 6113,
+      "head": "shelter",
+      "example": "We found shelter.",
+      "ru": "убежище"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 7007,
+      "head": "cent, penny",
+      "example": "I found a cent on the ground.",
+      "ru": "цент"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 7120,
+      "head": "find, locate",
+      "example": "The police found him.",
+      "ru": "разыскать"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 7902,
+      "head": "shelter",
+      "example": "We found shelter.",
+      "ru": "укрытие"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 8017,
+      "head": "bruise, contusion",
+      "example": "She found a bruise on her arm.",
+      "ru": "синяк"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 8182,
+      "head": "fragment, snippet",
+      "example": "I found a fragment of paper.",
+      "ru": "обрывок"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 8194,
+      "head": "remains, relics",
+      "example": "They found remains here.",
+      "ru": "останки"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 9553,
+      "head": "migrant",
+      "example": "The migrant found a new job.",
+      "ru": "мигрант"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 9825,
+      "head": "treasure, stash",
+      "example": "They found a treasure.",
+      "ru": "клад"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 9902,
+      "head": "by touch (на ощупь)",
+      "example": "I found the key by touch.",
+      "ru": "ощупь"
+    }
+  ],
+  "left": [
+    {
+      "pack": "english_russian",
+      "overall": 191,
+      "head": "immediately",
+      "example": "He left immediately.",
+      "ru": "сразу"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 841,
+      "head": "left",
+      "example": "This is the left hand.",
+      "ru": "левый"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 1950,
+      "head": "subsequently",
+      "example": "He subsequently left home.",
+      "ru": "впоследствии"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 2065,
+      "head": "allegedly",
+      "example": "He allegedly left.",
+      "ru": "якобы"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 2546,
+      "head": "so as to",
+      "example": "He left so as to work.",
+      "ru": "чтобы; дабы (книжное, устаревающее)"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 2623,
+      "head": "inconspicuously",
+      "example": "He inconspicuously left the room.",
+      "ru": "незаметно"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 2893,
+      "head": "for a long time",
+      "example": "He left for a long time.",
+      "ru": "надолго"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 3463,
+      "head": "to the left",
+      "example": "He goes to the left.",
+      "ru": "налево"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 3635,
+      "head": "glove",
+      "example": "She lost her left glove yesterday.",
+      "ru": "перчатка"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 3837,
+      "head": "moreover",
+      "example": "She refused, and moreover, she left early.",
+      "ru": "притом"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 4162,
+      "head": "hastily",
+      "example": "She hastily left the room.",
+      "ru": "поспешно"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 4638,
+      "head": "predecessor",
+      "example": "His predecessor left yesterday.",
+      "ru": "предшественник"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 5104,
+      "head": "tunnel",
+      "example": "The train left the tunnel.",
+      "ru": "тоннель"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 5161,
+      "head": "secretly",
+      "example": "She secretly left the house.",
+      "ru": "тайно"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 5575,
+      "head": "in the morning",
+      "example": "He left in the morning.",
+      "ru": "утром"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 5794,
+      "head": "nostril",
+      "example": "His left nostril is closed.",
+      "ru": "ноздря"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 7014,
+      "head": "unnoticed",
+      "example": "He left unnoticed.",
+      "ru": "незамеченный"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 7283,
+      "head": "demonstratively",
+      "example": "She demonstratively left.",
+      "ru": "демонстративно"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 8140,
+      "head": "in a flash",
+      "example": "He left in a flash.",
+      "ru": "мигом"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 977,
+      "head": "left",
+      "example": "The left hand.",
+      "ru": "левый"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 1204,
+      "head": "train",
+      "example": "The train already left.",
+      "ru": "поезд"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 1700,
+      "head": "suddenly",
+      "example": "He left suddenly.",
+      "ru": "внезапно"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 1865,
+      "head": "side",
+      "example": "The left side.",
+      "ru": "бок"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 1932,
+      "head": "silently",
+      "example": "He left silently.",
+      "ru": "молча"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 2758,
+      "head": "on the left",
+      "example": "He's on the left.",
+      "ru": "слева"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 2761,
+      "head": "expedition",
+      "example": "They left on an expedition.",
+      "ru": "экспедиция"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 2968,
+      "head": "apparently",
+      "example": "Apparently he already left.",
+      "ru": "видать"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 3074,
+      "head": "immediately",
+      "example": "He left immediately.",
+      "ru": "тотчас"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 3260,
+      "head": "in order to",
+      "example": "He left in order to rest.",
+      "ru": "дабы"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 3382,
+      "head": "unnoticed",
+      "example": "He left unnoticed.",
+      "ru": "незаметно"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 3772,
+      "head": "for a long time",
+      "example": "He left for a long time.",
+      "ru": "надолго"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 3902,
+      "head": "despite, in spite of",
+      "example": "Despite the rain we left.",
+      "ru": "вопреки"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 4610,
+      "head": "to the left, left",
+      "example": "Go to the left.",
+      "ru": "налево"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 5008,
+      "head": "steamer",
+      "example": "The steamer already left.",
+      "ru": "пароход"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 5639,
+      "head": "hastily, hurriedly",
+      "example": "She hastily left.",
+      "ru": "поспешно"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 5672,
+      "head": "faction, fraction",
+      "example": "The left faction.",
+      "ru": "фракция"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 5806,
+      "head": "to the left, left",
+      "example": "Look to the left.",
+      "ru": "влево"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 5864,
+      "head": "flank, wing",
+      "example": "The left flank.",
+      "ru": "фланг"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 6405,
+      "head": "alone together, in private",
+      "example": "We were left alone together.",
+      "ru": "наедине"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 7164,
+      "head": "secretly, covertly",
+      "example": "She secretly left.",
+      "ru": "тайно"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 7837,
+      "head": "the next morning",
+      "example": "He left the next morning.",
+      "ru": "наутро"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 8373,
+      "head": "maid, servant",
+      "example": "The maid left.",
+      "ru": "служанка"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 9096,
+      "head": "election, selection",
+      "example": "After the election he left.",
+      "ru": "избрание"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 9174,
+      "head": "marriage (of a woman)",
+      "example": "After her marriage she left.",
+      "ru": "замужество"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 9297,
+      "head": "snort, snuffle",
+      "example": "He snorted and left.",
+      "ru": "фыркнуть"
+    }
+  ],
+  "fell": [
+    {
+      "pack": "english_russian",
+      "overall": 307,
+      "head": "to fall",
+      "example": "The book fell on the table.",
+      "ru": "упасть"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 1020,
+      "head": "tear",
+      "example": "A tear fell.",
+      "ru": "слеза"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 2769,
+      "head": "pit",
+      "example": "He fell into a deep pit.",
+      "ru": "яма"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 2945,
+      "head": "to fall ill",
+      "example": "She fell ill yesterday.",
+      "ru": "заболеть"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 3656,
+      "head": "buttocks",
+      "example": "He fell on his buttocks.",
+      "ru": "ягодицы"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 3736,
+      "head": "trap",
+      "example": "He fell into the trap easily.",
+      "ru": "ловушка"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 4599,
+      "head": "curtain",
+      "example": "The curtain fell after the performance.",
+      "ru": "занавес"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 4687,
+      "head": "to fell",
+      "example": "They will fell the trees.",
+      "ru": "валить"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 4938,
+      "head": "crumb",
+      "example": "A crumb fell on the table.",
+      "ru": "крошка"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 5005,
+      "head": "oops",
+      "example": "Oops, the cup fell.",
+      "ru": "ой"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 5238,
+      "head": "vase",
+      "example": "The vase fell on the table.",
+      "ru": "ваза"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 5243,
+      "head": "faint",
+      "example": "She fell in a faint.",
+      "ru": "обморок"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 6032,
+      "head": "to fall silent",
+      "example": "The crowd fell silent.",
+      "ru": "умолкнуть"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 6689,
+      "head": "petal",
+      "example": "A flower petal fell.",
+      "ru": "лепесток"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 7214,
+      "head": "strand",
+      "example": "A strand of hair fell over her face.",
+      "ru": "прядь"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 8028,
+      "head": "snowflake",
+      "example": "A snowflake fell on her nose.",
+      "ru": "снежинка"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 8061,
+      "head": "to fall down",
+      "example": "He fell down on the floor.",
+      "ru": "упасть"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 8274,
+      "head": "sideways",
+      "example": "The vase fell sideways.",
+      "ru": "набок"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 8537,
+      "head": "meteorite",
+      "example": "A meteorite fell in the field.",
+      "ru": "метеорит"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 8676,
+      "head": "unceasingly",
+      "example": "The rain fell unceasingly.",
+      "ru": "беспрестанно"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 9598,
+      "head": "petal",
+      "example": "A petal fell down.",
+      "ru": "лепесток"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 9995,
+      "head": "to fell, to knock down",
+      "example": "They will fell the old tree.",
+      "ru": "повалить"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 1053,
+      "head": "to fall",
+      "example": "I almost fell.",
+      "ru": "упасть"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 2954,
+      "head": "branch",
+      "example": "The branch fell.",
+      "ru": "ветка"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 3040,
+      "head": "shell",
+      "example": "The shell fell far away.",
+      "ru": "снаряд"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 3693,
+      "head": "fall out, drop out",
+      "example": "A tooth fell out.",
+      "ru": "выпасть"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 3694,
+      "head": "to fall in love, to grow fond of",
+      "example": "She fell in love with him.",
+      "ru": "полюбить"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 3852,
+      "head": "to fall ill, to get sick",
+      "example": "She fell ill yesterday.",
+      "ru": "заболеть"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 3890,
+      "head": "to fall silent",
+      "example": "Everyone fell silent.",
+      "ru": "замолчать"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 4209,
+      "head": "leaf, sheet",
+      "example": "A leaf fell from the tree.",
+      "ru": "листок"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 4882,
+      "head": "butt, ass",
+      "example": "He fell on his butt.",
+      "ru": "задница"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 4960,
+      "head": "to fall in love, to become enamored",
+      "example": "I fell in love with her.",
+      "ru": "влюбиться"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 5023,
+      "head": "currency",
+      "example": "The currency exchange rate fell.",
+      "ru": "валютный"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 5132,
+      "head": "to fall through, to fail",
+      "example": "The meeting fell through.",
+      "ru": "сорваться"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 5518,
+      "head": "ass, arse (vulgar)",
+      "example": "He fell on his ass.",
+      "ru": "жопа"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 5605,
+      "head": "prolonged, extended",
+      "example": "Prolonged rain fell all night.",
+      "ru": "продолжительный"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 6302,
+      "head": "curtain",
+      "example": "The curtain fell.",
+      "ru": "занавес"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 6436,
+      "head": "to fell",
+      "example": "It is hard to fell a tree.",
+      "ru": "валить"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 6603,
+      "head": "wrestler, fighter",
+      "example": "The wrestler fell on the ground.",
+      "ru": "борец"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 6606,
+      "head": "fall apart, collapse",
+      "example": "The chair fell apart.",
+      "ru": "развалиться"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 6693,
+      "head": "hail",
+      "example": "Hail fell yesterday.",
+      "ru": "град"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 6987,
+      "head": "to fall into",
+      "example": "He fell into despair.",
+      "ru": "впасть"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 7718,
+      "head": "cone, bump",
+      "example": "A cone fell from the pine.",
+      "ru": "шишка"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 7775,
+      "head": "scrap, tuft",
+      "example": "A scrap of paper fell.",
+      "ru": "клочок"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 8060,
+      "head": "oar, paddle",
+      "example": "The oar fell into the water.",
+      "ru": "весло"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 8281,
+      "head": "reel, bobbin",
+      "example": "The reel fell.",
+      "ru": "катушка"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 8536,
+      "head": "to fall silent",
+      "example": "The crowd fell silent.",
+      "ru": "умолкнуть"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 9035,
+      "head": "plate (flat piece), sheet",
+      "example": "The plate fell on the table.",
+      "ru": "пластина"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 9113,
+      "head": "ditch, trench",
+      "example": "The car fell into the ditch.",
+      "ru": "канава"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 9260,
+      "head": "beam, girder",
+      "example": "The beam fell.",
+      "ru": "балка"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 9598,
+      "head": "petal",
+      "example": "A petal fell on the table.",
+      "ru": "лепесток"
+    }
+  ],
+  "managed": [
+    {
+      "pack": "english_russian",
+      "overall": 530,
+      "head": "to manage",
+      "example": "I managed to do this before evening.",
+      "ru": "успеть (сделать вовремя); суметь"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 1747,
+      "head": "convince",
+      "example": "I managed to convince my friend.",
+      "ru": "убедить"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 1778,
+      "head": "to agree",
+      "example": "We managed to agree on a time.",
+      "ru": "договориться"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 2762,
+      "head": "to escape",
+      "example": "He managed to escape.",
+      "ru": "убежать"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 3187,
+      "head": "to catch",
+      "example": "I managed to catch him at home.",
+      "ru": "застать"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 3328,
+      "head": "get free",
+      "example": "He managed to get free.",
+      "ru": "освободиться"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 3493,
+      "head": "to pull out",
+      "example": "He managed to pull out the tooth.",
+      "ru": "вырвать"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 3922,
+      "head": "persuade",
+      "example": "I managed to persuade my friend.",
+      "ru": "уговорить"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 3945,
+      "head": "obtain",
+      "example": "They managed to obtain water.",
+      "ru": "добыть"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 4571,
+      "head": "break through",
+      "example": "She managed to break through the wall.",
+      "ru": "прорваться"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 5600,
+      "head": "to pull in",
+      "example": "He managed to pull in his stomach.",
+      "ru": "втянуть"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 5886,
+      "head": "to be managed",
+      "example": "This machine is easily managed.",
+      "ru": "управляться"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 5916,
+      "head": "squeeze out",
+      "example": "I managed to squeeze out the paint.",
+      "ru": "выдавить"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 7824,
+      "head": "hack",
+      "example": "They managed to hack the system.",
+      "ru": "взломать"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 8637,
+      "head": "to peel off",
+      "example": "I managed to peel off the paint.",
+      "ru": "содрать"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 9478,
+      "head": "to eat one's fill",
+      "example": "She managed to eat her fill.",
+      "ru": "наесться"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 259,
+      "head": "to manage",
+      "example": "I managed to come.",
+      "ru": "смочь"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 1382,
+      "head": "to manage to",
+      "example": "I managed.",
+      "ru": "суметь"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 6484,
+      "head": "to escape",
+      "example": "We managed to escape.",
+      "ru": "спастись"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 7742,
+      "head": "manage",
+      "example": "She managed to leave.",
+      "ru": "умудриться"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 7874,
+      "head": "outdo, surpass",
+      "example": "He managed to outdo them.",
+      "ru": "превзойти"
+    }
+  ],
+  "played": [
+    {
+      "pack": "english_russian",
+      "overall": 773,
+      "head": "yard",
+      "example": "The boy played in the yard.",
+      "ru": "двор"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 2855,
+      "head": "guitar",
+      "example": "He played the guitar.",
+      "ru": "гитара"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 3324,
+      "head": "orchestra",
+      "example": "The orchestra played music.",
+      "ru": "оркестр"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 3472,
+      "head": "actress",
+      "example": "The actress played well.",
+      "ru": "актриса"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 3963,
+      "head": "drum",
+      "example": "He played the drum.",
+      "ru": "барабан"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 4091,
+      "head": "harp",
+      "example": "She played the harp.",
+      "ru": "арфа"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 4408,
+      "head": "ensemble",
+      "example": "The ensemble played.",
+      "ru": "ансамбль"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 4789,
+      "head": "violin",
+      "example": "She played the violin.",
+      "ru": "скрипка"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 5313,
+      "head": "tabletop",
+      "example": "We played a tabletop game.",
+      "ru": "столешница; настольный (прилагательное)"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 5380,
+      "head": "grand piano",
+      "example": "She played the grand piano beautifully.",
+      "ru": "рояль"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 5888,
+      "head": "Gypsy",
+      "example": "The Gypsy played the violin.",
+      "ru": "цыган (английское Gypsy может восприниматься как оскорбительное)"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 5918,
+      "head": "kids",
+      "example": "The kids played joyfully outside.",
+      "ru": "ребятишки"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 5960,
+      "head": "noisily",
+      "example": "They played noisily outside.",
+      "ru": "шумно"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 6128,
+      "head": "boisterous",
+      "example": "The boisterous children played outside.",
+      "ru": "шумный, буйный"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 6431,
+      "head": "chord",
+      "example": "He played a beautiful chord.",
+      "ru": "аккорд"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 6919,
+      "head": "brilliantly",
+      "example": "She played brilliantly.",
+      "ru": "блестяще"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 7068,
+      "head": "flute",
+      "example": "She played the flute beautifully.",
+      "ru": "флейта"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 7254,
+      "head": "guitarist",
+      "example": "The guitarist played well.",
+      "ru": "гитарист"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 7967,
+      "head": "etude",
+      "example": "He played the etude daily.",
+      "ru": "этюд"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 8614,
+      "head": "pianist",
+      "example": "The pianist played well.",
+      "ru": "пианист"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 8740,
+      "head": "accordion",
+      "example": "He played the accordion beautifully.",
+      "ru": "аккордеон; баян (кнопочный аккордеон)"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 8908,
+      "head": "billiards",
+      "example": "We played billiards all evening long.",
+      "ru": "бильярд"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 9251,
+      "head": "to be played out",
+      "example": "The scene is being played out.",
+      "ru": "разыгрываться"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 9326,
+      "head": "drummer",
+      "example": "The drummer played loudly.",
+      "ru": "барабанщик"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 9383,
+      "head": "masterfully",
+      "example": "He masterfully played this role.",
+      "ru": "мастерски"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 4570,
+      "head": "note, musical note",
+      "example": "She played a wrong note.",
+      "ru": "нота"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 6509,
+      "head": "bass",
+      "example": "He played the bass beautifully.",
+      "ru": "бас"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 6596,
+      "head": "violin, fiddle",
+      "example": "She played the violin beautifully.",
+      "ru": "скрипка"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 8935,
+      "head": "excitement, competitive spirit",
+      "example": "He played with excitement.",
+      "ru": "азарт"
+    }
+  ],
+  "entered": [
+    {
+      "pack": "english_russian",
+      "overall": 1034,
+      "head": "stream",
+      "example": "A stream of people entered the building.",
+      "ru": "поток"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 5120,
+      "head": "canon",
+      "example": "This book entered the canon.",
+      "ru": "канон"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 5315,
+      "head": "wicket gate",
+      "example": "She entered through the wicket gate.",
+      "ru": "калитка"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 5823,
+      "head": "noiselessly",
+      "example": "She noiselessly entered the room.",
+      "ru": "бесшумно"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 7047,
+      "head": "tsarevich",
+      "example": "The tsarevich entered the hall.",
+      "ru": "царевич"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 7272,
+      "head": "invader",
+      "example": "The invader entered the city.",
+      "ru": "захватчик"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 7309,
+      "head": "flotilla",
+      "example": "A flotilla entered the harbor.",
+      "ru": "флотилия"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 7659,
+      "head": "stealthily",
+      "example": "He stealthily entered the room.",
+      "ru": "украдкой"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 8681,
+      "head": "to be entered",
+      "example": "The name is entered here.",
+      "ru": "вноситься"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 9109,
+      "head": "master's",
+      "example": "He entered the master's house.",
+      "ru": "хозяйский"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 3193,
+      "head": "cave",
+      "example": "We entered the cave.",
+      "ru": "пещера"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 7182,
+      "head": "bay, cove",
+      "example": "We entered the bay.",
+      "ru": "бухта"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 7861,
+      "head": "princess (wife of a князь, or a female ruler)",
+      "example": "The princess entered the hall.",
+      "ru": "княгиня"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 7864,
+      "head": "jungle",
+      "example": "We entered the jungle.",
+      "ru": "джунгли"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 7910,
+      "head": "countess",
+      "example": "The countess entered the hall.",
+      "ru": "графиня"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 7959,
+      "head": "marquis",
+      "example": "The marquis entered the hall.",
+      "ru": "маркиз"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 8114,
+      "head": "harbor, haven",
+      "example": "The ship entered the harbor.",
+      "ru": "гавань"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 8217,
+      "head": "noiselessly, silently",
+      "example": "He entered noiselessly.",
+      "ru": "бесшумно"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 8525,
+      "head": "strait",
+      "example": "The ship entered the strait.",
+      "ru": "пролив"
+    }
+  ],
+  "held": [
+    {
+      "pack": "english_russian",
+      "overall": 1419,
+      "head": "to be held",
+      "example": "The meeting will be held tomorrow.",
+      "ru": "проводиться"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 1427,
+      "head": "palm",
+      "example": "She held the book in her palm.",
+      "ru": "ладонь"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 1941,
+      "head": "firmly",
+      "example": "He firmly held my hand.",
+      "ru": "крепко"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 2286,
+      "head": "steering wheel",
+      "example": "He held the steering wheel.",
+      "ru": "руль"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 3368,
+      "head": "gently",
+      "example": "He gently held her hand.",
+      "ru": "нежно"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 3592,
+      "head": "brush",
+      "example": "She held the brush.",
+      "ru": "кисть"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 3843,
+      "head": "tenderly",
+      "example": "He tenderly held her hand.",
+      "ru": "ласково"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 5157,
+      "head": "feast",
+      "example": "We held a feast.",
+      "ru": "пир"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 6458,
+      "head": "forcibly",
+      "example": "They forcibly held him.",
+      "ru": "насильно"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 6480,
+      "head": "rope",
+      "example": "He held the rope.",
+      "ru": "канат"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 8029,
+      "head": "buttstock",
+      "example": "He held the buttstock.",
+      "ru": "приклад"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 8206,
+      "head": "scepter",
+      "example": "The king held a scepter.",
+      "ru": "скипетр"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 8364,
+      "head": "hem",
+      "example": "She held up her dress's hem.",
+      "ru": "подол"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 9985,
+      "head": "nobility, gentry",
+      "example": "The nobility held power.",
+      "ru": "дворянство"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 1712,
+      "head": "to be held",
+      "example": "The meeting will be held tomorrow.",
+      "ru": "проводиться"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 7158,
+      "head": "feast, banquet",
+      "example": "We held a feast.",
+      "ru": "пир"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 9639,
+      "head": "Communist Party",
+      "example": "The Communist Party held a rally.",
+      "ru": "компартия"
+    }
+  ],
+  "setting": [
+    {
+      "pack": "english_russian",
+      "overall": 2721,
+      "head": "setting",
+      "example": "This setting is important.",
+      "ru": "настройка"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 2189,
+      "head": "to set in",
+      "example": "Winter is setting in.",
+      "ru": "наступать"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 3524,
+      "head": "setting, adjustment",
+      "example": "Check this setting.",
+      "ru": "настройка"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 4716,
+      "head": "to set, to descend",
+      "example": "The sun is setting.",
+      "ru": "опускаться"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 7038,
+      "head": "setting (of a celestial body), approach",
+      "example": "We waited for the setting of the sun.",
+      "ru": "заход"
+    }
+  ],
+  "brought": [
+    {
+      "pack": "english_russian",
+      "overall": 2756,
+      "head": "cursed",
+      "example": "The cursed book brought them death.",
+      "ru": "проклятый"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 6141,
+      "head": "waitress",
+      "example": "The waitress brought tea.",
+      "ru": "официантка"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 6149,
+      "head": "messenger",
+      "example": "The messenger brought urgent news.",
+      "ru": "посланник"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 6185,
+      "head": "plague",
+      "example": "The plague brought death.",
+      "ru": "чума"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 6702,
+      "head": "deliverance",
+      "example": "Prayer brought her deliverance.",
+      "ru": "избавление"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 7418,
+      "head": "to be brought up",
+      "example": "She was brought up in this house.",
+      "ru": "воспитываться"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 7692,
+      "head": "euphoria",
+      "example": "Winning the lottery brought euphoria.",
+      "ru": "эйфория"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 9325,
+      "head": "Nazism",
+      "example": "Nazism brought great evil.",
+      "ru": "нацизм"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 9989,
+      "head": "adjutant, aide-de-camp",
+      "example": "The adjutant brought the letter.",
+      "ru": "адъютант"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 6477,
+      "head": "messenger",
+      "example": "The messenger brought a letter.",
+      "ru": "вестник"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 8368,
+      "head": "weakening",
+      "example": "The weakening of the wind brought calm.",
+      "ru": "ослабление"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 9683,
+      "head": "parting, separation",
+      "example": "The parting brought pain.",
+      "ru": "расставание"
+    }
+  ],
+  "living": [
+    {
+      "pack": "english_russian",
+      "overall": 2848,
+      "head": "living room",
+      "example": "We sat in the living room.",
+      "ru": "гостиная"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 5151,
+      "head": "bliss",
+      "example": "Living here is bliss.",
+      "ru": "блаженство"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 9197,
+      "head": "deplorable",
+      "example": "Their living conditions were deplorable.",
+      "ru": "плачевный"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 963,
+      "head": "creature, being",
+      "example": "A living creature.",
+      "ru": "существо"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 3714,
+      "head": "living room, lounge",
+      "example": "We are in the living room.",
+      "ru": "гостиная"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 4509,
+      "head": "living",
+      "example": "Living here is expensive.",
+      "ru": "проживание"
+    }
+  ],
+  "holding": [
+    {
+      "pack": "english_russian",
+      "overall": 3948,
+      "head": "couple",
+      "example": "A couple walked by, holding hands.",
+      "ru": "парочка"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 5620,
+      "head": "holding",
+      "example": "The company is a global holding.",
+      "ru": "холдинг"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 1133,
+      "head": "holding, conducting",
+      "example": "Holding the meeting is important.",
+      "ru": "проведение"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 7912,
+      "head": "holding company",
+      "example": "This is a large holding company.",
+      "ru": "холдинг"
+    }
+  ],
+  "realized": [
+    {
+      "pack": "english_russian",
+      "overall": 4437,
+      "head": "to be realized",
+      "example": "The plan was realized.",
+      "ru": "реализоваться"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 9576,
+      "head": "to realize too late",
+      "example": "He realized it too late.",
+      "ru": "спохватиться слишком поздно"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 2751,
+      "head": "to realize",
+      "example": "I realized that.",
+      "ru": "осознать"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 6043,
+      "head": "to be realized",
+      "example": "The plan was realized.",
+      "ru": "реализоваться"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 9576,
+      "head": "realize, catch oneself",
+      "example": "He realized it too late.",
+      "ru": "спохватиться"
+    }
+  ],
+  "names": [
+    {
+      "pack": "english_russian",
+      "overall": 5134,
+      "head": "enumerate",
+      "example": "Please enumerate the names.",
+      "ru": "перечислять"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 5430,
+      "head": "to confuse",
+      "example": "I did not confuse the names.",
+      "ru": "перепутать"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 6083,
+      "head": "listed",
+      "example": "The listed names are here.",
+      "ru": "перечисленный"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 7146,
+      "head": "noun",
+      "example": "A noun names a person or thing.",
+      "ru": "существительное"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 7899,
+      "head": "read out",
+      "example": "She will read out the winners' names.",
+      "ru": "зачитать"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 8074,
+      "head": "to call names",
+      "example": "He called him names.",
+      "ru": "обозвать"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 9696,
+      "head": "confuse, mix up",
+      "example": "Do not confuse the names.",
+      "ru": "спутать"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 4335,
+      "head": "list, enumerate",
+      "example": "We need to list the names.",
+      "ru": "перечислить"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 7114,
+      "head": "to enumerate, to list",
+      "example": "He lists the names.",
+      "ru": "перечислять"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 7610,
+      "head": "to mix up, to confuse",
+      "example": "I mixed up the names.",
+      "ru": "перепутать"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 8615,
+      "head": "listed",
+      "example": "The names are already listed.",
+      "ru": "перечисленный"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 9696,
+      "head": "confuse, mix up",
+      "example": "I mixed up the names.",
+      "ru": "спутать"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 9919,
+      "head": "enumeration, listing",
+      "example": "This is an enumeration of names.",
+      "ru": "перечисление"
+    }
+  ],
+  "calling": [
+    {
+      "pack": "english_russian",
+      "overall": 5798,
+      "head": "calling",
+      "example": "This work is her calling.",
+      "ru": "призвание"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 781,
+      "head": "to call, to summon",
+      "example": "I am calling for help.",
+      "ru": "вызывать"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 2934,
+      "head": "to call for, to urge",
+      "example": "They're calling for peace.",
+      "ru": "призывать"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 8183,
+      "head": "calling, vocation",
+      "example": "This is my calling.",
+      "ru": "призвание"
+    }
+  ],
+  "finishing": [
+    {
+      "pack": "english_russian",
+      "overall": 6674,
+      "head": "finishing",
+      "example": "The room's finishing is complete.",
+      "ru": "отделка"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 3791,
+      "head": "to finish, to complete",
+      "example": "I am finishing work.",
+      "ru": "заканчивать"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 9571,
+      "head": "finishing, trim",
+      "example": "The finishing work on the house is complete.",
+      "ru": "отделка"
+    }
+  ],
+  "recognized": [
+    {
+      "pack": "english_russian",
+      "overall": 7034,
+      "head": "recognized",
+      "example": "He was recognized as a good player.",
+      "ru": "признанный"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 6663,
+      "head": "from afar",
+      "example": "I recognized him from afar.",
+      "ru": "издали"
+    }
+  ],
+  "burning": [
+    {
+      "pack": "english_russian",
+      "overall": 7170,
+      "head": "burning",
+      "example": "I have burning pain.",
+      "ru": "жгучий"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 1544,
+      "head": "to burn, to be on",
+      "example": "The fire is burning.",
+      "ru": "гореть"
+    }
+  ],
+  "mine": [
+    {
+      "pack": "english_russian",
+      "overall": 7924,
+      "head": "bet",
+      "example": "This bet is mine.",
+      "ru": "пари"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 13,
+      "head": "that one",
+      "example": "That one is mine.",
+      "ru": "то"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 51,
+      "head": "my, mine",
+      "example": "That's mine.",
+      "ru": "мой"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 537,
+      "head": "acquaintance, familiar",
+      "example": "That's an acquaintance of mine.",
+      "ru": "знакомый"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 1020,
+      "head": "but, on the plus side",
+      "example": "It's small, but it's mine.",
+      "ru": "зато"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 2589,
+      "head": "mine",
+      "example": "Danger — a mine!",
+      "ru": "мина"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 5641,
+      "head": "mine, shaft",
+      "example": "The mine is closed.",
+      "ru": "шахта"
+    }
+  ],
+  "moving": [
+    {
+      "pack": "english_russian",
+      "overall": 8862,
+      "head": "moving",
+      "example": "Fear is the moving force.",
+      "ru": "движущий"
+    },
+    {
+      "pack": "english_russian",
+      "overall": 9971,
+      "head": "pastor, minister",
+      "example": "The pastor delivered a moving sermon.",
+      "ru": "пастор"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 1083,
+      "head": "to move",
+      "example": "We're barely moving.",
+      "ru": "двигаться"
+    },
+    {
+      "pack": "russian_english",
+      "overall": 9261,
+      "head": "to move, to relocate",
+      "example": "We are moving tomorrow.",
+      "ru": "переезжать"
+    }
+  ]
+}

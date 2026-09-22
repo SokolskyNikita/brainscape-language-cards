@@ -1,0 +1,110 @@
+[
+  {
+    "deck": "15260194",
+    "row": 294,
+    "q": "миссис",
+    "a": "Mrs.",
+    "qe": "Миссис Браун уже здесь.",
+    "ae": "Mrs. Brown is already here.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "браун",
+          "band": "absent"
+        }
+      ],
+      "en_vocab": [
+        {
+          "word": "brown",
+          "band": "4500->5000"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260196",
+    "row": 371,
+    "q": "принципиально",
+    "a": "on principle",
+    "qe": "Я принципиально против.",
+    "ae": "I am opposed on principle.",
+    "issues": {
+      "en_vocab": [
+        {
+          "word": "opposed",
+          "band": "4000->4500"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260198",
+    "row": 190,
+    "q": "интеграция",
+    "a": "integration",
+    "qe": "Интеграция ещё идёт.",
+    "ae": "The integration is still ongoing.",
+    "issues": {
+      "en_vocab": [
+        {
+          "word": "ongoing",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260198",
+    "row": 404,
+    "q": "госпожа",
+    "a": "Mrs., Madam",
+    "qe": "Госпожа Иванова уже дома.",
+    "ae": "Mrs. Ivanova is already home.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "иванова",
+          "band": "absent"
+        }
+      ],
+      "en_vocab": [
+        {
+          "word": "ivanova",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260198",
+    "row": 428,
+    "q": "аромат",
+    "a": "aroma, fragrance",
+    "qe": "Какой приятный аромат!",
+    "ae": "What a lovely aroma!",
+    "issues": {
+      "en_vocab": [
+        {
+          "word": "lovely",
+          "band": "6500->7000"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260198",
+    "row": 478,
+    "q": "регулярный",
+    "a": "regular",
+    "qe": "Это регулярный рейс.",
+    "ae": "This is a regular service.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "рейс",
+          "band": "4500->5000"
+        }
+      ]
+    }
+  }
+]

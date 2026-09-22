@@ -1,0 +1,197 @@
+{
+  "pack": "russian_english",
+  "deck": "15260192",
+  "band": "2500->3000",
+  "sha256": "e4984630fd625d398fad8e0135a6c03a0cead4d757dc199b1739e43e78635ce4",
+  "errors": [],
+  "candidates": [
+    {
+      "row": 14,
+      "q": "ловить",
+      "a": "to catch",
+      "qe": "Лови шар!",
+      "ae": "Catch the ball!",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "шар",
+            "band": "2500->3000"
+          }
+        ],
+        "en_vocab": [
+          {
+            "word": "ball",
+            "band": "2500->3000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 44,
+      "q": "явный",
+      "a": "obvious, clear",
+      "qe": "Это явная ложь.",
+      "ae": "That's an obvious lie.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "ложь",
+            "band": "2500->3000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 54,
+      "q": "коммунист",
+      "a": "communist",
+      "qe": "Мой дед коммунист.",
+      "ae": "My grandpa's a communist.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "grandpa",
+            "band": "2500->3000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 56,
+      "q": "двенадцать",
+      "a": "twelve",
+      "qe": "Двенадцать часов.",
+      "ae": "Twelve o'clock.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "o",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 280,
+      "q": "раскрыть",
+      "a": "to reveal",
+      "qe": "Не раскрывай секрет.",
+      "ae": "Don't reveal the secret.",
+      "issues": {
+        "ru_target": "раскрыть | Не раскрывай секрет.",
+        "ru_vocab": [
+          {
+            "word": "раскрывай",
+            "band": "4500->5000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 282,
+      "q": "временной",
+      "a": "time-related, temporal",
+      "qe": "Это временной ряд.",
+      "ae": "That's a time series.",
+      "issues": {
+        "en_target": "time-related, temporal | That's a time series."
+      }
+    },
+    {
+      "row": 283,
+      "q": "надоесть",
+      "a": "to get tired of",
+      "qe": "Мне это надоело.",
+      "ae": "I'm tired of this.",
+      "issues": {
+        "en_target": "to get tired of | I'm tired of this."
+      }
+    },
+    {
+      "row": 284,
+      "q": "задержать",
+      "a": "to delay, to detain",
+      "qe": "Не задерживай меня.",
+      "ae": "Don't delay me.",
+      "issues": {
+        "ru_target": "задержать | Не задерживай меня.",
+        "ru_vocab": [
+          {
+            "word": "задерживай",
+            "band": "7500->8000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 286,
+      "q": "мелочь",
+      "a": "small change, trifle",
+      "qe": "Есть мелочь?",
+      "ae": "Got any change?",
+      "issues": {
+        "en_target": "small change, trifle | Got any change?"
+      }
+    },
+    {
+      "row": 337,
+      "q": "мотор",
+      "a": "engine, motor",
+      "qe": "Мотор не завести.",
+      "ae": "Can't start the engine.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "завести",
+            "band": "2500->3000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 354,
+      "q": "компонент",
+      "a": "component",
+      "qe": "Не хватает компонента.",
+      "ae": "A component is missing.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "missing",
+            "band": "2500->3000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 382,
+      "q": "законодательный",
+      "a": "legislative",
+      "qe": "Законодательная власть.",
+      "ae": "The legislative branch.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "branch",
+            "band": "2500->3000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 390,
+      "q": "слуга",
+      "a": "servant",
+      "qe": "Позови слугу.",
+      "ae": "Call the servant.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "позови",
+            "band": "2500->3000"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+# Credentials (at any depth)
+.env
+.env.*
+!.env.example
+curl_brainscape.txt
+
+# Local Python environments, packaging and OS files
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.DS_Store
+.pytest_cache/
+
+# Disposable execution output
+*.log
+*.tmp
+*.tmp.*
+run.lock
+
+# Generated/downloaded audio stays local. Keep manifests and receipts in Git.
+*.mp3
+*.wav
+*.aiff
+*.m4a
+
+# Optional portable audio backup
+/cards-audio.tar.gz
+
+# Optional spreadsheet runtime dependencies
+node_modules

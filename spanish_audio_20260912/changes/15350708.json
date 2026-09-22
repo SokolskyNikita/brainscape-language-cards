@@ -1,0 +1,495 @@
+[
+  {
+    "row": 119,
+    "cardId": 491520170,
+    "before": {
+      "question": "# Translate:\n\napproach you\n\n## Footnote\n\nI will approach you quietly.",
+      "answer": "acercarte\n\n## Footnote\n\nMe acercaré a ti silenciosamente.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "approach you",
+      "qMdClarifier": "",
+      "qMdFootnote": "I will approach you quietly.",
+      "aMdPrompt": "",
+      "aMdBody": "acercarte",
+      "aMdClarifier": "",
+      "aMdFootnote": "Me acercaré a ti silenciosamente."
+    },
+    "after": {
+      "question": "# Translate:\n\nto get closer\n\n## Footnote\n\nYou can get closer to the cat.",
+      "answer": "acercarte\n\n## Footnote\n\nPuedes acercarte al gato.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "to get closer",
+      "qMdClarifier": "",
+      "qMdFootnote": "You can get closer to the cat.",
+      "aMdPrompt": "",
+      "aMdBody": "acercarte",
+      "aMdClarifier": "",
+      "aMdFootnote": "Puedes acercarte al gato."
+    },
+    "reason": "Use actual acercarte form."
+  },
+  {
+    "row": 173,
+    "cardId": 491520226,
+    "before": {
+      "question": "# Translate:\n\nconcentrated\n\n## Footnote\n\nShe concentrated on her homework.",
+      "answer": "concentrado\n\n## Footnote\n\nElla se concentró en su tarea.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "concentrated",
+      "qMdClarifier": "",
+      "qMdFootnote": "She concentrated on her homework.",
+      "aMdPrompt": "",
+      "aMdBody": "concentrado",
+      "aMdClarifier": "",
+      "aMdFootnote": "Ella se concentró en su tarea."
+    },
+    "after": {
+      "question": "# Translate:\n\nconcentrated\n\n## Footnote\n\nShe is concentrated on her homework.",
+      "answer": "concentrado\n\n## Footnote\n\nElla está concentrada en su tarea.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "concentrated",
+      "qMdClarifier": "",
+      "qMdFootnote": "She is concentrated on her homework.",
+      "aMdPrompt": "",
+      "aMdBody": "concentrado",
+      "aMdClarifier": "",
+      "aMdFootnote": "Ella está concentrada en su tarea."
+    },
+    "reason": "Use participle concentrado."
+  },
+  {
+    "row": 187,
+    "cardId": 491520241,
+    "before": {
+      "question": "# Translate:\n\ntake it for him/her (imperative, ustedes)\n\n## Footnote\n\nPlease, take it for her.",
+      "answer": "llévenselo\n\n## Footnote\n\nPor favor, llévenselo a ella.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "take it for him/her (imperative, ustedes)",
+      "qMdClarifier": "",
+      "qMdFootnote": "Please, take it for her.",
+      "aMdPrompt": "",
+      "aMdBody": "llévenselo",
+      "aMdClarifier": "",
+      "aMdFootnote": "Por favor, llévenselo a ella."
+    },
+    "after": {
+      "question": "# Translate:\n\ntake it away (imperative, ustedes)\n\n## Footnote\n\nPlease take it away.",
+      "answer": "llévenselo\n\n## Footnote\n\nPor favor, llévenselo.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "take it away (imperative, ustedes)",
+      "qMdClarifier": "",
+      "qMdFootnote": "Please take it away.",
+      "aMdPrompt": "",
+      "aMdBody": "llévenselo",
+      "aMdClarifier": "",
+      "aMdFootnote": "Por favor, llévenselo."
+    },
+    "reason": "Use natural llevarse construction."
+  },
+  {
+    "row": 197,
+    "cardId": 491520251,
+    "before": {
+      "question": "# Translate:\n\nremove from yourself\n\n## Footnote\n\nPlease remove your shirt.",
+      "answer": "quítese\n\n## Footnote\n\nPor favor, quítese la camisa.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "remove from yourself",
+      "qMdClarifier": "",
+      "qMdFootnote": "Please remove your shirt.",
+      "aMdPrompt": "",
+      "aMdBody": "quítese",
+      "aMdClarifier": "",
+      "aMdFootnote": "Por favor, quítese la camisa."
+    },
+    "after": {
+      "question": "# Translate:\n\ntake off (imperative, usted)\n\n## Footnote\n\nPlease remove your shirt.",
+      "answer": "quítese\n\n## Footnote\n\nPor favor, quítese la camisa.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "take off (imperative, usted)",
+      "qMdClarifier": "",
+      "qMdFootnote": "Please remove your shirt.",
+      "aMdPrompt": "",
+      "aMdBody": "quítese",
+      "aMdClarifier": "",
+      "aMdFootnote": "Por favor, quítese la camisa."
+    },
+    "reason": "Natural clothing sense of quítese."
+  },
+  {
+    "row": 260,
+    "cardId": 491520315,
+    "before": {
+      "question": "# Translate:\n\ncivil servant, pubic worker\n\n## Footnote\n\nThe civil servant signed the document.",
+      "answer": "funcionario\n\n## Footnote\n\nEl funcionario firmó el documento.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "civil servant, pubic worker",
+      "qMdClarifier": "",
+      "qMdFootnote": "The civil servant signed the document.",
+      "aMdPrompt": "",
+      "aMdBody": "funcionario",
+      "aMdClarifier": "",
+      "aMdFootnote": "El funcionario firmó el documento."
+    },
+    "after": {
+      "question": "# Translate:\n\ncivil servant, public employee\n\n## Footnote\n\nThe civil servant signed the document.",
+      "answer": "funcionario\n\n## Footnote\n\nEl funcionario firmó el documento.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "civil servant, public employee",
+      "qMdClarifier": "",
+      "qMdFootnote": "The civil servant signed the document.",
+      "aMdPrompt": "",
+      "aMdBody": "funcionario",
+      "aMdClarifier": "",
+      "aMdFootnote": "El funcionario firmó el documento."
+    },
+    "reason": "Correct pubic typo."
+  },
+  {
+    "row": 270,
+    "cardId": 491520325,
+    "before": {
+      "question": "# Translate:\n\ninterest\n\n## Footnote\n\nI hope this will interest you.",
+      "answer": "interese\n\n## Footnote\n\nEspero que esto te interese.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "interest",
+      "qMdClarifier": "",
+      "qMdFootnote": "I hope this will interest you.",
+      "aMdPrompt": "",
+      "aMdBody": "interese",
+      "aMdClarifier": "",
+      "aMdFootnote": "Espero que esto te interese."
+    },
+    "after": {
+      "question": "# Translate:\n\ninterest (subjunctive)\n\n## Footnote\n\nI hope this will interest you.",
+      "answer": "interese\n\n## Footnote\n\nEspero que esto te interese.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "interest (subjunctive)",
+      "qMdClarifier": "",
+      "qMdFootnote": "I hope this will interest you.",
+      "aMdPrompt": "",
+      "aMdBody": "interese",
+      "aMdClarifier": "",
+      "aMdFootnote": "Espero que esto te interese."
+    },
+    "reason": "Clarify conjugated interese."
+  },
+  {
+    "row": 295,
+    "cardId": 491520350,
+    "before": {
+      "question": "# Translate:\n\nto lock up\n\n## Footnote\n\nPlease lock up the store tonight.",
+      "answer": "encerrar\n\n## Footnote\n\nPor favor, encierra la tienda esta noche.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "to lock up",
+      "qMdClarifier": "",
+      "qMdFootnote": "Please lock up the store tonight.",
+      "aMdPrompt": "",
+      "aMdBody": "encerrar",
+      "aMdClarifier": "",
+      "aMdFootnote": "Por favor, encierra la tienda esta noche."
+    },
+    "after": {
+      "question": "# Translate:\n\nto lock up\n\n## Footnote\n\nDo not lock up the dog.",
+      "answer": "encerrar\n\n## Footnote\n\nNo encierres al perro.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "to lock up",
+      "qMdClarifier": "",
+      "qMdFootnote": "Do not lock up the dog.",
+      "aMdPrompt": "",
+      "aMdBody": "encerrar",
+      "aMdClarifier": "",
+      "aMdFootnote": "No encierres al perro."
+    },
+    "reason": "Encerrar confines someone; it does not mean closing a shop."
+  },
+  {
+    "row": 317,
+    "cardId": 491520373,
+    "before": {
+      "question": "# Translate:\n\nI dare\n\n## Footnote\n\nI dare to try it.",
+      "answer": "atrevo\n\n## Footnote\n\nMe atrevo a intentarlo.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "I dare",
+      "qMdClarifier": "",
+      "qMdFootnote": "I dare to try it.",
+      "aMdPrompt": "",
+      "aMdBody": "atrevo",
+      "aMdClarifier": "",
+      "aMdFootnote": "Me atrevo a intentarlo."
+    },
+    "after": {
+      "question": "# Translate:\n\nI dare\n\n## Footnote\n\nI dare to try it.",
+      "answer": "me atrevo\n\n## Footnote\n\nMe atrevo a intentarlo.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "I dare",
+      "qMdClarifier": "",
+      "qMdFootnote": "I dare to try it.",
+      "aMdPrompt": "",
+      "aMdBody": "me atrevo",
+      "aMdClarifier": "",
+      "aMdFootnote": "Me atrevo a intentarlo."
+    },
+    "reason": "Dare requires atreverse."
+  },
+  {
+    "row": 332,
+    "cardId": 491520388,
+    "before": {
+      "question": "# Translate:\n\nfamiliarized\n\n## Footnote\n\nShe familiarized herself with the new software.",
+      "answer": "familiarizado\n\n## Footnote\n\nElla se familiarizó con el nuevo software.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "familiarized",
+      "qMdClarifier": "",
+      "qMdFootnote": "She familiarized herself with the new software.",
+      "aMdPrompt": "",
+      "aMdBody": "familiarizado",
+      "aMdClarifier": "",
+      "aMdFootnote": "Ella se familiarizó con el nuevo software."
+    },
+    "after": {
+      "question": "# Translate:\n\nfamiliarized\n\n## Footnote\n\nShe has familiarized herself with the software.",
+      "answer": "familiarizado\n\n## Footnote\n\nElla se ha familiarizado con el programa.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "familiarized",
+      "qMdClarifier": "",
+      "qMdFootnote": "She has familiarized herself with the software.",
+      "aMdPrompt": "",
+      "aMdBody": "familiarizado",
+      "aMdClarifier": "",
+      "aMdFootnote": "Ella se ha familiarizado con el programa."
+    },
+    "reason": "Use participle familiarizado."
+  },
+  {
+    "row": 376,
+    "cardId": 491520434,
+    "before": {
+      "question": "# Translate:\n\ncontacted\n\n## Footnote\n\nShe contacted me yesterday evening.",
+      "answer": "contactado\n\n## Footnote\n\nElla me contactó ayer por la noche.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "contacted",
+      "qMdClarifier": "",
+      "qMdFootnote": "She contacted me yesterday evening.",
+      "aMdPrompt": "",
+      "aMdBody": "contactado",
+      "aMdClarifier": "",
+      "aMdFootnote": "Ella me contactó ayer por la noche."
+    },
+    "after": {
+      "question": "# Translate:\n\ncontacted\n\n## Footnote\n\nShe has contacted me.",
+      "answer": "contactado\n\n## Footnote\n\nElla me ha contactado.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "contacted",
+      "qMdClarifier": "",
+      "qMdFootnote": "She has contacted me.",
+      "aMdPrompt": "",
+      "aMdBody": "contactado",
+      "aMdClarifier": "",
+      "aMdFootnote": "Ella me ha contactado."
+    },
+    "reason": "Use target contactado."
+  },
+  {
+    "row": 380,
+    "cardId": 734811165,
+    "before": {
+      "question": "# Translate:\n\nbreak\n\n## Footnote\n\nYou're breaking the glass.",
+      "answer": "you rompes\n\n## Footnote\n\nRompes el vidrio.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "break",
+      "qMdClarifier": "",
+      "qMdFootnote": "You're breaking the glass.",
+      "aMdPrompt": "",
+      "aMdBody": "you rompes",
+      "aMdClarifier": "",
+      "aMdFootnote": "Rompes el vidrio."
+    },
+    "after": {
+      "question": "# Translate:\n\nyou break\n\n## Footnote\n\nYou break the glass.",
+      "answer": "rompes\n\n## Footnote\n\nRompes el vidrio.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "you break",
+      "qMdClarifier": "",
+      "qMdFootnote": "You break the glass.",
+      "aMdPrompt": "",
+      "aMdBody": "rompes",
+      "aMdClarifier": "",
+      "aMdFootnote": "Rompes el vidrio."
+    },
+    "reason": "Remove stray English from Spanish headword; clarify person."
+  },
+  {
+    "row": 410,
+    "cardId": 491520468,
+    "before": {
+      "question": "# Translate:\n\nplanted\n\n## Footnote\n\nShe planted a tree yesterday.",
+      "answer": "plantado\n\n## Footnote\n\nElla plantó un árbol ayer.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "planted",
+      "qMdClarifier": "",
+      "qMdFootnote": "She planted a tree yesterday.",
+      "aMdPrompt": "",
+      "aMdBody": "plantado",
+      "aMdClarifier": "",
+      "aMdFootnote": "Ella plantó un árbol ayer."
+    },
+    "after": {
+      "question": "# Translate:\n\nplanted\n\n## Footnote\n\nShe has planted a tree.",
+      "answer": "plantado\n\n## Footnote\n\nElla ha plantado un árbol.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "planted",
+      "qMdClarifier": "",
+      "qMdFootnote": "She has planted a tree.",
+      "aMdPrompt": "",
+      "aMdBody": "plantado",
+      "aMdClarifier": "",
+      "aMdFootnote": "Ella ha plantado un árbol."
+    },
+    "reason": "Use target plantado."
+  },
+  {
+    "row": 434,
+    "cardId": 491520492,
+    "before": {
+      "question": "# Translate:\n\ntelephone\n\n## Footnote\n\nI answered the telephone quickly.",
+      "answer": "telefónico\n\n## Footnote\n\nContesté el aparato telefónico rápidamente.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "telephone",
+      "qMdClarifier": "",
+      "qMdFootnote": "I answered the telephone quickly.",
+      "aMdPrompt": "",
+      "aMdBody": "telefónico",
+      "aMdClarifier": "",
+      "aMdFootnote": "Contesté el aparato telefónico rápidamente."
+    },
+    "after": {
+      "question": "# Translate:\n\ntelephone (adjective)\n\n## Footnote\n\nThe telephone service is expensive.",
+      "answer": "telefónico\n\n## Footnote\n\nEl servicio telefónico es caro.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "telephone (adjective)",
+      "qMdClarifier": "",
+      "qMdFootnote": "The telephone service is expensive.",
+      "aMdPrompt": "",
+      "aMdBody": "telefónico",
+      "aMdClarifier": "",
+      "aMdFootnote": "El servicio telefónico es caro."
+    },
+    "reason": "Clarify adjective telefónico."
+  },
+  {
+    "row": 443,
+    "cardId": 491520501,
+    "before": {
+      "question": "# Translate:\n\ncompleted\n\n## Footnote\n\nI completed the assignment yesterday.",
+      "answer": "completado\n\n## Footnote\n\nCompleté la tarea ayer.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "completed",
+      "qMdClarifier": "",
+      "qMdFootnote": "I completed the assignment yesterday.",
+      "aMdPrompt": "",
+      "aMdBody": "completado",
+      "aMdClarifier": "",
+      "aMdFootnote": "Completé la tarea ayer."
+    },
+    "after": {
+      "question": "# Translate:\n\ncompleted\n\n## Footnote\n\nI have completed the assignment.",
+      "answer": "completado\n\n## Footnote\n\nHe completado la tarea.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "completed",
+      "qMdClarifier": "",
+      "qMdFootnote": "I have completed the assignment.",
+      "aMdPrompt": "",
+      "aMdBody": "completado",
+      "aMdClarifier": "",
+      "aMdFootnote": "He completado la tarea."
+    },
+    "reason": "Use target completado."
+  },
+  {
+    "row": 452,
+    "cardId": 491520510,
+    "before": {
+      "question": "# Translate:\n\ntransferred\n\n## Footnote\n\nHe transferred the money yesterday.",
+      "answer": "transferido\n\n## Footnote\n\nÉl transfirió el dinero ayer.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "transferred",
+      "qMdClarifier": "",
+      "qMdFootnote": "He transferred the money yesterday.",
+      "aMdPrompt": "",
+      "aMdBody": "transferido",
+      "aMdClarifier": "",
+      "aMdFootnote": "Él transfirió el dinero ayer."
+    },
+    "after": {
+      "question": "# Translate:\n\ntransferred\n\n## Footnote\n\nHe has transferred the money.",
+      "answer": "transferido\n\n## Footnote\n\nÉl ha transferido el dinero.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "transferred",
+      "qMdClarifier": "",
+      "qMdFootnote": "He has transferred the money.",
+      "aMdPrompt": "",
+      "aMdBody": "transferido",
+      "aMdClarifier": "",
+      "aMdFootnote": "Él ha transferido el dinero."
+    },
+    "reason": "Use target transferido."
+  },
+  {
+    "row": 469,
+    "cardId": 491520527,
+    "before": {
+      "question": "# Translate:\n\nto prepare yourself\n\n## Footnote\n\nPrepare yourself for the exam.",
+      "answer": "prepararte\n\n## Footnote\n\nPrepárate para el examen.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "to prepare yourself",
+      "qMdClarifier": "",
+      "qMdFootnote": "Prepare yourself for the exam.",
+      "aMdPrompt": "",
+      "aMdBody": "prepararte",
+      "aMdClarifier": "",
+      "aMdFootnote": "Prepárate para el examen."
+    },
+    "after": {
+      "question": "# Translate:\n\nto prepare yourself\n\n## Footnote\n\nYou need to prepare yourself for the exam.",
+      "answer": "prepararte\n\n## Footnote\n\nNecesitas prepararte para el examen.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "to prepare yourself",
+      "qMdClarifier": "",
+      "qMdFootnote": "You need to prepare yourself for the exam.",
+      "aMdPrompt": "",
+      "aMdBody": "prepararte",
+      "aMdClarifier": "",
+      "aMdFootnote": "Necesitas prepararte para el examen."
+    },
+    "reason": "Use infinitive prepararte."
+  },
+  {
+    "row": 472,
+    "cardId": 491520530,
+    "before": {
+      "question": "# Translate:\n\nfall (imperfect subjunctive)\n\n## Footnote\n\nNo quería que yo me cayera.",
+      "answer": "cayera\n\n## Footnote\n\nNo quería que yo me cayera.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "fall (imperfect subjunctive)",
+      "qMdClarifier": "",
+      "qMdFootnote": "No quería que yo me cayera.",
+      "aMdPrompt": "",
+      "aMdBody": "cayera",
+      "aMdClarifier": "",
+      "aMdFootnote": "No quería que yo me cayera."
+    },
+    "after": {
+      "question": "# Translate:\n\nfall (imperfect subjunctive)\n\n## Footnote\n\nHe didn't want me to fall.",
+      "answer": "cayera\n\n## Footnote\n\nNo quería que yo me cayera.",
+      "qMdPrompt": "Translate:",
+      "qMdBody": "fall (imperfect subjunctive)",
+      "qMdClarifier": "",
+      "qMdFootnote": "He didn't want me to fall.",
+      "aMdPrompt": "",
+      "aMdBody": "cayera",
+      "aMdClarifier": "",
+      "aMdFootnote": "No quería que yo me cayera."
+    },
+    "reason": "Restore English example; both sides were Spanish."
+  }
+]

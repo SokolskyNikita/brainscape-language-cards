@@ -1,0 +1,768 @@
+[
+  {
+    "deck": "15260283",
+    "row": 152,
+    "q": "chivalrous",
+    "a": "рыцарский",
+    "qe": "That was a chivalrous act.",
+    "ae": "Это был рыцарский поступок.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "поступок",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260283",
+    "row": 194,
+    "q": "evoke",
+    "a": "навеять",
+    "qe": "The song will evoke memories.",
+    "ae": "Песня навеет воспоминания.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "воспоминания",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260283",
+    "row": 304,
+    "q": "grating",
+    "a": "скрежет",
+    "qe": "I heard a grating sound.",
+    "ae": "Я услышал скрежет.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "услышал",
+          "band": "9500->10000"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260283",
+    "row": 415,
+    "q": "airborne",
+    "a": "десантный",
+    "qe": "Airborne troops arrived at dawn.",
+    "ae": "Десантные войска прибыли на рассвете.",
+    "issues": {
+      "en_vocab": [
+        {
+          "word": "troops",
+          "band": "9000->9500"
+        }
+      ],
+      "ru_vocab": [
+        {
+          "word": "войска",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260283",
+    "row": 424,
+    "q": "splinter",
+    "a": "щепка",
+    "qe": "A splinter pierced my finger.",
+    "ae": "Щепка впилась мне в палец.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "впилась",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260283",
+    "row": 461,
+    "q": "to slow down",
+    "a": "замедлять",
+    "qe": "I slow down my pace.",
+    "ae": "Я замедляю шаг.",
+    "issues": {
+      "en_vocab": [
+        {
+          "word": "pace",
+          "band": "8500->9000"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260283",
+    "row": 488,
+    "q": "transverse",
+    "a": "поперечный",
+    "qe": "The transverse beam is strong.",
+    "ae": "Поперечная балка прочная.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "балка",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260285",
+    "row": 154,
+    "q": "convict",
+    "a": "осуждённый",
+    "qe": "The convict escaped.",
+    "ae": "Осуждённый сбежал.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "сбежал",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260285",
+    "row": 181,
+    "q": "to be entered",
+    "a": "вноситься",
+    "qe": "The name is entered here.",
+    "ae": "Имя вносится сюда.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "сюда",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260285",
+    "row": 224,
+    "q": "seeming",
+    "a": "кажущийся",
+    "qe": "His calm was only seeming.",
+    "ae": "Его спокойствие было лишь кажущимся.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "спокойствие",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260285",
+    "row": 250,
+    "q": "clutch",
+    "a": "сцепление",
+    "qe": "He released the clutch smoothly.",
+    "ae": "Он плавно отпустил сцепление.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "отпустил",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260285",
+    "row": 430,
+    "q": "Cinderella",
+    "a": "Золушка",
+    "qe": "Cinderella lost her shoe.",
+    "ae": "Золушка потеряла туфельку.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "туфельку",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260285",
+    "row": 431,
+    "q": "questioning",
+    "a": "расспросы",
+    "qe": "The questioning continued.",
+    "ae": "Расспросы продолжались.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "продолжались",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260287",
+    "row": 2,
+    "q": "to be paid",
+    "a": "оплачиваться",
+    "qe": "The service is paid separately.",
+    "ae": "Услуга оплачивается отдельно.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "услуга",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260287",
+    "row": 25,
+    "q": "zigzag",
+    "a": "зигзаг",
+    "qe": "The path forms a zigzag.",
+    "ae": "Путь образует зигзаг.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "образует",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260287",
+    "row": 92,
+    "q": "artistically",
+    "a": "художественно",
+    "qe": "The book is artistically designed.",
+    "ae": "Книга художественно оформлена.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "оформлена",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260287",
+    "row": 122,
+    "q": "movable",
+    "a": "движимый",
+    "qe": "This is movable property.",
+    "ae": "Это движимое имущество.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "имущество",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260287",
+    "row": 142,
+    "q": "tick",
+    "a": "клещ",
+    "qe": "Check for ticks after a walk.",
+    "ae": "Проверьтесь на клещей после прогулки.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "проверьтесь",
+          "band": "absent"
+        },
+        {
+          "word": "прогулки",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260287",
+    "row": 144,
+    "q": "weightlessness",
+    "a": "невесомость",
+    "qe": "Astronauts feel weightlessness in space.",
+    "ae": "Космонавты чувствуют невесомость в космосе.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "космосе",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260287",
+    "row": 183,
+    "q": "spermatozoon",
+    "a": "сперматозоид",
+    "qe": "A spermatozoon reaches the egg cell.",
+    "ae": "Сперматозоид достигает яйцеклетки.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "яйцеклетки",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260287",
+    "row": 188,
+    "q": "all-terrain vehicle",
+    "a": "вездеход",
+    "qe": "The all-terrain vehicle crossed the river easily.",
+    "ae": "Вездеход легко пересёк реку.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "пересёк",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260287",
+    "row": 194,
+    "q": "persuasion",
+    "a": "уговоры",
+    "qe": "She used persuasion.",
+    "ae": "Она прибегла к уговорам.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "прибегла",
+          "band": "9500->10000"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260287",
+    "row": 205,
+    "q": "capital investment",
+    "a": "капиталовложение",
+    "qe": "This capital investment paid off.",
+    "ae": "Это капиталовложение окупилось.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "окупилось",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260287",
+    "row": 226,
+    "q": "deduction",
+    "a": "вычет",
+    "qe": "I got a tax deduction.",
+    "ae": "Я получил налоговый вычет.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "налоговый",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260287",
+    "row": 227,
+    "q": "local history",
+    "a": "краеведение",
+    "qe": "I study local history.",
+    "ae": "Я изучаю краеведение.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "изучаю",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260287",
+    "row": 321,
+    "q": "to thread",
+    "a": "продеть",
+    "qe": "Thread the cord through the hole.",
+    "ae": "Проденьте шнур через отверстие.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "отверстие",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260287",
+    "row": 373,
+    "q": "restorative",
+    "a": "восстановительный",
+    "qe": "Restorative sleep is important.",
+    "ae": "Восстановительный сон важен.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "сон",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260287",
+    "row": 382,
+    "q": "tangibly",
+    "a": "ощутимо",
+    "qe": "The situation improved tangibly.",
+    "ae": "Ситуация ощутимо улучшилась.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "улучшилась",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260287",
+    "row": 405,
+    "q": "round loaf",
+    "a": "каравай",
+    "qe": "They baked a round loaf.",
+    "ae": "Они испекли каравай.",
+    "issues": {
+      "en_vocab": [
+        {
+          "word": "baked",
+          "band": "absent"
+        }
+      ],
+      "ru_vocab": [
+        {
+          "word": "испекли",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260287",
+    "row": 416,
+    "q": "to dry",
+    "a": "сохнуть",
+    "qe": "Hang the clothes outside to dry.",
+    "ae": "Повесьте одежду на улице, чтобы она сохла.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "повесьте",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260287",
+    "row": 472,
+    "q": "appropriately",
+    "a": "уместно",
+    "qe": "The joke was appropriately timed.",
+    "ae": "Шутка прозвучала уместно.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "прозвучала",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260287",
+    "row": 487,
+    "q": "senility",
+    "a": "маразм",
+    "qe": "Senility comes with age.",
+    "ae": "Маразм приходит с возрастом.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "приходит",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "22976521",
+    "row": 42,
+    "q": "cardboard",
+    "a": "картонный",
+    "qe": "I bought a cardboard box.",
+    "ae": "Я купил картонную коробку.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "коробку",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "22976521",
+    "row": 51,
+    "q": "close, lock",
+    "a": "замкнуть",
+    "qe": "Please close the circuit.",
+    "ae": "Пожалуйста, замкните цепь.",
+    "issues": {
+      "en_vocab": [
+        {
+          "word": "circuit",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "22976521",
+    "row": 63,
+    "q": "certification",
+    "a": "сертификация",
+    "qe": "The certification ended yesterday.",
+    "ae": "Сертификация завершилась вчера.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "завершилась",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "22976521",
+    "row": 76,
+    "q": "to realize",
+    "a": "спохватиться",
+    "qe": "He realized too late.",
+    "ae": "Он слишком поздно спохватился.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "поздно",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "22976521",
+    "row": 198,
+    "q": "excessively, overly",
+    "a": "чрезмерно",
+    "qe": "He worries excessively.",
+    "ae": "Он чрезмерно беспокоится.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "беспокоится",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "22976521",
+    "row": 204,
+    "q": "aiming, guidance",
+    "a": "наведение",
+    "qe": "The guidance system failed.",
+    "ae": "Система наведения не сработала.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "сработала",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "22976521",
+    "row": 254,
+    "q": "to lay, to put",
+    "a": "закладывать",
+    "qe": "They are laying the foundation.",
+    "ae": "Они закладывают фундамент.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "фундамент",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "22976521",
+    "row": 316,
+    "q": "to fly in",
+    "a": "прилетать",
+    "qe": "The plane flies in every morning.",
+    "ae": "Самолёт прилетает каждое утро.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "самолёт",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "22976521",
+    "row": 361,
+    "q": "to strain, to tense up",
+    "a": "напрягаться",
+    "qe": "I strain under the weight.",
+    "ae": "Я напрягаюсь под тяжестью.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "тяжестью",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "22976521",
+    "row": 383,
+    "q": "tour",
+    "a": "гастроли",
+    "qe": "The theater went on tour.",
+    "ae": "Театр поехал на гастроли.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "поехал",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "22976521",
+    "row": 429,
+    "q": "neighborly, neighboring",
+    "a": "соседский",
+    "qe": "A neighborly gesture helped us.",
+    "ae": "Соседский поступок нам помог.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "поступок",
+          "band": "absent"
+        },
+        {
+          "word": "помог",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "22976521",
+    "row": 443,
+    "q": "estimate, approximate",
+    "a": "прикидывать",
+    "qe": "I estimate the cost.",
+    "ae": "Я прикидываю стоимость.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "стоимость",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "22976521",
+    "row": 476,
+    "q": "to confess, to admit",
+    "a": "сознаться",
+    "qe": "He decided to admit his guilt.",
+    "ae": "Он решил сознаться в своей вине.",
+    "issues": {
+      "en_vocab": [
+        {
+          "word": "guilt",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "22976521",
+    "row": 496,
+    "q": "contact",
+    "a": "соприкосновение",
+    "qe": "Contact with water caused rust.",
+    "ae": "Соприкосновение с водой вызвало ржавчину.",
+    "issues": {
+      "en_vocab": [
+        {
+          "word": "rust",
+          "band": "absent"
+        }
+      ],
+      "ru_vocab": [
+        {
+          "word": "вызвало",
+          "band": "absent"
+        },
+        {
+          "word": "ржавчину",
+          "band": "absent"
+        }
+      ]
+    }
+  }
+]

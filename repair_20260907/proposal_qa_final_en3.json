@@ -1,0 +1,634 @@
+[
+  {
+    "deck": "15260260",
+    "row": 22,
+    "q": "outward",
+    "a": "наружу",
+    "qe": "The door opens outward.",
+    "ae": "Дверь открывается наружу.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "открывается",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260260",
+    "row": 29,
+    "q": "parking",
+    "a": "стоянка",
+    "qe": "Parking is allowed here.",
+    "ae": "Здесь разрешена стоянка.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "разрешена",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260260",
+    "row": 81,
+    "q": "excitation",
+    "a": "возбуждение",
+    "qe": "The excitation increased.",
+    "ae": "Возбуждение усилилось.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "усилилось",
+          "band": "5000->5500"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260260",
+    "row": 166,
+    "q": "diagnosis",
+    "a": "диагноз",
+    "qe": "The doctor made a diagnosis today.",
+    "ae": "Сегодня врач поставил диагноз.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "поставил",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260260",
+    "row": 173,
+    "q": "mentally",
+    "a": "мысленно",
+    "qe": "She mentally repeated the words.",
+    "ae": "Она мысленно повторила слова.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "повторила",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260260",
+    "row": 196,
+    "q": "nail",
+    "a": "ноготь",
+    "qe": "Her nail is broken.",
+    "ae": "У неё сломан ноготь.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "сломан",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260260",
+    "row": 240,
+    "q": "closely",
+    "a": "тесно",
+    "qe": "They worked closely.",
+    "ae": "Они тесно сотрудничали.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "сотрудничали",
+          "band": "3500->4000"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260260",
+    "row": 264,
+    "q": "weakly",
+    "a": "слабо",
+    "qe": "The light shone weakly.",
+    "ae": "Свет слабо светил.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "светил",
+          "band": "7000->7500"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260260",
+    "row": 366,
+    "q": "not long",
+    "a": "недолго",
+    "qe": "She stayed here not long.",
+    "ae": "Она пробыла здесь недолго.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "пробыла",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260260",
+    "row": 378,
+    "q": "excursion",
+    "a": "экскурсия",
+    "qe": "The excursion starts today.",
+    "ae": "Экскурсия начинается сегодня.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "начинается",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260260",
+    "row": 416,
+    "q": "rite",
+    "a": "обряд",
+    "qe": "The wedding rite was short.",
+    "ae": "Свадебный обряд был коротким.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "свадебный",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260260",
+    "row": 433,
+    "q": "functioning",
+    "a": "функционирование",
+    "qe": "The system's functioning is stable.",
+    "ae": "Функционирование системы стабильно.",
+    "issues": {
+      "en_vocab": [
+        {
+          "word": "stable",
+          "band": "3000->3500"
+        }
+      ],
+      "ru_vocab": [
+        {
+          "word": "стабильно",
+          "band": "3000->3500"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260260",
+    "row": 469,
+    "q": "crack",
+    "a": "щель",
+    "qe": "Light comes through the crack.",
+    "ae": "Свет проникает через щель.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "проникает",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260260",
+    "row": 485,
+    "q": "liquidation",
+    "a": "ликвидация",
+    "qe": "The company is in liquidation.",
+    "ae": "Компания находится в процессе ликвидации.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "находится",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260263",
+    "row": 27,
+    "q": "deceased",
+    "a": "покойный",
+    "qe": "The deceased was respected.",
+    "ae": "Покойного уважали.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "уважали",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260263",
+    "row": 74,
+    "q": "architect",
+    "a": "архитектор",
+    "qe": "The architect drew the plan.",
+    "ae": "Архитектор нарисовал план.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "нарисовал",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260263",
+    "row": 81,
+    "q": "bubble",
+    "a": "пузырь",
+    "qe": "There is a soap bubble.",
+    "ae": "Там мыльный пузырь.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "мыльный",
+          "band": "6500->7000"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260263",
+    "row": 109,
+    "q": "oncoming",
+    "a": "встречный",
+    "qe": "The oncoming car is fast.",
+    "ae": "Встречная машина едет быстро.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "едет",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260263",
+    "row": 128,
+    "q": "cardiac",
+    "a": "сердечный",
+    "qe": "He has a cardiac disease.",
+    "ae": "У него сердечное заболевание.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "заболевание",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260263",
+    "row": 227,
+    "q": "disgust",
+    "a": "отвращение",
+    "qe": "His behavior caused disgust.",
+    "ae": "Его поведение вызвало отвращение.",
+    "issues": {
+      "en_vocab": [
+        {
+          "word": "caused",
+          "band": "3500->4000"
+        }
+      ],
+      "ru_vocab": [
+        {
+          "word": "вызвало",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260263",
+    "row": 233,
+    "q": "conditionally",
+    "a": "условно",
+    "qe": "He was released conditionally.",
+    "ae": "Его освободили условно.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "освободили",
+          "band": "4500->5000"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260263",
+    "row": 234,
+    "q": "spell",
+    "a": "заклинание",
+    "qe": "She uttered a powerful spell.",
+    "ae": "Она произнесла мощное заклинание.",
+    "issues": {
+      "en_vocab": [
+        {
+          "word": "uttered",
+          "band": "4500->5000"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260263",
+    "row": 244,
+    "q": "clan",
+    "a": "клан",
+    "qe": "The clan gathered.",
+    "ae": "Клан собрался.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "собрался",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260263",
+    "row": 254,
+    "q": "declaration",
+    "a": "декларация",
+    "qe": "The declaration was signed.",
+    "ae": "Декларация была подписана.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "подписана",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260263",
+    "row": 273,
+    "q": "coup",
+    "a": "переворот",
+    "qe": "They planned a coup.",
+    "ae": "Они планировали переворот.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "планировали",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260263",
+    "row": 367,
+    "q": "Kyiv-style",
+    "a": "по-киевски",
+    "qe": "The meat is cooked Kyiv-style.",
+    "ae": "Мясо приготовлено по-киевски.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "приготовлено",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260263",
+    "row": 474,
+    "q": "rag",
+    "a": "тряпка",
+    "qe": "I wiped the table with a rag.",
+    "ae": "Я вытер стол тряпкой.",
+    "issues": {
+      "en_vocab": [
+        {
+          "word": "wiped",
+          "band": "4500->5000"
+        }
+      ],
+      "ru_vocab": [
+        {
+          "word": "вытер",
+          "band": "4500->5000"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260263",
+    "row": 478,
+    "q": "spark",
+    "a": "искра",
+    "qe": "A spark started the fire.",
+    "ae": "Искра вызвала пожар.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "вызвала",
+          "band": "absent"
+        },
+        {
+          "word": "пожар",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260266",
+    "row": 7,
+    "q": "removal",
+    "a": "удаление",
+    "qe": "The removal was necessary.",
+    "ae": "Удаление было необходимо.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "необходимо",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260266",
+    "row": 150,
+    "q": "holidays",
+    "a": "каникулы",
+    "qe": "The holidays begin tomorrow.",
+    "ae": "Каникулы начинаются завтра.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "начинаются",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260266",
+    "row": 229,
+    "q": "morally",
+    "a": "морально",
+    "qe": "This is morally wrong.",
+    "ae": "Это морально неправильно.",
+    "issues": {
+      "en_vocab": [
+        {
+          "word": "wrong",
+          "band": "7500->8000"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260266",
+    "row": 348,
+    "q": "agenda",
+    "a": "повестка",
+    "qe": "The agenda has five items.",
+    "ae": "В повестке пять пунктов.",
+    "issues": {
+      "en_vocab": [
+        {
+          "word": "items",
+          "band": "absent"
+        }
+      ],
+      "ru_vocab": [
+        {
+          "word": "пунктов",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260266",
+    "row": 353,
+    "q": "terror",
+    "a": "террор",
+    "qe": "Terror gripped the city.",
+    "ae": "Террор охватил город.",
+    "issues": {
+      "en_vocab": [
+        {
+          "word": "gripped",
+          "band": "7500->8000"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260266",
+    "row": 420,
+    "q": "heroic",
+    "a": "героический",
+    "qe": "It was a heroic deed.",
+    "ae": "Это был героический поступок.",
+    "issues": {
+      "en_vocab": [
+        {
+          "word": "deed",
+          "band": "absent"
+        }
+      ],
+      "ru_vocab": [
+        {
+          "word": "поступок",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260266",
+    "row": 430,
+    "q": "to pull",
+    "a": "рвануть",
+    "qe": "He pulled the rope sharply.",
+    "ae": "Он резко рванул верёвку.",
+    "issues": {
+      "en_vocab": [
+        {
+          "word": "rope",
+          "band": "6000->6500"
+        }
+      ],
+      "ru_vocab": [
+        {
+          "word": "верёвку",
+          "band": "absent"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260266",
+    "row": 446,
+    "q": "documentary",
+    "a": "документальный",
+    "qe": "This is a documentary film.",
+    "ae": "Это документальный фильм.",
+    "issues": {
+      "en_vocab": [
+        {
+          "word": "film",
+          "band": "9000->9500"
+        }
+      ]
+    }
+  },
+  {
+    "deck": "15260266",
+    "row": 452,
+    "q": "tremor",
+    "a": "дрожь",
+    "qe": "I felt a tremor.",
+    "ae": "Я почувствовал дрожь.",
+    "issues": {
+      "ru_vocab": [
+        {
+          "word": "почувствовал",
+          "band": "absent"
+        }
+      ]
+    }
+  }
+]

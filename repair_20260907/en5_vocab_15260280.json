@@ -1,0 +1,42 @@
+[
+  {
+    "row": 39,
+    "after": ["quotation", "цитирование", "Quotation is used in the text.", "Цитирование используется в тексте."],
+    "reason": "Use the process noun naturally with prior-deck vocabulary."
+  },
+  {
+    "row": 50,
+    "after": ["oblivion", "забвение", "His name fell into oblivion.", "Его имя впало в забвение."],
+    "reason": "Use the standard впасть в забвение collocation; впасть is prior-deck vocabulary."
+  },
+  {
+    "row": 131,
+    "after": ["shoot down", "сбить", "They shot down the bird.", "Они сбили птицу."],
+    "reason": "Сбить is the correct target for shooting down a bird and avoids the untaught самолёт."
+  },
+  {
+    "row": 152,
+    "after": ["extraction", "извлечение", "The extraction was automatic.", "Извлечение было автоматическим."],
+    "reason": "Remove untaught data while retaining a natural matched predicate."
+  },
+  {
+    "row": 183,
+    "after": ["intercourse", "сношение", "Sexual intercourse is part of life.", "Сексуальное сношение — часть жизни."],
+    "reason": "Use the formal sexual-intercourse sense with сексуальный and other prior-deck vocabulary."
+  },
+  {
+    "row": 244,
+    "after": ["excessively", "чрезмерно", "His reaction was excessively sharp.", "Его реакция была чрезмерно резкой."],
+    "reason": "Replace untaught harsh with the prior-deck sharp/резко word family."
+  },
+  {
+    "row": 369,
+    "after": ["switching", "переключение", "Switching channels is a difficult process.", "Переключение каналов — трудный процесс."],
+    "reason": "Use a natural nominal predicate built entirely from prior-deck vocabulary."
+  },
+  {
+    "row": 483,
+    "after": ["avalanche", "лавина", "I see an avalanche.", "Я вижу лавину."],
+    "reason": "Remove untaught сошла while keeping a natural, exact target example."
+  }
+]

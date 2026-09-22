@@ -1,0 +1,2540 @@
+[
+  {
+    "pack": "russian_english",
+    "deck": "15260200",
+    "row": 24,
+    "before": [
+      "тяжкий",
+      "heavy, hard",
+      "У него тяжкий день.",
+      "He has a hard day."
+    ],
+    "after": [
+      "тяжкий",
+      "grave, grievous",
+      "Это тяжкое преступление.",
+      "This is a grave crime."
+    ],
+    "reason": "Correct the gloss and align both examples for тяжкий."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260200",
+    "row": 31,
+    "before": [
+      "увлечение",
+      "hobby, passion",
+      "Сад — моё увлечение.",
+      "The garden is my hobby."
+    ],
+    "after": [
+      "увлечение",
+      "hobby, passion",
+      "Музыка — моё увлечение.",
+      "Music is my hobby."
+    ],
+    "reason": "Correct an unnatural or mismatched example for увлечение."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260200",
+    "row": 37,
+    "before": [
+      "респондент",
+      "respondent, survey participant",
+      "Респондент заполнил опрос.",
+      "The respondent filled the survey."
+    ],
+    "after": [
+      "респондент",
+      "respondent",
+      "Респондент ответил на вопрос.",
+      "The respondent answered a question."
+    ],
+    "reason": "Correct an unnatural or mismatched example for респондент. Final adjudication: The English repair leaves the Russian collocation заполнил опрос; one completes a questionnaire, while one answers a survey/question."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260200",
+    "row": 43,
+    "before": [
+      "издатель",
+      "publisher, editor",
+      "Издатель выпустил новую книгу.",
+      "The publisher released a new book."
+    ],
+    "after": [
+      "издатель",
+      "publisher",
+      "Издатель выпустил новую книгу.",
+      "The publisher released a new book."
+    ],
+    "reason": "Correct the gloss and align both examples for издатель."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260200",
+    "row": 66,
+    "before": [
+      "специфика",
+      "specificity, peculiarity",
+      "Я понял специфику дела.",
+      "I understood the specificity of the matter."
+    ],
+    "after": [
+      "специфика",
+      "specifics, specific nature",
+      "Я понял специфику дела.",
+      "I understood the specifics of the matter."
+    ],
+    "reason": "Correct the gloss and align both examples for специфика."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260200",
+    "row": 67,
+    "before": [
+      "функционирование",
+      "functioning, operation",
+      "Функционирование системы нормальное.",
+      "The system's functioning is normal."
+    ],
+    "after": [
+      "функционирование",
+      "functioning, operation",
+      "Функционирование системы проверено.",
+      "The system’s operation has been checked."
+    ],
+    "reason": "Correct an unnatural or mismatched example for функционирование."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260200",
+    "row": 75,
+    "before": [
+      "значимость",
+      "significance, importance",
+      "Значимость этого велика.",
+      "The significance of this is great."
+    ],
+    "after": [
+      "значимость",
+      "significance, importance",
+      "Значимость решения очевидна.",
+      "The significance of the decision is clear."
+    ],
+    "reason": "Correct an unnatural or mismatched example for значимость."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260200",
+    "row": 78,
+    "before": [
+      "пропадать",
+      "to disappear, to vanish",
+      "Ключи вечно пропадают.",
+      "The keys disappear forever."
+    ],
+    "after": [
+      "пропадать",
+      "to disappear, to vanish",
+      "Ключи вечно пропадают.",
+      "The keys keep disappearing."
+    ],
+    "reason": "Correct an unnatural or mismatched example for пропадать."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260200",
+    "row": 109,
+    "before": [
+      "заблуждение",
+      "delusion, misconception",
+      "Это простое заблуждение.",
+      "This is a simple delusion."
+    ],
+    "after": [
+      "заблуждение",
+      "misconception, delusion",
+      "Это заблуждение.",
+      "This is a misconception."
+    ],
+    "reason": "Correct the gloss and align both examples for заблуждение."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260200",
+    "row": 131,
+    "before": [
+      "помолчать",
+      "to be silent, to keep quiet",
+      "Я решил помолчать.",
+      "I decided to be silent."
+    ],
+    "after": [
+      "помолчать",
+      "to keep quiet, to be silent",
+      "Я решил помолчать.",
+      "I decided to keep quiet."
+    ],
+    "reason": "Correct the gloss and align both examples for помолчать."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260200",
+    "row": 134,
+    "before": [
+      "осознание",
+      "realization, awareness",
+      "Пришло важное осознание.",
+      "An important realization came."
+    ],
+    "after": [
+      "осознание",
+      "realization, awareness",
+      "Осознание ошибки пришло позже.",
+      "The realization of the mistake came later."
+    ],
+    "reason": "Correct an unnatural or mismatched example for осознание."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260200",
+    "row": 144,
+    "before": [
+      "залить",
+      "pour, flood",
+      "Залейте воду в стакан.",
+      "Pour water into the glass."
+    ],
+    "after": [
+      "залить",
+      "to flood, to pour over",
+      "Дождь залил улицу.",
+      "The rain flooded the street."
+    ],
+    "reason": "Correct the gloss and align both examples for залить."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260200",
+    "row": 146,
+    "before": [
+      "упаковка",
+      "packaging, package",
+      "Упаковка товара крепкая.",
+      "The packaging of the goods is strong."
+    ],
+    "after": [
+      "упаковка",
+      "packaging, package",
+      "Упаковка крепкая.",
+      "The package is strong."
+    ],
+    "reason": "Correct an unnatural or mismatched example for упаковка."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260200",
+    "row": 148,
+    "before": [
+      "ликвидация",
+      "liquidation, elimination",
+      "Компания начала ликвидацию.",
+      "The company started liquidation."
+    ],
+    "after": [
+      "ликвидация",
+      "liquidation, elimination",
+      "Ликвидация компании началась.",
+      "The company’s liquidation has begun."
+    ],
+    "reason": "Correct an unnatural or mismatched example for ликвидация."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260200",
+    "row": 164,
+    "before": [
+      "менеджмент",
+      "management, administration",
+      "Менеджмент работает хорошо.",
+      "Management works well."
+    ],
+    "after": [
+      "менеджмент",
+      "management, administration",
+      "Менеджмент здесь эффективен.",
+      "The management here is effective."
+    ],
+    "reason": "Correct an unnatural or mismatched example for менеджмент."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260200",
+    "row": 177,
+    "before": [
+      "светский",
+      "secular, worldly",
+      "Это светский вечер.",
+      "This is a secular evening."
+    ],
+    "after": [
+      "светский",
+      "secular, worldly",
+      "Это светское государство.",
+      "This is a secular state."
+    ],
+    "reason": "Correct an unnatural or mismatched example for светский."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260200",
+    "row": 186,
+    "before": [
+      "сходство",
+      "similarity, resemblance",
+      "Сходство между ними сильное.",
+      "The similarity between them is strong."
+    ],
+    "after": [
+      "сходство",
+      "similarity, resemblance",
+      "Между ними заметное сходство.",
+      "There is a noticeable resemblance between them."
+    ],
+    "reason": "Correct an unnatural or mismatched example for сходство."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260200",
+    "row": 198,
+    "before": [
+      "покойный",
+      "deceased, late",
+      "Покойный отец любил нас.",
+      "The late father loved us."
+    ],
+    "after": [
+      "покойный",
+      "deceased, late",
+      "Покойный отец любил нас.",
+      "Our late father loved us."
+    ],
+    "reason": "Correct an unnatural or mismatched example for покойный."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260200",
+    "row": 203,
+    "before": [
+      "симпатия",
+      "attraction, liking",
+      "У меня к ней симпатия.",
+      "I have an attraction to her."
+    ],
+    "after": [
+      "симпатия",
+      "liking, attraction",
+      "Я чувствую к ней симпатию.",
+      "I have a liking for her."
+    ],
+    "reason": "Correct the gloss and align both examples for симпатия."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260200",
+    "row": 216,
+    "before": [
+      "опускаться",
+      "to descend, to go down",
+      "Солнце опускается.",
+      "The sun descends."
+    ],
+    "after": [
+      "опускаться",
+      "to set, to descend",
+      "Солнце опускается.",
+      "The sun is setting."
+    ],
+    "reason": "Correct the gloss and align both examples for опускаться."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260200",
+    "row": 228,
+    "before": [
+      "слышаться",
+      "to be heard, to sound",
+      "Слышатся голоса.",
+      "Voices are heard."
+    ],
+    "after": [
+      "слышаться",
+      "to be heard, to sound",
+      "Слышатся голоса.",
+      "Voices can be heard."
+    ],
+    "reason": "Correct an unnatural or mismatched example for слышаться."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260200",
+    "row": 237,
+    "before": [
+      "ограничиваться",
+      "to be limited, to be restricted",
+      "Он ограничивался этим.",
+      "He was limited to this."
+    ],
+    "after": [
+      "ограничиваться",
+      "to confine oneself, to be limited",
+      "Он ограничивался этим.",
+      "He confined himself to this."
+    ],
+    "reason": "Correct the gloss and align both examples for ограничиваться."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260200",
+    "row": 247,
+    "before": [
+      "тираж",
+      "circulation, print run",
+      "Тираж книги большой.",
+      "The book's circulation is big."
+    ],
+    "after": [
+      "тираж",
+      "circulation, print run",
+      "Тираж книги большой.",
+      "The book has a large print run."
+    ],
+    "reason": "Correct an unnatural or mismatched example for тираж."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260200",
+    "row": 258,
+    "before": [
+      "энтузиазм",
+      "enthusiasm, zeal",
+      "Её энтузиазм сильный.",
+      "Her enthusiasm is strong."
+    ],
+    "after": [
+      "энтузиазм",
+      "enthusiasm, zeal",
+      "У неё большой энтузиазм.",
+      "She has great enthusiasm."
+    ],
+    "reason": "Correct an unnatural or mismatched example for энтузиазм."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260200",
+    "row": 288,
+    "before": [
+      "усталый",
+      "tired, weary",
+      "Я усталый.",
+      "I am tired."
+    ],
+    "after": [
+      "усталый",
+      "tired, weary",
+      "Он выглядел усталым.",
+      "He looked tired."
+    ],
+    "reason": "Correct an unnatural or mismatched example for усталый."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260200",
+    "row": 299,
+    "before": [
+      "запуск",
+      "launch, startup",
+      "Запуск завтра.",
+      "The launch is tomorrow."
+    ],
+    "after": [
+      "запуск",
+      "launch, startup",
+      "Запуск состоится завтра.",
+      "The launch will take place tomorrow."
+    ],
+    "reason": "Correct an unnatural or mismatched example for запуск."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260200",
+    "row": 303,
+    "before": [
+      "реконструкция",
+      "reconstruction, renovation",
+      "Это реконструкция дома.",
+      "This is a house reconstruction."
+    ],
+    "after": [
+      "реконструкция",
+      "reconstruction, renovation",
+      "Реконструкция дома уже началась.",
+      "The house renovation has already begun."
+    ],
+    "reason": "Correct an unnatural or mismatched example for реконструкция."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260200",
+    "row": 310,
+    "before": [
+      "писание",
+      "writing, scripture",
+      "Это старое писание.",
+      "This is old writing."
+    ],
+    "after": [
+      "писание",
+      "writing, scripture",
+      "Это древнее писание.",
+      "This is an ancient scripture."
+    ],
+    "reason": "Correct an unnatural or mismatched example for писание."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260200",
+    "row": 315,
+    "before": [
+      "встречный",
+      "oncoming, counter",
+      "Встречный ветер сильный.",
+      "The oncoming wind is strong."
+    ],
+    "after": [
+      "встречный",
+      "oncoming, headwind",
+      "Встречный ветер сильный.",
+      "The headwind is strong."
+    ],
+    "reason": "Correct the gloss and align both examples for встречный."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260200",
+    "row": 322,
+    "before": [
+      "единственно",
+      "only, solely",
+      "Единственно это важно.",
+      "Only this matters."
+    ],
+    "after": [
+      "единственно",
+      "only, solely",
+      "Это единственно возможный путь.",
+      "This is the only possible way."
+    ],
+    "reason": "Correct an unnatural or mismatched example for единственно."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260200",
+    "row": 333,
+    "before": [
+      "премьер",
+      "premier, prime minister",
+      "Премьер говорит нет.",
+      "The premier says no."
+    ],
+    "after": [
+      "премьер",
+      "prime minister, premier",
+      "Премьер отказался.",
+      "The prime minister refused."
+    ],
+    "reason": "Correct the gloss and align both examples for премьер."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260200",
+    "row": 334,
+    "before": [
+      "кружок",
+      "circle, club",
+      "Это мой кружок.",
+      "This is my circle."
+    ],
+    "after": [
+      "кружок",
+      "club, circle",
+      "Я хожу в кружок.",
+      "I attend a club."
+    ],
+    "reason": "Correct the gloss and align both examples for кружок."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260200",
+    "row": 339,
+    "before": [
+      "звон",
+      "ringing, chime",
+      "Я слышу звон.",
+      "I hear the ringing."
+    ],
+    "after": [
+      "звон",
+      "ringing, chime",
+      "Я слышу звон.",
+      "I hear ringing."
+    ],
+    "reason": "Correct an unnatural or mismatched example for звон."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260200",
+    "row": 342,
+    "before": [
+      "сердечный",
+      "cardiac, heartfelt",
+      "Это сердечная проблема.",
+      "This is a cardiac problem."
+    ],
+    "after": [
+      "сердечный",
+      "cardiac, heart",
+      "Это сердечное заболевание.",
+      "This is a heart condition."
+    ],
+    "reason": "Correct the gloss and align both examples for сердечный."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260200",
+    "row": 343,
+    "before": [
+      "категорически",
+      "categorically, emphatically",
+      "Я категорически против.",
+      "I am categorically against."
+    ],
+    "after": [
+      "категорически",
+      "categorically, emphatically",
+      "Я категорически против.",
+      "I am emphatically opposed."
+    ],
+    "reason": "Correct an unnatural or mismatched example for категорически."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260200",
+    "row": 345,
+    "before": [
+      "правоохранительный",
+      "law enforcement",
+      "Правоохранительные органы здесь.",
+      "Law enforcement is here."
+    ],
+    "after": [
+      "правоохранительный",
+      "law enforcement",
+      "Здесь работают правоохранительные органы.",
+      "Law enforcement agencies work here."
+    ],
+    "reason": "Correct an unnatural or mismatched example for правоохранительный."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260200",
+    "row": 348,
+    "before": [
+      "конструктор",
+      "designer",
+      "Он хороший конструктор.",
+      "He is a good designer."
+    ],
+    "after": [
+      "конструктор",
+      "design engineer, designer",
+      "Он хороший конструктор.",
+      "He is a good design engineer."
+    ],
+    "reason": "Correct the gloss and align both examples for конструктор."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260200",
+    "row": 364,
+    "before": [
+      "формулировка",
+      "formulation, wording",
+      "Плохая формулировка.",
+      "Bad formulation."
+    ],
+    "after": [
+      "формулировка",
+      "wording, formulation",
+      "Плохая формулировка.",
+      "Poor wording."
+    ],
+    "reason": "Correct the gloss and align both examples for формулировка."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260200",
+    "row": 384,
+    "before": [
+      "имидж",
+      "image",
+      "Её имидж очень важный.",
+      "Her image is very important."
+    ],
+    "after": [
+      "имидж",
+      "image",
+      "Её имидж очень важен.",
+      "Her image is very important."
+    ],
+    "reason": "Correct an unnatural or mismatched example for имидж."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260200",
+    "row": 387,
+    "before": [
+      "стресс",
+      "stress, strain",
+      "У меня стресс.",
+      "I have stress."
+    ],
+    "after": [
+      "стресс",
+      "stress, strain",
+      "Я нахожусь в стрессе.",
+      "I am under stress."
+    ],
+    "reason": "Correct an unnatural or mismatched example for стресс."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260200",
+    "row": 392,
+    "before": [
+      "содержимое",
+      "content, contents",
+      "Проверь содержимое.",
+      "Check the content."
+    ],
+    "after": [
+      "содержимое",
+      "contents, content",
+      "Проверь содержимое.",
+      "Check the contents."
+    ],
+    "reason": "Correct the gloss and align both examples for содержимое."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260200",
+    "row": 396,
+    "before": [
+      "опасение",
+      "apprehension, fear",
+      "У меня есть опасение.",
+      "I have an apprehension."
+    ],
+    "after": [
+      "опасение",
+      "concern, apprehension",
+      "У меня есть опасения.",
+      "I have concerns."
+    ],
+    "reason": "Correct the gloss and align both examples for опасение."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260200",
+    "row": 400,
+    "before": [
+      "перевернуть",
+      "to overturn, to flip",
+      "Не переверни стол.",
+      "Do not overturn the table."
+    ],
+    "after": [
+      "перевернуть",
+      "to overturn, to knock over",
+      "Не переверни стол.",
+      "Do not knock over the table."
+    ],
+    "reason": "Correct the gloss and align both examples for перевернуть."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260200",
+    "row": 409,
+    "before": [
+      "нрав",
+      "character, temperament",
+      "У него хороший нрав.",
+      "He has a good character."
+    ],
+    "after": [
+      "нрав",
+      "temperament, disposition",
+      "У него добрый нрав.",
+      "He has a good disposition."
+    ],
+    "reason": "Correct the gloss and align both examples for нрав."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260200",
+    "row": 411,
+    "before": [
+      "наградить",
+      "award, honor",
+      "Её наградят завтра.",
+      "They will award her tomorrow."
+    ],
+    "after": [
+      "наградить",
+      "to award, to honor",
+      "Её наградят медалью.",
+      "She will be awarded a medal."
+    ],
+    "reason": "Correct the gloss and align both examples for наградить."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260200",
+    "row": 429,
+    "before": [
+      "распад",
+      "decay, disintegration",
+      "Это полный распад.",
+      "This is full decay."
+    ],
+    "after": [
+      "распад",
+      "disintegration, decay",
+      "Начался распад системы.",
+      "The system’s disintegration began."
+    ],
+    "reason": "Correct the gloss and align both examples for распад."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260200",
+    "row": 433,
+    "before": [
+      "проводник",
+      "conductor, guide",
+      "Проводник ведёт нас.",
+      "The conductor leads us."
+    ],
+    "after": [
+      "проводник",
+      "guide, conductor",
+      "Проводник ведёт нас.",
+      "The guide leads us."
+    ],
+    "reason": "Correct the gloss and align both examples for проводник."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260200",
+    "row": 435,
+    "before": [
+      "высказывать",
+      "to express, to voice",
+      "Она высказывает правду.",
+      "She expresses the truth."
+    ],
+    "after": [
+      "высказывать",
+      "to express, to voice",
+      "Она высказывает мнение.",
+      "She voices an opinion."
+    ],
+    "reason": "Correct an unnatural or mismatched example for высказывать."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260200",
+    "row": 438,
+    "before": [
+      "проектирование",
+      "design, planning",
+      "Это проектирование дома.",
+      "This is house design."
+    ],
+    "after": [
+      "проектирование",
+      "design, planning",
+      "Проектирование дома завершено.",
+      "The house design is complete."
+    ],
+    "reason": "Correct an unnatural or mismatched example for проектирование."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260200",
+    "row": 452,
+    "before": [
+      "стыд",
+      "shame, embarrassment",
+      "Это большой стыд.",
+      "This is a big shame."
+    ],
+    "after": [
+      "стыд",
+      "shame, embarrassment",
+      "Это большой стыд.",
+      "It is a great shame."
+    ],
+    "reason": "Correct an unnatural or mismatched example for стыд."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260200",
+    "row": 453,
+    "before": [
+      "заменять",
+      "replace, substitute",
+      "Мы заменяем окно.",
+      "We replace the window."
+    ],
+    "after": [
+      "заменять",
+      "to replace, to substitute",
+      "Мы заменяем окно.",
+      "We are replacing the window."
+    ],
+    "reason": "Correct the gloss and align both examples for заменять."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260200",
+    "row": 481,
+    "before": [
+      "интуиция",
+      "intuition, instinct",
+      "У неё сильная интуиция.",
+      "She has strong intuition."
+    ],
+    "after": [
+      "интуиция",
+      "intuition, instinct",
+      "У неё хорошая интуиция.",
+      "She has good intuition."
+    ],
+    "reason": "Correct an unnatural or mismatched example for интуиция."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260200",
+    "row": 482,
+    "before": [
+      "спинка",
+      "backrest, back",
+      "Спинка стула высокая.",
+      "The chair backrest is high."
+    ],
+    "after": [
+      "спинка",
+      "back, backrest",
+      "Спинка стула высокая.",
+      "The chair back is high."
+    ],
+    "reason": "Correct the gloss and align both examples for спинка."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260200",
+    "row": 484,
+    "before": [
+      "снижать",
+      "reduce, lower",
+      "Мы снижаем это.",
+      "We reduce this."
+    ],
+    "after": [
+      "снижать",
+      "to lower, to reduce",
+      "Мы снижаем цену.",
+      "We are lowering the price."
+    ],
+    "reason": "Correct the gloss and align both examples for снижать."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260200",
+    "row": 487,
+    "before": [
+      "стихия",
+      "element, natural force",
+      "Это сильная стихия.",
+      "This is a strong element."
+    ],
+    "after": [
+      "стихия",
+      "element, natural force",
+      "Огонь — опасная стихия.",
+      "Fire is a dangerous natural force."
+    ],
+    "reason": "Correct an unnatural or mismatched example for стихия."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260204",
+    "row": 6,
+    "before": [
+      "колледж",
+      "college",
+      "Она учится в колледже.",
+      "She studies at the college."
+    ],
+    "after": [
+      "колледж",
+      "college",
+      "Она учится в колледже.",
+      "She studies in college."
+    ],
+    "reason": "Correct an unnatural or mismatched example for колледж."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260204",
+    "row": 28,
+    "before": [
+      "выезд",
+      "departure",
+      "Выезд в полдень.",
+      "Departure is at noon."
+    ],
+    "after": [
+      "выезд",
+      "departure",
+      "Выезд в полдень.",
+      "The departure is at noon."
+    ],
+    "reason": "Correct an unnatural or mismatched example for выезд."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260204",
+    "row": 48,
+    "before": [
+      "конфета",
+      "candy",
+      "Дай конфету.",
+      "Give me a candy."
+    ],
+    "after": [
+      "конфета",
+      "candy, sweet",
+      "Дай конфету.",
+      "Give me some candy."
+    ],
+    "reason": "Correct the gloss and align both examples for конфета."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260204",
+    "row": 50,
+    "before": [
+      "грамотный",
+      "literate",
+      "Он очень грамотный.",
+      "He is very literate."
+    ],
+    "after": [
+      "грамотный",
+      "literate, competent",
+      "Он грамотный.",
+      "He is literate."
+    ],
+    "reason": "Correct the gloss and align both examples for грамотный."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260204",
+    "row": 51,
+    "before": [
+      "этика",
+      "ethics",
+      "Этика важна.",
+      "Ethics are important."
+    ],
+    "after": [
+      "этика",
+      "ethics",
+      "Этика важна.",
+      "Ethics is important."
+    ],
+    "reason": "Correct an unnatural or mismatched example for этика."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260204",
+    "row": 68,
+    "before": [
+      "закономерность",
+      "regularity",
+      "Тут есть закономерность.",
+      "There's a regularity here."
+    ],
+    "after": [
+      "закономерность",
+      "pattern, regularity",
+      "Тут есть закономерность.",
+      "There is a pattern here."
+    ],
+    "reason": "Correct the gloss and align both examples for закономерность."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260204",
+    "row": 69,
+    "before": [
+      "собачий",
+      "dog",
+      "Это собачий дом.",
+      "This is a dog house."
+    ],
+    "after": [
+      "собачий",
+      "dog, canine",
+      "Собачья жизнь тяжела.",
+      "A dog’s life is hard."
+    ],
+    "reason": "Correct the gloss and align both examples for собачий."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260204",
+    "row": 83,
+    "before": [
+      "взвод",
+      "platoon",
+      "Взвод стоит здесь.",
+      "The platoon is standing here."
+    ],
+    "after": [
+      "взвод",
+      "platoon",
+      "Взвод находится здесь.",
+      "The platoon is stationed here."
+    ],
+    "reason": "Correct an unnatural or mismatched example for взвод."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260204",
+    "row": 94,
+    "before": [
+      "очко",
+      "point",
+      "Он забил очко.",
+      "He scored a point."
+    ],
+    "after": [
+      "очко",
+      "point",
+      "Он набрал очко.",
+      "He scored a point."
+    ],
+    "reason": "Correct an unnatural or mismatched example for очко."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260204",
+    "row": 124,
+    "before": [
+      "гвардия",
+      "guard",
+      "Гвардия стоит у двери.",
+      "The guard stands at the door."
+    ],
+    "after": [
+      "гвардия",
+      "guard",
+      "Гвардия охраняет дворец.",
+      "The guard protects the palace."
+    ],
+    "reason": "Correct an unnatural or mismatched example for гвардия."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260204",
+    "row": 138,
+    "before": [
+      "повториться",
+      "repeat",
+      "Это может повториться.",
+      "This may repeat."
+    ],
+    "after": [
+      "повториться",
+      "to repeat, to recur",
+      "Это может повториться.",
+      "This may repeat itself."
+    ],
+    "reason": "Correct the gloss and align both examples for повториться."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260204",
+    "row": 142,
+    "before": [
+      "должностной",
+      "official",
+      "Должностной документ подписан.",
+      "The official document is signed."
+    ],
+    "after": [
+      "должностной",
+      "official, job-related",
+      "Это должностная обязанность.",
+      "This is an official duty."
+    ],
+    "reason": "Correct the gloss and align both examples for должностной."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260204",
+    "row": 153,
+    "before": [
+      "неподвижный",
+      "immobile",
+      "Неподвижный человек ждёт.",
+      "The immobile man waits."
+    ],
+    "after": [
+      "неподвижный",
+      "motionless, immobile",
+      "Неподвижный человек лежал на земле.",
+      "The motionless man lay on the ground."
+    ],
+    "reason": "Correct the gloss and align both examples for неподвижный."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260204",
+    "row": 157,
+    "before": [
+      "притом",
+      "moreover",
+      "Он умный и притом добрый.",
+      "He is smart and moreover kind."
+    ],
+    "after": [
+      "притом",
+      "also, moreover",
+      "Он умный и притом добрый.",
+      "He is smart and also kind."
+    ],
+    "reason": "Correct the gloss and align both examples for притом."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260204",
+    "row": 162,
+    "before": [
+      "купол",
+      "dome",
+      "Купол церкви высокий.",
+      "The church dome is high."
+    ],
+    "after": [
+      "купол",
+      "dome",
+      "Купол церкви высокий.",
+      "The church dome is tall."
+    ],
+    "reason": "Correct an unnatural or mismatched example for купол."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260204",
+    "row": 171,
+    "before": [
+      "жаждать",
+      "to crave",
+      "Я жажду воды.",
+      "I crave water."
+    ],
+    "after": [
+      "жаждать",
+      "to thirst for, to crave",
+      "Я жажду воды.",
+      "I thirst for water."
+    ],
+    "reason": "Correct the gloss and align both examples for жаждать."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260204",
+    "row": 189,
+    "before": [
+      "справочник",
+      "directory",
+      "Открой справочник.",
+      "Open the directory."
+    ],
+    "after": [
+      "справочник",
+      "reference book, directory",
+      "Открой справочник.",
+      "Open the reference book."
+    ],
+    "reason": "Correct the gloss and align both examples for справочник."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260204",
+    "row": 197,
+    "before": [
+      "деться",
+      "to disappear",
+      "Куда ключи делись?",
+      "Where did the keys disappear?"
+    ],
+    "after": [
+      "деться",
+      "to go, to disappear",
+      "Куда ключи делись?",
+      "Where did the keys go?"
+    ],
+    "reason": "Correct the gloss and align both examples for деться."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260204",
+    "row": 201,
+    "before": [
+      "приватизация",
+      "privatization",
+      "Это приватизация завода.",
+      "This is privatization of the factory."
+    ],
+    "after": [
+      "приватизация",
+      "privatization",
+      "Приватизация завода началась.",
+      "The factory’s privatization has begun."
+    ],
+    "reason": "Correct an unnatural or mismatched example for приватизация."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260204",
+    "row": 242,
+    "before": [
+      "ирония",
+      "irony",
+      "Какая ирония.",
+      "What irony."
+    ],
+    "after": [
+      "ирония",
+      "irony",
+      "Какая ирония!",
+      "What irony!"
+    ],
+    "reason": "Correct an unnatural or mismatched example for ирония."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260204",
+    "row": 249,
+    "before": [
+      "закурить",
+      "light up",
+      "Он вышел закурить.",
+      "He went out to light up."
+    ],
+    "after": [
+      "закурить",
+      "to have a smoke, to light a cigarette",
+      "Он вышел закурить.",
+      "He went out for a smoke."
+    ],
+    "reason": "Correct the gloss and align both examples for закурить."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260204",
+    "row": 254,
+    "before": [
+      "изумление",
+      "amazement",
+      "Какое изумление.",
+      "What amazement."
+    ],
+    "after": [
+      "изумление",
+      "amazement, astonishment",
+      "Его лицо выражало изумление.",
+      "His face showed amazement."
+    ],
+    "reason": "Correct the gloss and align both examples for изумление."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260204",
+    "row": 264,
+    "before": [
+      "поискать",
+      "look for",
+      "Надо поискать ключи.",
+      "Look for the keys."
+    ],
+    "after": [
+      "поискать",
+      "to look for, to search for",
+      "Надо поискать ключи.",
+      "We need to look for the keys."
+    ],
+    "reason": "Correct the gloss and align both examples for поискать."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260204",
+    "row": 265,
+    "before": [
+      "доехать",
+      "get to",
+      "Надо доехать до дома.",
+      "Get to the house."
+    ],
+    "after": [
+      "доехать",
+      "to get to, to reach by transport",
+      "Надо доехать до дома.",
+      "We need to get home."
+    ],
+    "reason": "Correct the gloss and align both examples for доехать."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260204",
+    "row": 307,
+    "before": [
+      "повторный",
+      "repeated",
+      "Повторный звонок.",
+      "A repeated call."
+    ],
+    "after": [
+      "повторный",
+      "repeat, follow-up",
+      "Повторный звонок.",
+      "A follow-up call."
+    ],
+    "reason": "Correct the gloss and align both examples for повторный."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260204",
+    "row": 322,
+    "before": [
+      "мчаться",
+      "race",
+      "Он стал мчаться.",
+      "He began to race."
+    ],
+    "after": [
+      "мчаться",
+      "to rush, to race",
+      "Он стал мчаться.",
+      "He began to rush."
+    ],
+    "reason": "Correct the gloss and align both examples for мчаться."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260204",
+    "row": 346,
+    "before": [
+      "барабан",
+      "drum",
+      "Он бьёт в барабан.",
+      "He is hitting the drum."
+    ],
+    "after": [
+      "барабан",
+      "drum",
+      "Он бьёт в барабан.",
+      "He is beating the drum."
+    ],
+    "reason": "Correct an unnatural or mismatched example for барабан."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260204",
+    "row": 348,
+    "before": [
+      "платный",
+      "paid",
+      "Это платный вход.",
+      "This is paid entry."
+    ],
+    "after": [
+      "платный",
+      "paid, not free",
+      "Вход платный.",
+      "Entry is not free."
+    ],
+    "reason": "Correct the gloss and align both examples for платный."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260204",
+    "row": 362,
+    "before": [
+      "рожа",
+      "mug",
+      "Какая у него рожа.",
+      "What a mug he has."
+    ],
+    "after": [
+      "рожа",
+      "mug, ugly face",
+      "Какая у него рожа.",
+      "What an ugly mug he has."
+    ],
+    "reason": "Correct the gloss and align both examples for рожа."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260204",
+    "row": 363,
+    "before": [
+      "властный",
+      "authoritative",
+      "У неё властный тон.",
+      "She has an authoritative tone."
+    ],
+    "after": [
+      "властный",
+      "commanding, domineering",
+      "У неё властный тон.",
+      "She has a commanding tone."
+    ],
+    "reason": "Correct the gloss and align both examples for властный."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260204",
+    "row": 367,
+    "before": [
+      "показ",
+      "show",
+      "Показ уже начался.",
+      "The show already started."
+    ],
+    "after": [
+      "показ",
+      "show, screening",
+      "Показ уже начался.",
+      "The show has already started."
+    ],
+    "reason": "Correct the gloss and align both examples for показ."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260204",
+    "row": 392,
+    "before": [
+      "витамин",
+      "vitamin",
+      "Пей витамины.",
+      "Take the vitamins."
+    ],
+    "after": [
+      "витамин",
+      "vitamin",
+      "Пей витамины.",
+      "Take vitamins."
+    ],
+    "reason": "Correct an unnatural or mismatched example for витамин."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260204",
+    "row": 394,
+    "before": [
+      "заверить",
+      "assure",
+      "Я заверю тебя.",
+      "I assure you."
+    ],
+    "after": [
+      "заверить",
+      "to assure",
+      "Я заверю тебя в этом.",
+      "I will assure you of this."
+    ],
+    "reason": "Correct the gloss and align both examples for заверить."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260204",
+    "row": 395,
+    "before": [
+      "инстанция",
+      "authority, office",
+      "Спроси в инстанции.",
+      "Ask the authorities."
+    ],
+    "after": [
+      "инстанция",
+      "authority, office",
+      "Спроси в этой инстанции.",
+      "Ask at this office."
+    ],
+    "reason": "Correct an unnatural or mismatched example for инстанция."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260204",
+    "row": 406,
+    "before": [
+      "гласить",
+      "state",
+      "Закон гласит так.",
+      "The law states this."
+    ],
+    "after": [
+      "гласить",
+      "to state, to read",
+      "Закон гласит следующее.",
+      "The law states the following."
+    ],
+    "reason": "Correct the gloss and align both examples for гласить."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260204",
+    "row": 409,
+    "before": [
+      "удаление",
+      "removal",
+      "Удаление уже началось.",
+      "The removal already began."
+    ],
+    "after": [
+      "удаление",
+      "removal",
+      "Удаление уже началось.",
+      "The removal has already begun."
+    ],
+    "reason": "Correct an unnatural or mismatched example for удаление."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260204",
+    "row": 434,
+    "before": [
+      "формально",
+      "formally",
+      "Он формально прав.",
+      "He is formally right."
+    ],
+    "after": [
+      "формально",
+      "technically, formally",
+      "Он формально прав.",
+      "Technically, he is right."
+    ],
+    "reason": "Correct the gloss and align both examples for формально."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260204",
+    "row": 444,
+    "before": [
+      "одетый",
+      "dressed",
+      "Одетый мальчик ждёт.",
+      "The dressed boy is waiting."
+    ],
+    "after": [
+      "одетый",
+      "dressed",
+      "Мальчик уже одет.",
+      "The boy is already dressed."
+    ],
+    "reason": "Correct an unnatural or mismatched example for одетый. Final adjudication: Тепло одетый means warmly dressed; well-dressed means stylishly dressed. Use a natural predicate and previously taught supporting words; warmly is introduced later."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260204",
+    "row": 453,
+    "before": [
+      "варить",
+      "boil",
+      "Я буду варить суп.",
+      "I will boil soup."
+    ],
+    "after": [
+      "варить",
+      "to cook, to boil",
+      "Я буду варить суп.",
+      "I will cook soup."
+    ],
+    "reason": "Correct the gloss and align both examples for варить."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260204",
+    "row": 455,
+    "before": [
+      "чистить",
+      "clean",
+      "Я буду чистить зубы.",
+      "I will clean my teeth."
+    ],
+    "after": [
+      "чистить",
+      "to clean, to brush",
+      "Я буду чистить зубы.",
+      "I will brush my teeth."
+    ],
+    "reason": "Correct the gloss and align both examples for чистить."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260204",
+    "row": 460,
+    "before": [
+      "фирменный",
+      "branded, trademark",
+      "Это фирменный знак.",
+      "This is a trademark."
+    ],
+    "after": [
+      "фирменный",
+      "signature, branded",
+      "Это фирменный стиль.",
+      "This is the signature style."
+    ],
+    "reason": "Correct the gloss and align both examples for фирменный."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260204",
+    "row": 472,
+    "before": [
+      "солнышко",
+      "sunshine",
+      "Солнышко приятно.",
+      "The sunshine is pleasant."
+    ],
+    "after": [
+      "солнышко",
+      "sun, sunshine",
+      "Солнышко светит.",
+      "The sun is shining."
+    ],
+    "reason": "Correct the gloss and align both examples for солнышко."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260204",
+    "row": 481,
+    "before": [
+      "меж",
+      "between",
+      "Меж нами тайна.",
+      "A secret between us."
+    ],
+    "after": [
+      "меж",
+      "between",
+      "Меж нами тайна.",
+      "There is a secret between us."
+    ],
+    "reason": "Correct an unnatural or mismatched example for меж."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260204",
+    "row": 482,
+    "before": [
+      "воображать",
+      "imagine",
+      "Он любит воображать.",
+      "He loves to imagine."
+    ],
+    "after": [
+      "воображать",
+      "to imagine",
+      "Он любит воображать будущее.",
+      "He likes imagining the future."
+    ],
+    "reason": "Correct the gloss and align both examples for воображать."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260204",
+    "row": 489,
+    "before": [
+      "тематика",
+      "theme",
+      "Какая тематика?",
+      "What is the theme?"
+    ],
+    "after": [
+      "тематика",
+      "subject matter, theme",
+      "Какая тематика?",
+      "What is the subject matter?"
+    ],
+    "reason": "Correct the gloss and align both examples for тематика."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260207",
+    "row": 12,
+    "before": [
+      "хлопнуть",
+      "to clap, to bang",
+      "Он хлопнул дверью.",
+      "He banged the door."
+    ],
+    "after": [
+      "хлопнуть",
+      "to slam, to bang",
+      "Он хлопнул дверью.",
+      "He slammed the door."
+    ],
+    "reason": "Correct the gloss and align both examples for хлопнуть."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260207",
+    "row": 29,
+    "before": [
+      "галактика",
+      "galaxy",
+      "Галактика далеко.",
+      "The galaxy is far."
+    ],
+    "after": [
+      "галактика",
+      "galaxy",
+      "Галактика далеко.",
+      "The galaxy is far away."
+    ],
+    "reason": "Correct an unnatural or mismatched example for галактика."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260207",
+    "row": 37,
+    "before": [
+      "договариваться",
+      "to agree, to arrange",
+      "Давай договариваться.",
+      "Let's agree."
+    ],
+    "after": [
+      "договариваться",
+      "to reach agreement, to negotiate",
+      "Мы учимся договариваться.",
+      "We are learning to reach agreement."
+    ],
+    "reason": "Correct the gloss and align both examples for договариваться."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260207",
+    "row": 55,
+    "before": [
+      "служение",
+      "ministry, service",
+      "Её служение.",
+      "Her ministry."
+    ],
+    "after": [
+      "служение",
+      "service, ministry",
+      "Её служение людям важно.",
+      "Her service to people is important."
+    ],
+    "reason": "Correct the gloss and align both examples for служение."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260207",
+    "row": 103,
+    "before": [
+      "закрытие",
+      "closing, closure",
+      "Закрытие магазина состоится завтра.",
+      "The store's closing is tomorrow."
+    ],
+    "after": [
+      "закрытие",
+      "closing, closure",
+      "Закрытие магазина состоится завтра.",
+      "The store closing is scheduled for tomorrow."
+    ],
+    "reason": "Correct an unnatural or mismatched example for закрытие."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260207",
+    "row": 107,
+    "before": [
+      "скакать",
+      "to jump, to hop",
+      "Конь скачет.",
+      "The horse jumps."
+    ],
+    "after": [
+      "скакать",
+      "to gallop, to jump",
+      "Конь скачет.",
+      "The horse is galloping."
+    ],
+    "reason": "Correct the gloss and align both examples for скакать."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260207",
+    "row": 120,
+    "before": [
+      "ласка",
+      "caress, affection",
+      "Его ласка.",
+      "His caress."
+    ],
+    "after": [
+      "ласка",
+      "affection, caress",
+      "Он говорил с лаской.",
+      "He spoke with affection."
+    ],
+    "reason": "Correct the gloss and align both examples for ласка."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260207",
+    "row": 131,
+    "before": [
+      "допустимый",
+      "permissible, acceptable",
+      "Это допустимо.",
+      "This is permissible."
+    ],
+    "after": [
+      "допустимый",
+      "permissible, acceptable",
+      "Это допустимый риск.",
+      "This is an acceptable risk."
+    ],
+    "reason": "Correct an unnatural or mismatched example for допустимый."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260207",
+    "row": 157,
+    "before": [
+      "грусть",
+      "sadness, melancholy",
+      "Какая грусть.",
+      "What sadness."
+    ],
+    "after": [
+      "грусть",
+      "sadness, melancholy",
+      "В его глазах была грусть.",
+      "There was sadness in his eyes."
+    ],
+    "reason": "Correct an unnatural or mismatched example for грусть."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260207",
+    "row": 158,
+    "before": [
+      "бессознательный",
+      "unconscious, subconscious",
+      "Бессознательный человек лежит.",
+      "The unconscious man is lying down."
+    ],
+    "after": [
+      "бессознательный",
+      "unconscious, subconscious",
+      "Он в бессознательном состоянии.",
+      "He is unconscious."
+    ],
+    "reason": "Correct an unnatural or mismatched example for бессознательный."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260207",
+    "row": 162,
+    "before": [
+      "молчаливый",
+      "silent, taciturn",
+      "Он молчаливый.",
+      "He is silent."
+    ],
+    "after": [
+      "молчаливый",
+      "taciturn, quiet",
+      "Он молчалив.",
+      "He is taciturn."
+    ],
+    "reason": "Correct the gloss and align both examples for молчаливый."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260207",
+    "row": 175,
+    "before": [
+      "торжественно",
+      "solemnly, ceremoniously",
+      "Он торжественно сказал.",
+      "He solemnly said."
+    ],
+    "after": [
+      "торжественно",
+      "solemnly, ceremoniously",
+      "Он торжественно сказал.",
+      "He spoke solemnly."
+    ],
+    "reason": "Correct an unnatural or mismatched example for торжественно."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260207",
+    "row": 193,
+    "before": [
+      "дипломатический",
+      "diplomatic, diplomatical",
+      "Дипломатический ответ.",
+      "A diplomatic answer."
+    ],
+    "after": [
+      "дипломатический",
+      "diplomatic",
+      "Дипломатический ответ.",
+      "A diplomatic answer."
+    ],
+    "reason": "Correct the gloss and align both examples for дипломатический."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260207",
+    "row": 214,
+    "before": [
+      "сообщаться",
+      "communicate, correspond",
+      "Мы сообщаемся.",
+      "We communicate."
+    ],
+    "after": [
+      "сообщаться",
+      "to connect, to communicate",
+      "Комнаты сообщаются.",
+      "The rooms are connected."
+    ],
+    "reason": "Correct the gloss and align both examples for сообщаться."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260207",
+    "row": 223,
+    "before": [
+      "предпринимательство",
+      "entrepreneurship, businessmanship",
+      "Это предпринимательство.",
+      "This is entrepreneurship."
+    ],
+    "after": [
+      "предпринимательство",
+      "entrepreneurship",
+      "Это предпринимательство.",
+      "This is entrepreneurship."
+    ],
+    "reason": "Correct the gloss and align both examples for предпринимательство."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260207",
+    "row": 224,
+    "before": [
+      "хохотать",
+      "to laugh, to chuckle",
+      "Они хохочут.",
+      "They laugh."
+    ],
+    "after": [
+      "хохотать",
+      "to laugh loudly, to guffaw",
+      "Они хохочут.",
+      "They are laughing loudly."
+    ],
+    "reason": "Correct the gloss and align both examples for хохотать."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260207",
+    "row": 245,
+    "before": [
+      "усиливать",
+      "to strengthen, to intensify",
+      "Это усиливает звук.",
+      "This strengthens the sound."
+    ],
+    "after": [
+      "усиливать",
+      "to amplify, to intensify",
+      "Это усиливает звук.",
+      "This amplifies the sound."
+    ],
+    "reason": "Correct the gloss and align both examples for усиливать."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260207",
+    "row": 254,
+    "before": [
+      "завет",
+      "testament, behest",
+      "Это завет.",
+      "This is a testament."
+    ],
+    "after": [
+      "завет",
+      "last wish, precept, covenant",
+      "Это завет отца.",
+      "This is the father’s last wish."
+    ],
+    "reason": "Correct the gloss and align both examples for завет."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260207",
+    "row": 273,
+    "before": [
+      "ограничиться",
+      "to limit, to confine",
+      "Ограничимся этим.",
+      "We'll limit it to this."
+    ],
+    "after": [
+      "ограничиться",
+      "to limit oneself, to confine oneself",
+      "Ограничимся этим.",
+      "We will limit ourselves to this."
+    ],
+    "reason": "Correct the gloss and align both examples for ограничиться."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260207",
+    "row": 277,
+    "before": [
+      "завалить",
+      "overwhelm, bury",
+      "Работа завалила меня.",
+      "Work overwhelmed me."
+    ],
+    "after": [
+      "завалить",
+      "to overwhelm, to bury",
+      "Меня завалили работой.",
+      "I was overwhelmed with work."
+    ],
+    "reason": "Correct the gloss and align both examples for завалить."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260207",
+    "row": 291,
+    "before": [
+      "привыкать",
+      "to get used to, to accustom",
+      "Я привыкаю к этому.",
+      "I get used to this."
+    ],
+    "after": [
+      "привыкать",
+      "to get used to, to become accustomed",
+      "Я привыкаю к этому.",
+      "I am getting used to this."
+    ],
+    "reason": "Correct the gloss and align both examples for привыкать."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260207",
+    "row": 292,
+    "before": [
+      "раствор",
+      "solution, solvent",
+      "Водный раствор.",
+      "A water solution."
+    ],
+    "after": [
+      "раствор",
+      "solution, solvent",
+      "Водный раствор.",
+      "A solution in water."
+    ],
+    "reason": "Correct an unnatural or mismatched example for раствор."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260207",
+    "row": 320,
+    "before": [
+      "прах",
+      "ash, dust",
+      "Его прах.",
+      "His ash."
+    ],
+    "after": [
+      "прах",
+      "ashes, remains",
+      "Его прах.",
+      "His ashes."
+    ],
+    "reason": "Correct the gloss and align both examples for прах."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260207",
+    "row": 323,
+    "before": [
+      "излагать",
+      "to state, to set out",
+      "Надо излагать план.",
+      "I need to state the plan."
+    ],
+    "after": [
+      "излагать",
+      "to set out, to state",
+      "Надо излагать план.",
+      "We need to set out the plan."
+    ],
+    "reason": "Correct the gloss and align both examples for излагать."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260207",
+    "row": 348,
+    "before": [
+      "толщина",
+      "thickness, gauge",
+      "Какая толщина?",
+      "What thickness?"
+    ],
+    "after": [
+      "толщина",
+      "thickness, gauge",
+      "Какая толщина?",
+      "What is the thickness?"
+    ],
+    "reason": "Correct an unnatural or mismatched example for толщина."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260207",
+    "row": 368,
+    "before": [
+      "справедливо",
+      "fairly, justly",
+      "Говори справедливо.",
+      "Speak fairly."
+    ],
+    "after": [
+      "справедливо",
+      "justly, fairly",
+      "Суд поступил справедливо.",
+      "The court acted justly."
+    ],
+    "reason": "Correct the gloss and align both examples for справедливо."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260207",
+    "row": 369,
+    "before": [
+      "носиться",
+      "to rush, to zoom",
+      "Он любит носиться.",
+      "He loves to rush."
+    ],
+    "after": [
+      "носиться",
+      "to rush around, to race",
+      "Он носится по дому.",
+      "He rushes around the house."
+    ],
+    "reason": "Correct the gloss and align both examples for носиться."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260207",
+    "row": 392,
+    "before": [
+      "затронуть",
+      "to touch, to affect",
+      "Это должно затронуть нас.",
+      "This must touch us."
+    ],
+    "after": [
+      "затронуть",
+      "to affect, to touch",
+      "Это должно затронуть нас.",
+      "This must affect us."
+    ],
+    "reason": "Correct the gloss and align both examples for затронуть."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260207",
+    "row": 398,
+    "before": [
+      "старина",
+      "old times, old friend",
+      "В старину было тихо.",
+      "In the old times it was quiet."
+    ],
+    "after": [
+      "старина",
+      "olden times, old friend",
+      "В старину было тихо.",
+      "In olden times it was quiet."
+    ],
+    "reason": "Correct the gloss and align both examples for старина."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260207",
+    "row": 404,
+    "before": [
+      "возбуждать",
+      "excite, arouse",
+      "Музыка может возбуждать.",
+      "Music can excite."
+    ],
+    "after": [
+      "возбуждать",
+      "to arouse, to excite",
+      "Музыка возбуждает воображение.",
+      "Music arouses the imagination."
+    ],
+    "reason": "Correct the gloss and align both examples for возбуждать."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260207",
+    "row": 412,
+    "before": [
+      "сбыт",
+      "sales",
+      "Сбыт товара.",
+      "Sales of the goods."
+    ],
+    "after": [
+      "сбыт",
+      "sales, distribution",
+      "Сбыт товара растёт.",
+      "Product sales are growing."
+    ],
+    "reason": "Correct the gloss and align both examples for сбыт."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260207",
+    "row": 432,
+    "before": [
+      "прочно",
+      "firmly, solidly",
+      "Держи это прочно.",
+      "Hold it firmly."
+    ],
+    "after": [
+      "прочно",
+      "firmly, solidly",
+      "Это стоит прочно.",
+      "This stands firmly."
+    ],
+    "reason": "Correct an unnatural or mismatched example for прочно."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260207",
+    "row": 437,
+    "before": [
+      "согласовать",
+      "coordinate, agree",
+      "Надо согласовать план.",
+      "We need to coordinate the plan."
+    ],
+    "after": [
+      "согласовать",
+      "to agree on, to coordinate",
+      "Надо согласовать план.",
+      "We need to agree on the plan."
+    ],
+    "reason": "Correct the gloss and align both examples for согласовать."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260207",
+    "row": 450,
+    "before": [
+      "усвоить",
+      "assimilate, absorb",
+      "Надо усвоить урок.",
+      "We need to absorb the lesson."
+    ],
+    "after": [
+      "усвоить",
+      "to learn, to absorb",
+      "Надо усвоить урок.",
+      "We need to learn the lesson."
+    ],
+    "reason": "Correct the gloss and align both examples for усвоить."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260207",
+    "row": 464,
+    "before": [
+      "сдержать",
+      "restrain, hold back",
+      "Надо сдержать гнев.",
+      "We need to restrain the anger."
+    ],
+    "after": [
+      "сдержать",
+      "to hold back, to restrain",
+      "Надо сдержать гнев.",
+      "We need to hold back the anger."
+    ],
+    "reason": "Correct the gloss and align both examples for сдержать."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260207",
+    "row": 466,
+    "before": [
+      "объективно",
+      "objectively, impartially",
+      "Смотри объективно.",
+      "Look objectively."
+    ],
+    "after": [
+      "объективно",
+      "objectively, impartially",
+      "Смотри на это объективно.",
+      "Look at it objectively."
+    ],
+    "reason": "Correct an unnatural or mismatched example for объективно."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260207",
+    "row": 472,
+    "before": [
+      "социологический",
+      "sociological",
+      "Социологический опрос важен.",
+      "A sociological survey matters."
+    ],
+    "after": [
+      "социологический",
+      "sociological",
+      "Социологический опрос начался.",
+      "The sociological survey has begun."
+    ],
+    "reason": "Correct an unnatural or mismatched example for социологический."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260207",
+    "row": 476,
+    "before": [
+      "пошлина",
+      "duty, tariff",
+      "Высокая пошлина.",
+      "A high duty."
+    ],
+    "after": [
+      "пошлина",
+      "duty, tariff",
+      "Высокая пошлина.",
+      "A high tariff."
+    ],
+    "reason": "Correct an unnatural or mismatched example for пошлина."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260207",
+    "row": 489,
+    "before": [
+      "крем",
+      "cream",
+      "Этот крем.",
+      "This cream."
+    ],
+    "after": [
+      "крем",
+      "cream",
+      "Этот крем дорогой.",
+      "This cream is expensive."
+    ],
+    "reason": "Correct an unnatural or mismatched example for крем."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260207",
+    "row": 496,
+    "before": [
+      "поклониться",
+      "bow down",
+      "Надо поклониться королю.",
+      "We need to bow down to the king."
+    ],
+    "after": [
+      "поклониться",
+      "to bow",
+      "Надо поклониться королю.",
+      "We need to bow to the king."
+    ],
+    "reason": "Correct the gloss and align both examples for поклониться."
+  },
+  {
+    "pack": "russian_english",
+    "deck": "15260207",
+    "row": 500,
+    "before": [
+      "древность",
+      "antiquity",
+      "Это древность.",
+      "This is antiquity."
+    ],
+    "after": [
+      "древность",
+      "antiquity, ancient times",
+      "Мы изучаем древность.",
+      "We study antiquity."
+    ],
+    "reason": "Correct the gloss and align both examples for древность."
+  }
+]

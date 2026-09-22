@@ -1,0 +1,310 @@
+{
+  "deck": "15260215",
+  "reviewed": 500,
+  "changes": [
+    {
+      "row": 26,
+      "before": [
+        "дворник",
+        "janitor",
+        "Дворник вышел во двор.",
+        "The janitor went out into the yard."
+      ],
+      "after": [
+        "дворник",
+        "street cleaner, caretaker",
+        "Дворник вышел во двор.",
+        "The street cleaner went out into the yard."
+      ],
+      "reason": "Дворник chiefly cleans outside areas, unlike typical indoor janitor."
+    },
+    {
+      "row": 36,
+      "before": [
+        "говно",
+        "shit",
+        "Этот фильм — полное говно.",
+        "This movie is absolute shit."
+      ],
+      "after": [
+        "говно",
+        "shit (vulgar)",
+        "Этот фильм — полное говно.",
+        "This movie is absolute shit."
+      ],
+      "reason": "Mark register."
+    },
+    {
+      "row": 61,
+      "before": [
+        "негромко",
+        "quietly, softly",
+        "Она негромко сказала.",
+        "She spoke softly."
+      ],
+      "after": [
+        "негромко",
+        "quietly, softly",
+        "Она негромко сказала это.",
+        "She said this softly."
+      ],
+      "reason": "Complete transitive Russian clause."
+    },
+    {
+      "row": 99,
+      "before": [
+        "домен",
+        "domain",
+        "Этот домен свободен.",
+        "This domain is free."
+      ],
+      "after": [
+        "домен",
+        "domain (internet address)",
+        "Этот домен свободен.",
+        "This domain is available."
+      ],
+      "reason": "Свободен means available, not necessarily free of charge."
+    },
+    {
+      "row": 123,
+      "before": [
+        "сперма",
+        "sperm, semen",
+        "Это его сперма.",
+        "This is his sperm."
+      ],
+      "after": [
+        "сперма",
+        "semen",
+        "Это его сперма.",
+        "This is his semen."
+      ],
+      "reason": "Distinguish semen from individual sperm cells."
+    },
+    {
+      "row": 202,
+      "before": [
+        "папаша",
+        "dad, daddy",
+        "Папаша уже дома.",
+        "Dad is already home."
+      ],
+      "after": [
+        "папаша",
+        "father (colloquial, sometimes dismissive)",
+        "Папаша уже дома.",
+        "The father is already home."
+      ],
+      "reason": "Preserve register rather than affectionate daddy."
+    },
+    {
+      "row": 218,
+      "before": [
+        "шишка",
+        "cone, bump",
+        "Сосна уронила шишку.",
+        "A cone fell from the pine."
+      ],
+      "after": [
+        "шишка",
+        "cone, bump",
+        "С сосны упала шишка.",
+        "A cone fell from the pine."
+      ],
+      "reason": "Avoid unnatural personification of pine dropping a cone."
+    },
+    {
+      "row": 256,
+      "before": [
+        "пожимать",
+        "to shake",
+        "Я не люблю пожимать руки.",
+        "I don't like to shake hands."
+      ],
+      "after": [
+        "пожимать",
+        "to squeeze; to shake (hands)",
+        "Я не люблю пожимать руки.",
+        "I don't like to shake hands."
+      ],
+      "reason": "Shake sense requires hands."
+    },
+    {
+      "row": 270,
+      "before": [
+        "летучий",
+        "volatile",
+        "Это летучий газ.",
+        "This is a volatile gas."
+      ],
+      "after": [
+        "летучий",
+        "volatile, flying",
+        "Это летучая жидкость.",
+        "This is a volatile liquid."
+      ],
+      "reason": "Volatility example is meaningful for a liquid rather than a gas."
+    },
+    {
+      "row": 311,
+      "before": [
+        "доставаться",
+        "to get, to end up with",
+        "Мне всегда достаётся эта работа.",
+        "I always end up with this work."
+      ],
+      "after": [
+        "доставаться",
+        "to fall to someone; to get (with a dative recipient)",
+        "Мне всегда достаётся эта работа.",
+        "I always get this work."
+      ],
+      "reason": "Clarify reversed experiencer construction."
+    },
+    {
+      "row": 351,
+      "before": [
+        "бриллиант",
+        "diamond",
+        "Это настоящий бриллиант.",
+        "This is a real diamond."
+      ],
+      "after": [
+        "бриллиант",
+        "cut diamond",
+        "Это настоящий бриллиант.",
+        "This is a real cut diamond."
+      ],
+      "reason": "Distinguish polished gemstone from алмаз."
+    },
+    {
+      "row": 361,
+      "before": [
+        "княгиня",
+        "princess",
+        "Княгиня вошла в зал.",
+        "The princess entered the hall."
+      ],
+      "after": [
+        "княгиня",
+        "princess (wife of a князь, or a female ruler)",
+        "Княгиня вошла в зал.",
+        "The princess entered the hall."
+      ],
+      "reason": "Distinguish княгиня from княжна, daughter of a князь."
+    },
+    {
+      "row": 373,
+      "before": [
+        "загрузить",
+        "upload, load",
+        "Загрузи этот файл.",
+        "Upload this file."
+      ],
+      "after": [
+        "загрузить",
+        "to load, to upload, to download",
+        "Загрузи этот файл на сайт.",
+        "Upload this file to the site."
+      ],
+      "reason": "Specify upload direction instead of ambiguous standalone загрузить."
+    },
+    {
+      "row": 390,
+      "before": [
+        "выпивка",
+        "drink, alcohol",
+        "Купи выпивку.",
+        "Buy some drinks."
+      ],
+      "after": [
+        "выпивка",
+        "alcohol, alcoholic drinks",
+        "Купи выпивку.",
+        "Buy some alcoholic drinks."
+      ],
+      "reason": "Make alcohol sense explicit."
+    },
+    {
+      "row": 401,
+      "before": [
+        "корточки",
+        "haunches",
+        "Он сел на корточки.",
+        "He sat on his haunches."
+      ],
+      "after": [
+        "корточки",
+        "squat, squatting position (на корточках: squatting; сесть на корточки: to squat down)",
+        "Он сел на корточки.",
+        "He squatted down."
+      ],
+      "reason": "Replace body-part gloss haunches with the posture and idiomatic action."
+    },
+    {
+      "row": 403,
+      "before": [
+        "российско",
+        "Russian",
+        "Это российско-американский проект.",
+        "This is a Russian-American project."
+      ],
+      "after": [
+        "российско",
+        "Russian- (in compounds)",
+        "Это российско-американский проект.",
+        "This is a Russian-American project."
+      ],
+      "reason": "Mark compound element."
+    },
+    {
+      "row": 444,
+      "before": [
+        "указательный",
+        "index",
+        "Это указательный палец.",
+        "This is the index finger."
+      ],
+      "after": [
+        "указательный",
+        "pointing; index (указательный палец: index finger)",
+        "Это указательный палец.",
+        "This is the index finger."
+      ],
+      "reason": "Mark phrase-dependent index meaning."
+    },
+    {
+      "row": 449,
+      "before": [
+        "самочувствие",
+        "well-being, health",
+        "Моё самочувствие хорошее.",
+        "My health is good."
+      ],
+      "after": [
+        "самочувствие",
+        "well-being, state of health (how one feels)",
+        "Он спросил о моём самочувствии.",
+        "He asked about my well-being."
+      ],
+      "reason": "Capture subjective condition, not a generic statement of good health. Use prior-deck vocabulary."
+    },
+    {
+      "row": 482,
+      "before": [
+        "оговорка",
+        "slip, reservation",
+        "Это была оговорка.",
+        "That was a slip."
+      ],
+      "after": [
+        "оговорка",
+        "slip of the tongue, reservation",
+        "Это была оговорка.",
+        "That was a slip of the tongue."
+      ],
+      "reason": "Clarify spoken slip rather than physical slipping."
+    }
+  ]
+}

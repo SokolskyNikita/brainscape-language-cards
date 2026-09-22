@@ -1,0 +1,5500 @@
+and → и
+in → в
+no → нет
+on → на
+I → я
+what → что
+to be → быть
+with → с
+he → он
+but → а
+this → это
+how → как
+that → то
+to → к
+they → они
+we → мы
+she → она
+which → который
+from → из
+near → у
+own → свой
+you → вы
+whole → весь
+behind → за
+for → для
+about → о
+so → так
+can → мочь
+though → же
+year → год
+person → человек
+one → один
+such → такой
+or → или
+if → если
+only → только
+would → бы
+oneself → себя
+time → время
+when → когда
+already → уже
+another → другой
+to say → сказать
+until → до
+my → мой
+our → наш
+to speak → говорить
+most → самый
+know → знать
+here → вот
+very → очень
+who → кто
+at → при
+yes → да
+become → стать
+day → день
+first → первый
+even → даже
+life → жизнь
+nor → ни
+myself → сам
+case → дело
+two → два
+new → новый
+to want → хотеть
+whether → ли
+there → там
+many → много
+work → работа
+to have → иметь
+after → после
+where → где
+question → вопрос
+hand → рука
+city → город
+under → под
+each → каждый
+word → слово
+place → место
+without → без
+well → ну
+simply → просто
+more → более
+friend → друг
+big → большой
+must → надо
+than → чем
+your → ваш
+to do → сделать
+go → идти
+do → делать
+now → сейчас
+to see → видеть
+then → потом
+nothing → ничто
+through → через
+world → мир
+several → несколько
+think → думать
+therefore → потому
+side → сторона
+good → хороший
+too → тоже
+eye → глаз
+house → дом
+country → страна
+strength → сила
+last → последний
+to work → работать
+also → также
+face → лицо
+live → жить
+part → часть
+although → хотя
+woman → женщина
+system → система
+always → всегда
+view → вид
+head → голова
+problem → проблема
+end → конец
+after all → ведь
+between → между
+of course → конечно
+watch → смотреть
+bye → пока
+attitude → отношение
+receive → получить
+give → дать
+Russian → русский
+three → три
+second → второй
+namely → именно
+before → перед
+image → образ
+understand → понять
+why → почему
+any → любой
+however → однако
+nobody → никто
+hour → час
+to start → начать
+find → найти
+to consider → считать
+take → взять
+above → над
+earth → земля
+today → сегодня
+generally → вообще
+book → книга
+to go → пойти
+opportunity → возможность
+some → некоторый
+turn out → оказаться
+to come → прийти
+company → компания
+history → история
+to love → любить
+high → высокий
+necessary → нужно
+almost → почти
+to stay → остаться
+result → результат
+for example → например
+right → право
+group → группа
+write → писать
+sit → сидеть
+path → путь
+car → машина
+war → война
+to seem → казаться
+to stand → стоять
+name → имя
+solve → решить
+never → никогда
+cost → стоить
+small → маленький
+answer → ответ
+water → вода
+solution → решение
+god → бог
+completely → совсем
+language → язык
+far → далеко
+to give → давать
+to answer → ответить
+full → полный
+people → народ
+power → власть
+immediately → сразу
+level → уровень
+to exit → выйти
+night → ночь
+often → часто
+ask → спросить
+development → развитие
+program → программа
+beginning → начало
+it → оно
+main → главный
+door → дверь
+together → вместе
+moment → момент
+law → закон
+number → число
+goal → цель
+accept → принять
+next → следующий
+to write → написать
+father → отец
+truth → правда
+leg → нога
+old → старый
+help → помощь
+information → информация
+grass snake → уж
+thousand → тысяча
+similar → подобный
+different → разный
+general → общий
+month → месяц
+pass → пройти
+except → кроме
+minute → минута
+little → мало
+everything → всё
+process → процесс
+situation → ситуация
+to be able → смочь
+author → автор
+form → форма
+voice → голос
+thought → мысль
+light → свет
+quality → качество
+school → школа
+every → всякий
+action → действие
+man → мужчина
+region → область
+attention → внимание
+to follow → следовать
+use → использовать
+road → дорога
+connection → связь
+look → взгляд
+condition → условие
+young → молодой
+soon → скоро
+again → снова
+love → любовь
+to become → становиться
+important → важный
+wait → ждать
+suddenly → вдруг
+game → игра
+read → читать
+article → статья
+organization → организация
+means → средство
+to exist → существовать
+soul → душа
+to try → пытаться
+body → тело
+to watch → посмотреть
+society → общество
+wife → жена
+state → государство
+absolutely → совершенно
+letter → письмо
+evening → вечер
+real → настоящий
+back → назад
+meaning → смысл
+measure → мера
+family → семья
+simple → простой
+thing → вещь
+return → вернуться
+reason → причина
+morning → утро
+mother → мать
+market → рынок
+really → действительно
+to occur → происходить
+given → данный
+girl → девушка
+lead → вести
+how much → сколько
+topic → тема
+table → стол
+project → проект
+street → улица
+remember → помнить
+to call → называть
+point → точка
+appear → появиться
+cannot → нельзя
+white → белый
+center → центр
+equal → равный
+against → против
+week → неделя
+idea → идея
+especially → особенно
+to fall → прийтись
+room → комната
+other → иной
+price → цена
+finally → наконец
+famous → известный
+among → среди
+son → сын
+activity → деятельность
+find out → узнать
+play → играть
+rule → правило
+Soviet → советский
+movement → движение
+to engage → заниматься
+exactly → точно
+huge → огромный
+mom → мама
+task → задача
+great → великий
+quantity → количество
+feeling → чувство
+sometimes → иногда
+death → смерть
+enough → достаточно
+to lie → лежать
+opinion → мнение
+labor → труд
+five → пять
+third → третий
+notice → заметить
+ready → готовый
+quickly → быстро
+strong → сильный
+order → порядок
+to feel → чувствовать
+create → создать
+example → пример
+position → положение
+century → век
+to continue → продолжать
+to think → подумать
+husband → муж
+since → поскольку
+leave → уйти
+at least → хоть
+military → военный
+speech → речь
+plan → план
+council → совет
+political → политический
+wall → стена
+represent → представлять
+to hear → слышать
+to walk → ходить
+window → окно
+nearby → рядом
+show → показать
+experience → опыт
+type → тип
+both → оба
+interest → интерес
+modern → современный
+bad → плохой
+heart → сердце
+management → управление
+science → наука
+message → сообщение
+a little → немного
+newspaper → газета
+interesting → интересный
+alive → живой
+put → поставить
+material → материал
+role → роль
+open → открыть
+introduce → представить
+fully → вполне
+as if → будто
+to tell → рассказать
+to go out → выходить
+early → рано
+long ago → давно
+army → армия
+worker → рабочий
+four → четыре
+to be afraid → бояться
+long → долго
+to bring → привести
+president → президент
+either → либо
+event → событие
+less → менее
+red → красный
+social → социальный
+to search → искать
+majority → большинство
+business → бизнес
+let → пусть
+easily → легко
+government → правительство
+straight → прямо
+chapter → глава
+member → член
+court → суд
+possibly → возможно
+to accept → принимать
+ruble → рубль
+b → б
+million → миллион
+movie → фильм
+usually → обычно
+sleep → спать
+culture → культура
+text → текст
+document → документ
+principle → принцип
+conversation → разговор
+telephone → телефон
+occur → произойти
+method → способ
+current → течение
+conduct → провести
+around → вокруг
+buy → купить
+parent → родитель
+row → ряд
+still → ещё
+meter → метр
+site → сайт
+party → партия
+to allow → позволять
+education → образование
+probably → наверное
+period → период
+by the way → кстати
+pair → пара
+apartment → квартира
+forget → забыть
+internal → внутренний
+tie → связать
+demand → требовать
+further → далее
+foundation → основа
+possible → возможный
+desire → желание
+listen → слушать
+change → изменение
+queue → очередь
+policy → политика
+class → класс
+relate → относиться
+fact → факт
+brother → брат
+to gather → собираться
+quite → довольно
+production → производство
+creation → создание
+district → район
+special → особый
+to believe → верить
+thank you → спасибо
+enterprise → предприятие
+close → близкий
+move → ход
+economic → экономический
+acquainted → знакомый
+human → человеческий
+local → местный
+to name → назвать
+sky → небо
+direction → направление
+succeed → удаться
+meeting → встреча
+step → шаг
+remaining → остальной
+to get into → попасть
+team → команда
+kind → добрый
+field → поле
+research → исследование
+public → общественный
+her → её
+boy → мальчик
+growth → рост
+to leave → уходить
+service → служба
+population → население
+air → воздух
+blood → кровь
+to ask → спрашивать
+vision → зрение
+doctor → врач
+to like → нравиться
+to have to → приходиться
+knowledge → знание
+enter → войти
+to offer → предложить
+to begin → начаться
+ten → десять
+finger → палец
+usual → обычный
+organ → орган
+dollar → доллар
+to hold → держать
+title → название
+participation → участие
+to arrive → приехать
+large → крупный
+sea → море
+nature → природа
+store → магазин
+like → вроде
+memory → память
+larger → больший
+home → домой
+object → объект
+freedom → свобода
+product → продукт
+struggle → борьба
+personal → личный
+to touch → касаться
+separate → отдельный
+to manage → успеть
+subject → предмет
+representative → представитель
+shoulder → плечо
+national → национальный
+music → музыка
+American → американский
+hero → герой
+character → характер
+size → размер
+drink → пить
+middle → средний
+term → срок
+institute → институт
+network → сеть
+sun → солнце
+approach → подойти
+otherwise → иначе
+to show → показывать
+union → союз
+spirit → дух
+allow → позволить
+internet → интернет
+forest → лес
+magazine → журнал
+degree → степень
+territory → территория
+March → март
+success → успех
+art → искусство
+participant → участник
+guy → парень
+free → свободный
+guest → гость
+option → вариант
+sentence → предложение
+fate → судьба
+to constitute → составлять
+goods → товар
+to hope → надеяться
+to act → действовать
+international → международный
+capable → способный
+practically → практически
+director → директор
+late → поздний
+song → песня
+happen → случиться
+mind → ум
+choice → выбор
+model → модель
+river → река
+citizen → гражданин
+comrade → товарищ
+Moscow → Москва
+normal → нормальный
+consciousness → сознание
+picture → картина
+strongly → сильно
+to die → умереть
+April → апрель
+source → источник
+instead of → вместо
+border → граница
+to consist → состоять
+half → половина
+operation → операция
+assessment → оценка
+fire → огонь
+constantly → постоянно
+specialist → специалист
+the main thing → главное
+dog → собака
+computer → компьютер
+beautiful → красивый
+technology → технология
+tree → дерево
+exit → выход
+mountain → гора
+to enter → входить
+scientific → научный
+children's → детский
+ship → корабль
+to wish → желать
+shore → берег
+wide → широкий
+low → низкий
+kill → убить
+future → будущее
+external → внешний
+literature → литература
+employee → сотрудник
+Wednesday → среда
+to help → помогать
+fight → бой
+complex → сложный
+hall → зал
+structure → структура
+despite → несмотря
+to use → пользоваться
+protection → защита
+short → короткий
+boss → начальник
+paper → бумага
+strange → странный
+install → установить
+edge → край
+error → ошибка
+church → церковь
+composition → состав
+explain → объяснить
+isn't it → разве
+inform → сообщить
+so that → чтоб
+so much → столько
+concept → понятие
+support → поддержка
+raise → поднять
+age → возраст
+to stand up → встать
+difficult → трудно
+fast → быстрый
+line → линия
+novel → роман
+to look → выглядеть
+to be available → иметься
+wind → ветер
+arise → возникать
+English → английский
+course → курс
+mark → отметить
+search → поиск
+dad → папа
+theory → теория
+add → добавить
+former → бывший
+space → пространство
+to study → учиться
+economy → экономика
+clean → чистый
+lose → потерять
+throw → бросить
+behavior → поведение
+serve → служить
+to turn out → получиться
+weapon → оружие
+fear → страх
+page → страница
+enemy → враг
+twenty → двадцать
+leader → руководитель
+from where → откуда
+much → гораздо
+map → карта
+terrible → страшный
+sound → звук
+stone → камень
+to expect → ожидать
+story → рассказ
+detect → обнаружить
+master → хозяин
+analysis → анализ
+hope → надежда
+Mr. → господин
+soldier → солдат
+unified → единый
+color → цвет
+to sit down → сесть
+circle → круг
+attempt → попытка
+once → однажды
+comment → комментарий
+client → клиент
+strike → удар
+extreme → крайний
+base → база
+necessity → необходимость
+stop → остановиться
+mean → означать
+to appear → появляться
+daughter → дочь
+please → пожалуйста
+republic → республика
+performance → представление
+to put → ставить
+hair → волос
+faith → вера
+bring → принести
+to be called → называться
+absence → отсутствие
+mass → масса
+percent → процент
+choose → выбрать
+student → студент
+building → здание
+guys → ребята
+corner → угол
+specific → конкретный
+speed → скорость
+agree → согласиться
+requirement → требование
+favorite → любимый
+May → май
+to approach → подходить
+to run → бежать
+address → адрес
+visible → видно
+news → новость
+list → список
+to return → возвращаться
+energy → энергия
+conclusion → вывод
+teacher → учитель
+contract → договор
+remove → снять
+depend → зависеть
+sphere → сфера
+western → западный
+necessarily → обязательно
+German → немецкий
+approximately → примерно
+pain → боль
+safety → безопасность
+function → функция
+badly → плохо
+certain → некий
+ability → способность
+bank → банк
+pleasure → удовольствие
+alien → чужой
+sensation → ощущение
+opponent → противник
+no way → никак
+define → определить
+writer → писатель
+star → звезда
+to create → создавать
+sign → знак
+at all → вовсе
+confident → уверенный
+influence → влияние
+breast → грудь
+control → контроль
+yard → двор
+simultaneously → одновременно
+joy → радость
+tomorrow → завтра
+older → старший
+declare → заявить
+impression → впечатление
+practice → практика
+inside → внутри
+manual → руководство
+content → содержание
+will → воля
+January → январь
+combat → боевой
+to grab → хватать
+yesterday → вчера
+regime → режим
+to give away → отдать
+health → здоровье
+grow → расти
+correct → правильный
+kilometer → километр
+six → шесть
+personality → личность
+physical → физический
+mouth → рот
+sick → больной
+limit → предел
+borrow → занять
+reader → читатель
+slowly → медленно
+old man → старик
+victory → победа
+element → элемент
+naturally → естественно
+turn to → обратиться
+permanent → постоянный
+to meet → встречаться
+female → женский
+commander → командир
+August → август
+for the first time → впервые
+happy → счастливый
+resident → житель
+apparently → видимо
+holiday → праздник
+set → множество
+sum → сумма
+scene → сцена
+to eat → есть
+hardly → едва
+preparation → подготовка
+regret → сожаление
+ear → ухо
+historical → исторический
+existence → существование
+urban → городской
+October → октябрь
+recently → недавно
+nose → нос
+creature → существо
+to possess → обладать
+frame → рамка
+thanks to → благодаря
+French → французский
+correctly → правильно
+September → сентябрь
+known → известно
+left → левый
+university → университет
+to be considered → считаться
+private → частный
+deep → глубокий
+club → клуб
+belong → принадлежать
+rise → подняться
+summer → лето
+to make → заставить
+expression → выражение
+to pay → платить
+calmly → спокойно
+clothing → одежда
+sale → продажа
+saint → святой
+financial → финансовый
+December → декабрь
+theater → театр
+build → построить
+village → деревня
+direct → направить
+to make up → составить
+fund → фонд
+sister → сестра
+to differ → отличаться
+carry → нести
+shout → кричать
+observe → наблюдать
+west → запад
+refuse → отказаться
+circumstance → обстоятельство
+golden → золотой
+June → июнь
+to treat → обращаться
+version → версия
+minister → министр
+share → акция
+lip → губа
+additional → дополнительный
+judge → судить
+empty → пустой
+cold → холодный
+February → февраль
+flower → цветок
+central → центральный
+professional → профессиональный
+factory → завод
+federal → федеральный
+federation → федерация
+technical → технический
+feature → особенность
+understanding → понимание
+wear → носить
+birth → рождение
+disease → болезнь
+perform → выступать
+send → отправить
+square → площадь
+occupy → занимать
+to strive → стремиться
+station → станция
+record → запись
+fall → упасть
+to support → поддерживать
+down → вниз
+significant → значительный
+remind → напоминать
+responsibility → ответственность
+folk → народный
+European → европейский
+poet → поэт
+compliance → соответствие
+officer → офицер
+July → июль
+convey → передать
+elections → выборы
+king → король
+assert → утверждать
+advertisement → реклама
+revolution → революция
+phenomenon → явление
+department → отдел
+front → фронт
+artist → художник
+informational → информационный
+animal → животное
+user → пользователь
+stage → этап
+style → стиль
+norm → норма
+transmission → передача
+value → ценность
+phrase → фраза
+definition → определение
+sing → петь
+past → мимо
+date → дата
+to find → находить
+seven → семь
+captain → капитан
+income → доход
+photograph → фотография
+wave → волна
+gather → собрать
+effort → усилие
+clear → ясный
+professor → профессор
+November → ноябрь
+tea → чай
+indicate → указать
+participate → участвовать
+translation → перевод
+factor → фактор
+quietly → тихо
+channel → канал
+useful → полезный
+comparison → сравнение
+northern → северный
+adult → взрослый
+to be born → родиться
+office → кабинет
+recall → вспоминать
+forum → форум
+personally → лично
+spiritual → духовный
+weak → слабый
+in detail → подробно
+vice versa → наоборот
+civil → гражданский
+journalist → журналист
+conducting → проведение
+to perform → выполнять
+leaf → лист
+snow → снег
+to be used → использоваться
+provision → обеспечение
+commission → комиссия
+to finish → закончить
+glory → слава
+convert → обратить
+ancient → древний
+clearly → явно
+beat → бить
+tooth → зуб
+tradition → традиция
+impossible → невозможный
+height → высота
+foreign → иностранный
+natural → естественный
+chairman → председатель
+neighbor → сосед
+to be silent → молчать
+to drink → выпить
+to read → прочитать
+island → остров
+pleasant → приятный
+presence → наличие
+understandable → понятный
+to set off → отправиться
+garden → сад
+kitchen → кухня
+pocket → карман
+childhood → детство
+doubt → сомнение
+hundred → сотня
+plot → участок
+promise → обещать
+according to → согласно
+construction → строительство
+beer → пиво
+disappear → исчезнуть
+thin → тонкий
+forgive → простить
+device → устройство
+laugh → смеяться
+rich → богатый
+bright → яркий
+to correspond → соответствовать
+tear → слеза
+agreeable → согласный
+library → библиотека
+communication → общение
+particularity → частность
+to fulfill → выполнить
+faithful → верный
+difference → отличие
+train → поезд
+official → официальный
+products → продукция
+application → применение
+tsar → царь
+take place → состояться
+stream → поток
+benefit → польза
+to interfere → мешать
+cross → перейти
+mood → настроение
+gradually → постепенно
+editorial office → редакция
+something → нечто
+crowd → толпа
+healthy → здоровый
+planet → планета
+generation → поколение
+reaction → реакция
+smart → умный
+mechanism → механизм
+actually → собственно
+bird → птица
+relatively → относительно
+household → хозяйство
+victim → жертва
+to open → открывать
+pronounce → произнести
+organism → организм
+achievement → достижение
+up → вверх
+bottle → бутылка
+recognize → признать
+to define → определять
+brain → мозг
+drawing → рисунок
+museum → музей
+dependence → зависимость
+rain → дождь
+implementation → реализация
+smile → улыбка
+east → восток
+to smile → улыбнуться
+bread → хлеб
+grandmother → бабушка
+shadow → тень
+to experience → испытывать
+to assume → полагать
+today's → сегодняшний
+active → активный
+receiving → получение
+dangerous → опасный
+announce → объявить
+skin → кожа
+electronic → электронный
+marine → морской
+violation → нарушение
+ensure → обеспечить
+horror → ужас
+act → акт
+contain → содержать
+learn → учить
+tool → инструмент
+committee → комитет
+figure → фигура
+from here → отсюда
+camp → лагерь
+track → след
+property → собственность
+section → раздел
+reality → реальность
+loss → потеря
+winter → зима
+screen → экран
+cute → милый
+to perish → погибнуть
+traditional → традиционный
+to be healthy → здравствовать
+transition → переход
+bed → кровать
+dedicate → посвятить
+lesson → урок
+sex → секс
+motherland → родина
+wine → вино
+zone → зона
+knee → колено
+to sound → звучать
+colleague → коллега
+poor → бедный
+appearance → появление
+edition → издание
+sharply → резко
+to talk → поговорить
+Jew → еврей
+budget → бюджет
+rarely → редко
+prince → князь
+floor → этаж
+honor → честь
+to be required → требоваться
+remarkable → замечательный
+cry → плакать
+need → потребность
+invent → придумать
+debt → долг
+temple → храм
+come in → заходить
+danger → опасность
+deputy → депутат
+enroll → поступить
+to choose → выбирать
+achieve → достигнуть
+save → сохранить
+depth → глубина
+category → категория
+hot → горячий
+arrange → устроить
+administration → администрация
+organize → организовать
+effect → эффект
+to fly → лететь
+trade → торговля
+description → описание
+risk → риск
+accommodate → расположить
+horse → лошадь
+corridor → коридор
+girlfriend → подруга
+commit → совершить
+capital → капитал
+exception → исключение
+competition → конкурс
+scheme → схема
+nocturnal → ночной
+spring → весна
+check → проверить
+beauty → красота
+thirty → тридцать
+fish → рыба
+get → достать
+deeply → глубоко
+publish → опубликовать
+accurate → точный
+pipe → трубка
+to be said → говориться
+eastern → восточный
+key → ключ
+surname → фамилия
+to include → включать
+discovery → открытие
+turn on → включить
+miracle → чудо
+regiment → полк
+armchair → кресло
+opposite → напротив
+appeal → обращение
+describe → описать
+quiet → тихий
+whose → чей
+eight → восемь
+gray → серый
+to be present → присутствовать
+to learn → научиться
+ministry → министерство
+unexpectedly → неожиданно
+cinema → кино
+medical → медицинский
+tax → налог
+iron → железный
+glad → рад
+reduction → снижение
+cultural → культурный
+conflict → конфликт
+previous → предыдущий
+gift → подарок
+to forget → забывать
+wonderfully → прекрасно
+smell → запах
+to ride → ездить
+perhaps → пожалуй
+camera → камера
+mystery → тайна
+crime → преступление
+execution → выполнение
+era → эпоха
+hospital → больница
+exhibition → выставка
+issue → выпуск
+literary → литературный
+link → ссылка
+respect → уважение
+consequence → последствие
+creative → творческий
+background → фон
+educational → учебный
+detail → деталь
+seems → похоже
+weight → вес
+bus → автобус
+request → просьба
+radio → радио
+humanity → человечество
+taste → вкус
+grow up → вырасти
+billion → миллиард
+shortage → недостаток
+in advance → заранее
+to hold on → держаться
+perspective → перспектива
+conference → конференция
+permission → разрешение
+powerful → мощный
+hard → тяжело
+to cook → готовить
+effective → эффективный
+threat → угроза
+sell → продать
+produce → производить
+lunch → обед
+to cross → переходить
+study → изучение
+to provide → обеспечивать
+to rise → подниматься
+entrance → вход
+scary → страшно
+forty → сорок
+reach → дойти
+squad → отряд
+let's say → скажем
+to enroll → поступать
+lower → нижний
+southern → южный
+gas → газ
+seal → печать
+vodka → водка
+grandfather → дед
+television → телевизор
+increase → повышение
+roof → крыша
+bell → звонок
+ah → ах
+contact → контакт
+acquire → приобрести
+true → истинный
+lady → дама
+soft → мягкий
+respected → уважаемый
+creativity → творчество
+artistic → художественный
+honestly → честно
+resource → ресурс
+surface → поверхность
+significantly → значительно
+to get used to → привыкнуть
+access → доступ
+eternal → вечный
+marriage → брак
+glass → стекло
+discussion → обсуждение
+installation → установка
+accidentally → случайно
+to fight → бороться
+male → мужской
+to burn → гореть
+connected → связанный
+superfluous → лишний
+reform → реформа
+invite → пригласить
+ticket → билет
+fresh → свежий
+duty → обязанность
+expenditure → расход
+leading → ведущий
+repeat → повторять
+domestic → отечественный
+owner → владелец
+equipment → оборудование
+trouble → беда
+to report → сообщать
+ahead → впереди
+scream → крик
+uncle → дядя
+indicator → показатель
+develop → развиваться
+formation → формирование
+signal → сигнал
+appoint → назначить
+emanate → исходить
+grass → трава
+treatment → лечение
+box → ящик
+institution → учреждение
+castle → замок
+impact → воздействие
+chair → стул
+slightly → слегка
+abyss → пропасть
+accordingly → соответственно
+fairy tale → сказка
+distance → расстояние
+evil → зло
+noise → шум
+prove → доказать
+calm → спокойный
+digit → цифра
+to form → сложиться
+pier → мол
+disk → диск
+convenient → удобный
+to change → меняться
+evaluate → оценить
+coffee → кофе
+neck → шея
+earlier → ранее
+chance → шанс
+booklet → книжка
+player → игрок
+to prepare → готовиться
+reading → чтение
+staircase → лестница
+boat → лодка
+outside → вне
+to collect → собирать
+pressure → давление
+literally → буквально
+consumer → потребитель
+murder → убийство
+religious → религиозный
+to end → закончиться
+piece → кусок
+strategy → стратегия
+dignity → достоинство
+series → серия
+upper → верхний
+found → основать
+procedure → процедура
+exclusively → исключительно
+consider → рассмотреть
+headquarters → штаб
+to get up → вставать
+to apologize → извиниться
+attentively → внимательно
+baby → малыш
+food → еда
+militia → ополчение
+expectation → ожидание
+Lord → господь
+philosophy → философия
+laughter → смех
+loudly → громко
+numerous → многочисленный
+vital → жизненный
+narrow → узкий
+valuable → ценный
+block → блок
+arrive → прибыть
+to suffer → страдать
+driver → водитель
+from there → оттуда
+sharp → острый
+bridge → мост
+trip → поездка
+silence → тишина
+hearing → слух
+buyer → покупатель
+autumn → осень
+amazing → удивительный
+prepare → подготовить
+tank → танк
+salary → зарплата
+to address → обратиться
+relative → родственник
+to step on → наступить
+hello → привет
+package → пакет
+viewer → зритель
+to dream → мечтать
+turn into → превратиться
+restaurant → ресторан
+fee → плата
+legislation → законодательство
+moon → луна
+extremely → крайне
+security → охрана
+publication → публикация
+nod → кивнуть
+discuss → обсуждать
+for sure → наверняка
+logic → логика
+specially → специально
+to be held → проводиться
+blue → синий
+essence → сущность
+to give back → отдавать
+mirror → зеркало
+along → вдоль
+final → конечный
+reverse → обратный
+palm → ладонь
+distant → дальний
+gate → ворота
+to transmit → передавать
+continue → продолжить
+dream → мечта
+nutrition → питание
+profit → прибыль
+file → файл
+fleet → флот
+religion → религия
+God's → божий
+plus → плюс
+cat → кошка
+characteristic → характерный
+fat → толстый
+communicate → общаться
+fifth → пятый
+hang → висеть
+contribute → способствовать
+excellent → отличный
+reserve → запас
+wing → крыло
+editor → редактор
+tone → тон
+defense → оборона
+colonel → полковник
+neighboring → соседний
+release → выпустить
+worthy → достойный
+crisis → кризис
+to hurry → спешить
+dispute → спор
+to be done → делаться
+lake → озеро
+wild → дикий
+round → круглый
+bottom → дно
+to turn around → повернуться
+younger → младший
+acceptance → принятие
+expert → эксперт
+destroy → уничтожить
+to hit → попадать
+joint → совместный
+warm → тепло
+north → север
+individual → индивидуальный
+darkness → темнота
+breath → дыхание
+concert → концерт
+minimum → минимум
+experiment → эксперимент
+regional → региональный
+negotiations → переговоры
+interview → интервью
+agency → агентство
+purchase → покупка
+weather → погода
+limitation → ограничение
+upbringing → воспитание
+Chinese → китайский
+trend → тенденция
+sin → грех
+manufacturer → производитель
+joke → шутка
+wake up → проснуться
+attack → атака
+registration → регистрация
+report → доклад
+cell → клетка
+candidate → кандидат
+symbol → символ
+everywhere → везде
+practical → практический
+translate → перевести
+to need → нуждаться
+directly → непосредственно
+sexual → сексуальный
+including → включая
+unknown → неизвестный
+unhappy → несчастный
+layer → слой
+musical → музыкальный
+besides → помимо
+appointment → назначение
+guilty → виноватый
+shift → смена
+positive → положительный
+meat → мясо
+allocate → выделить
+park → парк
+prominent → видный
+status → статус
+prison → тюрьма
+one and a half → полтора
+observation → наблюдение
+figure out → разобраться
+psychological → психологический
+to engage in → заняться
+to raise → поднимать
+to be ill → болеть
+stupid → глупый
+to introduce oneself → представляться
+advantage → преимущество
+stretch out → протянуть
+agreement → соглашение
+rear → задний
+accessible → доступный
+to lie ahead → предстоять
+heap → куча
+to set → задавать
+carefully → осторожно
+peace → покой
+independent → независимый
+explanation → объяснение
+solar → солнечный
+express → выразить
+difficulty → трудность
+fool → дурак
+cooperation → сотрудничество
+platform → площадка
+to get tired → устать
+unit → единица
+journey → путешествие
+classical → классический
+honest → честный
+to order → приказать
+interaction → взаимодействие
+empire → империя
+Orthodox → православный
+to sigh → вздохнуть
+temperature → температура
+industry → отрасль
+dress → платье
+standard → стандарт
+rest → отдых
+to succeed → удаваться
+passion → страсть
+civilization → цивилизация
+division → дивизия
+oil → масло
+patient → пациент
+monetary → денежный
+police → полиция
+south → юг
+rare → редкий
+rate → ставка
+connect → соединить
+legal → юридический
+milk → молоко
+suit → костюм
+forehead → лоб
+dry → сухой
+palace → дворец
+sport → спорт
+exchange → обмен
+ban → запретить
+pity → жаль
+democracy → демократия
+explosion → взрыв
+broadly → широко
+shoot → стрелять
+silently → молча
+aspiration → стремление
+refusal → отказ
+care → забота
+judicial → судебный
+knife → нож
+unconditionally → безусловно
+satisfied → довольный
+popular → популярный
+subsequent → последующий
+thinking → мышление
+Saturday → суббота
+lie down → лечь
+to count on → рассчитывать
+obvious → очевидный
+fifty → пятьдесят
+substance → вещество
+academy → академия
+continuation → продолжение
+centimeter → сантиметр
+forever → навсегда
+belly → живот
+root → корень
+wooden → деревянный
+sample → образец
+terrestrial → земной
+profession → профессия
+out → вон
+commercial → коммерческий
+to play → сыграть
+hotel → гостиница
+campaign → кампания
+assertion → утверждение
+withstand → выдержать
+mail → почта
+to carry → повезти
+to listen → послушать
+oh → ой
+listener → слушатель
+pause → пауза
+chamber → палата
+efficiency → эффективность
+credit → кредит
+drunk → пьяный
+to win → победить
+confidence → уверенность
+to make sure → убедиться
+sir → сэр
+teaching → учение
+celebrate → отмечать
+perception → восприятие
+dirty → грязный
+proof → доказательство
+Friday → пятница
+ring → кольцо
+seller → продавец
+capture → захватить
+magnitude → величина
+tension → напряжение
+mandatory → обязательный
+to be found → найтись
+peasant → крестьянин
+to undertake → приняться
+to refuse → отказываться
+suggest → предложить
+catch → поймать
+rural → сельский
+to wait → подождать
+peak → вершина
+board → доска
+Japanese → японский
+secret → секрет
+to achieve → достигать
+to protect → защищать
+perceive → воспринимать
+to prefer → предпочитать
+pen → ручка
+identical → одинаковый
+hit → ударить
+to smoke → курить
+testify → свидетельствовать
+confirm → подтвердить
+to rush → броситься
+Monday → понедельник
+strict → строгий
+breathe → дышать
+portrait → портрет
+grab → схватить
+nuclear → ядерный
+threshold → порог
+sector → сектор
+walk → гулять
+to give as a gift → подарить
+beam → луч
+conclude → заключить
+surrounding → окружающий
+to commit → совершать
+cool → крутой
+habit → привычка
+unique → уникальный
+lieutenant → лейтенант
+press → пресса
+test → испытание
+emotion → эмоция
+apply → применять
+nine → девять
+join → вступить
+transport → транспорт
+offensive → наступление
+manifestation → проявление
+tail → хвост
+advertising → рекламный
+criminal → уголовный
+to be determined → определяться
+witness → свидетель
+kilogram → килограмм
+exam → экзамен
+derive → вывести
+pull → тянуть
+manager → менеджер
+cycle → цикл
+surprise → удивление
+Jewish → еврейский
+reasonable → разумный
+investment → инвестиция
+inscription → надпись
+to happen → случаться
+bag → сумка
+gold → золото
+cigarette → сигарета
+successful → успешный
+to take away → забрать
+quite a bit → немало
+cloud → облако
+quote → цитата
+stripe → полоса
+rating → рейтинг
+implement → реализовать
+instruction → указание
+forced → вынужденный
+warrior → воин
+atmosphere → атмосфера
+manage → обойтись
+monument → памятник
+argue → спорить
+accidental → случайный
+archive → архив
+to implement → осуществлять
+actively → активно
+engineer → инженер
+to be surprised → удивиться
+nation → нация
+strictly → строго
+successfully → успешно
+acquaintance → знакомство
+diary → дневник
+to influence → влиять
+convince → убедить
+button → кнопка
+deal → сделка
+unpleasant → неприятный
+remainder → остаток
+aspect → аспект
+sports → спортивный
+software → программный
+secretary → секретарь
+clarify → выяснить
+distribution → распространение
+to confess → признаться
+ocean → океан
+infinite → бесконечный
+to hide → скрывать
+visitor → посетитель
+to be absent → отсутствовать
+preservation → сохранение
+painful → больно
+skill → умение
+emperor → император
+universe → вселенная
+to live through → прожить
+acknowledgment → признание
+governor → губернатор
+to stop → останавливаться
+initiative → инициатива
+repair → ремонт
+scale → масштаб
+to endure → терпеть
+fifteen → пятнадцать
+to agree → договориться
+to advance → наступать
+attract → привлечь
+smoke → дым
+criticism → критика
+to express → выражать
+payment → оплата
+extension → протяжение
+parameter → параметр
+lecture → лекция
+dance → танец
+to rejoice → радоваться
+cheek → щека
+probability → вероятность
+earn → заработать
+boundary → рубеж
+intellectual → интеллектуальный
+agent → агент
+replace → заменить
+consent → согласие
+criterion → критерий
+origin → происхождение
+ether → эфир
+funny → смешной
+to demand → потребовать
+absolute → абсолютный
+seminar → семинар
+metro → метро
+recommend → рекомендовать
+server → сервер
+audience → публика
+prayer → молитва
+glasses → очки
+hand in → сдать
+hate → ненавидеть
+resistance → сопротивление
+to cope → справиться
+luck → удача
+policeman → полицейский
+to recognize → признавать
+collection → сбор
+length → длина
+peaceful → мирный
+wheel → колесо
+intention → намерение
+friendship → дружба
+unexpected → неожиданный
+dinner → ужин
+engine → двигатель
+young man → юноша
+talent → талант
+automatic → автоматический
+beast → зверь
+naked → голый
+worry → переживать
+corpse → труп
+turn → поворот
+priest → священник
+exercise → упражнение
+punishment → наказание
+strategic → стратегический
+moral → моральный
+mention → упомянуть
+to give birth → родить
+sword → меч
+processing → обработка
+mobile → мобильный
+to be carried out → осуществляться
+incomprehensible → непонятный
+complexity → сложность
+conscience → совесть
+sofa → диван
+hunting → охота
+drug → наркотик
+community → сообщество
+passenger → пассажир
+poetry → поэзия
+to close → закрывать
+premium → премия
+sufficient → достаточный
+script → сценарий
+psychology → психология
+code → код
+alas → увы
+crew → экипаж
+assistant → помощник
+to feed → кормить
+bone → кость
+association → ассоциация
+entrepreneur → предприниматель
+spread → распространить
+port → порт
+paint → краска
+to foresee → предусмотреть
+rocket → ракета
+to marry → жениться
+resolution → постановление
+in vain → зря
+mud → грязь
+certificate → свидетельство
+to think over → обдумать
+to shout → крикнуть
+sand → песок
+tempo → темп
+avoid → избежать
+ceiling → потолок
+vacation → отпуск
+thoroughly → тщательно
+angel → ангел
+monastery → монастырь
+below → внизу
+route → маршрут
+unusual → необычный
+dust → пыль
+to invite → приглашать
+plant → растение
+democratic → демократический
+ideal → идеальный
+turnover → оборот
+to put on → надеть
+nowhere → никуда
+fighter → боец
+introduction → введение
+argument → аргумент
+fabric → ткань
+to be preserved → сохраниться
+survive → пережить
+warehouse → склад
+egg → яйцо
+trust → доверие
+gentle → нежный
+throat → горло
+to teach → научить
+to designate → предназначить
+format → формат
+British → британский
+cover → покрыть
+spend → тратить
+existing → существующий
+lawyer → адвокат
+experienced → опытный
+gun → пистолет
+industrial → промышленный
+teenager → подросток
+bomb → бомба
+tower → башня
+towards → навстречу
+socially → социально
+hostess → хозяйка
+deliver → доставить
+pull out → вытащить
+wealth → богатство
+to be needed → понадобиться
+supreme → верховный
+motive → мотив
+defeat → поражение
+toilet → туалет
+preserve → сохранять
+alarm → тревога
+to dial → набрать
+protect → защитить
+expensive → дорогой
+cruel → жестокий
+firmly → крепко
+to decide → решиться
+deprive → лишить
+administrative → административный
+tremble → дрожать
+fruit → плод
+vessel → судно
+to live → проживать
+independently → самостоятельно
+subsequently → впоследствии
+dialogue → диалог
+to smell → пахнуть
+start talking → заговорить
+wedding → свадьба
+fog → туман
+delight → восторг
+emphasize → подчеркнуть
+lord → лорд
+accuracy → точность
+to transform → превращаться
+staff → персонал
+exclaim → воскликнуть
+major → майор
+to evaluate → оценивать
+turn around → обернуться
+to ring out → раздаться
+operator → оператор
+constitution → конституция
+card → карточка
+analogous → аналогичный
+pregnancy → беременность
+to keep → хранить
+researcher → исследователь
+to disappear → исчезать
+Frenchman → француз
+married → замуж
+toy → игрушка
+merrily → весело
+season → сезон
+formula → формула
+consideration → рассмотрение
+to look in → заглянуть
+Don → дон
+fist → кулак
+physics → физика
+universal → всеобщий
+violence → насилие
+gesture → жест
+initial → исходный
+to force → вынудить
+Englishman → англичанин
+brigade → бригада
+challenge → вызов
+drop → капля
+laboratory → лаборатория
+salvation → спасение
+immediate → непосредственный
+half an hour → полчаса
+shelf → полка
+passport → паспорт
+suspect → подозревать
+obligation → обязательство
+mountainous → горный
+protocol → протокол
+recommendation → рекомендация
+medicine → лекарство
+maximum → максимальный
+announcement → объявление
+minimal → минимальный
+lonely → одинокий
+descend → спуститься
+remark → замечание
+career → карьера
+to rest → отдыхать
+statement → высказывание
+ball → шар
+to remember → запомнить
+politician → политик
+undoubtedly → несомненно
+album → альбом
+railway station → вокзал
+note → записка
+break → разбить
+justice → справедливость
+shortly → скоро
+suffering → страдание
+country house → дача
+warranty → гарантия
+contradiction → противоречие
+nervous → нервный
+not at all → отнюдь
+grave → могила
+modest → скромный
+spot → пятно
+noticeable → заметный
+soil → почва
+bullet → пуля
+cargo → груз
+communist → коммунист
+twelve → двенадцать
+imagination → воображение
+coarse → грубый
+aha → ага
+Germanic → германский
+visit → посетить
+diverse → разнообразный
+to step back → отойти
+divide → разделить
+global → глобальный
+cafe → кафе
+faculty → факультет
+bush → куст
+poem → стихотворение
+methodology → методика
+guess → догадаться
+battle → битва
+to be interested in → интересоваться
+surround → окружать
+advise → советовать
+reconnaissance → разведка
+calm down → успокоиться
+potential → потенциал
+loneliness → одиночество
+fantasy → фантазия
+allegedly → якобы
+manufacturing → производственный
+mine → мина
+responsible → ответственный
+wolf → волк
+damage → ущерб
+wet → мокрый
+expansion → расширение
+to scream → закричать
+tent → палатка
+salon → салон
+magnificent → великолепный
+reflect → отражать
+to climb → лезть
+hunger → голод
+shot → выстрел
+cupboard → шкаф
+winner → победитель
+to trust → доверять
+genre → жанр
+philosophical → философский
+objective → объективный
+tragedy → трагедия
+sacred → священный
+complain → жаловаться
+Thursday → четверг
+festival → фестиваль
+hatred → ненависть
+hill → холм
+frequency → частота
+context → контекст
+copy → копия
+satisfaction → удовлетворение
+knot → узел
+psychologist → психолог
+harm → вред
+financing → финансирование
+not bad → неплохо
+to visit → побывать
+ideology → идеология
+register → зарегистрировать
+command → командование
+negative → отрицательный
+to be created → создаваться
+conviction → убеждение
+to regret → жалеть
+rock → скала
+Tuesday → вторник
+certainly → непременно
+accusation → обвинение
+artificial → искусственный
+carry out → вынести
+exclude → исключить
+liter → литр
+textbook → учебник
+to exceed → превышать
+ribbon → лента
+Christian → христианский
+insufficient → недостаточный
+readiness → готовность
+authority → начальство
+to manifest → проявляться
+load → нагрузка
+unite → объединить
+soulful → душевный
+slave → раб
+correspondent → корреспондент
+satellite → спутник
+chain → цепь
+miss → пропустить
+pink → розовый
+to thank → благодарить
+episode → эпизод
+take into account → учесть
+column → колонна
+parliament → парламент
+cathedral → собор
+to dance → танцевать
+foolishness → глупость
+emotional → эмоциональный
+transfer → перенести
+town → городок
+amateur → любитель
+bar → бар
+decent → приличный
+to be contained → содержаться
+review → обзор
+claim → претензия
+shirt → рубашка
+Italian → итальянский
+yearning → тоска
+breakfast → завтрак
+pension → пенсия
+recovery → восстановление
+tourist → турист
+investor → инвестор
+compare → сравнить
+fashion → мода
+mortgage → заложить
+developer → разработчик
+to draw → рисовать
+emergence → возникновение
+to be fooled → вестись
+unity → единство
+foreigner → иностранец
+statistics → статистика
+to warn → предупредить
+to worry → волноваться
+musician → музыкант
+decade → десятилетие
+to shake → пожать
+realize → осознать
+brilliant → блестящий
+killer → убийца
+sad → печальный
+improvement → улучшение
+apple → яблоко
+to declare → заявлять
+locality → местность
+expedition → экспедиция
+to earn → зарабатывать
+progress → прогресс
+belt → пояс
+queen → королева
+profitable → выгодный
+old woman → старуха
+aerodrome → аэродром
+to share → делиться
+react → реагировать
+ally → союзник
+reveal → раскрыть
+corporation → корпорация
+temporary → временный
+to tire of → надоесть
+detain → задержать
+boot → сапог
+trifle → мелочь
+discipline → дисциплина
+at first → вначале
+airport → аэропорт
+on time → вовремя
+myth → миф
+freely → свободно
+author's → авторский
+knock down → сбить
+Polish → польский
+competitor → конкурент
+mask → маска
+complaint → жалоба
+consumption → потребление
+to rely on → опираться
+signature → подпись
+transparent → прозрачный
+aviation → авиация
+cow → корова
+start → завести
+to be applied → применяться
+to lie down → ложиться
+insist → настаивать
+beverage → напиток
+elect → избрать
+liberation → освобождение
+double → двойной
+written → письменный
+count → граф
+thick → густой
+Roman → римский
+fold → сложить
+studio → студия
+arrival → приход
+Kremlin → кремль
+reflection → отражение
+on the eve → накануне
+measurement → измерение
+celestial → небесный
+genuine → подлинный
+noticeably → заметно
+separately → отдельно
+fulfill → исполнить
+restore → восстановить
+preliminary → предварительный
+sincerely → искренне
+to care → заботиться
+get rid of → избавиться
+hide → скрыть
+ecological → экологический
+pray → молиться
+novella → повесть
+component → компонент
+violate → нарушить
+pride → гордость
+bride → невеста
+lead away → отвести
+contribution → вклад
+to prove → доказывать
+to be observed → наблюдаться
+deaf → глухой
+metal → металл
+incorrect → неправильный
+brief → краткий
+suitable → подходящий
+accompany → сопровождать
+theoretical → теоретический
+stay → пребывание
+lie → ложь
+catastrophe → катастрофа
+environment → окружение
+processor → процессор
+fair → справедливый
+profile → профиль
+quarter → квартал
+legislative → законодательный
+exploitation → эксплуатация
+little house → домик
+metallic → металлический
+wonderful → чудесный
+servant → слуга
+decisively → решительно
+critical → критический
+activist → активист
+to advise → посоветовать
+steering wheel → руль
+sixth → шестой
+pancake → блин
+twice → дважды
+to descend → спускаться
+candle → свеча
+bear → медведь
+operational → оперативный
+upstairs → наверх
+forecast → прогноз
+survey → опрос
+interlocutor → собеседник
+elderly → пожилой
+spouse → супруг
+to install → устанавливать
+mission → миссия
+ton → тонна
+horizon → горизонт
+assure → уверить
+sugar → сахар
+evolution → эволюция
+furniture → мебель
+typical → типичный
+desert → пустыня
+original → оригинальный
+offense → обида
+combination → сочетание
+armament → вооружение
+cup → чашка
+prosecutor's office → прокуратура
+congress → съезд
+acquisition → приобретение
+schedule → график
+philosopher → философ
+to hand in → сдавать
+tribe → племя
+branch → ветка
+to encounter → сталкиваться
+anger → гнев
+postal → почтовый
+weakness → слабость
+entirely → целиком
+consultant → консультант
+fortress → крепость
+to divide → разделять
+to understand → разбираться
+governance → правление
+sweet → сладкий
+trunk → ствол
+to complete → завершить
+to wait for → дождаться
+independence → независимость
+recent → недавний
+valley → долина
+bring to → довести
+catalog → каталог
+fence → забор
+photo → фото
+severe → суровый
+incredible → невероятный
+gratitude → благодарность
+instantly → мгновенно
+overcome → преодолеть
+to scare → пугать
+to kiss → целовать
+to get scared → испугаться
+despair → отчаяние
+no time → некогда
+award → награда
+ordinary → обыкновенный
+prey → добыча
+peculiar → своеобразный
+disgusting → противный
+kingdom → царство
+brightly → ярко
+revolutionary → революционный
+flow → течь
+well done → молодец
+cheat → изменять
+to pursue → преследовать
+corporate → корпоративный
+mutual → взаимный
+sovereign → государь
+legend → легенда
+opposition → оппозиция
+establishment → установление
+by means of → посредством
+up to → вплоть
+to yell → орать
+demonstrate → демонстрировать
+digital → цифровой
+assumption → предположение
+plate → тарелка
+storage → хранение
+noble → благородный
+to threaten → грозить
+stick out → торчать
+publishing house → издательство
+failure → неудача
+cannon → пушка
+municipal → муниципальный
+shell → снаряд
+crazy → сумасшедший
+wisdom → мудрость
+gloomy → мрачный
+executive → исполнительный
+nucleus → ядро
+historian → историк
+virtual → виртуальный
+stretch → тянуться
+ancestor → предок
+juice → сок
+to swim → плыть
+loud → громкий
+reasoning → рассуждение
+to get → достаться
+undertake → предпринять
+location → расположение
+basic → базовый
+sergeant → сержант
+electoral → избирательный
+electric → электрический
+wound → рана
+silver → серебряный
+gigantic → гигантский
+imperial → царский
+dictionary → словарь
+mouse → мышь
+customer → заказчик
+mortal → смертный
+subscribe → подписаться
+as a result of → вследствие
+harmful → вредный
+technological → технологический
+dish → блюдо
+ambassador → посол
+paw → лапа
+pose → поза
+excitement → волнение
+to lend → придавать
+to lead → руководить
+mental → психический
+supply → поставка
+closed → закрытый
+architecture → архитектура
+mathematical → математический
+jump → прыгать
+to tie → связывать
+urgently → срочно
+to dress → одеть
+flour → мука
+to set forth → изложить
+automatically → автоматически
+chemical → химический
+decree → указ
+schoolboy → школьник
+launch → запустить
+custom → обычай
+lamp → лампа
+matter → материя
+to collide → столкнуться
+actual → настоящий
+veteran → ветеран
+rupture → разрыв
+residential → жилой
+license → лицензия
+to be mistaken → ошибаться
+replacement → замена
+organizer → организатор
+to forgive → прощать
+terribly → ужасно
+royal → королевский
+emptiness → пустота
+to fear → опасаться
+pick up → подобрать
+hell → ад
+to risk → рисковать
+training → тренировка
+daily → ежедневно
+facet → грань
+divine → божественный
+youth → молодость
+humor → юмор
+softly → мягко
+insurance → страховка
+destruction → уничтожение
+sustainable → устойчивый
+alcohol → алкоголь
+suffer → пострадать
+design → дизайн
+beautifully → красиво
+guarantee → гарантировать
+hunter → охотник
+investigation → расследование
+bedroom → спальня
+viewing → просмотр
+ratio → соотношение
+Belarusian → белорусский
+prose → проза
+to be located → располагаться
+amendment → поправка
+scandal → скандал
+hungry → голодный
+flame → пламя
+logical → логический
+to coincide → совпадать
+blanket → одеяло
+muscle → мышца
+relationship → взаимоотношение
+to depict → изображать
+fortification → укрепление
+supporter → сторонник
+to research → исследовать
+to direct → направлять
+blind → слепой
+cave → пещера
+red-haired → рыжий
+worldwide → всемирный
+perfect → совершенный
+pillow → подушка
+to rely → полагаться
+colored → цветной
+manner → манера
+to object → возразить
+call → призыв
+approve → утвердить
+Greek → греческий
+to be built → строиться
+talented → талантливый
+monitor → монитор
+dragon → дракон
+regularly → регулярно
+exhibit → выставить
+obstacle → препятствие
+magical → волшебный
+match → матч
+lantern → фонарь
+officially → официально
+confirmation → подтверждение
+seventh → седьмой
+elevator → лифт
+be produced → производиться
+indicated → указанный
+adjust → настроить
+flag → флаг
+possession → владение
+elite → элита
+battery → батарея
+adventure → приключение
+curious → любопытный
+wise → мудрый
+normally → нормально
+pale → бледный
+thief → вор
+gain → обрести
+grandson → внук
+dawn → рассвет
+slope → склон
+province → провинция
+formulate → сформулировать
+so as to → дабы
+not far → недалеко
+in a row → подряд
+beach → пляж
+to get caught → попасться
+finish → закончить
+grateful → благодарный
+to inquire → поинтересоваться
+feather → перо
+fashionable → модный
+gaming → игровой
+push → толк
+to save → спасать
+to avoid → избегать
+to be proud of → гордиться
+fill in → заполнить
+marketing → маркетинг
+railway → железнодорожный
+curiosity → любопытство
+to be supposed → предполагаться
+rhythm → ритм
+completion → завершение
+feat → подвиг
+nerve → нерв
+deceive → обмануть
+pilot → пилот
+voting → голосование
+Mrs. → миссис
+ashamed → стыдно
+illusion → иллюзия
+genius → гений
+swim → плавать
+solid → сплошной
+invisible → невидимый
+joyful → радостный
+academician → академик
+hey → эй
+socialist → социалистический
+indeed → таки
+to be given → даваться
+promotion → продвижение
+to lose → проиграть
+invest → вложить
+protest → протест
+limited → ограниченный
+developed → развитый
+to compare → сравнивать
+treat → лечить
+coach → тренер
+Muscovite → москвич
+top → верх
+satisfy → удовлетворить
+suppress → подавлять
+depict → изобразить
+hat → шляпа
+reputation → репутация
+coffin → гроб
+to make a mistake → ошибиться
+increased → повышенный
+congratulate → поздравлять
+to print → напечатать
+pool → бассейн
+joyfully → радостно
+mayor → мэр
+currency → валюта
+maximally → максимально
+cabin → кабина
+prosecutor → прокурор
+critic → критик
+wander → бродить
+carrier → носитель
+inevitable → неизбежный
+jacket → куртка
+partly → отчасти
+unclear → непонятный
+asset → актив
+bypass → обойти
+inconspicuously → незаметно
+to deserve → заслужить
+cemetery → кладбище
+echo → эхо
+glorious → славный
+euro → евро
+landing → посадка
+icon → икона
+sequence → последовательность
+two hundred → двести
+yesterday's → вчерашний
+shoe → ботинок
+conveniently → удобно
+trousers → штаны
+to be stored → храниться
+battalion → батальон
+testimony → показание
+specialty → специальность
+calculate → рассчитать
+refrigerator → холодильник
+verse → стих
+arrest → арестовать
+kopeck → копейка
+wounded → раненый
+gaze → взор
+throw out → выбросить
+fill → наполнить
+jump out → выскочить
+outcome → исход
+terrorist → террорист
+suitcase → чемодан
+let down → подвести
+disabled person → инвалид
+shake → покачать
+to spread → распространяться
+invitation → приглашение
+commissar → комиссар
+to jump up → вскочить
+aloud → вслух
+infant → младенец
+unfold → развернуть
+balance → баланс
+suspicion → подозрение
+visa → виза
+to serve → послужить
+muzzle → морда
+attentive → внимательный
+fragment → фрагмент
+hole → дыра
+specifically → конкретно
+to value → ценить
+confidently → уверенно
+basement → подвал
+busy → занятый
+false → ложный
+attractive → привлекательный
+stove → плита
+atomic → атомный
+interrupt → прервать
+passage → проход
+choir → хор
+maiden → девица
+sleeve → рукав
+steal → украсть
+socialism → социализм
+dining room → столовая
+to be sold → продаваться
+to head → направляться
+favorable → благоприятный
+stick → палка
+outstanding → выдающийся
+paradise → рай
+eyebrow → бровь
+to fall asleep → заснуть
+translator → переводчик
+break free → вырваться
+jointly → совместно
+equilibrium → равновесие
+investigator → следователь
+freeze → замереть
+embassy → посольство
+useless → бесполезный
+piece of paper → бумажка
+thread → нить
+everyday life → быт
+workshop → мастерская
+underwater → подводный
+planning → планирование
+prophet → пророк
+pack → пачка
+businessman → бизнесмен
+banner → знамя
+to cover → охватить
+to disturb → беспокоить
+partially → частично
+flesh → плоть
+Bible → библия
+productivity → производительность
+setting → настройка
+expand → расширить
+inclined → склонный
+to part → расстаться
+repeatedly → неоднократно
+gram → грамм
+oven → печь
+originally → изначально
+hidden → скрытый
+taxi → такси
+shine → сиять
+salt → соль
+away → прочь
+dare → сметь
+consultation → консультация
+to throw → бросить
+to adhere → придерживаться
+to greet → приветствовать
+to increase → увеличиваться
+hostile → вражеский
+handkerchief → платок
+fall asleep → засыпать
+cancer → рак
+to wake up → просыпаться
+mysterious → таинственный
+programmer → программист
+security guard → охранник
+alongside → наряду
+collective → коллективный
+video → видео
+biological → биологический
+football → футбол
+efficiently → эффективно
+nonsense → бред
+mile → миля
+cursed → проклятый
+breed → порода
+outsider → посторонний
+chicken → курица
+cleanliness → чистота
+liberal → либеральный
+to escape → убежать
+to cut off → отрезать
+extensive → обширный
+incident → происшествие
+highway → шоссе
+knock → стучать
+cancel → отменить
+pit → яма
+to be subject to → подлежать
+idiot → идиот
+creator → создатель
+observance → соблюдение
+captivity → плен
+spoon → ложка
+fuel → топливо
+come → настать
+barely → еле
+magic → магия
+to hug → обнять
+voter → избиратель
+meaningless → бессмысленный
+gallery → галерея
+coin → монета
+finance → финансы
+liquid → жидкость
+half a year → полгода
+vote → голосовать
+fundamental → фундаментальный
+pole → столб
+bridegroom → жених
+defender → защитник
+drive → гнать
+inherent → присущий
+virus → вирус
+stormy → бурный
+to condition → обусловить
+guard → охранять
+dense → плотный
+wash → мыть
+riddle → загадка
+whisper → прошептать
+mad → безумный
+minus → минус
+reduce → свести
+to retreat → отходить
+dose → доза
+pathetic → жалкий
+penetrate → проникнуть
+retain → удержать
+performer → исполнитель
+get a job → устроиться
+popularity → популярность
+to drive past → проехать
+enjoy → наслаждаться
+diploma → диплом
+to drag → тащить
+automotive → автомобильный
+morality → мораль
+trash → мусор
+propaganda → пропаганда
+beard → борода
+tariff → тариф
+to chat → беседовать
+detailed → подробный
+patience → терпение
+robot → робот
+to listen to → выслушать
+delete → удалить
+frankly → откровенно
+selection → отбор
+fatigue → усталость
+fall out → выпасть
+to fall in love → полюбить
+sincere → искренний
+knight → рыцарь
+on duty → дежурный
+deny → отрицать
+stand out → выделяться
+particle → частица
+dynamics → динамика
+elbow → локоть
+merit → заслуга
+transformation → преобразование
+regulation → регулирование
+formal → формальный
+spoil → испортить
+living room → гостиная
+shock → шок
+tour → тур
+bandit → бандит
+yield → уступать
+bill → законопроект
+closeness → близость
+guitar → гитара
+balcony → балкон
+to explain → объясняться
+shield → щит
+all possible → всевозможный
+to guess → догадываться
+inspect → осмотреть
+attraction → привлечение
+graduate → выпускник
+real estate → недвижимость
+monk → монах
+kiss → поцелуй
+forgiveness → прощение
+to accuse → обвинять
+championship → чемпионат
+artillery → артиллерия
+involuntarily → невольно
+delivery → доставка
+shade → оттенок
+prize → приз
+receipt → поступление
+hypothesis → гипотеза
+stand → постоять
+to command → командовать
+colony → колония
+in view of → ввиду
+magician → маг
+departure → отъезд
+score → забить
+placement → размещение
+to pity → пожалеть
+to wound → ранить
+excite → возбудить
+theatrical → театральный
+slogan → лозунг
+get out → выбраться
+to examine → разглядывать
+sweat → пот
+for a long time → надолго
+entertainment → развлечение
+folder → папка
+dishes → посуда
+arrow → стрелка
+denote → обозначить
+principal → главный
+phase → фаза
+variety → сорт
+bloody → кровавый
+to offend → обидеть
+fascist → фашист
+tournament → турнир
+bathroom → ванная
+contradict → противоречить
+to be perceived → восприниматься
+avenue → проспект
+disassemble → разобрать
+dark → темно
+rack → стойка
+to be offered → предлагаться
+truck → грузовик
+noon → полдень
+to stare → уставиться
+shooting → стрельба
+swamp → болото
+accident → авария
+intellect → интеллект
+to be heard → послышаться
+to diverge → расходиться
+instinct → инстинкт
+to be discussed → обсуждаться
+race → раса
+coast → побережье
+respond → отозваться
+lid → крышка
+stomach → желудок
+bucket → ведро
+tactic → тактика
+zero → нуль
+lightning → молния
+Chechen → чеченский
+shop → лавка
+thesis → тезис
+make out → разглядеть
+to contribute → вносить
+raincoat → плащ
+to look back → оглянуться
+accessory → принадлежность
+collapse → рухнуть
+importance → важность
+judgment → суждение
+to fall ill → заболеть
+compensation → компенсация
+relief → облегчение
+to lie around → валяться
+supplier → поставщик
+Christianity → христианство
+dissatisfied → недовольный
+Cossack → казак
+observer → наблюдатель
+manuscript → рукопись
+menu → меню
+brave → смелый
+pill → таблетка
+principally → главным образом
+medal → медаль
+linguistic → языковой
+anxiety → беспокойство
+pedagogical → педагогический
+sailor → моряк
+justify → оправдать
+gray-haired → седой
+poetic → поэтический
+equally → одинаково
+to be planned → планироваться
+desirably → желательно
+lend → придать
+visibility → видимость
+accent → акцент
+fall silent → замолчать
+governmental → правительственный
+solemn → торжественный
+to precede → предшествовать
+devil → дьявол
+coat → пальто
+optimal → оптимальный
+insert → вставить
+robe → халат
+Arabic → арабский
+from below → снизу
+rat → крыса
+divorce → развод
+precious → драгоценный
+fluctuation → колебание
+safe → безопасный
+fly → муха
+capitalism → капитализм
+mighty → могучий
+icy → ледяной
+heat → жара
+to laugh → рассмеяться
+warning → предупреждение
+nowadays → нынче
+bicycle → велосипед
+fantastic → фантастический
+recipe → рецепт
+sleigh → сани
+mixture → смесь
+potato → картошка
+melody → мелодия
+tasty → вкусный
+sixty → шестьдесят
+mutter → пробормотать
+radio station → радиостанция
+on foot → пешком
+bureau → бюро
+irritate → раздражать
+collision → столкновение
+ideological → идеологический
+postpone → отложить
+fine → штраф
+Spanish → испанский
+torture → мучить
+addition → дополнение
+to obey → подчиняться
+Volga → Волга
+healthcare → здравоохранение
+decisive → решительный
+outward → наружу
+lunar → лунный
+priority → приоритет
+gasoline → бензин
+Leningrad → Ленинград
+intervention → вмешательство
+grain → зерно
+parking → стоянка
+shoes → обувь
+anew → заново
+inevitably → неизбежно
+indigenous → коренной
+demonstration → демонстрация
+harmony → гармония
+orientation → ориентация
+module → модуль
+to be subjected → подвергаться
+to promise → пообещать
+everyday → повседневный
+mercy → милость
+elementary → элементарный
+analyze → анализировать
+interface → интерфейс
+to encompass → охватывать
+to press → давить
+intensification → усиление
+unfaithful → неверный
+grouping → группировка
+hatch → люк
+eighth → восьмой
+Turkish → турецкий
+take away → отобрать
+festive → праздничный
+lips → уста
+qualification → квалификация
+insignificant → незначительный
+cheese → сыр
+illegal → незаконный
+ha → ха
+snowy → снежный
+presidential → президентский
+boring → скучный
+exceptional → исключительный
+deception → обман
+spectacle → зрелище
+nationality → национальность
+merchant → купец
+wire → провод
+mushroom → гриб
+unnecessary → ненужный
+bathhouse → баня
+openly → открыто
+to pass → миновать
+advanced → передовой
+dull → тупой
+flat → плоский
+ceremony → церемония
+to transfer → переносить
+Bolshevik → большевик
+excitation → возбуждение
+painting → живопись
+advisor → советник
+upcoming → предстоящий
+rival → соперник
+entrust → поручить
+goblet → бокал
+skirt → юбка
+export → экспорт
+constitutional → конституционный
+flash → вспышка
+stability → стабильность
+passerby → прохожий
+scout → разведчик
+beggar → нищий
+to detect → обнаруживать
+alternative → альтернативный
+functional → функциональный
+inspector → инспектор
+pour → налить
+interpretation → интерпретация
+turn away → отвернуться
+pig → свинья
+rational → рациональный
+to be caught → попадаться
+present → предъявить
+rather → скорее
+Latin → латинский
+willingly → охотно
+to educate → воспитывать
+bath → ванна
+horseradish → хрен
+to tear off → оторвать
+climate → климат
+onion → лук
+target → целевой
+to be accompanied → сопровождаться
+old age → старость
+diversity → разнообразие
+primary → первичный
+administrator → администратор
+accompaniment → сопровождение
+leather → кожаный
+snake → змея
+sadly → грустно
+biography → биография
+expertise → опыт
+proud → гордый
+backpack → рюкзак
+mug → кружка
+laptop → ноутбук
+admirer → поклонник
+injury → травма
+twist → крутить
+rapidly → стремительно
+pluck → сорвать
+admiral → адмирал
+resemble → походить
+to obligate → обязать
+thigh → бедро
+descendant → потомок
+subtract → отнять
+illuminate → осветить
+elephant → слон
+printed → печатный
+continuous → непрерывный
+panel → панель
+cartridge → патрон
+intelligentsia → интеллигенция
+password → пароль
+fatherland → отечество
+mailing → рассылка
+full-fledged → полноценный
+sorrow → печаль
+lighting → освещение
+landscape → пейзаж
+perfection → совершенство
+action movie → боевик
+aggregate → совокупность
+majesty → величество
+porridge → каша
+thirst → жажда
+cosmonaut → космонавт
+infantry → пехота
+Fascist → фашист
+diagnosis → диагноз
+to be shy → стесняться
+land → земля
+leak out → вытекать
+boil down to → сводиться
+illustration → иллюстрация
+bring together → сводить
+mentally → мысленно
+renaissance → возрождение
+frequent → частый
+conquer → завоевать
+annually → ежегодно
+Siberian → сибирский
+gust → порыв
+update → обновление
+nightmare → кошмар
+cellular → сотовый
+integration → интеграция
+primarily → преимущественно
+humanitarian → гуманитарный
+cunning → хитрый
+to catch → застать
+range → диапазон
+preference → предпочтение
+to pick up → подхватить
+doll → кукла
+coal → уголь
+allocation → выделение
+champion → чемпион
+periodically → периодически
+nail → ноготь
+pound → фунт
+rage → ярость
+collective farm → колхоз
+sparkle → сверкать
+axe → топор
+incarnation → воплощение
+to navigate → ориентироваться
+diet → диета
+hourly → часовой
+sit down → присесть
+earned → заработный
+contemporary → современник
+envelope → конверт
+orient → ориентировать
+be noted → отмечаться
+to release → отпускать
+communism → коммунизм
+mm → мм
+underground → подземный
+whisker → ус
+pencil → карандаш
+to fly out → вылететь
+to swear → ругаться
+hare → заяц
+to invest → вкладывать
+lover → любовник
+extract → извлечь
+ridiculous → нелепый
+to please → радовать
+incorrectly → неправильно
+index → индекс
+princess → принцесса
+puddle → лужа
+chaos → хаос
+self-government → самоуправление
+raw → сырой
+tragic → трагический
+psyche → психика
+asphalt → асфальт
+to be felt → чувствоваться
+portal → портал
+tightly → плотно
+to announce → объявлять
+closely → тесно
+infrastructure → инфраструктура
+session → сессия
+telegram → телеграмма
+ritual → ритуал
+bravely → смело
+eternity → вечность
+organizational → организационный
+to glow → светиться
+naive → наивный
+to get acquainted → ознакомиться
+cognac → коньяк
+deficit → дефицит
+bay → залив
+to tear → рваться
+burn → сжечь
+nominate → выдвинуть
+ruler → правитель
+to be transmitted → передаваться
+wish → пожелание
+pensioner → пенсионер
+infinitely → бесконечно
+comparatively → сравнительно
+cash desk → касса
+weakly → слабо
+punish → наказать
+cop → мент
+programming → программирование
+scientifically → научно
+squeeze → сжать
+bench → скамейка
+athlete → спортсмен
+cattle → скот
+invention → изобретение
+to be suitable → годиться
+algorithm → алгоритм
+to skate → кататься
+restructuring → перестройка
+slow → медленный
+employer → работодатель
+brick → кирпич
+to persuade → убеждать
+clinic → клиника
+impossibility → невозможность
+generate → порождать
+rent → аренда
+to miss → пропускать
+prefer → предпочесть
+to be fulfilled → исполниться
+concentrate → сосредоточить
+mechanical → механический
+back of the head → затылок
+irritation → раздражение
+thoughtfully → задумчиво
+inflation → инфляция
+outline → наметить
+to stretch → потянуться
+steppe → степь
+calendar → календарь
+sunset → закат
+roughly → грубо
+sudden → внезапный
+wait for → дожидаться
+width → ширина
+orange → оранжевый
+spelling → написание
+subjective → субъективный
+demon → демон
+tenth → десятый
+nest → гнездо
+eleven → одиннадцать
+celebration → торжество
+modernization → модернизация
+correspondence → переписка
+barrier → барьер
+rally → митинг
+introduce oneself → представиться
+opera → опера
+conscious → сознательный
+suicide → самоубийство
+resort to → прибегать
+rank → ранг
+soap → мыло
+corruption → коррупция
+orchestra → оркестр
+to prohibit → запрещать
+rumble → грохот
+orbit → орбита
+get free → освободиться
+Finnish → финский
+imply → подразумевать
+to hand over → вручить
+pregnant → беременный
+to complain → пожаловаться
+to the right → направо
+stubbornly → упорно
+aroma → аромат
+chin → подбородок
+three hundred → триста
+condemn → осудить
+soup → суп
+embrace → объятие
+midnight → полночь
+storm → буря
+disappointment → разочарование
+dormitory → общежитие
+analyst → аналитик
+citizenship → гражданство
+to develop → разрабатывать
+inhabitant → обитатель
+durable → прочный
+neighbor (female) → соседка
+filter → фильтр
+due → должный
+touch → тронуть
+cut → резать
+courage → мужество
+parallel → параллельно
+delay → задержка
+entitled → вправе
+physically → физически
+hurray → ура
+physicist → физик
+swear → клясться
+stable → стабильный
+commodity → товар
+not long → недолго
+to resist → сопротивляться
+gently → нежно
+smooth → гладкий
+ghost → призрак
+to see off → провожать
+conditional → условный
+regular → регулярный
+adequate → адекватный
+ouch → ай
+customs → таможенный
+externally → внешне
+excursion → экскурсия
+seed → семя
+super → супер
+duration → продолжительность
+decoration → украшение
+slim → стройный
+depression → депрессия
+radical → радикальный
+to devote → уделять
+TV series → сериал
+vegetable → овощ
+focus → фокус
+firefighter → пожарный
+chat → болтать
+residence → проживание
+to contact → связаться
+to reflect → отражаться
+symptom → симптом
+alley → переулок
+barrel → бочка
+to turn → поворачиваться
+doubtful → сомнительный
+shard → осколок
+regulate → регулировать
+axis → ось
+heavy → тяжкий
+plane → плоскость
+to reveal → раскрывать
+secure → закрепить
+to arrive by air → прилететь
+annual → годовой
+hobby → увлечение
+examination → обследование
+firewood → дрова
+madam → мадам
+retreat → отступить
+terrorism → терроризм
+respondent → респондент
+rite → обряд
+publisher → издатель
+betray → предать
+resignation → отставка
+headline → заголовок
+improve → улучшить
+occasionally → изредка
+delegation → делегация
+tram → трамвай
+envy → зависть
+luxurious → роскошный
+to express oneself → высказаться
+outskirts → окраина
+comedy → комедия
+economist → экономист
+parliamentary → парламентский
+specificity → специфика
+functioning → функционирование
+turn off → выключить
+scold → ругать
+audible → слышный
+to shoot → расстрелять
+significance → значимость
+to be offended → обидеться
+to strengthen → усилить
+silly → дурацкий
+to be executed → выполняться
+heroine → героиня
+ninth → девятый
+brook → ручей
+relax → расслабиться
+promising → перспективный
+flare up → вспыхнуть
+garage → гараж
+testing → тестирование
+gene → ген
+to conceive → задумать
+to fill → заполнять
+discard → отбросить
+inclusion → включение
+newcomer → новичок
+porch → крыльцо
+to publish → издавать
+strengthen → укрепить
+drama → драма
+concentration → концентрация
+delusion → заблуждение
+to the left → налево
+virgin → дева
+displacement → перемещение
+spectrum → спектр
+business trip → командировка
+comprehensive → комплексный
+crack → щель
+steel → стальной
+simplicity → простота
+actress → актриса
+to limit → ограничивать
+monstrous → чудовищный
+horn → рог
+commitment → совершение
+charm → прелесть
+realization → осознание
+brown → коричневый
+bewilderment → недоумение
+Islam → ислам
+preliminarily → предварительно
+packaging → упаковка
+unchanging → неизменный
+liquidation → ликвидация
+reign → царить
+rifle → винтовка
+transportation → перевозка
+long-term → долгосрочный
+response → отклик
+abstract → абстрактный
+unsuccessful → неудачный
+to pull out → вырвать
+heir → наследник
+funeral → похороны
+Muslim → мусульманин
+stuff → набить
+to clean → убирать
+fiery → огненный
+analytical → аналитический
+safely → благополучно
+herd → стадо
+to be mentioned → упоминаться
+portion → порция
+sidewalk → тротуар
+panic → паника
+flight → рейс
+Christmas → рождество
+secular → светский
+to insist → настаивать
+characterize → характеризовать
+checkmate → мат
+academic → академический
+hesitate → колебаться
+lock up → запереть
+pierce → пробить
+similarity → сходство
+startle → вздрогнуть
+inspection → осмотр
+cautious → осторожный
+therapy → терапия
+ethnic → этнический
+peephole → глазок
+poster → плакат
+to be based → основываться
+outfit → наряд
+deceased → покойный
+adore → обожать
+bull → бык
+earnings → заработок
+sympathy → сочувствие
+primitive → примитивный
+breakthrough → прорыв
+coefficient → коэффициент
+maternal → материнский
+uprising → восстание
+Republican → республиканский
+moist → влажный
+to come in handy → пригодиться
+to bury → похоронить
+loyalty → верность
+regulatory → нормативный
+convenience → удобство
+impulse → импульс
+definitely → однозначно
+consciously → сознательно
+innocent → невинный
+repetition → повторение
+heritage → наследие
+Pole → поляк
+burn down → сгореть
+to be limited → ограничиваться
+pyramid → пирамида
+scoundrel → сволочь
+to distinguish → различать
+Tatar → татарин
+to spend the night → ночевать
+to be placed → ставиться
+frank → откровенный
+swing → качать
+circulation → тираж
+killed → убитый
+skull → череп
+kettle → чайник
+to be installed → устанавливаться
+impatience → нетерпение
+lay → уложить
+to envy → завидовать
+enthusiasm → энтузиазм
+interrogation → допрос
+to generate → породить
+deviation → отклонение
+harvest → урожай
+architect → архитектор
+distinguish → отличать
+bishop → епископ
+lay out → выложить
+Turk → турок
+to drive up → подъехать
+assignment → поручение
+bubble → пузырь
+affectionate → ласковый
+acceptable → приемлемый
+to be friends → дружить
+deadly → смертельный
+extraordinary → чрезвычайный
+housing → жилищный
+shit → дерьмо
+tired → усталый
+dismiss → уволить
+dwelling → жилище
+brush → кисть
+vegetable garden → огород
+protective → защитный
+subscriber → абонент
+essay → очерк
+to bend → наклониться
+equality → равенство
+reconstruction → реконструкция
+poison → яд
+hut → изба
+cult → культ
+monkey → обезьяна
+shareholder → акционер
+clash → схватка
+compilation → составление
+copper → медный
+continent → континент
+oncoming → встречный
+to run away → убегать
+bomber → бомбардировщик
+science fiction → фантастика
+to be late → опоздать
+briefcase → портфель
+restrain → сдерживать
+builder → строитель
+to be guided → руководствоваться
+representation → представительство
+aggressive → агрессивный
+to vote → проголосовать
+inheritance → наследство
+premier → премьер
+descent → спуск
+fullness → полнота
+presentation → презентация
+ringing → звон
+discount → скидка
+cardiac → сердечный
+categorically → категорически
+Indian → индийский
+law enforcement → правоохранительный
+constructor → конструктор
+treasure → сокровище
+colossal → колоссальный
+glove → перчатка
+poverty → бедность
+decorate → украшать
+to cause → причинить
+limiting → предельный
+microphone → микрофон
+to surrender → сдаваться
+they say → дескать
+formulation → формулировка
+analogy → аналогия
+stimulate → стимулировать
+assistance → содействие
+seventy → семьдесят
+sausage → колбаса
+plastic → пластиковый
+territorial → территориальный
+basket → корзина
+break away → оторваться
+fall down → свалиться
+instructor → инструктор
+traditionally → традиционно
+buttocks → задница
+hierarchy → иерархия
+refer → ссылаться
+stress → стресс
+experimental → экспериментальный
+to cry → заплакать
+towel → полотенце
+exposition → изложение
+deprivation → лишение
+apprehension → опасение
+light bulb → лампочка
+overturn → перевернуть
+agricultural → сельскохозяйственный
+to travel → путешествовать
+milky → молочный
+jet → струя
+consecutive → последовательный
+betrayal → измена
+in the distance → вдали
+to attack → нападать
+cable → кабель
+to squeeze → сжимать
+elegant → изящный
+accumulate → накопить
+to surpass → превосходить
+singing → пение
+statue → статуя
+accuse → обвинить
+sober → трезвый
+monster → монстр
+to stretch out → протягивать
+decay → распад
+objection → возражение
+to cherish → беречь
+conductor → проводник
+march → шагать
+carry away → унести
+cessation → прекращение
+eliminate → устранить
+tenderness → нежность
+chemistry → химия
+millennium → тысячелетие
+anxious → тревожный
+commandment → заповедь
+pond → пруд
+entry → входной
+survival → выживание
+shame → стыд
+butterfly → бабочка
+autonomous → автономный
+ignore → игнорировать
+to disperse → разойтись
+cork → пробка
+laziness → лень
+likeness → подобие
+admiration → восхищение
+to hinder → препятствовать
+desperate → отчаянный
+coincidence → совпадение
+to abandon → забросить
+bowl → чаша
+temporarily → временно
+settlement → поселение
+motivation → мотивация
+structural → структурный
+child → дитя
+bourgeois → буржуазный
+intuition → интуиция
+backrest → спинка
+not a bit → ничуть
+Arab → араб
+disgust → отвращение
+witch → ведьма
+expel → выгнать
+geographical → географический
+lag behind → отстать
+questionnaire → анкета
+conditionally → условно
+spell → заклинание
+Allah → аллах
+trap → ловушка
+bribe → взятка
+college → колледж
+parental → родительский
+steamer → пароход
+New Year's → новогодний
+grandiose → грандиозный
+disorder → расстройство
+clan → клан
+stranger → незнакомец
+sheep → овца
+pine → сосна
+to drive → отвезти
+interval → промежуток
+vicinity → окрестность
+foot → фут
+friendly → дружеский
+classification → классификация
+declaration → декларация
+to function → функционировать
+to say goodbye → прощаться
+to be removed → сниматься
+thunder → гром
+dead end → тупик
+intensive → интенсивный
+captive → пленный
+loner → одиночка
+superiority → превосходство
+candy → конфета
+teach → преподавать
+literate → грамотный
+ethics → этика
+jaw → челюсть
+impose → наложить
+romantic → романтический
+urgent → срочный
+approximation → приближение
+coup → переворот
+accounting → бухгалтерский
+to pass by → проезжать
+crawl → ползти
+intonation → интонация
+Swedish → шведский
+stereotype → стереотип
+regularity → закономерность
+twilight → сумерки
+well-being → благополучие
+refugee → беженец
+fly away → улететь
+to bring up → воспитать
+dissertation → диссертация
+justification → оправдание
+roller → ролик
+charge → заряд
+platoon → взвод
+to spit → плевать
+overcoming → преодоление
+sigh → вздох
+to calm → успокаивать
+marshal → маршал
+fail → провалиться
+reject → отвергнуть
+manufacture → изготовить
+rarity → редкость
+to invent → придумывать
+cooperate → сотрудничать
+to cease → прекратиться
+aggression → агрессия
+prevention → профилактика
+spin → крутиться
+glade → поляна
+brand new → новенький
+flock → стая
+cozy → уютный
+employment → занятость
+halfway → наполовину
+blow → дуть
+flexible → гибкий
+to beg → умолять
+integrate → встроить
+crow → ворона
+truly → поистине
+jeans → джинсы
+to come to → очнуться
+stimulus → стимул
+compatriot → соотечественник
+hostage → заложник
+to fall off → сорваться
+convention → конвенция
+continuously → непрерывно
+imprint → отпечаток
+elected → избранный
+coating → покрытие
+too much → чересчур
+graphic → графический
+composer → композитор
+intimate → интимный
+excerpt → отрывок
+bitch → сука
+immobile → неподвижный
+shot glass → рюмка
+moreover → притом
+personnel → кадровый
+dome → купол
+tiger → тигр
+photographer → фотограф
+density → плотность
+tenderly → ласково
+cut out → вырезать
+input → ввод
+to crave → жаждать
+grid → сетка
+aesthetic → эстетический
+oligarch → олигарх
+courteous → любезный
+confuse → путать
+rider → всадник
+reciprocal → ответный
+excessive → излишний
+anniversary → юбилей
+skillfully → ловко
+salad → салат
+matrix → матрица
+canvas → полотно
+documentation → документация
+atom → атом
+directory → справочник
+showcase → витрина
+analogue → аналог
+managerial → управленческий
+narrative → повествование
+Kyiv-style → киевский
+deck → палуба
+capitalist → капиталистический
+privatization → приватизация
+intermediary → посредник
+dissatisfaction → недовольство
+waiter → официант
+electricity → электричество
+knock out → выбить
+swimming → плавание
+puppy → щенок
+greenery → зелень
+how many → сколько
+elder → старец
+diplomat → дипломат
+hurt → задеть
+vertical → вертикальный
+segment → сегмент
+pot → горшок
+hurtful → обидно
+no matter → неважно
+moderator → модератор
+to realize → сознавать
+medieval → средневековый
+thoracic → грудной
+pie → пирог
+revelation → откровение
+initially → первоначально
+intermediate → промежуточный
+irony → ирония
+to recommend oneself → рекомендоваться
+work off → отработать
+Slavic → славянский
+madness → безумие
+lift → приподнять
+take care of → позаботиться
+greatness → величие
+to be expected → ожидаться
+amazement → изумление
+assault → штурм
+output → выработка
+banal → банальный
+notebook → тетрадь
+to be angry → сердиться
+singer → певец
+to rustle → шелестеть
+to reach → доехать
+disappearance → исчезновение
+inclination → склонность
+league → лига
+embankment → набережная
+proudly → гордо
+energetic → энергичный
+magnetic → магнитный
+manifest → проявиться
+persuade → уговорить
+keyboard → клавиатура
+Olympiad → олимпиада
+climb → залезть
+to surprise → удивлять
+Armenian → армянин
+malice → злоба
+insult → оскорбление
+tip → кончик
+bouquet → букет
+cassette → кассета
+trade union → профсоюз
+settle → поселиться
+nurse → медсестра
+disgrace → позор
+widow → вдова
+Parisian → парижский
+helmet → шлем
+minority → меньшинство
+shed → сарай
+sensitive → чувствительный
+established → установленный
+repeated → повторный
+obtain → добыть
+throne → престол
+aim → навести
+couple → парочка
+intently → пристально
+criticize → критиковать
+townsman → горожанин
+rabbit → кролик
+sponsor → спонсор
+duke → герцог
+quarrel → ссора
+to inspire → внушать
+to let down → подводить
+faucet → кран
+fatal → роковой
+eighty → восемьдесят
+deer → олень
+persistently → настойчиво
+drum → барабан
+motorboat → катер
+paid → платный
+sail → парус
+admire → любоваться
+indifferent → равнодушный
+to light → зажечь
+to move away → удаляться
+invasion → вторжение
+authoritative → властный
+cruelty → жестокость
+rag → тряпка
+pledge → залог
+farm → ферма
+to know → познать
+spark → искра
+orgasm → оргазм
+monopoly → монополия
+to plan → запланировать
+pharmacy → аптека
+catch up → догнать
+paradox → парадокс
+triangle → треугольник
+detective → детектив
+suspicious → подозрительный
+oxygen → кислород
+rotate → вращаться
+to jump → прыгнуть
+smoothly → плавно
+vampire → вампир
+attribute → атрибут
+vitamin → витамин
+appetite → аппетит
+certify → заверить
+instance → инстанция
+from now on → отныне
+cancellation → отмена
+luxury → роскошь
+tiny → крошечный
+properly → толком
+niche → ниша
+condom → презерватив
+to proclaim → заявить
+voluntary → добровольный
+removal → удаление
+few → немногий
+affect → сказаться
+to fling open → распахнуть
+bark → кора
+untruth → неправда
+to settle → расположиться
+voluntarily → добровольно
+disaster → бедствие
+baron → барон
+traction → тяга
+slide → скользить
+surgeon → хирург
+fisherman → рыбак
+lever → рычаг
+inaccessible → недоступный
+sheet → простыня
+formally → формально
+Israeli → израильский
+ninety → девяносто
+interested → заинтересованный
+applied → прикладной
+diameter → диаметр
+dressed → одетый
+auction → аукцион
+moan → стон
+prostitute → проститутка
+invariably → неизменно
+five hundred → пятьсот
+to be keen on → увлекаться
+to glance → поглядывать
+boil → варить
+Islamic → исламский
+deposit → месторождение
+to get lost → теряться
+branded → фирменный
+hearth → очаг
+to sing → спеть
+symbolic → символический
+to iron → гладить
+withdraw → удалиться
+compromise → компромисс
+to exhibit → выставлять
+tenant → жилец
+Georgian → грузинский
+cabbage → капуста
+decrease → уменьшаться
+nervously → нервно
+to have lunch → обедать
+innovative → инновационный
+imagine → воображать
+immortal → бессмертный
+vague → смутный
+theme → тематика
+immerse → погрузиться
+retail → розничный
+traveler → путешественник
+trio → тройка
+holder → обладатель
+desperately → отчаянно
+designer → дизайнер
+run → бег
+beginner → начинающий
+accountant → бухгалтер
+to state → констатировать
+persecution → преследование
+special service → спецслужба
+to clap → хлопнуть
+intervene → вмешаться
+clarity → ясность
+blonde → блондинка
+butt → жопа
+defend → отстаивать
+prescribe → прописать
+to inhabit → обитать
+to end up → оказаться
+dominance → господство
+loading → загрузка
+apostle → апостол
+infection → инфекция
+galaxy → галактика
+interior → интерьер
+elimination → устранение
+torturous → мучительный
+harp → арфа
+relieve → облегчить
+shaft → вал
+to take off → взлететь
+premise → предпосылка
+to separate → отделять
+pretext → предлог
+Olympic → олимпийский
+to move → шевелиться
+to steal → воровать
+conspiracy → заговор
+spacious → просторный
+in every way → всячески
+all-Russian → всероссийский
+vanity → суета
+Gospel → евангелие
+noisy → шумный
+wait a bit → погодить
+statistical → статистический
+subjugate → подчинить
+squadron → эскадрилья
+medic → медик
+jealousy → ревность
+intend → намереваться
+bowels → недра
+fireplace → камин
+to present → предъявлять
+confrontation → противостояние
+counter → прилавок
+to progress → продвигаться
+reptile → гад
+franc → франк
+linear → линейный
+leak → протекать
+motorcycle → мотоцикл
+kindness → доброта
+Stalinist → сталинский
+accumulation → накопление
+prestigious → престижный
+boredom → скука
+tire → шина
+lieutenant colonel → подполковник
+infinity → бесконечность
+to be nervous → нервничать
+wise man → мудрец
+closing → закрытие
+Komsomol → комсомол
+prolonged → продолжительный
+drug addict → наркоман
+mess → беспорядок
+spy → шпион
+log → бревно
+tourism → туризм
+rubber → резиновый
+caress → ласка
+masterpiece → шедевр
+explode → взорваться
+braid → коса
+ID → удостоверение
+holidays → каникулы
+innumerable → бесчисленный
+in exchange → взамен
+eyelid → веко
+permissible → допустимый
+all kinds of → всяческий
+rid → избавить
+fly by → пролететь
+classic → классика
+remote control → пульт
+worldview → мировоззрение
+machine → станок
+hastily → поспешно
+stumble upon → наткнуться
+fascism → фашизм
+mistress → любовница
+scarlet → алый
+neutral → нейтральный
+secondary → вторичный
+meadow → луг
+military personnel → военнослужащий
+to put in → засунуть
+theoretically → теоретически
+bring in → занести
+sadness → грусть
+unconscious → бессознательный
+insect → насекомое
+partisan → партизан
+silent → молчаливый
+broken → разбитый
+convincing → убедительный
+array → массив
+drag → таскать
+to step → шагнуть
+radiation → излучение
+find oneself → очутиться
+fraction → фракция
+multicolored → разноцветный
+thunderstorm → гроза
+solemnly → торжественно
+to send → присылать
+fragile → хрупкий
+to get drunk → напиться
+unbearable → невыносимый
+fairy-tale → сказочный
+to be remembered → запомниться
+adaptation → адаптация
+echelon → эшелон
+diplomatic → дипломатический
+fountain → фонтан
+to connect → соединять
+passionate → страстный
+to turn on → включаться
+founder → основатель
+laureate → лауреат
+competitive → конкурентный
+burst in → ворваться
+detection → выявление
+work out → проработать
+brake → тормоз
+patriarch → патриарх
+monitoring → мониторинг
+encyclopedia → энциклопедия
+khan → хан
+wake → будить
+rostrum → трибуна
+to be resolved → разрешаться
+to be cited → приводиться
+to be visible → виднеться
+entrepreneurship → предпринимательство
+get stuck → застрять
+charitable → благотворительный
+printer → принтер
+distrust → недоверие
+compete → конкурировать
+acid → кислота
+to take care of → ухаживать
+pigeon → голубь
+to extract → добывать
+morally → морально
+embarrass → смущать
+ice cream → мороженое
+squirrel → белка
+legendary → легендарный
+tobacco → табак
+to reason → соображать
+hire → нанять
+prevail → преобладать
+designation → обозначение
+modeling → моделирование
+testament → завет
+to intensify → усиливаться
+prevent → предотвратить
+welcome → добро пожаловать
+awkward → неловкий
+mathematician → математик
+enlightenment → просвещение
+over → сверх
+wrap → завернуть
+ant → муравей
+shovel → лопата
+to drop by → заехать
+to be characterized → характеризоваться
+provincial → провинциальный
+prosperous → благополучный
+overwhelm → завалить
+goddess → богиня
+stroller → коляска
+quantitative → количественный
+physiognomy → физиономия
+stake → кол
+progressive → прогрессивный
+bundle → связка
+to fall into → впадать
+mute → немой
+polite → вежливый
+to be provided → предоставляться
+indignation → возмущение
+to climb out → вылезать
+tomorrow's → завтрашний
+gentleman → джентльмен
+download → скачать
+to attract → влечь
+cook → повар
+oral → устный
+escape → бегство
+to survey → опросить
+cucumber → огурец
+to bring to → доводить
+foam → пена
+rib → ребро
+fame → известность
+ash → прах
+windowsill → подоконник
+to run through → пробежать
+TV channel → телеканал
+thorough → тщательный
+little brother → братец
+additionally → дополнительно
+to knock → постучать
+hurriedly → торопливо
+screw → винт
+fig → фига
+Vika → Вика
+Orthodoxy → православие
+matrimonial → брачный
+to be allowed → допускаться
+luggage → багаж
+thickness → толщина
+thrice → трижды
+clamp → зажать
+mystical → мистический
+fiddle → возиться
+syndrome → синдром
+radiance → сияние
+doctrine → доктрина
+hysteria → истерика
+navigator → штурман
+flank → фланг
+chew → жевать
+fairly → справедливо
+verb → глагол
+hotly → горячо
+postcard → открытка
+omen → примета
+electric train → электричка
+hmm → хм
+farewell → прощание
+bald → лысый
+to spin → кружиться
+lush → пышный
+pre-election → предвыборный
+circus → цирк
+kidney → почка
+prickly → колючий
+presidium → президиум
+clinical → клинический
+novelty → новинка
+reward → вознаграждение
+old times → старина
+nut → орех
+think through → продумать
+contempt → презрение
+savior → спаситель
+plain → равнина
+to undergo → подвергнуться
+sect → секта
+assign → присвоить
+sales → сбыт
+howl → вой
+massage → массаж
+malicious → злобный
+horizontal → горизонтальный
+drag on → затянуться
+integrity → целостность
+parcel → посылка
+deserted → пустынный
+Baltic → балтийский
+agenda → повестка
+hacker → хакер
+to roll → катиться
+live out → дожить
+polar → полярный
+terror → террор
+anchor → якорь
+equation → уравнение
+buck → бакс
+coordinate → согласовать
+bitterness → горечь
+bodily → телесный
+producer → продюсер
+revenge → месть
+Catholic → католический
+happily → счастливо
+to blush → покраснеть
+proletariat → пролетариат
+geography → география
+architectural → архитектурный
+gymnasium → гимназия
+assimilate → усвоить
+national team → сборная
+gang → банда
+democrat → демократ
+interference → помеха
+get confused → растеряться
+cruiser → крейсер
+Egyptian → египетский
+applause → аплодисменты
+probable → вероятный
+genetic → генетический
+unemployment → безработица
+objectively → объективно
+computational → вычислительный
+bitter → горький
+peacefully → мирно
+congratulation → поздравление
+at once → разом
+sociological → социологический
+constructive → конструктивный
+metropolitan → митрополит
+compose → сочинять
+soldier's → солдатский
+welfare → благосостояние
+Caucasian → кавказский
+fake → фальшивый
+grant → грант
+expressed → выраженный
+upset → расстроить
+jury → жюри
+cream → крем
+reliable → достоверный
+passive → пассивный
+to be treated → лечиться
+to become interested → заинтересоваться
+bow down → поклониться
+terrorist act → теракт
+antiquity → древность
+to snuggle → прижаться
+ensemble → ансамбль
+metaphor → метафора
+resume → резюме
+fix → фиксировать
+burrow → нора
+liver → печень
+intensity → интенсивность
+cockroach → таракан
+contradictory → противоречивый
+to converge → сходиться
+twin → близнец
+diligently → старательно
+heroic → героический
+to throw away → выбрасывать
+relocation → переезд
+foresee → предвидеть
+clay → глина
+recycling → переработка
+praise → хвалить
+Leninist → ленинский
+altar → алтарь
+charming → очаровательный
+to pull → рвануть
+referendum → референдум
+approval → одобрение
+hum → гул
+hook → крючок
+biology → биология
+ballet → балет
+to be realized → реализоваться
+to sob → рыдать
+seagull → чайка
+to bow → склониться
+rapid → стремительный
+deity → божество
+flounder → метаться
+powder → порошок
+Pushkin → Пушкин
+documentary → документальный
+virtue → добродетель
+write out → выписать
+pattern → узор
+send out → выслать
+stadium → стадион
+tremor → дрожь
+little man → человечек
+to sign → подписывать
+coordination → согласование
+maternity hospital → роддом
+subconscious → подсознание
+hint → подсказывать
+sermon → проповедь
+fax → факс
+comfort → комфорт
+parachute → парашют
+dominate → господствовать
+percentage → процентный
+censorship → цензура
+murky → мутный
+intrigue → интрига
+to fold → складывать
+perennial → многолетний
+to erase → стирать
+not for nothing → недаром
+handbag → сумочка
+fur coat → шуба
+drive in → загнать
+boxing → бокс
+mom's → мамин
+to resign oneself → смириться
+percussive → ударный
+rooster → петух
+compensate → компенсировать
+inconceivable → немыслимый
+cherished → заветный
+antique → античный
+twentieth → двадцатый
+shelter → убежище
+consecutively → последовательно
+visual → визуальный
+to be evaluated → оцениваться
+engineering → инженерный
+for a short time → ненадолго
+sleepy → сонный
+dramatic → драматический
+berry → ягода
+inconvenient → неудобный
+dusty → пыльный
+blessing → благословение
+Ural → уральский
+Crimean → крымский
+massive → массивный
+dispatch → отправка
+anthem → гимн
+patriot → патриот
+sixteen → шестнадцать
+addiction → пристрастие
+giant → гигант
+boulevard → бульвар
+intentionally → нарочно
+oak → дуб
+verbal → словесный
+synthesis → синтез
+cleaning → уборка
+destined → суждено
+sew → шить
+swallow → проглотить
+intercept → перехватить
+small town → местечко
+composite → составной
+chess → шахматы
+to suffocate → задыхаться
+crystal → кристалл
+bloom → цвести
+to keep silent → промолчать
+to introduce → познакомить
+fork → вилка
+hallway → прихожая
+solidly → прочно
+get to → добираться
+mommy → мамочка
+riding → езда
+to brake → тормозить
+to hunt → охотиться
+demolish → снести
+surplus → избыток
+subordination → подчинение
+import → импорт
+madly → безумно
+mechanic → механик
+disputable → спорный
+climb in → влезть
+to liberate → освобождать
+dynamic → динамический
+contour → контур
+sink → раковина
+restraint → выдержка
+mature → зрелый
+neat → аккуратный
+tactical → тактический
+figurine → фигурка
+labyrinth → лабиринт
+scatter → разбросать
+craft → ремесло
+to affect → затрагивать
+weaken → ослабить
+patiently → терпеливо
+win → выигрыш
+joint-stock → акционерный
+to blow up → взорвать
+slavery → рабство
+to wipe → вытереть
+sensitivity → чувствительность
+trench → окоп
+configuration → конфигурация
+supervision → надзор
+chronicle → хроника
+sculpture → скульптура
+to dispose → распорядиться
+Biblical → библейский
+indirect → косвенный
+to postpone → откладывать
+organic → органический
+break through → прорваться
+to be read → читаться
+transitional → переходный
+to dump → свалить
+chocolate → шоколад
+armor → броня
+preface → предисловие
+arbitrariness → произвол
+curse → проклятие
+inspiration → вдохновение
+lazy → ленивый
+wizard → волшебник
+optimism → оптимизм
+erroneous → ошибочный
+periodic → периодический
+attachment → привязанность
+verst → верста
+African → африканский
+premiere → премьера
+humiliation → унижение
+meditation → медитация
+banker → банкир
+incomplete → неполный
+tractor → трактор
+intelligent → интеллектуальный
+follower → последователь
+eighteen → восемнадцать
+tighten → затянуть
+curtain → занавес
+emigration → эмиграция
+melt → таять
+psychiatrist → психиатр
+individuality → индивидуальность
+cling → вцепиться
+injection → укол
+privilege → привилегия
+stock → фондовый
+string → струна
+to frown → нахмуриться
+coalition → коалиция
+to distribute → раздавать
+chase → погоня
+to rush by → проноситься
+cube → кубик
+fur → мех
+physiological → физиологический
+disturb → тревожить
+influenza → грипп
+professionally → профессионально
+to stroke → погладить
+crumble → рассыпаться
+sort through → перебирать
+ski → лыжа
+automation → автоматизация
+concrete → бетонный
+sight → прицел
+fox → лиса
+lighthouse → маяк
+influential → влиятельный
+to beat → избить
+correctness → правильность
+mechanics → механика
+whirlwind → вихрь
+antenna → антенна
+publicly → публично
+resort → курорт
+disappoint → разочаровать
+predecessor → предшественник
+caution → осторожность
+crying → плач
+nephew → племянник
+equip → оборудовать
+adapt → приспособить
+to break away → отрываться
+greeting → приветствие
+controlled → управляемый
+ancestral → родовой
+educator → воспитатель
+complication → осложнение
+chop → рубить
+mock → издеваться
+desired → желанный
+despise → презирать
+partial → частичный
+needle → игла
+chronic → хронический
+merge → сливаться
+to blaze → пылать
+apology → извинение
+diamond → алмаз
+hammer → молоток
+superficial → поверхностный
+to drown → утонуть
+ecology → экология
+ethical → этический
+negatively → отрицательно
+rail → рельс
+alone → наедине
+bulletin → бюллетень
+bee → пчела
+distract → отвлекать
+optical → оптический
+guide → гид
+to grow up → вырастать
+uncomfortable → неудобный
+stubborn → упрямый
+acceleration → ускорение
+total → тотальный
+floodplain → пойма
+look around → оглядеться
+troubles → хлопоты
+supplement → дополнить
+to fit → помещаться
+worm → червь
+dictatorship → диктатура
+polyclinic → поликлиника
+to fell → валить
+to be indicated → указываться
+taxation → налогообложение
+facade → фасад
+young lady → барышня
+conquest → завоевание
+nastiness → гадость
+convincingly → убедительно
+bourgeoisie → буржуазия
+eat → жрать
+font → шрифт
+container → контейнер
+waste → отход
+greatcoat → шинель
+executioner → палач
+alcoholic → алкогольный
+qualitatively → качественно
+premonition → предчувствие
+mentor → наставник
+to get angry → злиться
+to crash → разбиться
+to react → отреагировать
+pioneer → пионер
+watchman → сторож
+herald → вестник
+ascent → восхождение
+someone → некто
+sanction → санкция
+decompose → разложить
+to be saved → спастись
+sandwich → бутерброд
+assembly → сборка
+fright → испуг
+temptation → соблазн
+jeep → джип
+Petersburg → Петербург
+merger → слияние
+badge → значок
+arsenal → арсенал
+accelerate → ускорить
+mansion → особняк
+to sit out → просидеть
+absorb → поглощать
+to flow → литься
+notorious → пресловутый
+motionless → неподвижный
+bass → бас
+to fall out → выпадать
+dismissal → увольнение
+to view → просматривать
+to be achieved → достигаться
+sociology → социология
+pirate → пират
+frog → лягушка
+nickname → прозвище
+to reduce → сократиться
+fourteen → четырнадцать
+to dive → погружаться
+mosquito → комар
+extremity → крайность
+arena → арена
+defensive → оборонительный
+worthily → достойно
+heel → каблук
+to question → расспрашивать
+dictate → диктовать
+student (female) → студентка
+reproduction → воспроизведение
+footbridge → мостик
+abortion → аборт
+frightened → испуганный
+annoyance → досада
+to be published → публиковаться
+long before → задолго
+repression → репрессия
+inflow → приток
+steam locomotive → паровоз
+serf → крепостной
+promote → продвинуть
+to look over → оглядеть
+bronze → бронзовый
+generalization → обобщение
+villain → злодей
+fade → погаснуть
+precipice → обрыв
+picturesque → живописный
+to match → сочетаться
+undesirable → нежелательный
+to fit in → укладываться
+impudent → наглый
+defect → дефект
+blessed → блаженный
+Nizhny Novgorod → Нижний Новгород
+missile → ракета
+Murmansk → Мурманск
+considerably → изрядно
+deign → изволить
+beat off → отбить
+miserable → убогий
+duel → поединок
+to lock → запирать
+burst → лопнуть
+violin → скрипка
+lyrical → лирический
+casino → казино
+garrison → гарнизон
+wrestler → борец
+fall apart → развалиться
+flax → лён
+paragraph → абзац
+to punish → наказывать
+interrelation → взаимосвязь
+little by little → понемногу
+briefly → кратко
+toast → тост
+exceed → превысить
+silhouette → силуэт
+competence → компетенция
+reproduce → воспроизводить
+uniform → мундир
+Archangel → архангел
+ruins → развалины
+skeleton → скелет
+Czech → чешский
+whistle → свист
+sinister → зловещий
+senator → сенатор
+to be indignant → возмутиться
+sympathize → сочувствовать
+hay → сено
+doom → обречь
+brotherhood → братство
+nanny → няня
+moderate → умеренный
+London → Лондон
+bow → поклон
+arc → дуга
+subtlety → тонкость
+denial → отрицание
+unfavorable → неблагоприятный
+internally → внутренне
+traitor → предатель
+migration → миграция
+erotic → эротический
+to wave → размахивать
+little heap → кучка
+Mercedes → мерседес
+thickly → густо
+from afar → издали
+disco → дискотека
+endow → наделить
+veil → покров
+unfair → несправедливый
+break down → сломаться
+construction site → стройка
+compartment → купе
+ordinary person → обыватель
+peer → вглядываться
+to run out → выбежать
+to linger → задерживаться
+disagreement → разногласие
+modernity → современность
+Sverdlovsk → Свердловск
+farmer → фермер
+to tower → возвышаться
+compliment → комплимент
+hail → град
+caviar → икра
+cruelly → жестоко
+jerk → рывок
+Nazi → гитлеровец
+earthquake → землетрясение
+execute → казнить
+finding → нахождение
+ceremonial → парадный
+proclaim → провозгласить
+correction → коррекция
+claw → коготь
+to join → присоединяться
+totalitarian → тоталитарный
+exotic → экзотический
+mineral → минеральный
+gait → походка
+related → родственный
+uterus → матка
+swan → лебедь
+Easter → пасха
+to run up → подбежать
+interact → взаимодействовать
+chest → сундук
+granddaughter → внучка
+conservative → консервативный
+to settle in → устраиваться
+theft → кража
+I bet → небось
+comprehend → осмыслить
+therapeutic → лечебный
+foggy → туманный
+Dutch → голландский
+grace → благодать
+parade → парад
+rehabilitation → реабилитация
+volunteer → доброволец
+uranium → уран
+to break → разбивать
+counteraction → противодействие
+scales → весы
+henceforth → впредь
+countryman → земляк
+limitation period → давность
+encourage → поощрять
+to catch fire → загореться
+thinker → мыслитель
+rector → ректор
+to be taken into account → учитываться
+to crack open → приоткрыть
+guiding → руководящий
+modem → модем
+kidnap → похитить
+oath → клятва
+cart → телега
+deliberately → заведомо
+unambiguous → однозначный
+not difficult → нетрудно
+senior → старший
+beetle → жук
+arm → вооружить
+Kazakh → казахский
+to drop → сбрасывать
+crash into → врезаться
+forest clearing → поляна
+ambition → амбиция
+seat → сидение
+to remove → вынимать
+empress → императрица
+immortality → бессмертие
+rehearsal → репетиция
+barracks → казарма
+fishing → рыбалка
+dough → тесто
+ask oneself → задаваться
+carelessly → небрежно
+calculation → вычисление
+blade → лезвие
+cosmetics → косметика
+penetration → проникновение
+limb → конечность
+Russian-speaking → русскоязычный
+to train → тренироваться
+to register → зарегистрироваться
+silt → ил
+crumb → крошка
+to set up → подставить
+dim → тусклый
+reluctance → нежелание
+rebellion → бунт
+grove → роща
+terminology → терминология
+extraordinarily → необычайно
+to look out → выглянуть
+assault trooper → штурмовик
+revenue → выручка
+abundance → обилие
+hormone → гормон
+to place → помещать
+burden → бремя
+pleasing → угодный
+sneak → пробираться
+memorable → памятный
+graphics → графика
+to shift → сдвинуть
+mountain pass → перевал
+smoking → курение
+web → паутина
+seventeen → семнадцать
+poke → ткнуть
+powerless → бессильный
+Asian → азиатский
+saddle → седло
+righteousness → правота
+test site → полигон
+journalism → журналистика
+sick leave → больничный
+positively → положительно
+claimant → претендент
+crown → корона
+modification → модификация
+predict → предсказать
+goat → коза
+undoubted → несомненный
+profitably → выгодно
+Ukrainian → украинец
+treacherous → коварный
+revolver → револьвер
+bless → благословить
+ask again → переспросить
+curve → кривая
+utter → сущий
+snack → закуска
+planned → плановый
+goose → гусь
+fascinate → увлечь
+handwriting → почерк
+fracture → перелом
+to be supported → поддерживаться
+leisure → досуг
+supermarket → супермаркет
+to weigh → весить
+reactor → реактор
+to select → отбирать
+coloring → окраска
+bond → облигация
+gradual → постепенный
+auxiliary → вспомогательный
+bureaucracy → бюрократия
+uninteresting → неинтересный
+estate → имение
+equestrian → конный
+oops → ой
+become obsolete → устареть
+duck → утка
+sanitary → санитарный
+vector → вектор
+memoirs → мемуары
+twinkle → мерцать
+sharpness → острота
+erase → стереть
+to justify → оправдать
+candidacy → кандидатура
+eyelash → ресница
+attic → чердак
+brightness → яркость
+Finn → финн
+cheerful → бодрый
+syllable → слог
+minor → несовершеннолетний
+cake → торт
+tape recorder → магнитофон
+methodical → методичный
+unimportant → неважный
+optimization → оптимизация
+mixed → смешанный
+to concern → озаботить
+ex → экс
+to insult → оскорблять
+fluffy → пушистый
+greedily → жадно
+foliage → листва
+to be clarified → выясняться
+provocation → провокация
+culturally → культурно
+landmark → ориентир
+have fun → веселиться
+from outside → извне
+Komsomol member → комсомолец
+nationalism → национализм
+signing → подписание
+disclosure → раскрытие
+epidemic → эпидемия
+provider → провайдер
+doze → дремать
+fall into → впасть
+to take shelter → укрыться
+waist → талия
+demonstrative → показательный
+electronics → электроника
+medicinal → лекарственный
+homeless person → бомж
+abnormal → ненормальный
+embody → воплотить
+Austrian → австрийский
+ridge → хребет
+Marxism → марксизм
+to be due → надлежать
+emergency → аварийный
+marble → мраморный
+cent → цент
+patriotism → патриотизм
+ideally → идеально
+keeper → хранитель
+signboard → вывеска
+tribute → дань
+imported → импортный
+whine → ныть
+nobleman → дворянин
+in addition → вдобавок
+thirteen → тринадцать
+yacht → яхта
+nomination → номинация
+sandy → песчаный
+lens → объектив
+to run in → забегать
+treasury → казна
+pollution → загрязнение
+gnome → гном
+alpha → альфа
+lazily → лениво
+long-awaited → долгожданный
+to comment on → прокомментировать
+to complement → дополнять
+paternal → отцовский
+to clutch → схватиться
+Maya → майя
+feed → корм
+reliability → достоверность
+trolleybus → троллейбус
+specialization → специализация
+post-Soviet → постсоветский
+flashlight → фонарик
+spider → паук
+subscription → подписка
+ram → баран
+census → перепись
+blossoming → расцвет
+consolation → утешение
+intestine → кишка
+son-in-law → зять
+tunnel → тоннель
+to joke → пошутить
+molecule → молекула
+in the middle → посередине
+misunderstanding → непонимание
+to poison → отравить
+to incline → склонить
+offspring → потомство
+ascend → взойти
+camel → верблюд
+slow down → замедлить
+combine → комбинат
+zoo → зоопарк
+little children → детишки
+helpless → беспомощный
+leaflet → листовка
+canon → канон
+mockery → насмешка
+wallpaper → обои
+involve → задействовать
+modestly → скромно
+materially → материально
+blockade → блокада
+to get carried away → увлечься
+to thunder → греметь
+large-scale → масштабный
+appropriate → уместный
+separateness → отдельность
+thrive → процветать
+to protest → протестовать
+enumerate → перечислять
+honesty → честность
+yuck → тьфу
+inch → дюйм
+evolutionary → эволюционный
+recoil → отдача
+semantic → смысловой
+disassembly → разборка
+comb → гребень
+to avenge → отомстить
+taiga → тайга
+pulse → пульс
+tangible → ощутимый
+distortion → искажение
+tomato → помидор
+sweater → свитер
+to ascend → восходить
+bliss → блаженство
+Christ's → христов
+come to life → ожить
+to be introduced → вводиться
+evident → налицо
+mix → смешать
+feast → пир
+decline → упадок
+intersection → пересечение
+Satan → сатана
+secretly → тайно
+to lower → спускать
+to fly away → улетать
+to darken → темнеть
+wheat → пшеница
+spatial → пространственный
+non-commercial → некоммерческий
+extinguish → погасить
+recline → откинуться
+commander-in-chief → главнокомандующий
+to give oneself up → отдаваться
+symbolize → символизировать
+globalization → глобализация
+inconspicuous → незаметный
+donate → пожертвовать
+breeze → ветерок
+applicable → применимый
+monologue → монолог
+angrily → сердито
+curiously → любопытно
+volley → залп
+headlight → фара
+comparative → сравнительный
+generator → генератор
+manipulation → манипуляция
+exhaust → исчерпать
+buddy → дружок
+Swiss → швейцарский
+lard → сало
+poisonous → ядовитый
+Lithuanian → литовский
+Kazan → Казань
+ambush → засада
+sensual → чувственный
+assist → содействовать
+consume → потреблять
+rotation → вращение
+blame → винить
+successor → преемник
+elf → эльф
+tray → поднос
+boom → бум
+to divorce → развестись
+to poke → совать
+neighborhood → соседство
+moisture → влага
+tiredly → устало
+inconvenience → неудобство
+determination → решимость
+collar → воротник
+rapprochement → сближение
+unemployed → безработный
+to be described → описываться
+Trinity → троица
+rush → ринуться
+prediction → предсказание
+to associate → ассоциироваться
+sparrow → воробей
+promptly → оперативно
+villa → вилла
+purple → фиолетовый
+to cry out → вскрикнуть
+kindergarten → садик
+template → шаблон
+to lean → упереться
+bankruptcy → банкротство
+operate → оперировать
+suck → сосать
+comparable → сравнимый
+the Almighty → всевышний
+alliance → альянс
+outrage → безобразие
+intense → пристальный
+illustrate → иллюстрировать
+to grow → вырастить
+additive → добавка
+honorable → почтенный
+vase → ваза
+paradoxical → парадоксальный
+Baptism → крещение
+greedy → жадный
+postwar → послевоенный
+faint → обморок
+professionalism → профессионализм
+malfunction → сбой
+to apply → прилагать
+inadmissible → недопустимый
+clarification → выяснение
+banknote → купюра
+prescription → предписание
+peninsula → полуостров
+crocodile → крокодил
+pepper → перец
+intensify → усилиться
+booth → будка
+imitate → подражать
+simultaneous → одновременный
+to be printed → печататься
+repository → хранилище
+poor thing → бедняга
+diligence → старание
+sociologist → социолог
+attractiveness → привлекательность
+proper → надлежащий
+arbitrary → произвольный
+handsome → красивый
+to sleep → поспать
+feeding → кормление
+injustice → несправедливость
+contrast → контраст
+nuance → нюанс
+indifferently → равнодушно
+predator → хищник
+ugly → некрасивый
+cap → шапочка
+insulin → инсулин
+unclean → нечистый
+liberalism → либерализм
+eyewitness → очевидец
+fried → жареный
+cocktail → коктейль
+soar → парить
+inventor → изобретатель
+specialize → специализироваться
+slippery → скользкий
+saliva → слюна
+coincide → совпасть
+pretty → хорошенький
+varnish → лак
+emigrant → эмигрант
+partner → напарник
+demographic → демографический
+to move back → отодвинуть
+pedestrian → пешеход
+single → единичный
+strain → напрягать
+not easy → нелегко
+convulsively → судорожно
+to score → забивать
+timid → робкий
+officer's → офицерский
+orphan → сирота
+investigative → следственный
+suppression → подавление
+confusion → замешательство
+Krasnoyarsk → Красноярск
+refute → опровергнуть
+unpredictable → непредсказуемый
+spontaneous → стихийный
+dagger → кинжал
+to alleviate → облегчать
+expose → обнажить
+tabletop → настольный
+entrepreneurial → предпринимательский
+wicket gate → калитка
+manually → вручную
+proportion → пропорция
+prestige → престиж
+barbarian → варвар
+risky → рискованный
+proverb → пословица
+at full tilt → вовсю
+buffet → буфет
+integral → неотъемлемый
+waterfall → водопад
+Slav → славянин
+scholarship → стипендия
+radius → радиус
+grammar → грамматика
+pathos → пафос
+unconditional → безусловный
+beat officer → участковый
+shepherd → пастух
+to fly by → пролетать
+printing house → типография
+compassion → сострадание
+dig → копать
+banana → банан
+desk → парта
+latitude → широта
+heating → отопление
+shaman → шаман
+hoof → копыто
+to be understood → пониматься
+rainbow → радуга
+fascinating → увлекательный
+ponder → раздумывать
+to be affirmed → утверждаться
+impress → впечатлять
+dozen → дюжина
+terminal → терминал
+utility → полезность
+gamma → гамма
+rob → грабить
+Persian → персидский
+to fancy → вздумать
+kiosk → киоск
+to quarrel → ссориться
+unlimited → неограниченный
+furious → яростный
+to search for → разыскивать
+come true → сбыться
+notable → знатный
+to roar → реветь
+scar → шрам
+exquisite → изысканный
+expiration → истечение
+leadership → лидерство
+vacancy → вакансия
+silvery → серебристый
+notification → уведомление
+cylinder → цилиндр
+competent → компетентный
+dynasty → династия
+brochure → брошюра
+trick → трюк
+shelling → обстрел
+saleswoman → продавщица
+Sunday → воскресенье
+grand piano → рояль
+patriotic → патриотический
+sullen → угрюмый
+janitor → дворник
+stamp → штамп
+cape → мыс
+Führer → фюрер
+mundane → житейский
+alphabet → алфавит
+treatise → трактат
+get off → отделаться
+interpret → толковать
+to be developed → разрабатываться
+trance → транс
+sincerity → искренность
+electron → электрон
+compulsory → принудительный
+sweetly → сладко
+unreal → нереальный
+classmate → одноклассник
+write off → списать
+ford → форд
+arch → арка
+dump → свалка
+creditor → кредитор
+abundant → обильный
+nature reserve → заповедник
+separation → разлука
+mill → мельница
+to harass → приставать
+estimate → прикинуть
+lose weight → похудеть
+touching → трогательный
+applicant → заявитель
+volcano → вулкан
+extend → продлить
+systematic → систематический
+to lay out → выкладывать
+avant-garde → авангард
+variable → переменный
+Irkutsk → Иркутск
+to boil → сварить
+cadet → курсант
+domain → домен
+to pray → молиться
+hypnosis → гипноз
+cheap → недорогой
+come to one's senses → опомниться
+ink → чернила
+to defend oneself → защищаться
+to confuse → перепутать
+Spaniard → испанец
+execution by shooting → расстрел
+generous → щедрый
+to wash → вымыть
+passionately → страстно
+replenishment → пополнение
+to slip → скользнуть
+sperm → сперма
+squeal → визг
+anonymous → анонимный
+maniac → маньяк
+to have dinner → ужинать
+laser → лазер
+to be prohibited → запрещаться
+remake → переделать
+seam → шов
+taxpayer → налогоплательщик
+swindler → мошенник
+kinship → родство
+concession → уступка
+imitation → подражание
+ensign → прапорщик
+to lay → укладывать
+drunkenness → пьянство
+exhale → выдохнуть
+thermal → тепловой
+get lost → потеряться
+to write out → выписывать
+running → бегом
+forward → вперёд
+piercing → пронзительный
+pager → пейджер
+change one's mind → передумать
+unworthy → недостойный
+nasal → носовой
+to undress → раздеваться
+legion → легион
+arbitration → арбитраж
+ravine → овраг
+quantum → квантовый
+to cut → разрезать
+awakening → пробуждение
+pavilion → павильон
+mechanically → машинально
+patty → пирожок
+condemnation → осуждение
+saving → сбережение
+monarchy → монархия
+grape → виноград
+publishing → издательский
+starting → стартовый
+short-term → краткосрочный
+to be listed → значиться
+vulnerable → уязвимый
+courier → курьер
+to peer out → выглядывать
+dependent → зависимый
+break off → оборвать
+inertia → инерция
+solidarity → солидарность
+bewilderedly → растерянно
+indifference → равнодушие
+economically → экономически
+display → дисплей
+lending → кредитование
+to ripen → созреть
+lemon → лимон
+cone → шишка
+wildly → дико
+vaguely → смутно

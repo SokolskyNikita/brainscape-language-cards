@@ -1,0 +1,649 @@
+{
+  "deck": "15260256",
+  "reviewed": 500,
+  "changes": [
+    {
+      "deck": "15260256",
+      "row": 16,
+      "card_number": 2016,
+      "before": [
+        "ball",
+        "шар",
+        "The ball is on the table.",
+        "Шар на столе."
+      ],
+      "after": [
+        "ball",
+        "шар; мяч",
+        "The ball is on the table.",
+        "Шар на столе."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Include the common sports-ball sense."
+    },
+    {
+      "deck": "15260256",
+      "row": 19,
+      "card_number": 2019,
+      "before": [
+        "undoubtedly",
+        "несомненно",
+        "She is undoubtedly a good candidate.",
+        "Она несомненно хороший кандидат."
+      ],
+      "after": [
+        "undoubtedly",
+        "несомненно",
+        "She is undoubtedly a good candidate.",
+        "Она, несомненно, хороший кандидат."
+      ],
+      "fields": [
+        "Russian example"
+      ],
+      "reason": "Punctuate the parenthetical adverb."
+    },
+    {
+      "deck": "15260256",
+      "row": 28,
+      "card_number": 2028,
+      "before": [
+        "warranty",
+        "гарантия",
+        "The product has a warranty.",
+        "У продукта есть гарантия."
+      ],
+      "after": [
+        "warranty",
+        "гарантия",
+        "The product has a warranty.",
+        "На товар есть гарантия."
+      ],
+      "fields": [
+        "Russian example"
+      ],
+      "reason": "Natural Russian warranty construction."
+    },
+    {
+      "deck": "15260256",
+      "row": 31,
+      "card_number": 2031,
+      "before": [
+        "not at all",
+        "отнюдь",
+        "He was not at all surprised.",
+        "Он отнюдь не удивился."
+      ],
+      "after": [
+        "not at all",
+        "отнюдь не",
+        "He was not at all surprised.",
+        "Он отнюдь не удивился."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Teach the complete negative expression."
+    },
+    {
+      "deck": "15260256",
+      "row": 52,
+      "card_number": 2052,
+      "before": [
+        "bush",
+        "куст",
+        "The bird is in the bush.",
+        "Птица в кусте."
+      ],
+      "after": [
+        "bush",
+        "куст",
+        "The bush is near the house.",
+        "Куст рядом с домом."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Replace awkward bird location."
+    },
+    {
+      "deck": "15260256",
+      "row": 54,
+      "card_number": 2054,
+      "before": [
+        "methodology",
+        "методика",
+        "We discussed the methodology today.",
+        "Мы обсуждали методику сегодня."
+      ],
+      "after": [
+        "methodology",
+        "методология; методика",
+        "We discussed the methodology today.",
+        "Мы обсуждали методику сегодня."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Include the direct methodology equivalent."
+    },
+    {
+      "deck": "15260256",
+      "row": 66,
+      "card_number": 2066,
+      "before": [
+        "manufacturing",
+        "производственный",
+        "The manufacturing sector is important.",
+        "Производственный сектор важен."
+      ],
+      "after": [
+        "manufacturing",
+        "производство; производственный (прилагательное)",
+        "The manufacturing sector is important.",
+        "Производственный сектор важен."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Distinguish noun and attributive adjective."
+    },
+    {
+      "deck": "15260256",
+      "row": 106,
+      "card_number": 2106,
+      "before": [
+        "command",
+        "командование",
+        "He received command of the army.",
+        "Он получил командование армией."
+      ],
+      "after": [
+        "command",
+        "командование",
+        "He took command of the army.",
+        "Он принял командование армией."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Use idiomatic command construction."
+    },
+    {
+      "deck": "15260256",
+      "row": 127,
+      "card_number": 2127,
+      "before": [
+        "load",
+        "нагрузка",
+        "The computer has a big load.",
+        "У компьютера большая нагрузка."
+      ],
+      "after": [
+        "load",
+        "нагрузка",
+        "The load on the computer is high.",
+        "Нагрузка на компьютер высокая."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Natural load construction."
+    },
+    {
+      "deck": "15260256",
+      "row": 151,
+      "card_number": 2151,
+      "before": [
+        "review",
+        "обзор",
+        "I read an interesting movie review.",
+        "Я прочитал интересный обзор фильма."
+      ],
+      "after": [
+        "review",
+        "рецензия, обзор",
+        "I read an interesting movie review.",
+        "Я прочитал интересную рецензию на фильм."
+      ],
+      "fields": [
+        "Russian translation",
+        "Russian example"
+      ],
+      "reason": "Use idiomatic movie-review translation. Restore the adjective present in English."
+    },
+    {
+      "deck": "15260256",
+      "row": 175,
+      "card_number": 2175,
+      "before": [
+        "to shake",
+        "пожать",
+        "I want to shake his hand.",
+        "Я хочу пожать ему руку."
+      ],
+      "after": [
+        "to shake",
+        "пожать (руку); трясти",
+        "I want to shake his hand.",
+        "Я хочу пожать ему руку."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Identify the handshake sense and ordinary shaking sense."
+    },
+    {
+      "deck": "15260256",
+      "row": 196,
+      "card_number": 2196,
+      "before": [
+        "corporation",
+        "корпорация",
+        "The corporation has a new name.",
+        "У корпорации новое имя."
+      ],
+      "after": [
+        "corporation",
+        "корпорация",
+        "The corporation has a new name.",
+        "У корпорации новое название."
+      ],
+      "fields": [
+        "Russian example"
+      ],
+      "reason": "Use название for a corporation."
+    },
+    {
+      "deck": "15260256",
+      "row": 205,
+      "card_number": 2205,
+      "before": [
+        "on time",
+        "вовремя",
+        "He arrived on time for the meeting.",
+        "Он прибыл вовремя на встречу."
+      ],
+      "after": [
+        "on time",
+        "вовремя",
+        "He arrived on time for the meeting.",
+        "Он вовремя прибыл на встречу."
+      ],
+      "fields": [
+        "Russian example"
+      ],
+      "reason": "Natural word order."
+    },
+    {
+      "deck": "15260256",
+      "row": 209,
+      "card_number": 2209,
+      "before": [
+        "knock down",
+        "сбить",
+        "The car will knock down the tree.",
+        "Машина собьёт дерево."
+      ],
+      "after": [
+        "knock down",
+        "сбить",
+        "He knocked down the man.",
+        "Он сбил человека с ног."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Use a clear matching knock-down example."
+    },
+    {
+      "deck": "15260256",
+      "row": 215,
+      "card_number": 2215,
+      "before": [
+        "to rely on",
+        "опираться",
+        "I learned to rely on myself.",
+        "Я научился опираться на себя."
+      ],
+      "after": [
+        "to rely on",
+        "опираться",
+        "I learned to rely on facts.",
+        "Я научился опираться на факты."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Natural collocation for опираться."
+    },
+    {
+      "deck": "15260256",
+      "row": 219,
+      "card_number": 2219,
+      "before": [
+        "cow",
+        "корова",
+        "The cow is in the field.",
+        "Корова на поле."
+      ],
+      "after": [
+        "cow",
+        "корова",
+        "The cow is in the field.",
+        "Корова в поле."
+      ],
+      "fields": [
+        "Russian example"
+      ],
+      "reason": "Natural field preposition."
+    },
+    {
+      "deck": "15260256",
+      "row": 220,
+      "card_number": 2220,
+      "before": [
+        "start",
+        "завести",
+        "I'll start the car now.",
+        "Я сейчас заведу машину."
+      ],
+      "after": [
+        "start",
+        "завести (двигатель); начать",
+        "I'll start the car now.",
+        "Я сейчас заведу машину."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Identify engine-starting sense."
+    },
+    {
+      "deck": "15260256",
+      "row": 237,
+      "card_number": 2237,
+      "before": [
+        "on the eve",
+        "накануне",
+        "On the eve of the exam, she studied.",
+        "Накануне экзамена она училась."
+      ],
+      "after": [
+        "on the eve",
+        "накануне",
+        "On the eve of the exam, she read this book.",
+        "Накануне экзамена она читала эту книгу."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Remove misleading учиться as exam revision."
+    },
+    {
+      "deck": "15260256",
+      "row": 269,
+      "card_number": 2269,
+      "before": [
+        "lie",
+        "ложь",
+        "The lie is bad.",
+        "Ложь плохая."
+      ],
+      "after": [
+        "lie",
+        "ложь",
+        "That is a lie.",
+        "Это ложь."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Natural count-noun example."
+    },
+    {
+      "deck": "15260256",
+      "row": 277,
+      "card_number": 2277,
+      "before": [
+        "exploitation",
+        "эксплуатация",
+        "The book showed workers' exploitation.",
+        "Книга показала эксплуатацию рабочих."
+      ],
+      "after": [
+        "exploitation",
+        "эксплуатация",
+        "The book is about the exploitation of workers.",
+        "Книга об эксплуатации рабочих."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Natural parallel sentences. Use previously introduced supporting vocabulary."
+    },
+    {
+      "deck": "15260256",
+      "row": 279,
+      "card_number": 2279,
+      "before": [
+        "metallic",
+        "металлический",
+        "The door is metallic.",
+        "Дверь металлическая."
+      ],
+      "after": [
+        "metallic",
+        "металлический",
+        "The door has a metallic sound.",
+        "У двери металлический звук."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Metallic usually describes metal-like appearance or sound; made-of-metal door is metal."
+    },
+    {
+      "deck": "15260256",
+      "row": 294,
+      "card_number": 2294,
+      "before": [
+        "upstairs",
+        "наверх",
+        "I go upstairs.",
+        "Я иду наверх."
+      ],
+      "after": [
+        "upstairs",
+        "наверх (движение); наверху (место)",
+        "I go upstairs.",
+        "Я иду наверх."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Distinguish direction and location."
+    },
+    {
+      "deck": "15260256",
+      "row": 311,
+      "card_number": 2311,
+      "before": [
+        "offense",
+        "оскорбление",
+        "His words were an offense.",
+        "Его слова были оскорблением."
+      ],
+      "after": [
+        "offense",
+        "правонарушение; обида, оскорбление",
+        "This is an offense.",
+        "Это правонарушение."
+      ],
+      "fields": [
+        "Russian translation",
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Use idiomatic take offense and include legal sense. Use previously introduced vocabulary with a natural offense collocation. Use the legal sense with previously introduced vocabulary. Remove supporting word from a later deck."
+    },
+    {
+      "deck": "15260256",
+      "row": 346,
+      "card_number": 2346,
+      "before": [
+        "gratitude",
+        "благодарность",
+        "I want to show my gratitude.",
+        "Я хочу показать свою благодарность."
+      ],
+      "after": [
+        "gratitude",
+        "благодарность",
+        "I want to show my gratitude.",
+        "Я хочу выразить свою благодарность."
+      ],
+      "fields": [
+        "Russian example"
+      ],
+      "reason": "Natural gratitude collocation."
+    },
+    {
+      "deck": "15260256",
+      "row": 364,
+      "card_number": 2364,
+      "before": [
+        "cheat",
+        "изменять",
+        "He can cheat on her.",
+        "Он может изменять ей."
+      ],
+      "after": [
+        "cheat",
+        "изменять (партнёру); жульничать",
+        "He can cheat on her.",
+        "Он может изменять ей."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Identify relationship sense of cheat."
+    },
+    {
+      "deck": "15260256",
+      "row": 425,
+      "card_number": 2425,
+      "before": [
+        "to lend",
+        "придавать",
+        "Her words lend force to the argument.",
+        "Её слова придают силу аргументу."
+      ],
+      "after": [
+        "to lend",
+        "придавать (качество); одалживать, давать взаймы",
+        "Her words lend force to the argument.",
+        "Её слова придают силу аргументу."
+      ],
+      "fields": [
+        "Russian translation"
+      ],
+      "reason": "Distinguish figurative lend from lending objects or money."
+    },
+    {
+      "deck": "15260256",
+      "row": 436,
+      "card_number": 2436,
+      "before": [
+        "flour",
+        "мука",
+        "I need flour for bread.",
+        "Мне нужно муки для хлеба."
+      ],
+      "after": [
+        "flour",
+        "мука",
+        "I need flour for bread.",
+        "Мне нужна мука для хлеба."
+      ],
+      "fields": [
+        "Russian example"
+      ],
+      "reason": "Natural statement of need."
+    },
+    {
+      "deck": "15260256",
+      "row": 448,
+      "card_number": 2448,
+      "before": [
+        "veteran",
+        "ветеран",
+        "The veteran told his war story.",
+        "Ветеран рассказал свою военную историю."
+      ],
+      "after": [
+        "veteran",
+        "ветеран",
+        "The veteran told a story about the war.",
+        "Ветеран рассказал историю о войне."
+      ],
+      "fields": [
+        "English example",
+        "Russian example"
+      ],
+      "reason": "Avoid unnatural военная история for a personal war story."
+    },
+    {
+      "deck": "15260256",
+      "row": 475,
+      "card_number": 2475,
+      "before": [
+        "design",
+        "дизайн",
+        "I love the room's design.",
+        "Мне нравится дизайн комнаты."
+      ],
+      "after": [
+        "design",
+        "дизайн",
+        "I like the room’s design.",
+        "Мне нравится дизайн комнаты."
+      ],
+      "fields": [
+        "English example"
+      ],
+      "reason": "Match нравится rather than love."
+    },
+    {
+      "deck": "15260256",
+      "row": 478,
+      "card_number": 2478,
+      "before": [
+        "hunter",
+        "охотник",
+        "The hunter followed the bird silently.",
+        "Охотник тихо шёл за птицей."
+      ],
+      "after": [
+        "hunter",
+        "охотник",
+        "The hunter followed the bird quietly.",
+        "Охотник тихо шёл за птицей."
+      ],
+      "fields": [
+        "English example"
+      ],
+      "reason": "Match тихо without adding an absolute absence of sound."
+    }
+  ]
+}

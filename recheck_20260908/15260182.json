@@ -1,0 +1,166 @@
+{
+  "deck": "15260182",
+  "reviewed": 500,
+  "changes": [
+    {
+      "row": 41,
+      "before": [
+        "если",
+        "if",
+        "Если что, я дома.",
+        "If anything, I'm home."
+      ],
+      "after": [
+        "если",
+        "if",
+        "Если он придёт, я буду дома.",
+        "If he comes, I will be home."
+      ],
+      "reason": "Original if anything mistranslates если что."
+    },
+    {
+      "row": 86,
+      "before": [
+        "город",
+        "city, town",
+        "Из города.",
+        "Out of town."
+      ],
+      "after": [
+        "город",
+        "city, town",
+        "Я из этого города.",
+        "I am from this city."
+      ],
+      "reason": "Out of town means away from town, not origin."
+    },
+    {
+      "row": 144,
+      "before": [
+        "отношение",
+        "relation",
+        "Какое отношение к делу?",
+        "What relation to the matter?"
+      ],
+      "after": [
+        "отношение",
+        "relation",
+        "Это не имеет отношения к делу.",
+        "This has no relation to the matter."
+      ],
+      "reason": "Replace unnatural English fragment with an aligned sentence."
+    },
+    {
+      "row": 210,
+      "before": [
+        "нужный",
+        "needed, necessary",
+        "Мне нужен ответ.",
+        "An answer is needed."
+      ],
+      "after": [
+        "нужный",
+        "needed, necessary",
+        "Мне нужен этот документ.",
+        "This document is necessary for me."
+      ],
+      "reason": "Preserve the person who needs the item while using the adjective."
+    },
+    {
+      "row": 250,
+      "before": [
+        "общий",
+        "common, general",
+        "Это общий вопрос.",
+        "That's a common question."
+      ],
+      "after": [
+        "общий",
+        "common, general",
+        "Это общий вопрос.",
+        "That's a general question."
+      ],
+      "reason": "Общий вопрос means a general question here, not a frequently asked question."
+    },
+    {
+      "row": 294,
+      "before": [
+        "средство",
+        "means",
+        "Нет средств.",
+        "There's no means."
+      ],
+      "after": [
+        "средство",
+        "means, funds",
+        "Нет средств.",
+        "There are no funds."
+      ],
+      "reason": "Fix number agreement and clarify the financial sense of средства."
+    },
+    {
+      "row": 373,
+      "before": [
+        "лежать",
+        "to lie",
+        "Он лежит.",
+        "He's lying."
+      ],
+      "after": [
+        "лежать",
+        "to lie",
+        "Он лежит на земле.",
+        "He is lying on the ground."
+      ],
+      "reason": "Disambiguate physical lying from telling lies."
+    },
+    {
+      "row": 397,
+      "before": [
+        "речь",
+        "discussion",
+        "Речь о нём.",
+        "The discussion is about him."
+      ],
+      "after": [
+        "речь",
+        "speech, discussion",
+        "Его речь была о работе.",
+        "His speech was about work."
+      ],
+      "reason": "Restore the central meaning speech and use it in the example."
+    },
+    {
+      "row": 433,
+      "before": [
+        "вполне",
+        "quite",
+        "Вполне.",
+        "Quite."
+      ],
+      "after": [
+        "вполне",
+        "quite",
+        "Он вполне готов.",
+        "He is quite ready."
+      ],
+      "reason": "Standalone Quite is not a reliable translation of standalone Вполне."
+    },
+    {
+      "row": 492,
+      "before": [
+        "ряд",
+        "row",
+        "В первый ряд.",
+        "In the first row."
+      ],
+      "after": [
+        "ряд",
+        "row",
+        "Я сижу в первом ряду.",
+        "I am sitting in the first row."
+      ],
+      "reason": "Original Russian indicates motion, whereas English indicates position."
+    }
+  ]
+}

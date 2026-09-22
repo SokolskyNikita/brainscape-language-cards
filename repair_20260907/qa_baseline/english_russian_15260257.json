@@ -1,0 +1,813 @@
+{
+  "pack": "english_russian",
+  "deck": "15260257",
+  "band": "2500->3000",
+  "sha256": "67064de3beca5255d3e4e76ac1dded4531abaf481288d21554129735316fd90e",
+  "errors": [],
+  "candidates": [
+    {
+      "row": 1,
+      "q": "cave",
+      "a": "пещера",
+      "qe": "The cave is dark.",
+      "ae": "В пещере темно.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "dark",
+            "band": "2500->3000"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "темно",
+            "band": "2500->3000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 21,
+      "q": "match",
+      "a": "матч",
+      "qe": "They won the football match.",
+      "ae": "Они победили в футбольном матче.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "football",
+            "band": "2500->3000"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "футбольном",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 39,
+      "q": "thief",
+      "a": "вор",
+      "qe": "The thief stole my bag.",
+      "ae": "Вор украл мою сумку.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "stole",
+            "band": "2500->3000"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "украл",
+            "band": "2500->3000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 41,
+      "q": "grandson",
+      "a": "внук",
+      "qe": "My grandson plays football.",
+      "ae": "Мой внук играет в футбол.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "football",
+            "band": "2500->3000"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "футбол",
+            "band": "2500->3000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 50,
+      "q": "to get caught",
+      "a": "попасться",
+      "qe": "He tried to cheat and got caught.",
+      "ae": "Он пытался обмануть и попался.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "обмануть",
+            "band": "2500->3000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 107,
+      "q": "pool",
+      "a": "бассейн",
+      "qe": "We swim in the pool today.",
+      "ae": "Мы сегодня плаваем в бассейне.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "плаваем",
+            "band": "2500->3000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 118,
+      "q": "jacket",
+      "a": "куртка",
+      "qe": "I have a new winter jacket.",
+      "ae": "У меня новая зимняя куртка.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "зимняя",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 138,
+      "q": "battalion",
+      "a": "батальон",
+      "qe": "The battalion stood at dawn.",
+      "ae": "Батальон стоял на рассвете.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "dawn",
+            "band": "2500->3000"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "рассвете",
+            "band": "2500->3000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 143,
+      "q": "verse",
+      "a": "стих",
+      "qe": "She read a beautiful verse aloud.",
+      "ae": "Она вслух прочитала красивый стих.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "aloud",
+            "band": "2500->3000"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "вслух",
+            "band": "2500->3000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 148,
+      "q": "throw out",
+      "a": "выбросить",
+      "qe": "Please throw out the trash.",
+      "ae": "Пожалуйста, выбросьте мусор.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "trash",
+            "band": "2500->3000"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "мусор",
+            "band": "2500->3000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 181,
+      "q": "interrupt",
+      "a": "прервать",
+      "qe": "Please don't interrupt me.",
+      "ae": "Пожалуйста, не прерывай меня.",
+      "issues": {
+        "ru_target": "прервать | Пожалуйста, не прерывай меня.",
+        "ru_vocab": [
+          {
+            "word": "прерывай",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 187,
+      "q": "socialism",
+      "a": "социализм",
+      "qe": "Socialism supports collective property.",
+      "ae": "Социализм выступает за коллективную собственность.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "collective",
+            "band": "2500->3000"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "коллективную",
+            "band": "2500->3000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 191,
+      "q": "favorable",
+      "a": "благоприятный",
+      "qe": "Weather conditions were favorable.",
+      "ae": "Погодные условия были благоприятными.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "погодные",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 195,
+      "q": "eyebrow",
+      "a": "бровь",
+      "qe": "She raised an eyebrow in surprise.",
+      "ae": "Она удивлённо подняла бровь.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "удивлённо",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 196,
+      "q": "to fall asleep",
+      "a": "заснуть",
+      "qe": "I struggled to fall asleep last night.",
+      "ae": "Мне было трудно заснуть прошлой ночью.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "прошлой",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 201,
+      "q": "investigator",
+      "a": "следователь",
+      "qe": "The investigator examined the crime scene.",
+      "ae": "Следователь осмотрел место преступления.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "examined",
+            "band": "2500->3000"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "осмотрел",
+            "band": "2500->3000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 202,
+      "q": "freeze",
+      "a": "замереть",
+      "qe": "Suddenly, I heard a noise and froze.",
+      "ae": "Вдруг я услышал шум и замер.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "услышал",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 209,
+      "q": "underwater",
+      "a": "подводный",
+      "qe": "I see an underwater cave.",
+      "ae": "Я вижу подводную пещеру.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "cave",
+            "band": "2500->3000"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "пещеру",
+            "band": "2500->3000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 222,
+      "q": "expand",
+      "a": "расширить",
+      "qe": "We plan to expand our business.",
+      "ae": "Мы планируем расширить наш бизнес.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "планируем",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 224,
+      "q": "to part",
+      "a": "расстаться",
+      "qe": "They part at the airport.",
+      "ae": "Они расстаются в аэропорту.",
+      "issues": {
+        "ru_target": "расстаться | Они расстаются в аэропорту.",
+        "ru_vocab": [
+          {
+            "word": "расстаются",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 226,
+      "q": "gram",
+      "a": "грамм",
+      "qe": "Add one gram of salt.",
+      "ae": "Добавьте один грамм соли.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "salt",
+            "band": "2500->3000"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "соли",
+            "band": "2500->3000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 261,
+      "q": "liberal",
+      "a": "либеральный",
+      "qe": "She holds liberal views on education.",
+      "ae": "Она придерживается либеральных взглядов на образование.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "придерживается",
+            "band": "2500->3000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 265,
+      "q": "incident",
+      "a": "происшествие",
+      "qe": "The incident was a shock to the town.",
+      "ae": "Происшествие было шоком для города.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "shock",
+            "band": "2500->3000"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "шоком",
+            "band": "2500->3000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 274,
+      "q": "captivity",
+      "a": "плен",
+      "qe": "He escaped captivity after five years.",
+      "ae": "Он убежал из плена после пяти лет.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "escaped",
+            "band": "2500->3000"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "убежал",
+            "band": "2500->3000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 292,
+      "q": "defender",
+      "a": "защитник",
+      "qe": "He became the city's brave defender.",
+      "ae": "Он стал смелым защитником города.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "brave",
+            "band": "2500->3000"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "смелым",
+            "band": "2500->3000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 295,
+      "q": "virus",
+      "a": "вирус",
+      "qe": "They spread the virus worldwide.",
+      "ae": "Они распространили вирус по всему миру.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "worldwide",
+            "band": "2500->3000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 317,
+      "q": "to drag",
+      "a": "тащить",
+      "qe": "I had to drag the suitcase.",
+      "ae": "Мне пришлось тащить чемодан.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "suitcase",
+            "band": "2500->3000"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "чемодан",
+            "band": "2500->3000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 327,
+      "q": "robot",
+      "a": "робот",
+      "qe": "The robot completed its task efficiently.",
+      "ae": "Робот эффективно выполнил свою задачу.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "efficiently",
+            "band": "2500->3000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 328,
+      "q": "to listen to",
+      "a": "выслушать",
+      "qe": "I promised to listen to her story.",
+      "ae": "Я пообещал выслушать её историю.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "пообещал",
+            "band": "3000->3500"
+          }
+        ]
+      }
+    },
+    {
+      "row": 351,
+      "q": "bandit",
+      "a": "бандит",
+      "qe": "The bandit stole the gold.",
+      "ae": "Бандит украл золото.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "stole",
+            "band": "2500->3000"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "украл",
+            "band": "2500->3000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 352,
+      "q": "yield",
+      "a": "уступать",
+      "qe": "I will yield to you.",
+      "ae": "Я уступлю тебе.",
+      "issues": {
+        "ru_target": "уступать | Я уступлю тебе.",
+        "ru_vocab": [
+          {
+            "word": "уступлю",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 357,
+      "q": "to explain",
+      "a": "объясняться",
+      "qe": "He came to explain himself.",
+      "ae": "Он пришёл, чтобы объясниться.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "himself",
+            "band": "absent"
+          }
+        ],
+        "ru_target": "объясняться | Он пришёл, чтобы объясниться.",
+        "ru_vocab": [
+          {
+            "word": "объясниться",
+            "band": "absent"
+          }
+        ]
+      }
+    },
+    {
+      "row": 358,
+      "q": "shield",
+      "a": "щит",
+      "qe": "The knight raised his shield.",
+      "ae": "Рыцарь поднял свой щит.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "knight",
+            "band": "2500->3000"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "рыцарь",
+            "band": "2500->3000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 360,
+      "q": "to guess",
+      "a": "догадываться",
+      "qe": "I tried to guess her age.",
+      "ae": "Я пытался догадаться о её возрасте.",
+      "issues": {
+        "ru_target": "догадываться | Я пытался догадаться о её возрасте."
+      }
+    },
+    {
+      "row": 366,
+      "q": "kiss",
+      "a": "поцелуй",
+      "qe": "Their first kiss was magical.",
+      "ae": "Их первый поцелуй был волшебным.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "magical",
+            "band": "2500->3000"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "волшебным",
+            "band": "2500->3000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 370,
+      "q": "artillery",
+      "a": "артиллерия",
+      "qe": "The artillery started at dawn.",
+      "ae": "Артиллерия начала на рассвете.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "dawn",
+            "band": "2500->3000"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "рассвете",
+            "band": "2500->3000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 382,
+      "q": "departure",
+      "a": "отъезд",
+      "qe": "His departure was at noon.",
+      "ae": "Его отъезд был в полдень.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "noon",
+            "band": "2500->3000"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "полдень",
+            "band": "2500->3000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 396,
+      "q": "dishes",
+      "a": "посуда",
+      "qe": "I washed the dishes yesterday.",
+      "ae": "Я мыл посуду вчера.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "washed",
+            "band": "2500->3000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 419,
+      "q": "accident",
+      "a": "авария",
+      "qe": "There was an accident on the highway.",
+      "ae": "На шоссе была авария.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "highway",
+            "band": "2500->3000"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "шоссе",
+            "band": "2500->3000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 430,
+      "q": "bucket",
+      "a": "ведро",
+      "qe": "Fill the bucket with water.",
+      "ae": "Наполните ведро водой.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "fill",
+            "band": "2500->3000"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "наполните",
+            "band": "2500->3000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 461,
+      "q": "anxiety",
+      "a": "беспокойство",
+      "qe": "Anxiety filled her before the exam.",
+      "ae": "Беспокойство охватило её перед экзаменом.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "filled",
+            "band": "2500->3000"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "охватило",
+            "band": "2500->3000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 470,
+      "q": "lend",
+      "a": "придать",
+      "qe": "These words lend meaning to the text.",
+      "ae": "Эти слова придают смысл тексту.",
+      "issues": {
+        "ru_target": "придать | Эти слова придают смысл тексту."
+      }
+    },
+    {
+      "row": 471,
+      "q": "visibility",
+      "a": "видимость",
+      "qe": "Visibility was almost zero.",
+      "ae": "Видимость была почти нуль.",
+      "issues": {
+        "en_vocab": [
+          {
+            "word": "zero",
+            "band": "2500->3000"
+          }
+        ],
+        "ru_vocab": [
+          {
+            "word": "нуль",
+            "band": "2500->3000"
+          }
+        ]
+      }
+    },
+    {
+      "row": 493,
+      "q": "heat",
+      "a": "жара",
+      "qe": "The summer heat was strong.",
+      "ae": "Летняя жара была сильной.",
+      "issues": {
+        "ru_vocab": [
+          {
+            "word": "летняя",
+            "band": "absent"
+          }
+        ]
+      }
+    }
+  ]
+}

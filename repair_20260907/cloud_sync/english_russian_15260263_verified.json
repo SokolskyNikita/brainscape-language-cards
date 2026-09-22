@@ -1,0 +1,11 @@
+{
+  "pack": "english_russian",
+  "pack_id": 21917816,
+  "deck": "15260263",
+  "band": "3500->4000",
+  "updated": 105,
+  "count": 500,
+  "verified": true,
+  "source_sha256": "3ab15f9045920a557d3245dd33136c977d32e71f4056468e1ad2fff4c5528ddb",
+  "verified_at": "2026-09-08T00:10:47.801056+00:00"
+}

@@ -1,154 +1,11 @@
 Question,Answer
 "# Translate:
 
-vapor
-
-## Footnote
-
-La tetera liberó vapor caliente.","steam, vapor
-
-## Footnote
-
-The kettle released hot steam."
-"# Translate:
-
-supervisor
-
-## Footnote
-
-El supervisor aprobó el proyecto.","supervisor, overseer
-
-## Footnote
-
-The supervisor approved the project."
-"# Translate:
-
-eterno
-
-## Footnote
-
-El amor es descrito a menudo como eterno.","eternal, everlasting
-
-## Footnote
-
-Love is often described as eternal."
-"# Translate:
-
-fundación
-
-## Footnote
-
-La fundación apoya muchos proyectos.","foundation, establishment
-
-## Footnote
-
-The foundation supports many projects."
-"# Translate:
-
-declarar
-
-## Footnote
-
-Debo declarar mi amor por ti.","declare, state
-
-## Footnote
-
-I must declare my love for you."
-"# Translate:
-
-ebrio
-
-## Footnote
-
-Estaba ebrio en la fiesta.","drunk, inebriated
-
-## Footnote
-
-He was drunk at the party."
-"# Translate:
-
-específico
-
-## Footnote
-
-Por favor, proporcione instrucciones específicas.","specific, particular
-
-## Footnote
-
-Please provide specific instructions."
-"# Translate:
-
-instrumento
-
-## Footnote
-
-Tocó el instrumento maravillosamente.","instrument, tool
-
-## Footnote
-
-He played the instrument beautifully."
-"# Translate:
-
-zorro
-
-## Footnote
-
-El zorro se coló en el gallinero.","fox, cunning person
-
-## Footnote
-
-The fox sneaked into the henhouse."
-"# Translate:
-
-resiste
-
-## Footnote
-
-Ella resiste las ganas de gritar.","resists, withstands
-
-## Footnote
-
-She resists the urge to scream."
-"# Translate:
-
-misil
-
-## Footnote
-
-El misil impactó su objetivo con precisión.","missile, rocket
-
-## Footnote
-
-The missile hit its target precisely."
-"# Translate:
-
-ayudé
-
-## Footnote
-
-Ayudé a mi amigo a mudarse.","I helped, helped
-
-## Footnote
-
-I helped my friend move."
-"# Translate:
-
-pasaremos
-
-## Footnote
-
-Pasaremos el examen.","we will pass, we will spend
-
-## Footnote
-
-We will pass the exam."
-"# Translate:
-
 gripe
 
 ## Footnote
 
-Me dio la gripe el invierno pasado.","flu, influenza
+Me dio la gripe el invierno pasado.","flu
 
 ## Footnote
 
@@ -159,7 +16,7 @@ pacto
 
 ## Footnote
 
-Firmaron un pacto de paz ayer.","pact, agreement
+Firmaron un pacto de paz ayer.","pact
 
 ## Footnote
 
@@ -170,18 +27,18 @@ mátame
 
 ## Footnote
 
-""Solo por favor, mátame rápidamente.""","kill me, slay me
+Solo por favor, mátame rápidamente.","kill me (imperative, tú)
 
 ## Footnote
 
-""Just please, kill me quickly."""
+Just please, kill me quickly."
 "# Translate:
 
 sexto
 
 ## Footnote
 
-Terminó la carrera en sexto lugar.","sixth, 6th
+Terminó la carrera en sexto lugar.","sixth
 
 ## Footnote
 
@@ -192,7 +49,7 @@ enojar
 
 ## Footnote
 
-Sus acciones comenzaron a enojarla.","to anger, to annoy
+Sus acciones comenzaron a enojarla.","to anger
 
 ## Footnote
 
@@ -203,7 +60,7 @@ encantar
 
 ## Footnote
 
-La historia comenzó a encantarla.","to enchant, to love
+La historia comenzó a encantarla.","to enchant
 
 ## Footnote
 
@@ -214,7 +71,7 @@ vagabundo
 
 ## Footnote
 
-Vivió como un vagabundo despreocupado.","vagabond, tramp
+Vivió como un vagabundo despreocupado.","vagabond
 
 ## Footnote
 
@@ -225,7 +82,7 @@ inocencia
 
 ## Footnote
 
-Sus ojos irradiaban pura inocencia.","innocence, naivety
+Sus ojos irradiaban pura inocencia.","innocence
 
 ## Footnote
 
@@ -236,7 +93,7 @@ postal
 
 ## Footnote
 
-Envié una postal desde España.","postcard, postal
+Envié una postal desde España.","postcard
 
 ## Footnote
 
@@ -247,7 +104,7 @@ crítico
 
 ## Footnote
 
-El crítico escribió una crítica mordaz.","critic, critical
+El crítico escribió una crítica mordaz.","critic
 
 ## Footnote
 
@@ -258,7 +115,7 @@ revelar
 
 ## Footnote
 
-El mago revelará su secreto.","reveal, disclose
+El mago revelará su secreto.","to reveal
 
 ## Footnote
 
@@ -269,7 +126,7 @@ quedaste
 
 ## Footnote
 
-Te quedaste en mi casa anoche.","you stayed, you remained
+Te quedaste en mi casa anoche.","you stayed
 
 ## Footnote
 
@@ -291,7 +148,7 @@ naciste
 
 ## Footnote
 
-Naciste para brillar.","you were born, were born
+Naciste para brillar.","you were born
 
 ## Footnote
 
@@ -302,7 +159,7 @@ esencia
 
 ## Footnote
 
-El amor es la esencia de la vida.","essence, core
+El amor es la esencia de la vida.","essence
 
 ## Footnote
 
@@ -313,7 +170,7 @@ aprovechar
 
 ## Footnote
 
-Él planea aprovechar la venta.","to take advantage of, to make the most of
+Él planea aprovechar la venta.","to take advantage of
 
 ## Footnote
 
@@ -324,7 +181,7 @@ preferido
 
 ## Footnote
 
-Ella ha preferido el helado de chocolate.","preferred, favorite
+Ella ha preferido el helado de chocolate.","preferred
 
 ## Footnote
 
@@ -335,7 +192,7 @@ entrenado
 
 ## Footnote
 
-Ella ha entrenado a su perro perfectamente.","trained, coached
+Ella ha entrenado a su perro perfectamente.","trained
 
 ## Footnote
 
@@ -346,7 +203,7 @@ enviaste
 
 ## Footnote
 
-La carta que enviaste llegó hoy.","you sent, did you send
+La carta que enviaste llegó hoy.","you sent
 
 ## Footnote
 
@@ -357,7 +214,7 @@ enterrar
 
 ## Footnote
 
-Vamos a enterrar la cápsula del tiempo hoy.","bury, inter
+Vamos a enterrar la cápsula del tiempo hoy.","to bury
 
 ## Footnote
 
@@ -368,7 +225,7 @@ factura
 
 ## Footnote
 
-Por favor, envíame la factura.","invoice, bill
+Por favor, envíame la factura.","invoice
 
 ## Footnote
 
@@ -379,7 +236,7 @@ sobrevivido
 
 ## Footnote
 
-Ha sobrevivido al accidente ileso.","survived, outlived
+Ha sobrevivido al accidente ileso.","survived
 
 ## Footnote
 
@@ -390,29 +247,29 @@ terminal
 
 ## Footnote
 
-El aeropuerto tiene una nueva terminal.","terminal, end
+El aeropuerto tiene una nueva terminal.","terminal
 
 ## Footnote
 
-El aeropuerto tiene una nueva terminal."
+The airport has a new terminal."
 "# Translate:
 
 rincón
 
 ## Footnote
 
-Encuéntrame en el rincón.","corner, nook
+Hay una araña en el rincón.","corner
 
 ## Footnote
 
-Meet me at the corner."
+There's a spider in the corner."
 "# Translate:
 
 respetar
 
 ## Footnote
 
-Aprendimos a respetar todas las culturas.","to respect, to honor
+Aprendimos a respetar todas las culturas.","to respect
 
 ## Footnote
 
@@ -423,7 +280,7 @@ herir
 
 ## Footnote
 
-Pretendía herir a su oponente.","to injure, to wound
+Pretendía herir a su oponente.","to injure
 
 ## Footnote
 
@@ -434,18 +291,18 @@ investigador
 
 ## Footnote
 
-El investigador descubrió una teoría revolucionaria.","researcher, investigator
+El investigador descubrió una teoría revolucionaria.","researcher
 
 ## Footnote
 
-The researcher discovered a groundbreaking theory."
+The researcher discovered a revolutionary theory."
 "# Translate:
 
 castigado
 
 ## Footnote
 
-Fue castigado por sus acciones.","punished, grounded
+Fue castigado por sus acciones.","punished
 
 ## Footnote
 
@@ -456,7 +313,7 @@ hermanito
 
 ## Footnote
 
-Mi hermanito es muy juguetón.","little brother, kid brother
+Mi hermanito es muy juguetón.","little brother
 
 ## Footnote
 
@@ -467,18 +324,18 @@ apúrense
 
 ## Footnote
 
-""¡Apúrense, vamos a llegar tarde!""","hurry up, hurry
+¡Apúrense, vamos a llegar tarde!","hurry up (imperative, ustedes)
 
 ## Footnote
 
-""Hurry up, we're going to be late!"""
+Hurry up, we're going to be late!"
 "# Translate:
 
 bloqueo
 
 ## Footnote
 
-El bloqueo detuvo todos los envíos.","blockade, block
+El bloqueo detuvo todos los envíos.","blockade
 
 ## Footnote
 
@@ -489,7 +346,7 @@ completar
 
 ## Footnote
 
-Por favor, complete el formulario.","complete, fill in
+Por favor, complete el formulario.","to complete
 
 ## Footnote
 
@@ -500,7 +357,7 @@ tomate
 
 ## Footnote
 
-Corté el tomate para la ensalada.","tomato, -
+Corté el tomate para la ensalada.","tomato
 
 ## Footnote
 
@@ -511,7 +368,7 @@ refrigerador
 
 ## Footnote
 
-El refrigerador está completamente lleno.","refrigerator, fridge
+El refrigerador está completamente lleno.","refrigerator
 
 ## Footnote
 
@@ -522,7 +379,7 @@ honrado
 
 ## Footnote
 
-Él es un hombre honrado.","honest, honorable
+Él es un hombre honrado.","honest
 
 ## Footnote
 
@@ -533,7 +390,7 @@ apoyar
 
 ## Footnote
 
-Apoyaré tu decisión.","support, back
+Apoyaré tu decisión.","to support
 
 ## Footnote
 
@@ -544,7 +401,7 @@ estimado
 
 ## Footnote
 
-El costo estimado fue de $200.","estimated, dear
+El costo estimado fue de $200.","estimated
 
 ## Footnote
 
@@ -555,7 +412,7 @@ irlandés
 
 ## Footnote
 
-Ella ama la música irlandesa.","Irish, Irishman/Irishwoman
+Ella ama la música irlandesa.","Irish
 
 ## Footnote
 
@@ -566,7 +423,7 @@ eventualmente
 
 ## Footnote
 
-Eventualmente, él entendió la lección.","eventually, possibly
+Eventualmente, él entendió la lección.","eventually
 
 ## Footnote
 
@@ -577,7 +434,7 @@ tranquilidad
 
 ## Footnote
 
-Ella encontró tranquilidad junto al lago.","tranquility, calmness
+Ella encontró tranquilidad junto al lago.","tranquility
 
 ## Footnote
 
@@ -588,7 +445,7 @@ regresamos
 
 ## Footnote
 
-Mañana, regresamos a nuestro pueblo natal.","we return, we came back
+Mañana, regresamos a nuestro pueblo natal.","we return
 
 ## Footnote
 
@@ -599,7 +456,7 @@ intenso
 
 ## Footnote
 
-El entrenamiento fue increíblemente intenso.","intense, strong
+El entrenamiento fue increíblemente intenso.","intense
 
 ## Footnote
 
@@ -610,7 +467,7 @@ protegerme
 
 ## Footnote
 
-Aprendí karate para protegerme.","to protect myself, to safeguard myself
+Aprendí karate para protegerme.","to protect myself
 
 ## Footnote
 
@@ -621,7 +478,7 @@ operar
 
 ## Footnote
 
-Los médicos operarán mañana por la mañana.","operate, perform
+Los médicos operarán mañana por la mañana.","to operate
 
 ## Footnote
 
@@ -632,7 +489,7 @@ vago
 
 ## Footnote
 
-Él era demasiado vago para estudiar.","lazy, vague
+Él era demasiado vago para estudiar.","lazy
 
 ## Footnote
 
@@ -643,7 +500,7 @@ imagínate
 
 ## Footnote
 
-Imagínate ganando la lotería!","imagine, just imagine
+Imagínate ganando la lotería!","imagine (imperative, tú)
 
 ## Footnote
 
@@ -654,7 +511,7 @@ sentimental
 
 ## Footnote
 
-Ella guardó la carta por razones sentimentales.","sentimental, emotional
+Ella guardó la carta por razones sentimentales.","sentimental
 
 ## Footnote
 
@@ -665,7 +522,7 @@ reconocido
 
 ## Footnote
 
-Ella lo reconoció inmediatamente en la multitud.","recognized, acknowledged
+Ella lo reconoció inmediatamente en la multitud.","recognized
 
 ## Footnote
 
@@ -676,7 +533,7 @@ reservado
 
 ## Footnote
 
-Ella se mantuvo reservada en la fiesta.","reserved, booked
+Ella se mantuvo reservada en la fiesta.","reserved
 
 ## Footnote
 
@@ -687,7 +544,7 @@ criar
 
 ## Footnote
 
-Crían pollos en su patio trasero.","raise, rear
+Crían pollos en su patio trasero.","to raise
 
 ## Footnote
 
@@ -698,7 +555,7 @@ colocar
 
 ## Footnote
 
-Por favor, coloca el libro en la mesa.","place, put
+Por favor, coloca el libro en la mesa.","to place
 
 ## Footnote
 
@@ -709,7 +566,7 @@ extraterrestre
 
 ## Footnote
 
-Descubrimos vida extraterrestre en Marte.","extraterrestrial, alien
+Descubrimos vida extraterrestre en Marte.","extraterrestrial
 
 ## Footnote
 
@@ -720,7 +577,7 @@ síndrome
 
 ## Footnote
 
-Él padece del síndrome de Down.","syndrome, disorder
+Él padece del síndrome de Down.","syndrome
 
 ## Footnote
 
@@ -731,18 +588,18 @@ argumento
 
 ## Footnote
 
-Su argumento duró horas.","argument, plot
+Era un argumento muy convincente.","argument
 
 ## Footnote
 
-Their argument lasted for hours."
+It was a very convincing argument."
 "# Translate:
 
 marcar
 
 ## Footnote
 
-Por favor, marque su respuesta claramente.","mark, dial
+Por favor, marque su respuesta claramente.","to mark
 
 ## Footnote
 
@@ -753,7 +610,7 @@ vestíbulo
 
 ## Footnote
 
-Encuéntrame en el vestíbulo del hotel.","lobby, vestibule
+Encuéntrame en el vestíbulo del hotel.","lobby
 
 ## Footnote
 
@@ -764,7 +621,7 @@ cuna
 
 ## Footnote
 
-El bebé durmió profundamente en la cuna.","cradle, crib
+El bebé durmió profundamente en la cuna.","cradle
 
 ## Footnote
 
@@ -775,7 +632,7 @@ promedio
 
 ## Footnote
 
-Obtuvo una puntuación por encima del promedio en el examen.","average, mean
+Obtuvo una puntuación por encima del promedio en el examen.","average
 
 ## Footnote
 
@@ -786,7 +643,7 @@ gorra
 
 ## Footnote
 
-Él llevó una gorra roja hoy.","cap, hat
+Él llevó una gorra roja hoy.","cap
 
 ## Footnote
 
@@ -797,7 +654,7 @@ bendito
 
 ## Footnote
 
-Ella se sintió verdaderamente bendecida por el destino.","blessed, holy
+Ella se sintió verdaderamente bendita por el destino.","blessed
 
 ## Footnote
 
@@ -808,7 +665,7 @@ destinado
 
 ## Footnote
 
-Ella estaba destinada a la grandeza.","destined, intended
+Ella estaba destinada a la grandeza.","destined
 
 ## Footnote
 
@@ -819,7 +676,7 @@ gratitud
 
 ## Footnote
 
-Ella expresó su gratitud calurosamente.","gratitude, thankfulness
+Ella expresó su gratitud calurosamente.","gratitude
 
 ## Footnote
 
@@ -830,7 +687,7 @@ reunido
 
 ## Footnote
 
-Los amigos se han reunido para una alegre reunión.","gathered, met
+Los amigos se han reunido para una alegre reunión.","gathered
 
 ## Footnote
 
@@ -841,7 +698,7 @@ pis
 
 ## Footnote
 
-Necesito hacer pis ahora.","pee, urine
+Necesito hacer pis ahora.","pee
 
 ## Footnote
 
@@ -852,7 +709,7 @@ novedad
 
 ## Footnote
 
-La novedad se desvaneció rápidamente.","novelty, newness
+La novedad se desvaneció rápidamente.","novelty
 
 ## Footnote
 
@@ -863,7 +720,7 @@ vendo
 
 ## Footnote
 
-Vendo limonada fresca aquí.","I sell, sell
+Vendo limonada fresca aquí.","I sell
 
 ## Footnote
 
@@ -874,7 +731,7 @@ limón
 
 ## Footnote
 
-Exprimí un limón en mi té.","lemon, lime
+Exprimí un limón en mi té.","lemon
 
 ## Footnote
 
@@ -885,7 +742,7 @@ occidental
 
 ## Footnote
 
-Prefiero la cocina occidental.","western, occidental
+Prefiero la cocina occidental.","western
 
 ## Footnote
 
@@ -896,7 +753,7 @@ principalmente
 
 ## Footnote
 
-Él bebe principalmente té, no café.","primarily, mainly
+Él bebe principalmente té, no café.","primarily
 
 ## Footnote
 
@@ -907,7 +764,7 @@ dejad
 
 ## Footnote
 
-Por favor, dejad la habitación ahora.","leave, let
+Por favor, dejad la habitación ahora.","leave (imperative, vosotros)
 
 ## Footnote
 
@@ -918,7 +775,7 @@ crecimiento
 
 ## Footnote
 
-El crecimiento económico beneficia al país.","growth, increase
+El crecimiento económico beneficia al país.","growth
 
 ## Footnote
 
@@ -929,7 +786,7 @@ tradicional
 
 ## Footnote
 
-Seguimos recetas familiares tradicionales.","traditional, conventional
+Seguimos recetas familiares tradicionales.","traditional
 
 ## Footnote
 
@@ -940,7 +797,7 @@ asilo
 
 ## Footnote
 
-Ella buscó asilo de la persecución.","asylum, nursing home
+Ella buscó asilo de la persecución.","asylum
 
 ## Footnote
 
@@ -951,7 +808,7 @@ algodón
 
 ## Footnote
 
-Ella llevaba un vestido de algodón.","cotton, cotton wool
+Ella llevaba un vestido de algodón.","cotton
 
 ## Footnote
 
@@ -962,7 +819,7 @@ alimento
 
 ## Footnote
 
-El alimento es esencial para la supervivencia.","food, nourishment
+El alimento es esencial para la supervivencia.","food
 
 ## Footnote
 
@@ -973,7 +830,7 @@ fotógrafo
 
 ## Footnote
 
-El fotógrafo capturó paisajes impresionantes.","photographer, photographer
+El fotógrafo capturó paisajes impresionantes.","photographer
 
 ## Footnote
 
@@ -984,7 +841,7 @@ agotado
 
 ## Footnote
 
-Ella se sintió agotada después del maratón.","exhausted, sold out
+Ella se sintió agotada después del maratón.","exhausted
 
 ## Footnote
 
@@ -995,7 +852,7 @@ escritura
 
 ## Footnote
 
-Ella ama la escritura en su diario.","writing, deed
+Ella ama la escritura en su diario.","writing
 
 ## Footnote
 
@@ -1006,18 +863,18 @@ trabaje
 
 ## Footnote
 
-Trabajo todos los días de la semana.","I work, work
+Es importante que trabaje todos los días de la semana.","I work (subjunctive)
 
 ## Footnote
 
-I work every day of the week."
+It is important that I work every day of the week."
 "# Translate:
 
 casamos
 
 ## Footnote
 
-Mañana, nos casamos en la capilla.","we marry, we get married
+Mañana, nos casamos en la capilla.","we marry
 
 ## Footnote
 
@@ -1028,7 +885,7 @@ saludo
 
 ## Footnote
 
-Su cálido saludo le derritió el corazón.","greeting, salute
+Su cálido saludo le derritió el corazón.","greeting
 
 ## Footnote
 
@@ -1039,7 +896,7 @@ toqué
 
 ## Footnote
 
-Toqué la tela suave suavemente.","I touched, I played
+Toqué la tela suave suavemente.","I touched
 
 ## Footnote
 
@@ -1050,18 +907,18 @@ enseñarme
 
 ## Footnote
 
-Por favor, enseñarme español.","teach me, show me
+Necesito que alguien pueda enseñarme español.","to teach me
 
 ## Footnote
 
-Please teach me Spanish."
+I need someone to teach me Spanish."
 "# Translate:
 
 gentil
 
 ## Footnote
 
-Ella es una persona gentil.","kind, gentle
+Ella es una persona gentil.","kind
 
 ## Footnote
 
@@ -1072,18 +929,18 @@ automático
 
 ## Footnote
 
-Las puertas se abren automáticamente.","automatic, automated
+Las puertas se abren automáticamente.","automatic
 
 ## Footnote
 
-The doors open automatic."
+The doors open automatically."
 "# Translate:
 
 demente
 
 ## Footnote
 
-Se volvió demente después del incidente.","mad, insane
+Se volvió demente después del incidente.","mad
 
 ## Footnote
 
@@ -1094,7 +951,7 @@ vientre
 
 ## Footnote
 
-El bebé pateó suavemente su vientre.","belly, abdomen
+El bebé pateó suavemente su vientre.","belly
 
 ## Footnote
 
@@ -1105,7 +962,7 @@ calibre
 
 ## Footnote
 
-Él es un profesional de alto calibre.","caliber, gauge
+Él es un profesional de alto calibre.","caliber
 
 ## Footnote
 
@@ -1116,7 +973,7 @@ lamentablemente
 
 ## Footnote
 
-Lamentablemente, el concierto fue cancelado.","unfortunately, regrettably
+Lamentablemente, el concierto fue cancelado.","unfortunately
 
 ## Footnote
 
@@ -1127,7 +984,7 @@ cuidadoso
 
 ## Footnote
 
-Sé cuidadoso con la cristalería.","careful, cautious
+Sé cuidadoso con la cristalería.","careful
 
 ## Footnote
 
@@ -1138,7 +995,7 @@ hockey
 
 ## Footnote
 
-Me encanta jugar al hockey los fines de semana.","hockey, hockey
+Me encanta jugar al hockey los fines de semana.","hockey
 
 ## Footnote
 
@@ -1149,7 +1006,7 @@ champaña
 
 ## Footnote
 
-Brindamos con champaña a medianoche.","champagne, sparkling wine
+Brindamos con champaña a medianoche.","champagne
 
 ## Footnote
 
@@ -1160,7 +1017,7 @@ ansiedad
 
 ## Footnote
 
-Su ansiedad aumentó antes del examen.","anxiety, anxiousness
+Su ansiedad aumentó antes del examen.","anxiety
 
 ## Footnote
 
@@ -1171,7 +1028,7 @@ integridad
 
 ## Footnote
 
-Ella lidera con integridad inquebrantable.","integrity, wholeness
+Ella lidera con integridad inquebrantable.","integrity
 
 ## Footnote
 
@@ -1182,7 +1039,7 @@ cuidadosamente
 
 ## Footnote
 
-Ella pintó cuidadosamente las delicadas flores.","carefully, meticulously
+Ella pintó cuidadosamente las delicadas flores.","carefully
 
 ## Footnote
 
@@ -1193,7 +1050,7 @@ envidia
 
 ## Footnote
 
-Sintió envidia al ver su éxito.","envy, jealousy
+Sintió envidia al ver su éxito.","envy
 
 ## Footnote
 
@@ -1204,7 +1061,7 @@ traerte
 
 ## Footnote
 
-Te voy a traer tu libro.","bring you, fetch for you
+Te voy a traer tu libro.","bring you
 
 ## Footnote
 
@@ -1215,7 +1072,7 @@ reactor
 
 ## Footnote
 
-El reactor nuclear se está sobrecalentando.","reactor, reactor vessel
+El reactor nuclear se está sobrecalentando.","reactor
 
 ## Footnote
 
@@ -1226,7 +1083,7 @@ específicamente
 
 ## Footnote
 
-Ella pidió específicamente helado de vainilla.","specifically, particularly
+Ella pidió específicamente helado de vainilla.","specifically
 
 ## Footnote
 
@@ -1237,7 +1094,7 @@ tardar
 
 ## Footnote
 
-Tardará dos horas.","to take, to delay
+Tardará dos horas.","to take (time)
 
 ## Footnote
 
@@ -1248,7 +1105,7 @@ agradecer
 
 ## Footnote
 
-La llamé para agradecerle.","to thank, to appreciate
+La llamé para agradecerle.","to thank
 
 ## Footnote
 
@@ -1259,7 +1116,7 @@ obispo
 
 ## Footnote
 
-El obispo dirigió el servicio dominical.","bishop, prelate
+El obispo dirigió el servicio dominical.","bishop
 
 ## Footnote
 
@@ -1270,7 +1127,7 @@ capturar
 
 ## Footnote
 
-Logramos capturar al ladrón.","capture, catch
+Logramos capturar al ladrón.","to capture
 
 ## Footnote
 
@@ -1281,7 +1138,7 @@ normalidad
 
 ## Footnote
 
-La normalidad regresó después de la crisis.","normality, normalcy
+La normalidad regresó después de la crisis.","normality
 
 ## Footnote
 
@@ -1292,7 +1149,7 @@ meto
 
 ## Footnote
 
-Meto el libro en la mesa.","I put, I insert
+Meto el libro en la mesa.","I put
 
 ## Footnote
 
@@ -1303,7 +1160,7 @@ portero
 
 ## Footnote
 
-El portero paró el penalti.","goalkeeper, doorman
+El portero paró el penalti.","goalkeeper
 
 ## Footnote
 
@@ -1314,7 +1171,7 @@ portátil
 
 ## Footnote
 
-Compré un cargador portátil hoy.","portable, laptop
+Compré un cargador portátil hoy.","portable
 
 ## Footnote
 
@@ -1325,7 +1182,7 @@ expresar
 
 ## Footnote
 
-Escribo poesía para expresarme.","to express, to state
+Escribo poesía para expresarme.","to express
 
 ## Footnote
 
@@ -1336,7 +1193,7 @@ periodo
 
 ## Footnote
 
-El periodo Jurásico fue hace mucho tiempo.","period, term
+El periodo Jurásico fue hace mucho tiempo.","period
 
 ## Footnote
 
@@ -1347,7 +1204,7 @@ dedicado
 
 ## Footnote
 
-Ella ha dedicado su vida a la ciencia.","dedicated, devoted
+Ella ha dedicado su vida a la ciencia.","dedicated
 
 ## Footnote
 
@@ -1358,7 +1215,7 @@ noté
 
 ## Footnote
 
-Noté que cambiaste tu cabello.","I noticed, I noted
+Noté que cambiaste tu cabello.","I noticed
 
 ## Footnote
 
@@ -1369,7 +1226,7 @@ portada
 
 ## Footnote
 
-La portada del libro es impresionante.","cover, front page
+La portada del libro es impresionante.","cover
 
 ## Footnote
 
@@ -1380,7 +1237,7 @@ recto
 
 ## Footnote
 
-La carretera va recto hacia adelante.","straight, upright
+La carretera va recto hacia adelante.","straight
 
 ## Footnote
 
@@ -1391,7 +1248,7 @@ bienestar
 
 ## Footnote
 
-Prioriza tu bienestar por encima de todo.","well-being, welfare
+Prioriza tu bienestar por encima de todo.","well-being
 
 ## Footnote
 
@@ -1402,7 +1259,7 @@ entusiasmo
 
 ## Footnote
 
-Su entusiasmo era contagioso.","enthusiasm, zeal
+Su entusiasmo era contagioso.","enthusiasm
 
 ## Footnote
 
@@ -1413,7 +1270,7 @@ saldrás
 
 ## Footnote
 
-Mañana, saldrás temprano.","you will leave, you will go out
+Mañana, saldrás temprano.","you will leave
 
 ## Footnote
 
@@ -1424,18 +1281,18 @@ valga
 
 ## Footnote
 
-Valdrá la pena el esfuerzo.","be worth, suffice
+Quiero que valga la pena el esfuerzo","be worth
 
 ## Footnote
 
-It will be worth the effort."
+I want the effort to be worth it"
 "# Translate:
 
 mito
 
 ## Footnote
 
-La leyenda se convirtió en un mito popular.","myth, legend
+La leyenda se convirtió en un mito popular.","myth
 
 ## Footnote
 
@@ -1446,18 +1303,18 @@ tomarme
 
 ## Footnote
 
-Se ofreció a tomarme en casa.","to take me, to drink me
+Necesito tomarme un descanso.","to take (for myself)
 
 ## Footnote
 
-He offered to take me home."
+I need to take a break."
 "# Translate:
 
 fallar
 
 ## Footnote
 
-No fallaré esta prueba.","fail, miss
+No fallaré esta prueba.","to fail
 
 ## Footnote
 
@@ -1468,7 +1325,7 @@ ignorar
 
 ## Footnote
 
-Ella eligió ignorar su consejo.","to ignore, to be unaware of
+Ella eligió ignorar su consejo.","to ignore
 
 ## Footnote
 
@@ -1479,7 +1336,7 @@ electrónico
 
 ## Footnote
 
-Compré un nuevo dispositivo electrónico.","electronic, digital
+Compré un nuevo dispositivo electrónico.","electronic
 
 ## Footnote
 
@@ -1490,7 +1347,7 @@ filmar
 
 ## Footnote
 
-Planeo filmar la puesta del sol.","to film, to shoot
+Planeo filmar la puesta del sol.","to film
 
 ## Footnote
 
@@ -1501,7 +1358,7 @@ estallar
 
 ## Footnote
 
-El globo estallará si se infla demasiado.","explode, burst
+El globo estallará si se infla demasiado.","to explode
 
 ## Footnote
 
@@ -1512,7 +1369,7 @@ cuadra
 
 ## Footnote
 
-Camina dos cuadras hacia el norte desde aquí.","block, stable
+Camina dos cuadras hacia el norte desde aquí.","block
 
 ## Footnote
 
@@ -1523,7 +1380,7 @@ maletero
 
 ## Footnote
 
-Empaqué el equipaje en el maletero.","trunk, luggage compartment
+Empaqué el equipaje en el maletero.","trunk
 
 ## Footnote
 
@@ -1534,7 +1391,7 @@ homosexual
 
 ## Footnote
 
-Él es abiertamente homosexual.","homosexual, gay
+Él es abiertamente homosexual.","homosexual
 
 ## Footnote
 
@@ -1545,7 +1402,7 @@ avísame
 
 ## Footnote
 
-Por favor, avísame de tu decisión.","let me know, notify me
+Por favor, avísame de tu decisión.","let me know (imperative, tú)
 
 ## Footnote
 
@@ -1556,7 +1413,7 @@ ofrecido
 
 ## Footnote
 
-Le ofreció una sonrisa cálida.","offered, provided
+Le ofreció una sonrisa cálida.","offered
 
 ## Footnote
 
@@ -1567,7 +1424,7 @@ lejano
 
 ## Footnote
 
-Las estrellas se veían tan lejanas esta noche.","distant, faraway
+Las estrellas se veían tan lejanas esta noche.","distant
 
 ## Footnote
 
@@ -1578,18 +1435,18 @@ altamente
 
 ## Footnote
 
-Ella es altamente respetada.","highly, greatly
+Este método es altamente efectivo.","highly
 
 ## Footnote
 
-She is highly respected."
+This method is highly effective."
 "# Translate:
 
 legalmente
 
 ## Footnote
 
-Ella tiene derecho legalmente a esa propiedad.","legally, lawfully
+Ella tiene derecho legalmente a esa propiedad.","legally
 
 ## Footnote
 
@@ -1600,29 +1457,29 @@ perdono
 
 ## Footnote
 
-El perdono sana heridas profundas.","forgiveness, pardon
+Te perdono por lo que hiciste.","I forgive
 
 ## Footnote
 
-Forgiveness heals deep wounds."
+I forgive you for what you did."
 "# Translate:
 
 ardiente
 
 ## Footnote
 
-Su mirada ardía con pasión.","burning, fiery
+Tenía un deseo ardiente de ganar.","burning
 
 ## Footnote
 
-Her gaze was burning with passion."
+He had a burning desire to win."
 "# Translate:
 
 creéis
 
 ## Footnote
 
-¿Creéis en la magia?","you believe, you think
+¿Creéis en la magia?","you believe
 
 ## Footnote
 
@@ -1633,7 +1490,7 @@ huésped
 
 ## Footnote
 
-El huésped llegó temprano hoy.","guest, host
+El huésped llegó temprano hoy.","guest
 
 ## Footnote
 
@@ -1644,7 +1501,7 @@ detenerlos
 
 ## Footnote
 
-Policía, ¡detenerlos ahora!","stop them, detain them
+¡Policía, deténganlos ahora!","stop them
 
 ## Footnote
 
@@ -1655,7 +1512,7 @@ creador
 
 ## Footnote
 
-El creador desveló su obra maestra.","creator, maker
+El creador desveló su obra maestra.","creator
 
 ## Footnote
 
@@ -1666,7 +1523,7 @@ ballet
 
 ## Footnote
 
-Ella actúa en el ballet esta noche.","ballet, ballet
+Ella actúa en el ballet esta noche.","ballet
 
 ## Footnote
 
@@ -1677,7 +1534,7 @@ remoto
 
 ## Footnote
 
-Él vive en un pueblo remoto.","remote, distant
+Él vive en un pueblo remoto.","remote
 
 ## Footnote
 
@@ -1688,7 +1545,7 @@ marcado
 
 ## Footnote
 
-Los precios están marcados claramente en los estantes.","marked, pronounced
+Los precios están marcados claramente en los estantes.","marked
 
 ## Footnote
 
@@ -1699,7 +1556,7 @@ explorar
 
 ## Footnote
 
-Exploremos la ciudad juntos.","explore, investigate
+Exploremos la ciudad juntos.","to explore
 
 ## Footnote
 
@@ -1710,7 +1567,7 @@ atascado
 
 ## Footnote
 
-Estoy atascado en el tráfico ahora.","stuck, jammed
+Estoy atascado en el tráfico ahora.","stuck
 
 ## Footnote
 
@@ -1721,7 +1578,7 @@ mediante
 
 ## Footnote
 
-Nos comunicamos mediante lenguaje de señas.","through, by means of
+Nos comunicamos mediante lenguaje de señas.","through
 
 ## Footnote
 
@@ -1732,7 +1589,7 @@ comprendido
 
 ## Footnote
 
-El mensaje fue claramente comprendido.","understood, included
+El mensaje fue claramente comprendido.","understood
 
 ## Footnote
 
@@ -1743,7 +1600,7 @@ charlar
 
 ## Footnote
 
-Charlemos con un café mañana.","chat, talk
+Charlemos con un café mañana.","to chat
 
 ## Footnote
 
@@ -1754,7 +1611,7 @@ evidentemente
 
 ## Footnote
 
-Evidentemente, perdió el tren otra vez.","evidently, obviously
+Evidentemente, perdió el tren otra vez.","evidently
 
 ## Footnote
 
@@ -1765,7 +1622,7 @@ masacre
 
 ## Footnote
 
-Los soldados cometieron una masacre brutal.","massacre, slaughter
+Los soldados cometieron una masacre brutal.","massacre
 
 ## Footnote
 
@@ -1776,7 +1633,7 @@ captura
 
 ## Footnote
 
-Logramos capturar el momento.","capture, catch
+Logramos capturar el momento.","capture
 
 ## Footnote
 
@@ -1798,7 +1655,7 @@ significar
 
 ## Footnote
 
-¿Qué significa esta palabra?","mean, signify
+¿Qué significa esta palabra?","to mean
 
 ## Footnote
 
@@ -1809,7 +1666,7 @@ evaluación
 
 ## Footnote
 
-El profesor comenzó el proceso de evaluación.","evaluation, assessment
+El profesor comenzó el proceso de evaluación.","evaluation
 
 ## Footnote
 
@@ -1820,7 +1677,7 @@ tomarte
 
 ## Footnote
 
-Quiero tomarte para salir.","to take you, to drink you
+Necesitas tomarte tu tiempo.","to take (for yourself)
 
 ## Footnote
 
@@ -1831,7 +1688,7 @@ usualmente
 
 ## Footnote
 
-Usualmente tomo café por la mañana.","usually, normally
+Usualmente tomo café por la mañana.","usually
 
 ## Footnote
 
@@ -1842,7 +1699,7 @@ literatura
 
 ## Footnote
 
-Me encanta leer literatura clásica.","literature, literature
+Me encanta leer literatura clásica.","literature
 
 ## Footnote
 
@@ -1853,7 +1710,7 @@ superado
 
 ## Footnote
 
-Ella finalmente ha superado sus miedos.","overcome, surpassed
+Ella finalmente ha superado sus miedos.","overcome
 
 ## Footnote
 
@@ -1864,7 +1721,7 @@ particularmente
 
 ## Footnote
 
-Ella sobresalió particularmente en matemáticas.","particularly, especially
+Ella sobresalió particularmente en matemáticas.","particularly
 
 ## Footnote
 
@@ -1875,7 +1732,7 @@ mear
 
 ## Footnote
 
-Necesito mear urgentemente.","urinate, pee
+Necesito mear urgentemente.","to urinate
 
 ## Footnote
 
@@ -1886,29 +1743,27 @@ indicado
 
 ## Footnote
 
-El letrero indicaba la dirección correcta.","indicated, appropriate
+El letrero indicaba la dirección correcta.","indicated
 
 ## Footnote
 
 The sign indicated the right direction."
-"# Translate:
-
-acepte
+"acepte
 
 ## Footnote
 
-Ella aceptó la invitación felizmente.","accepted, agreed
+Espero que acepte la invitación.","accept (subjunctive)
 
 ## Footnote
 
-She accepted the invitation happily."
+I hope she accepts the invitation."
 "# Translate:
 
 dañado
 
 ## Footnote
 
-El libro llegó dañado.","damaged, broken
+El libro llegó dañado.","damaged
 
 ## Footnote
 
@@ -1919,7 +1774,7 @@ evolución
 
 ## Footnote
 
-La evolución moldea a todos los organismos vivos.","evolution, development
+La evolución moldea a todos los organismos vivos.","evolution
 
 ## Footnote
 
@@ -1930,7 +1785,7 @@ comparado
 
 ## Footnote
 
-Comparados los precios, la diferencia era significativa.","compared, compared to
+Comparados los precios, la diferencia era significativa.","compared
 
 ## Footnote
 
@@ -1941,7 +1796,7 @@ delincuente
 
 ## Footnote
 
-El delincuente fue finalmente detenido.","criminal, offender
+El delincuente fue finalmente detenido.","criminal
 
 ## Footnote
 
@@ -1952,7 +1807,7 @@ deprimido
 
 ## Footnote
 
-Ella se sintió profundamente deprimida ayer.","depressed, down
+Ella se sintió profundamente deprimida ayer.","depressed
 
 ## Footnote
 
@@ -1963,18 +1818,18 @@ rindo
 
 ## Footnote
 
-Me rindo, tú ganas esta discusión.","I surrender, I yield
+Me rindo, tú ganas esta discusión.","I surrender
 
 ## Footnote
 
-""I surrender, you win this argument."""
+I surrender, you win this argument."
 "# Translate:
 
 inestable
 
 ## Footnote
 
-La silla se sentía inestable y tambaleaba.","unstable, erratic
+La silla se sentía inestable y tambaleaba.","unstable
 
 ## Footnote
 
@@ -1985,7 +1840,7 @@ utilizado
 
 ## Footnote
 
-Ella ha utilizado un bolígrafo para escribir.","used, utilized
+Ella ha utilizado un bolígrafo para escribir.","used
 
 ## Footnote
 
@@ -1996,7 +1851,7 @@ dirigen
 
 ## Footnote
 
-Dirigen la obra brillantemente.","they direct, they manage
+Dirigen la obra brillantemente.","they direct
 
 ## Footnote
 
@@ -2007,18 +1862,18 @@ vestuario
 
 ## Footnote
 
-Ella diseñó su propio vestuario de Halloween.","costume, wardrobe
+Tiene un amplio vestuario con ropa de todos los estilos.","wardrobe (set of clothes)
 
 ## Footnote
 
-She designed her own Halloween costume."
+She has a vast wardrobe with clothing of all styles."
 "# Translate:
 
 previsto
 
 ## Footnote
 
-La tormenta fue prevista por los meteorólogos.","foreseen, anticipated
+La tormenta fue prevista por los meteorólogos.","foreseen
 
 ## Footnote
 
@@ -2029,7 +1884,7 @@ perseguir
 
 ## Footnote
 
-Ella decidió perseguir sus sueños.","to pursue, to chase
+Ella decidió perseguir sus sueños.","to pursue
 
 ## Footnote
 
@@ -2040,7 +1895,7 @@ combatir
 
 ## Footnote
 
-Entrenamos para combatir la propagación de enfermedades.","to combat, to fight
+Entrenamos para combatir la propagación de enfermedades.","to combat
 
 ## Footnote
 
@@ -2051,7 +1906,7 @@ mutuamente
 
 ## Footnote
 
-Acordaron mutuamente separarse.","mutually, reciprocally
+Acordaron mutuamente separarse.","mutually
 
 ## Footnote
 
@@ -2062,7 +1917,7 @@ revólver
 
 ## Footnote
 
-Cargó el revólver con cuidado.","revolver, gun
+Cargó el revólver con cuidado.","revolver
 
 ## Footnote
 
@@ -2073,7 +1928,7 @@ ciclo
 
 ## Footnote
 
-La vida es un ciclo sin fin.","cycle, circle
+La vida es un ciclo sin fin.","cycle
 
 ## Footnote
 
@@ -2084,7 +1939,7 @@ reportero
 
 ## Footnote
 
-El reportero hizo una pregunta difícil.","reporter, journalist
+El reportero hizo una pregunta difícil.","reporter
 
 ## Footnote
 
@@ -2095,7 +1950,7 @@ luchador
 
 ## Footnote
 
-El luchador ejecutó un movimiento perfecto.","wrestler, fighter
+El luchador ejecutó un movimiento perfecto.","wrestler
 
 ## Footnote
 
@@ -2106,7 +1961,7 @@ fugitivo
 
 ## Footnote
 
-El fugitivo se escondió en el bosque.","fugitive, runaway
+El fugitivo se escondió en el bosque.","fugitive
 
 ## Footnote
 
@@ -2117,29 +1972,29 @@ bromeo
 
 ## Footnote
 
-Es un bromeo en las fiestas.","joke, jest
+Siempre bromeo en las fiestas.","I joke
 
 ## Footnote
 
-He's such a joke at parties."
+I joke around at parties."
 "# Translate:
 
 educado
 
 ## Footnote
 
-Él es muy educado y cortés.","educated, polite
+Él es muy educado y simpático.","polite
 
 ## Footnote
 
-He is very educated and polite."
+He is very polite and friendly."
 "# Translate:
 
 categoría
 
 ## Footnote
 
-Elige la categoría correcta.","category, class
+Elige la categoría correcta.","category
 
 ## Footnote
 
@@ -2150,7 +2005,7 @@ frito
 
 ## Footnote
 
-Me encanta comer pollo frito.","fried, deep-fried
+Me encanta comer pollo frito.","fried
 
 ## Footnote
 
@@ -2161,7 +2016,7 @@ demostración
 
 ## Footnote
 
-La demostración fue muy informativa.","demonstration, display
+La demostración fue muy informativa.","demonstration
 
 ## Footnote
 
@@ -2172,7 +2027,7 @@ alias
 
 ## Footnote
 
-Él escribe bajo un alias.","alias, pseudonym
+Él escribe bajo un alias.","alias
 
 ## Footnote
 
@@ -2183,7 +2038,7 @@ formal
 
 ## Footnote
 
-Ella llevaba un vestido formal.","formal, formalized
+Ella llevaba un vestido formal.","formal
 
 ## Footnote
 
@@ -2194,7 +2049,7 @@ sirviente
 
 ## Footnote
 
-El sirviente pulió la plata meticulosamente.","servant, attendant
+El sirviente pulió la plata meticulosamente.","servant
 
 ## Footnote
 
@@ -2205,7 +2060,7 @@ concreto
 
 ## Footnote
 
-El puente está hecho de concreto.","concrete, specific
+El puente está hecho de concreto.","concrete
 
 ## Footnote
 
@@ -2227,7 +2082,7 @@ divino
 
 ## Footnote
 
-Su voz sonaba verdaderamente divina.","divine, heavenly
+Su voz sonaba verdaderamente divina.","divine
 
 ## Footnote
 
@@ -2238,7 +2093,7 @@ abrí
 
 ## Footnote
 
-Abrí la puerta silenciosamente.","I opened, opened
+Abrí la puerta silenciosamente.","I opened
 
 ## Footnote
 
@@ -2249,7 +2104,7 @@ comprobado
 
 ## Footnote
 
-Los resultados fueron comprobados por expertos.","verified, proven
+Los resultados fueron comprobados por expertos.","verified
 
 ## Footnote
 
@@ -2260,7 +2115,7 @@ guardado
 
 ## Footnote
 
-El documento fue guardado exitosamente.","saved, stored
+El documento fue guardado exitosamente.","saved
 
 ## Footnote
 
@@ -2271,7 +2126,7 @@ ambición
 
 ## Footnote
 
-Su ambición no conoce límites.","ambition, aspiration
+Su ambición no conoce límites.","ambition
 
 ## Footnote
 
@@ -2282,7 +2137,7 @@ haríamos
 
 ## Footnote
 
-Lo haríamos mañana.","we would do, we would make
+Lo haríamos mañana.","we would do
 
 ## Footnote
 
@@ -2293,7 +2148,7 @@ boxeo
 
 ## Footnote
 
-Él entrena en boxeo todos los días.","boxing, pugilism
+Él entrena en boxeo todos los días.","boxing
 
 ## Footnote
 
@@ -2304,7 +2159,7 @@ frágil
 
 ## Footnote
 
-Maneja el jarrón, es muy frágil.","fragile, delicate
+Maneja el jarrón, es muy frágil.","fragile
 
 ## Footnote
 
@@ -2326,7 +2181,7 @@ enseñé
 
 ## Footnote
 
-Enseñé español durante cinco años.","I taught, I showed
+Enseñé español durante cinco años.","I taught
 
 ## Footnote
 
@@ -2337,7 +2192,7 @@ mejora
 
 ## Footnote
 
-La actualización del software es una mejora.","improvement, enhancement
+La actualización del software es una mejora.","improvement
 
 ## Footnote
 
@@ -2348,7 +2203,7 @@ marea
 
 ## Footnote
 
-La marea está subiendo ahora.","tide, current
+La marea está subiendo ahora.","tide
 
 ## Footnote
 
@@ -2359,7 +2214,7 @@ sida
 
 ## Footnote
 
-El sida afecta a millones de personas en todo el mundo.","AIDS, SIDA
+El sida afecta a millones de personas en todo el mundo.","AIDS
 
 ## Footnote
 
@@ -2381,7 +2236,7 @@ comisionado
 
 ## Footnote
 
-El comisionado aprobó el plan.","commissioner, delegate
+El comisionado aprobó el plan.","commissioner
 
 ## Footnote
 
@@ -2392,7 +2247,7 @@ informante
 
 ## Footnote
 
-El informante proporcionó pruebas cruciales.","informant, informer
+El informante proporcionó pruebas cruciales.","informant
 
 ## Footnote
 
@@ -2403,18 +2258,18 @@ vulgar
 
 ## Footnote
 
-Ese chiste era bastante vulgar.","common, vulgar
+Ese chiste era bastante vulgar.","crude, gross
 
 ## Footnote
 
-That joke was quite common."
+That joke was quite crude."
 "# Translate:
 
 pillo
 
 ## Footnote
 
-¡Ese pillo me robó mi manzana!","rascal, sly
+¡Ese pillo me robó mi manzana!","rascal
 
 ## Footnote
 
@@ -2425,7 +2280,7 @@ tobillo
 
 ## Footnote
 
-Ella se torció el tobillo ayer.","ankle,anklet
+Ella se torció el tobillo ayer.","ankle
 
 ## Footnote
 
@@ -2436,7 +2291,7 @@ aparecido
 
 ## Footnote
 
-De repente, un zorro salvaje ha aparecido.","appeared, apparition
+De repente, un zorro salvaje ha aparecido.","appeared
 
 ## Footnote
 
@@ -2447,7 +2302,7 @@ eléctrico
 
 ## Footnote
 
-El coche eléctrico es muy silencioso.","electric, electrical
+El coche eléctrico es muy silencioso.","electric
 
 ## Footnote
 
@@ -2458,7 +2313,7 @@ postura
 
 ## Footnote
 
-Mantén una buena postura al sentarte.","posture, position
+Mantén una buena postura al sentarte.","posture
 
 ## Footnote
 
@@ -2469,7 +2324,7 @@ atracción
 
 ## Footnote
 
-El museo es una atracción principal.","attraction, allure
+El museo es una atracción principal.","attraction
 
 ## Footnote
 
@@ -2480,7 +2335,7 @@ cagar
 
 ## Footnote
 
-Las aves a menudo se cagan en los autos estacionados.","defecate, poop
+Las aves a menudo se cagan en los autos estacionados.","to defecate
 
 ## Footnote
 
@@ -2502,7 +2357,7 @@ rival
 
 ## Footnote
 
-Ella se encontró con su rival al amanecer.","rival, competitor
+Ella se encontró con su rival al amanecer.","rival
 
 ## Footnote
 
@@ -2513,7 +2368,7 @@ detén
 
 ## Footnote
 
-Por favor, detén de hablar ahora.","stop, detain
+Por favor, detén de hablar ahora.","stop (imperative, tú)
 
 ## Footnote
 
@@ -2524,7 +2379,7 @@ derrotar
 
 ## Footnote
 
-Derrotarán a sus rivales mañana.","defeat, beat
+Derrotarán a sus rivales mañana.","to defeat
 
 ## Footnote
 
@@ -2535,18 +2390,18 @@ eché
 
 ## Footnote
 
-Eché la pelota con fuerza.","I threw, I poured
+Lo eché a la basura.","I threw
 
 ## Footnote
 
-I threw the ball hard."
+I threw it in the trash."
 "# Translate:
 
 zoológico
 
 ## Footnote
 
-Visitamos el zoológico ayer.","zoo, zoological garden
+Visitamos el zoológico ayer.","zoo
 
 ## Footnote
 
@@ -2557,7 +2412,7 @@ supermercado
 
 ## Footnote
 
-Compro en el supermercado semanalmente.","supermarket, grocery store
+Compro en el supermercado semanalmente.","supermarket
 
 ## Footnote
 
@@ -2568,7 +2423,7 @@ regimiento
 
 ## Footnote
 
-El regimiento marchó a través del pueblo.","regiment, regimentation
+El regimiento marchó a través del pueblo.","regiment
 
 ## Footnote
 
@@ -2579,7 +2434,7 @@ altar
 
 ## Footnote
 
-Se casaron en el altar de la iglesia.","altar, shrine
+Se casaron en el altar de la iglesia.","altar
 
 ## Footnote
 
@@ -2590,7 +2445,7 @@ declarado
 
 ## Footnote
 
-Ha declarado su amor abiertamente.","declared, stated
+Ha declarado su amor abiertamente.","declared
 
 ## Footnote
 
@@ -2601,7 +2456,7 @@ navegar
 
 ## Footnote
 
-Navegaremos al amanecer.","sail, navigate
+Navegaremos al amanecer.","to sail
 
 ## Footnote
 
@@ -2612,7 +2467,7 @@ desear
 
 ## Footnote
 
-Aprendí a desear al ver una estrella.","to wish, to desire
+Aprendí a desear al ver una estrella.","to wish
 
 ## Footnote
 
@@ -2623,7 +2478,7 @@ atraer
 
 ## Footnote
 
-Los colores brillantes atraen a muchas mariposas.","attract, draw
+Los colores brillantes atraen a muchas mariposas.","to attract
 
 ## Footnote
 
@@ -2634,7 +2489,7 @@ provocar
 
 ## Footnote
 
-Buscaba provocar una reacción.","to provoke, to cause
+Buscaba provocar una reacción.","to provoke
 
 ## Footnote
 
@@ -2645,7 +2500,7 @@ cargamento
 
 ## Footnote
 
-El cargamento del barco se retrasó.","cargo, shipment
+El cargamento del barco se retrasó.","cargo
 
 ## Footnote
 
@@ -2656,7 +2511,7 @@ testificar
 
 ## Footnote
 
-Ella testificará en el tribunal mañana.","testify, bear witness
+Ella testificará en el tribunal mañana.","to testify
 
 ## Footnote
 
@@ -2667,7 +2522,7 @@ She will testify in court tomorrow."
 
 ## Footnote
 
-La cultura árabe es fascinante.","Arab, Arabic
+La cultura árabe es fascinante.","Arab
 
 ## Footnote
 
@@ -2678,7 +2533,7 @@ pasajero
 
 ## Footnote
 
-El pasajero perdió su vuelo.","passenger, transient
+El pasajero perdió su vuelo.","passenger
 
 ## Footnote
 
@@ -2689,7 +2544,7 @@ hembra
 
 ## Footnote
 
-La leona hembra caza de noche.","female, female animal
+La leona hembra caza de noche.","female
 
 ## Footnote
 
@@ -2700,7 +2555,7 @@ conseguirás
 
 ## Footnote
 
-Conseguirás el trabajo de tus sueños.","you will get, you will achieve
+Conseguirás el trabajo de tus sueños.","you will get
 
 ## Footnote
 
@@ -2711,18 +2566,18 @@ suponer
 
 ## Footnote
 
-¿Se supone que estás ocupado?","to suppose, to assume
+¿Se supone que estás ocupado?","to suppose
 
 ## Footnote
 
-I'm to suppose you're busy?"
+Are you supposed to be busy?"
 "# Translate:
 
 rodar
 
 ## Footnote
 
-La pelota rodará colina abajo.","roll, rotate
+La pelota rodará colina abajo.","to roll
 
 ## Footnote
 
@@ -2733,7 +2588,7 @@ lunar
 
 ## Footnote
 
-Ella tiene un lunar en su mejilla.","mole, birthmark
+Ella tiene un lunar en su mejilla.","mole
 
 ## Footnote
 
@@ -2744,7 +2599,7 @@ riñón
 
 ## Footnote
 
-Él donó un riñón el año pasado.","kidney, renal
+Él donó un riñón el año pasado.","kidney
 
 ## Footnote
 
@@ -2755,7 +2610,7 @@ bandeja
 
 ## Footnote
 
-Por favor, trae las bebidas en una bandeja.","tray, platter
+Por favor, trae las bebidas en una bandeja.","tray
 
 ## Footnote
 
@@ -2766,7 +2621,7 @@ terremoto
 
 ## Footnote
 
-El terremoto sacudió toda la ciudad.","earthquake, quake
+El terremoto sacudió toda la ciudad.","earthquake
 
 ## Footnote
 
@@ -2777,7 +2632,7 @@ chiflado
 
 ## Footnote
 
-Está chiflado por los coches antiguos.","crazy, nutty
+Está chiflado por los coches antiguos.","crazy
 
 ## Footnote
 
@@ -2788,18 +2643,18 @@ acostarte
 
 ## Footnote
 
-Necesito acostarme temprano.","to go to bed, to lie down
+Necesitas acostarte temprano.","to go to bed
 
 ## Footnote
 
-I need to go to bed early."
+You need to go to bed early."
 "# Translate:
 
 producir
 
 ## Footnote
 
-Podemos producir grandes resultados juntos.","produce, generate
+Podemos producir grandes resultados juntos.","to produce
 
 ## Footnote
 
@@ -2810,18 +2665,18 @@ mantengo
 
 ## Footnote
 
-Siempre mantengo mis promesas.","I keep, I maintain
+Siempre mantengo mis promesas.","I keep
 
 ## Footnote
 
-I keep my promises always."
+I always keep my promises."
 "# Translate:
 
 despejen
 
 ## Footnote
 
-Despejen la mesa, por favor.","clear, clear away
+Despejen la mesa, por favor.","clear (imperative, ustedes)
 
 ## Footnote
 
@@ -2832,7 +2687,7 @@ describir
 
 ## Footnote
 
-¿Puedes describir la pintura?","describe, depict
+¿Puedes describir la pintura?","to describe
 
 ## Footnote
 
@@ -2843,7 +2698,7 @@ conectar
 
 ## Footnote
 
-Conectemos después de la reunión.","connect, plug in
+Conectemos después de la reunión.","to connect
 
 ## Footnote
 
@@ -2854,7 +2709,7 @@ calendario
 
 ## Footnote
 
-Revisa el calendario para ver la fecha de hoy.","calendar, schedule
+Revisa el calendario para ver la fecha de hoy.","calendar
 
 ## Footnote
 
@@ -2865,7 +2720,7 @@ convincente
 
 ## Footnote
 
-Su argumento fue muy convincente.","convincing, persuasive
+Su argumento fue muy convincente.","convincing
 
 ## Footnote
 
@@ -2876,7 +2731,7 @@ todopoderoso
 
 ## Footnote
 
-Dios es considerado todopoderoso por los creyentes.","almighty, omnipotent
+Dios es considerado todopoderoso por los creyentes.","almighty
 
 ## Footnote
 
@@ -2887,7 +2742,7 @@ anunciar
 
 ## Footnote
 
-Anunciarán al ganador mañana.","announce, advertise
+Anunciarán al ganador mañana.","to announce
 
 ## Footnote
 
@@ -2898,7 +2753,7 @@ dormiste
 
 ## Footnote
 
-Dormiste a través de la alarma otra vez.","you slept, did you sleep
+Dormiste a través de la alarma otra vez.","you slept
 
 ## Footnote
 
@@ -2909,7 +2764,7 @@ escucharte
 
 ## Footnote
 
-Siempre te escucharé.","listen to you, hear you
+Siempre te escucharé.","listen to you
 
 ## Footnote
 
@@ -2920,7 +2775,7 @@ independencia
 
 ## Footnote
 
-Ella valora mucho su independencia.","independence, autonomy
+Ella valora mucho su independencia.","independence
 
 ## Footnote
 
@@ -2931,7 +2786,7 @@ artificial
 
 ## Footnote
 
-La inteligencia artificial está evolucionando rápidamente.","artificial, synthetic
+La inteligencia artificial está evolucionando rápidamente.","artificial
 
 ## Footnote
 
@@ -2942,7 +2797,7 @@ músico
 
 ## Footnote
 
-El músico tocó una hermosa melodía.","musician, music artist
+El músico tocó una hermosa melodía.","musician
 
 ## Footnote
 
@@ -2953,7 +2808,7 @@ nevera
 
 ## Footnote
 
-Revisa la nevera por leche.","refrigerator, fridge
+Revisa la nevera por leche.","refrigerator
 
 ## Footnote
 
@@ -2964,7 +2819,7 @@ inmortal
 
 ## Footnote
 
-Las leyendas a menudo hablan de seres inmortales.","immortal, undying
+Las leyendas a menudo hablan de seres inmortales.","immortal
 
 ## Footnote
 
@@ -2975,7 +2830,7 @@ raíz
 
 ## Footnote
 
-Las plantas absorben agua a través de sus raíces.","root, radix
+Las plantas absorben agua a través de sus raíces.","root
 
 ## Footnote
 
@@ -2986,7 +2841,7 @@ corrección
 
 ## Footnote
 
-Hizo una corrección al documento.","correction, amendment
+Hizo una corrección al documento.","correction
 
 ## Footnote
 
@@ -2997,7 +2852,7 @@ déjenlo
 
 ## Footnote
 
-Ya déjenlo ir.","let him go, leave him alone
+Ya déjenlo ir.","let him go (imperative, ustedes)
 
 ## Footnote
 
@@ -3008,7 +2863,7 @@ fiscalía
 
 ## Footnote
 
-La fiscalía presentó cargos hoy.","prosecutor's office, district attorney's office
+La fiscalía presentó cargos hoy.","prosecutor's office
 
 ## Footnote
 
@@ -3030,18 +2885,18 @@ hurra
 
 ## Footnote
 
-""Hurra, ganamos el juego!""","hurray, hurrah
+¡Hurra, ganamos el juego!","hurray
 
 ## Footnote
 
-""Hurray, we won the game!"""
+Hurray, we won the game!"
 "# Translate:
 
 verificar
 
 ## Footnote
 
-Por favor, verifica tu dirección de correo electrónico.","verify, check
+Por favor, verifica tu dirección de correo electrónico.","to verify
 
 ## Footnote
 
@@ -3052,7 +2907,7 @@ bastón
 
 ## Footnote
 
-Ahora camina con un bastón.","cane, stick
+Ahora camina con un bastón.","cane
 
 ## Footnote
 
@@ -3063,7 +2918,7 @@ vigilante
 
 ## Footnote
 
-El vigilante patrullaba el vecindario todas las noches.","watchman, vigilante
+El vigilante patrullaba el vecindario todas las noches.","watchman
 
 ## Footnote
 
@@ -3074,7 +2929,7 @@ perderás
 
 ## Footnote
 
-Sigue jugando, perderás.","you will lose, you'll lose
+Sigue jugando, perderás.","you will lose
 
 ## Footnote
 
@@ -3085,7 +2940,7 @@ insignificante
 
 ## Footnote
 
-Su contribución fue considerada insignificante.","insignificant, trivial
+Su contribución fue considerada insignificante.","insignificant
 
 ## Footnote
 
@@ -3096,7 +2951,7 @@ ocupar
 
 ## Footnote
 
-Necesito ocupar este asiento.","to occupy, to use
+Necesito ocupar este asiento.","to occupy
 
 ## Footnote
 
@@ -3107,7 +2962,7 @@ asegurado
 
 ## Footnote
 
-El coche está completamente asegurado.","insured, assured
+El coche está completamente asegurado.","insured
 
 ## Footnote
 
@@ -3118,7 +2973,7 @@ inventado
 
 ## Footnote
 
-Inventó un juego nuevo ayer.","invented, made-up
+Inventó un juego nuevo ayer.","invented
 
 ## Footnote
 
@@ -3129,7 +2984,7 @@ barril
 
 ## Footnote
 
-El barril estaba lleno de vino.","barrel, cask
+El barril estaba lleno de vino.","barrel
 
 ## Footnote
 
@@ -3140,7 +2995,7 @@ avanzado
 
 ## Footnote
 
-Tomó clases de español avanzado.","advanced, advanced stage
+Tomó clases de español avanzado.","advanced
 
 ## Footnote
 
@@ -3151,7 +3006,7 @@ ruina
 
 ## Footnote
 
-El castillo yace en ruina ahora.","ruin, ruins
+El castillo yace en ruina ahora.","ruin
 
 ## Footnote
 
@@ -3162,7 +3017,7 @@ subasta
 
 ## Footnote
 
-El cuadro se vendió rápidamente en subasta.","auction, sale
+El cuadro se vendió rápidamente en subasta.","auction
 
 ## Footnote
 
@@ -3173,7 +3028,7 @@ cavar
 
 ## Footnote
 
-Cavaremos un hoyo mañana.","dig, excavate
+Cavaremos un hoyo mañana.","to dig
 
 ## Footnote
 
@@ -3184,29 +3039,29 @@ aléjense
 
 ## Footnote
 
-""¡Aléjense del peligro!""","get away, move away
+¡Aléjense del peligro!","get away (imperative, ustedes)
 
 ## Footnote
 
-""Get away from the danger!"""
+Get away from the danger!"
 "# Translate:
 
 dirijo
 
 ## Footnote
 
-Dirijo la obra esta noche.","I direct, I lead
+Dirijo la obra esta noche.","I direct
 
 ## Footnote
 
-""I direct the play tonight."""
+I direct the play tonight."
 "# Translate:
 
 fijo
 
 ## Footnote
 
-El precio es fijo, no se regatea.","fixed, steady
+El precio es fijo, no se regatea.","fixed
 
 ## Footnote
 
@@ -3217,7 +3072,7 @@ trágico
 
 ## Footnote
 
-El accidente fue verdaderamente trágico.","tragic, tragicomic
+El accidente fue verdaderamente trágico.","tragic
 
 ## Footnote
 
@@ -3228,7 +3083,7 @@ asustar
 
 ## Footnote
 
-La película pretendía asustar a los espectadores.","to scare, to frighten
+La película pretendía asustar a los espectadores.","to scare
 
 ## Footnote
 
@@ -3239,7 +3094,7 @@ dominio
 
 ## Footnote
 
-Él amplió su dominio significativamente.","domain, control
+Él amplió su dominio significativamente.","domain
 
 ## Footnote
 
@@ -3250,7 +3105,7 @@ perderemos
 
 ## Footnote
 
-Perderemos si dudamos.","we will lose, we shall lose
+Perderemos si dudamos.","we will lose
 
 ## Footnote
 
@@ -3261,7 +3116,7 @@ sólido
 
 ## Footnote
 
-La escultura estaba hecha de oro sólido.","solid, firm
+La escultura estaba hecha de oro sólido.","solid
 
 ## Footnote
 
@@ -3272,7 +3127,7 @@ mojado
 
 ## Footnote
 
-La hierba está mojada con rocío.","wet, soaked
+La hierba está mojada con rocío.","wet
 
 ## Footnote
 
@@ -3283,7 +3138,7 @@ hermanita
 
 ## Footnote
 
-A mi hermanita le encanta el helado.","little sister, younger sister
+A mi hermanita le encanta el helado.","little sister
 
 ## Footnote
 
@@ -3294,7 +3149,7 @@ felicito
 
 ## Footnote
 
-Te felicito por tu éxito.","I congratulate, congratulate
+Te felicito por tu éxito.","I congratulate
 
 ## Footnote
 
@@ -3305,7 +3160,7 @@ sensacional
 
 ## Footnote
 
-Su actuación fue absolutamente sensacional.","sensational, sensationalist
+Su actuación fue absolutamente sensacional.","sensational
 
 ## Footnote
 
@@ -3316,7 +3171,7 @@ delantera
 
 ## Footnote
 
-Ella se situó en la delantera de la fila.","front, forward
+Ella se situó en la delantera de la fila.","front
 
 ## Footnote
 
@@ -3327,7 +3182,7 @@ movido
 
 ## Footnote
 
-Ella fue profundamente movida por la historia.","moved, lively
+Alguien ha movido mi silla","moved
 
 ## Footnote
 
@@ -3338,7 +3193,7 @@ contenedor
 
 ## Footnote
 
-Coloca las manzanas en el contenedor.","container, bin
+Coloca las manzanas en el contenedor.","container
 
 ## Footnote
 
@@ -3349,7 +3204,7 @@ arrancar
 
 ## Footnote
 
-Pulsa el botón para arrancar el motor.","to start, to pull out
+Pulsa el botón para arrancar el motor.","to start
 
 ## Footnote
 
@@ -3360,7 +3215,7 @@ digital
 
 ## Footnote
 
-Vivimos en una era digital.","digital, digital
+Vivimos en una era digital.","digital
 
 ## Footnote
 
@@ -3371,18 +3226,18 @@ conteste
 
 ## Footnote
 
-No podía contestar la pregunta.","answer, reply
+Por favor, conteste la pregunta.","answer (imperative, usted)
 
 ## Footnote
 
-He couldn't answer the question."
+Please answer the question."
 "# Translate:
 
 ahorrar
 
 ## Footnote
 
-Ahorra dinero para un día lluvioso.","save, economize
+Ahorra dinero para un día lluvioso.","to save
 
 ## Footnote
 
@@ -3393,7 +3248,7 @@ agradecimiento
 
 ## Footnote
 
-Ella expresó su agradecimiento calurosamente.","gratitude, appreciation
+Ella expresó su agradecimiento calurosamente.","gratitude
 
 ## Footnote
 
@@ -3404,18 +3259,18 @@ cueste
 
 ## Footnote
 
-El vestido cueste $200.","cost, may cost
+Cueste lo que cueste, lo compraré.","cost
 
 ## Footnote
 
-The dress cost $200."
+No matter what it costs, I will buy it."
 "# Translate:
 
 dimensión
 
 ## Footnote
 
-Explora cada dimensión de la realidad.","dimension, size
+Explora cada dimensión de la realidad.","dimension
 
 ## Footnote
 
@@ -3426,7 +3281,7 @@ plomo
 
 ## Footnote
 
-Las tuberías contienen plomo.","lead, pencil lead
+Las tuberías contienen plomo.","lead
 
 ## Footnote
 
@@ -3437,7 +3292,7 @@ gancho
 
 ## Footnote
 
-Colgó su abrigo en el gancho.","hook, hanger
+Colgó su abrigo en el gancho.","hook
 
 ## Footnote
 
@@ -3448,7 +3303,7 @@ convertí
 
 ## Footnote
 
-Me convertí al budismo el año pasado.","I converted, converted
+Me convertí al budismo el año pasado.","I converted
 
 ## Footnote
 
@@ -3459,7 +3314,7 @@ interruptor
 
 ## Footnote
 
-Pulsa el interruptor para apagar las luces.","switch, circuit breaker
+Pulsa el interruptor para apagar las luces.","switch
 
 ## Footnote
 
@@ -3470,7 +3325,7 @@ amabilidad
 
 ## Footnote
 
-Su amabilidad alegraba el día de todos.","kindness, amiability
+Su amabilidad alegraba el día de todos.","kindness
 
 ## Footnote
 
@@ -3481,7 +3336,7 @@ satisfacción
 
 ## Footnote
 
-Ella sintió una inmensa satisfacción después de comer.","satisfaction, fulfillment
+Ella sintió una inmensa satisfacción después de comer.","satisfaction
 
 ## Footnote
 
@@ -3492,7 +3347,7 @@ sostener
 
 ## Footnote
 
-Por favor, sostén esto para mí.","hold, sustain
+Por favor, sostén esto para mí.","to hold
 
 ## Footnote
 
@@ -3503,7 +3358,7 @@ inesperado
 
 ## Footnote
 
-El regalo fue completamente inesperado.","unexpected, unforeseen
+El regalo fue completamente inesperado.","unexpected
 
 ## Footnote
 
@@ -3514,7 +3369,7 @@ apertura
 
 ## Footnote
 
-La apertura de la galería atrajo a muchos.","opening, aperture
+La apertura de la galería atrajo a muchos.","opening
 
 ## Footnote
 
@@ -3525,7 +3380,7 @@ abro
 
 ## Footnote
 
-Abro la puerta despacio.","I open, I unbolt
+Abro la puerta despacio.","I open
 
 ## Footnote
 
@@ -3536,18 +3391,16 @@ escolta
 
 ## Footnote
 
-La policía escoltará al diplomático.","escort, bodyguard
+La policía escoltará al diplomático.","escort
 
 ## Footnote
 
 The police will escort the diplomat."
-"# Translate:
-
-estándar
+"estándar
 
 ## Footnote
 
-El oro es el estándar de calidad.","standard, norm
+El oro es el estándar de calidad.","standard
 
 ## Footnote
 
@@ -3558,7 +3411,7 @@ entretenimiento
 
 ## Footnote
 
-Las películas son una forma popular de entretenimiento.","entertainment, amusement
+Las películas son una forma popular de entretenimiento.","entertainment
 
 ## Footnote
 
@@ -3569,7 +3422,7 @@ encubierto
 
 ## Footnote
 
-Realizaron operaciones encubiertas.","covert, undercover
+Realizaron operaciones encubiertas.","covert
 
 ## Footnote
 
@@ -3580,7 +3433,7 @@ vínculo
 
 ## Footnote
 
-Nuestra amistad es un vínculo fuerte.","link, bond
+Nuestra amistad es un vínculo fuerte.","link
 
 ## Footnote
 
@@ -3591,7 +3444,7 @@ comeré
 
 ## Footnote
 
-Comeré pizza esta noche.","I will eat, I shall eat
+Comeré pizza esta noche.","I will eat
 
 ## Footnote
 
@@ -3602,7 +3455,7 @@ desgraciadamente
 
 ## Footnote
 
-Desgraciadamente, el vuelo fue cancelado.","unfortunately, sadly
+Desgraciadamente, el vuelo fue cancelado.","unfortunately
 
 ## Footnote
 
@@ -3613,7 +3466,7 @@ pobreza
 
 ## Footnote
 
-La pobreza afecta a millones de personas en todo el mundo.","poverty, destitution
+La pobreza afecta a millones de personas en todo el mundo.","poverty
 
 ## Footnote
 
@@ -3624,7 +3477,7 @@ copiado
 
 ## Footnote
 
-Ella ha copiado mi tarea.","copied, duplicated
+Ella ha copiado mi tarea.","copied
 
 ## Footnote
 
@@ -3635,7 +3488,7 @@ racista
 
 ## Footnote
 
-Fue despedido por ser racista.","racist, racialist
+Fue despedido por ser racista.","racist
 
 ## Footnote
 
@@ -3646,7 +3499,7 @@ alcanzado
 
 ## Footnote
 
-Alcanzaron la cima al amanecer.","reached, achieved
+Alcanzaron la cima al amanecer.","reached
 
 ## Footnote
 
@@ -3657,7 +3510,7 @@ sudor
 
 ## Footnote
 
-Me sequé el sudor de la frente.","sweat, perspiration
+Me sequé el sudor de la frente.","sweat
 
 ## Footnote
 
@@ -3668,7 +3521,7 @@ patear
 
 ## Footnote
 
-Él pateará la pelota pronto.","kick, to kick
+Él pateará la pelota pronto.","to kick
 
 ## Footnote
 
@@ -3679,7 +3532,7 @@ exceso
 
 ## Footnote
 
-Evita el exceso de azúcar en tu dieta.","excess, surplus
+Evita el exceso de azúcar en tu dieta.","excess
 
 ## Footnote
 
@@ -3690,7 +3543,7 @@ excepcional
 
 ## Footnote
 
-Ella entregó una actuación excepcional.","exceptional, outstanding
+Ella entregó una actuación excepcional.","exceptional
 
 ## Footnote
 
@@ -3701,7 +3554,7 @@ vestir
 
 ## Footnote
 
-A ella le encanta vestir elegante.","to dress, to wear
+A ella le encanta vestir elegante.","to dress
 
 ## Footnote
 
@@ -3712,7 +3565,7 @@ contador
 
 ## Footnote
 
-Mi hermano es un excelente contador.","accountant, counter
+Mi hermano es un excelente contador.","accountant
 
 ## Footnote
 
@@ -3723,7 +3576,7 @@ rechazado
 
 ## Footnote
 
-Ella se sintió rechazada por sus compañeros.","rejected, turned down
+Ella se sintió rechazada por sus compañeros.","rejected
 
 ## Footnote
 
@@ -3734,7 +3587,7 @@ software
 
 ## Footnote
 
-Estoy actualizando el software ahora.","software, software
+Estoy actualizando el software ahora.","software
 
 ## Footnote
 
@@ -3745,7 +3598,7 @@ campanas
 
 ## Footnote
 
-Las campanas de la iglesia sonaron al mediodía.","bells, chimes
+Las campanas de la iglesia sonaron al mediodía.","bells
 
 ## Footnote
 
@@ -3756,7 +3609,7 @@ deseado
 
 ## Footnote
 
-Ella logró el resultado deseado.","desired, wished
+Ella logró el resultado deseado.","desired
 
 ## Footnote
 
@@ -3767,29 +3620,29 @@ notar
 
 ## Footnote
 
-Me detuve para notar las flores.","to notice, to note
+Me detuve para notar las flores.","to notice
 
 ## Footnote
 
 I stopped to notice the flowers."
 "# Translate:
 
-marcho
+me marcho
 
 ## Footnote
 
-Se marchó temprano en la mañana.","left, departed
+Me marcho ahora mismo.","I'm leaving
 
 ## Footnote
 
-He left early in the morning."
+I'm leaving right now."
 "# Translate:
 
 marino
 
 ## Footnote
 
-Se unió al Cuerpo Marino.","marine, sailor
+Se unió al Cuerpo Marino.","marine
 
 ## Footnote
 
@@ -3800,7 +3653,7 @@ consentimiento
 
 ## Footnote
 
-Ella dio su consentimiento voluntariamente.","consent, agreement
+Ella dio su consentimiento voluntariamente.","consent
 
 ## Footnote
 
@@ -3811,7 +3664,7 @@ boom
 
 ## Footnote
 
-El boom de la construcción remodeló el horizonte.","boom, upsurge
+El boom de la construcción remodeló el horizonte.","boom
 
 ## Footnote
 
@@ -3822,7 +3675,7 @@ paranoico
 
 ## Footnote
 
-Se sintió paranoico caminando solo por la noche.","paranoid, paranoidal
+Se sintió paranoico caminando solo por la noche.","paranoid
 
 ## Footnote
 
@@ -3833,7 +3686,7 @@ guante
 
 ## Footnote
 
-Ella perdió su guante izquierdo ayer.","glove, mitten
+Ella perdió su guante izquierdo ayer.","glove
 
 ## Footnote
 
@@ -3844,7 +3697,7 @@ orquesta
 
 ## Footnote
 
-La orquesta tocó hermosamente esta noche.","orchestra, band
+La orquesta tocó hermosamente esta noche.","orchestra
 
 ## Footnote
 
@@ -3855,7 +3708,7 @@ miento
 
 ## Footnote
 
-Cada vez que hablo, miento.","I lie, I'm lying
+Cada vez que hablo, miento.","I lie
 
 ## Footnote
 
@@ -3866,7 +3719,7 @@ aislamiento
 
 ## Footnote
 
-El aislamiento puede sentirse increíblemente solitario.","isolation, quarantine
+El aislamiento puede sentirse increíblemente solitario.","isolation
 
 ## Footnote
 
@@ -3877,18 +3730,18 @@ regular
 
 ## Footnote
 
-Él visita el café regularmente.","regular, average
+Es un cliente regular del café.","regular
 
 ## Footnote
 
-He visits the cafe regularly."
+He's a regular customer of the café."
 "# Translate:
 
 congelado
 
 ## Footnote
 
-El lago estaba completamente congelado.","frozen, iced
+El lago estaba completamente congelado.","frozen
 
 ## Footnote
 
@@ -3899,7 +3752,7 @@ arruinaste
 
 ## Footnote
 
-Arruinaste mi camisa favorita.","you ruined, you spoiled
+Arruinaste mi camisa favorita.","you ruined
 
 ## Footnote
 
@@ -3910,7 +3763,7 @@ rencor
 
 ## Footnote
 
-Ella le guardaba un profundo rencor.","resentment, rancor
+Ella le guardaba un profundo rencor.","resentment
 
 ## Footnote
 
@@ -3921,7 +3774,7 @@ santidad
 
 ## Footnote
 
-Su santidad visitó la ciudad ayer.","holiness, sanctity
+Su santidad visitó la ciudad ayer.","holiness
 
 ## Footnote
 
@@ -3932,7 +3785,7 @@ discreción
 
 ## Footnote
 
-Usa discreción al compartir información.","discretion, confidentiality
+Usa discreción al compartir información.","discretion
 
 ## Footnote
 
@@ -3943,18 +3796,18 @@ perderé
 
 ## Footnote
 
-Perderé el juego mañana.","I will lose, I will miss
+Perderé el juego mañana.","I will lose
 
 ## Footnote
 
-""I will lose the game tomorrow."""
+I will lose the game tomorrow."
 "# Translate:
 
 lava
 
 ## Footnote
 
-El volcán entró en erupción, expulsando lava caliente.","lava, molten rock
+El volcán entró en erupción, expulsando lava caliente.","lava
 
 ## Footnote
 
@@ -3965,7 +3818,7 @@ examinar
 
 ## Footnote
 
-Los médicos suelen examinar a los pacientes cuidadosamente.","examine, inspect
+Los médicos suelen examinar a los pacientes cuidadosamente.","to examine
 
 ## Footnote
 
@@ -3976,7 +3829,7 @@ inventar
 
 ## Footnote
 
-Ella inventará un nuevo aparato.","invent, make up
+Ella inventará un nuevo aparato.","to invent
 
 ## Footnote
 
@@ -3987,7 +3840,7 @@ congresista
 
 ## Footnote
 
-El congresista pronunció un discurso apasionado.","congressman, congressperson
+El congresista pronunció un discurso apasionado.","congressman
 
 ## Footnote
 
@@ -3998,7 +3851,7 @@ pretendo
 
 ## Footnote
 
-Pretendo aprender español con fluidez.","I intend, I pretend
+Pretendo aprender español con fluidez.","I intend
 
 ## Footnote
 
@@ -4009,7 +3862,7 @@ ruptura
 
 ## Footnote
 
-Su ruptura fue bastante inesperada.","breakup, rupture
+Su ruptura fue bastante inesperada.","breakup
 
 ## Footnote
 
@@ -4020,7 +3873,7 @@ sobredosis
 
 ## Footnote
 
-Murió por una sobredosis de heroína.","overdose, overdose
+Murió por una sobredosis de heroína.","overdose
 
 ## Footnote
 
@@ -4042,7 +3895,7 @@ reflejo
 
 ## Footnote
 
-El reflejo del lago era impresionante.","reflection, reflex
+El reflejo del lago era impresionante.","reflection
 
 ## Footnote
 
@@ -4053,18 +3906,18 @@ moverte
 
 ## Footnote
 
-Necesito moverme ahora.","to move, to move yourself
+Voy a tener que moverte de aquí.","to move
 
 ## Footnote
 
-I need to move now."
+I'm going to have to move you from here."
 "# Translate:
 
 expedición
 
 ## Footnote
 
-La expedición descubrió ruinas antiguas.","expedition, expeditionary force
+La expedición descubrió ruinas antiguas.","expedition
 
 ## Footnote
 
@@ -4075,7 +3928,7 @@ mecanismo
 
 ## Footnote
 
-El mecanismo del reloj es intrincado.","mechanism, device
+El mecanismo del reloj es intrincado.","mechanism
 
 ## Footnote
 
@@ -4086,18 +3939,18 @@ ponle
 
 ## Footnote
 
-""Solo ponle un poco de sal.""","put on it, put it on
+Solo ponle un poco de sal.","put on it
 
 ## Footnote
 
-""Just put on it some salt."""
+Just put some salt on it."
 "# Translate:
 
 letal
 
 ## Footnote
 
-El veneno era altamente letal.","lethal, deadly
+El veneno era altamente letal.","lethal
 
 ## Footnote
 
@@ -4108,18 +3961,18 @@ lazo
 
 ## Footnote
 
-Ella llevaba un lazo rojo en el cabello.","tie, ribbon
+Ella llevaba un lazo rojo en el cabello.","bow, lasso
 
 ## Footnote
 
-She wore a red hair tie."
+She wore a red bow in her hair."
 "# Translate:
 
 triunfo
 
 ## Footnote
 
-Celebraron su triunfo con alegría.","victory, triumph
+Celebraron su triunfo con alegría.","victory
 
 ## Footnote
 
@@ -4130,7 +3983,7 @@ hostil
 
 ## Footnote
 
-El ambiente era extremadamente hostil.","hostile, unfriendly
+El ambiente era extremadamente hostil.","hostile
 
 ## Footnote
 
@@ -4141,7 +3994,7 @@ retroceder
 
 ## Footnote
 
-El ejército decidió retroceder rápidamente.","to retreat, to go back
+El ejército decidió retroceder rápidamente.","to retreat
 
 ## Footnote
 
@@ -4152,7 +4005,7 @@ revisado
 
 ## Footnote
 
-El documento fue revisado minuciosamente.","revised, checked
+El documento fue revisado minuciosamente.","revised
 
 ## Footnote
 
@@ -4163,7 +4016,7 @@ estafa
 
 ## Footnote
 
-Cayó víctima de una cruel estafa.","scam, fraud
+Cayó víctima de una cruel estafa.","scam
 
 ## Footnote
 
@@ -4174,7 +4027,7 @@ opuesto
 
 ## Footnote
 
-Se sentó opuesto a mí en la cena.","opposite, opposed
+Se sentó opuesto a mí en la cena.","opposite
 
 ## Footnote
 
@@ -4185,7 +4038,7 @@ monje
 
 ## Footnote
 
-El monje meditó en silencio.","monk, friar
+El monje meditó en silencio.","monk
 
 ## Footnote
 
@@ -4196,7 +4049,7 @@ vagón
 
 ## Footnote
 
-Cargamos el vagón con mercancías.","wagon, carriage
+Cargamos el vagón con mercancías.","wagon
 
 ## Footnote
 
@@ -4207,7 +4060,7 @@ publicar
 
 ## Footnote
 
-Publicarán el libro pronto.","publish, post
+Publicarán el libro pronto.","to publish
 
 ## Footnote
 
@@ -4218,7 +4071,7 @@ chistoso
 
 ## Footnote
 
-Tu chiste fue realmente chistoso.","funny, humorous
+Tu chiste fue realmente chistoso.","funny
 
 ## Footnote
 
@@ -4229,7 +4082,7 @@ panel
 
 ## Footnote
 
-La discusión de panel fue esclarecedora.","panel, board
+La discusión de panel fue esclarecedora.","panel
 
 ## Footnote
 
@@ -4240,7 +4093,7 @@ anual
 
 ## Footnote
 
-La reunión anual es mañana.","annual, yearly
+La reunión anual es mañana.","annual
 
 ## Footnote
 
@@ -4251,7 +4104,7 @@ expulsado
 
 ## Footnote
 
-Fue expulsado de la escuela.","expelled, ejected
+Fue expulsado de la escuela.","expelled
 
 ## Footnote
 
@@ -4262,7 +4115,7 @@ debéis
 
 ## Footnote
 
-Debéis terminar vuestros deberes esta noche.","you must, you owe
+Debéis terminar vuestros deberes esta noche.","you must
 
 ## Footnote
 
@@ -4273,7 +4126,7 @@ separar
 
 ## Footnote
 
-Debemos separar los reciclables.","separate, divide
+Debemos separar los reciclables.","to separate
 
 ## Footnote
 
@@ -4284,7 +4137,7 @@ despegar
 
 ## Footnote
 
-El avión despegará pronto.","take off, detach
+El avión despegará pronto.","to take off
 
 ## Footnote
 
@@ -4295,7 +4148,7 @@ papás
 
 ## Footnote
 
-Mis papás son muy comprensivos.","parents, potatoes
+Mis papás son muy comprensivos.","parents
 
 ## Footnote
 
@@ -4306,18 +4159,18 @@ madrugada
 
 ## Footnote
 
-Me desperté en la madrugada.","early morning, dawn
+Me desperté en la madrugada.","early morning
 
 ## Footnote
 
-I woke up at early morning."
+I woke up early in the morning."
 "# Translate:
 
 eliminado
 
 ## Footnote
 
-El equipo fue eliminado temprano.","eliminated, removed
+El equipo fue eliminado temprano.","eliminated
 
 ## Footnote
 
@@ -4328,7 +4181,7 @@ The team was eliminated early on."
 
 ## Footnote
 
-Yo únicamente bebo café negro.","only, solely
+Yo únicamente bebo café negro.","only
 
 ## Footnote
 
@@ -4339,7 +4192,7 @@ intelectual
 
 ## Footnote
 
-Él es un pensador intelectual.","intellectual, intellectualist
+Él es un pensador intelectual.","intellectual
 
 ## Footnote
 
@@ -4350,7 +4203,7 @@ hondo
 
 ## Footnote
 
-El lago es muy hondo aquí.","deep, profound
+El lago es muy hondo aquí.","deep
 
 ## Footnote
 
@@ -4361,7 +4214,7 @@ protesta
 
 ## Footnote
 
-Los trabajadores protestarán por salarios más altos.","protest, demonstration
+Los trabajadores protestarán por salarios más altos.","protest
 
 ## Footnote
 
@@ -4372,7 +4225,7 @@ ferrocarril
 
 ## Footnote
 
-El ferrocarril conecta dos ciudades.","railroad, railway
+El ferrocarril conecta dos ciudades.","railroad
 
 ## Footnote
 
@@ -4383,7 +4236,7 @@ intimidad
 
 ## Footnote
 
-Su amistad se profundizó hasta convertirse en verdadera intimidad.","intimacy, privacy
+Su amistad se profundizó hasta convertirse en verdadera intimidad.","intimacy
 
 ## Footnote
 
@@ -4394,7 +4247,7 @@ afectado
 
 ## Footnote
 
-Su comportamiento estaba profundamente afectado.","affected, afflicted
+Su comportamiento estaba profundamente afectado.","affected
 
 ## Footnote
 
@@ -4405,7 +4258,7 @@ confiado
 
 ## Footnote
 
-Ella se sintió confiada en su decisión.","confident, trusting
+Ella se sintió confiada en su decisión.","confident
 
 ## Footnote
 
@@ -4416,7 +4269,7 @@ selección
 
 ## Footnote
 
-El proceso de selección fue riguroso.","selection, choice
+El proceso de selección fue riguroso.","selection
 
 ## Footnote
 
@@ -4427,7 +4280,7 @@ bici
 
 ## Footnote
 
-Monto mi bici todos los días.","bike, bicycle
+Monto mi bici todos los días.","bike
 
 ## Footnote
 
@@ -4438,7 +4291,7 @@ conquistar
 
 ## Footnote
 
-Buscaban conquistar nuevas tierras.","conquer, win over
+Buscaban conquistar nuevas tierras.","to conquer
 
 ## Footnote
 
@@ -4449,7 +4302,7 @@ probabilidad
 
 ## Footnote
 
-La probabilidad de lluvia es alta.","probability, likelihood
+La probabilidad de lluvia es alta.","probability
 
 ## Footnote
 
@@ -4460,7 +4313,7 @@ mostrado
 
 ## Footnote
 
-La evidencia fue claramente mostrada.","shown, displayed
+La evidencia fue claramente mostrada.","shown
 
 ## Footnote
 
@@ -4471,7 +4324,7 @@ asesor
 
 ## Footnote
 
-Mi asesor me ayudó mucho.","advisor, consultant
+Mi asesor me ayudó mucho.","advisor
 
 ## Footnote
 
@@ -4482,7 +4335,7 @@ accidentalmente
 
 ## Footnote
 
-Accidentalmente dejé caer mi teléfono.","accidentally, by accident
+Accidentalmente dejé caer mi teléfono.","accidentally
 
 ## Footnote
 
@@ -4493,29 +4346,29 @@ televisor
 
 ## Footnote
 
-Veo películas en el televisor.","television, TV
+Veo películas en el televisor.","television
 
 ## Footnote
 
 I watch movies on the television."
 "# Translate:
 
-enamoré
+me enamoré
 
 ## Footnote
 
-Me enamoré al instante.","I fell in love, enamored
+Me enamoré al instante.","I fell in love
 
 ## Footnote
 
-""I fell in love instantly."""
+I fell in love instantly."
 "# Translate:
 
 incorrecto
 
 ## Footnote
 
-Tu respuesta es incorrecta.","incorrect, wrong
+Tu respuesta es incorrecta.","incorrect
 
 ## Footnote
 
@@ -4526,7 +4379,7 @@ automóvil
 
 ## Footnote
 
-Compré un automóvil nuevo ayer.","car, automobile
+Compré un automóvil nuevo ayer.","car
 
 ## Footnote
 
@@ -4537,7 +4390,7 @@ nieta
 
 ## Footnote
 
-A mi nieta le encanta pintar.","granddaughter, grandchild
+A mi nieta le encanta pintar.","granddaughter
 
 ## Footnote
 
@@ -4548,7 +4401,7 @@ herramienta
 
 ## Footnote
 
-Agarró una herramienta de la caja.","tool, instrument
+Agarró una herramienta de la caja.","tool
 
 ## Footnote
 
@@ -4559,7 +4412,7 @@ resumen
 
 ## Footnote
 
-Él proporcionó un breve resumen.","summary, abstract
+Él proporcionó un breve resumen.","summary
 
 ## Footnote
 
@@ -4570,7 +4423,7 @@ manicomio
 
 ## Footnote
 
-Fue internado en un manicomio.","asylum, madhouse
+Fue internado en un manicomio.","asylum
 
 ## Footnote
 
@@ -4581,7 +4434,7 @@ fijado
 
 ## Footnote
 
-La reunión está fijada para el lunes.","fixed, set
+La reunión está fijada para el lunes.","fixed
 
 ## Footnote
 
@@ -4592,7 +4445,7 @@ cógelo
 
 ## Footnote
 
-¡Rápido, cógelo antes de que se caiga!","grab it, take it
+¡Rápido, cógelo antes de que se caiga!","grab it (imperative, tú)
 
 ## Footnote
 
@@ -4603,18 +4456,18 @@ convierta
 
 ## Footnote
 
-Conviertamos el agua en vino.","turn, convert
+Él quiere que lo convierta.","convert, transform (subjunctive)
 
 ## Footnote
 
-Let's turn water into wine."
+He wants me to transform it."
 "# Translate:
 
 negativa
 
 ## Footnote
 
-Su declaración fue una clara negativa.","negation, refusal
+Su declaración fue una clara negativa.","negation
 
 ## Footnote
 
@@ -4625,7 +4478,7 @@ pólvora
 
 ## Footnote
 
-La pólvora cambió la guerra para siempre.","gunpowder, powder
+La pólvora cambió la guerra para siempre.","gunpowder
 
 ## Footnote
 
@@ -4636,7 +4489,7 @@ peste
 
 ## Footnote
 
-La peste diezmó poblaciones enteras.","plague, pestilence
+La peste diezmó poblaciones enteras.","plague
 
 ## Footnote
 
@@ -4647,7 +4500,7 @@ apodo
 
 ## Footnote
 
-Él se hace llamar por el apodo ""Flash"".","nickname, moniker
+Él se hace llamar por el apodo ""Flash"".","nickname
 
 ## Footnote
 
@@ -4658,7 +4511,7 @@ prestar
 
 ## Footnote
 
-¿Puedes prestarme un bolígrafo?","lend, loan
+¿Puedes prestarme un bolígrafo?","to lend
 
 ## Footnote
 
@@ -4669,7 +4522,7 @@ respetable
 
 ## Footnote
 
-Él viene de una familia respetable.","respectable, honorable
+Él viene de una familia respetable.","respectable
 
 ## Footnote
 
@@ -4680,7 +4533,7 @@ matón
 
 ## Footnote
 
-El matón lo amenazaba diariamente.","bully, thug
+El matón lo amenazaba diariamente.","bully
 
 ## Footnote
 
@@ -4691,7 +4544,7 @@ esperándote
 
 ## Footnote
 
-Estoy aquí esperándote con ansias.","waiting for you, awaiting you
+Estoy aquí esperándote con ansias.","waiting for you
 
 ## Footnote
 
@@ -4702,7 +4555,7 @@ factor
 
 ## Footnote
 
-El estrés es un factor de salud importante.","factor, agent
+El estrés es un factor de salud importante.","factor
 
 ## Footnote
 
@@ -4713,7 +4566,7 @@ trofeo
 
 ## Footnote
 
-Ganó el trofeo orgullosamente.","trophy, award
+Ganó el trofeo orgullosamente.","trophy
 
 ## Footnote
 
@@ -4724,18 +4577,18 @@ cago
 
 ## Footnote
 
-Me cago diariamente por la salud.","I defecate, I poop
+Si no me preparo, seguro que la cago.","I defecate, I screw up
 
 ## Footnote
 
-""I defecate daily for health."""
+If I don't prepare, I'll surely screw up."
 "# Translate:
 
 profeta
 
 ## Footnote
 
-El profeta previó la caída de la ciudad.","prophet, seer
+El profeta previó la caída de la ciudad.","prophet
 
 ## Footnote
 
@@ -4746,7 +4599,7 @@ sumamente
 
 ## Footnote
 
-Ella estaba sumamente feliz con las noticias.","extremely, highly
+Ella estaba sumamente feliz con las noticias.","extremely
 
 ## Footnote
 
@@ -4757,7 +4610,7 @@ analizar
 
 ## Footnote
 
-Debemos analizar los datos minuciosamente.","analyze, examine
+Debemos analizar los datos minuciosamente.","to analyze
 
 ## Footnote
 
@@ -4768,7 +4621,7 @@ sirena
 
 ## Footnote
 
-La sirena cantó hermosamente bajo el agua.","mermaid, siren
+La sirena cantó hermosamente bajo el agua.","mermaid
 
 ## Footnote
 
@@ -4779,7 +4632,7 @@ bufete
 
 ## Footnote
 
-Ella trabaja en un bufete de abogados.","law firm, buffet
+Ella trabaja en un bufete de abogados.","law firm
 
 ## Footnote
 
@@ -4790,7 +4643,7 @@ rechazar
 
 ## Footnote
 
-Ella decidió rechazar su oferta.","reject, refuse
+Ella decidió rechazar su oferta.","to reject
 
 ## Footnote
 
@@ -4801,7 +4654,7 @@ pintor
 
 ## Footnote
 
-El pintor terminó el mural.","painter, artist
+El pintor terminó el mural.","painter
 
 ## Footnote
 
@@ -4812,18 +4665,18 @@ caigo
 
 ## Footnote
 
-Cada otoño, caigo con gracia.","I fall, I drop
+Si camino por el hielo, me caigo.","I fall
 
 ## Footnote
 
-Every autumn, I fall gracefully."
+If I walk on the ice, I fall."
 "# Translate:
 
 incluido
 
 ## Footnote
 
-El desayuno está incluido con la habitación.","included, inclusive
+El desayuno está incluido con la habitación.","included
 
 ## Footnote
 
@@ -4834,7 +4687,7 @@ Breakfast is included with the room."
 
 ## Footnote
 
-Por favor, ábrelo con cuidado.","open it, open that
+Por favor, ábrelo con cuidado.","open it (imperative, tú)
 
 ## Footnote
 
@@ -4845,7 +4698,7 @@ admirador
 
 ## Footnote
 
-Ella tiene un admirador secreto.","admirer, fan
+Ella tiene un admirador secreto.","admirer
 
 ## Footnote
 
@@ -4856,18 +4709,18 @@ enseñe
 
 ## Footnote
 
-Te enseñaré español.","teach, instruct
+Espero que me enseñe español.","teach
 
 ## Footnote
 
-I will teach you Spanish."
+I hope you teach me Spanish."
 "# Translate:
 
 botín
 
 ## Footnote
 
-Repartieron el botín del pirata por igual.","booty, loot
+Repartieron el botín del pirata por igual.","booty
 
 ## Footnote
 
@@ -4878,7 +4731,7 @@ esperma
 
 ## Footnote
 
-El esperma es crucial para la fertilización.","sperm, spermaceti
+El esperma es crucial para la fertilización.","sperm
 
 ## Footnote
 
@@ -4889,7 +4742,7 @@ lamentable
 
 ## Footnote
 
-Su ausencia fue verdaderamente lamentable.","regrettable, lamentable
+Su ausencia fue verdaderamente lamentable.","regrettable
 
 ## Footnote
 
@@ -4900,18 +4753,18 @@ culto
 
 ## Footnote
 
-El culto se reunió secretamente a medianoche.","cult, worship
+Él es un hombre muy culto; sabe mucho de historia.","cult
 
 ## Footnote
 
-The cult gathered secretly at midnight."
+He is a very educated man; he knows a lot about history."
 "# Translate:
 
 silencioso
 
 ## Footnote
 
-La habitación estaba completamente silenciosa.","silent, quiet
+La habitación estaba completamente silenciosa.","silent
 
 ## Footnote
 
@@ -4922,7 +4775,7 @@ picante
 
 ## Footnote
 
-Me encanta comer comida mexicana picante.","spicy, hot
+Me encanta comer comida mexicana picante.","spicy
 
 ## Footnote
 
@@ -4933,7 +4786,7 @@ participación
 
 ## Footnote
 
-La participación activa mejora el aprendizaje.","participation, involvement
+La participación activa mejora el aprendizaje.","participation
 
 ## Footnote
 
@@ -4944,7 +4797,7 @@ chatarra
 
 ## Footnote
 
-Vendí mi coche por chatarra.","scrap, junk
+Vendí mi coche por chatarra.","scrap
 
 ## Footnote
 
@@ -4955,7 +4808,7 @@ suero
 
 ## Footnote
 
-Aplique el suero a su rostro todas las noches.","serum, whey
+Aplique el suero a su rostro todas las noches.","serum
 
 ## Footnote
 
@@ -4966,7 +4819,7 @@ honestidad
 
 ## Footnote
 
-La honestidad siempre es la mejor política.","honesty, integrity
+La honestidad siempre es la mejor política.","honesty
 
 ## Footnote
 
@@ -4977,7 +4830,7 @@ costar
 
 ## Footnote
 
-Te va a costar.","to cost, to be difficult
+Te va a costar.","to cost
 
 ## Footnote
 
@@ -4992,14 +4845,14 @@ La fruta está madura y lista.","mature, ripe
 
 ## Footnote
 
-The fruit is mature and ready."
+The fruit is ripe and ready."
 "# Translate:
 
 ofrecerte
 
 ## Footnote
 
-Vine a ofrecerte ayuda.","to offer you, to provide you
+Vine a ofrecerte ayuda.","to offer you
 
 ## Footnote
 
@@ -5010,7 +4863,7 @@ francotirador
 
 ## Footnote
 
-El francotirador apuntó en silencio.","sniper, sharpshooter
+El francotirador apuntó en silencio.","sniper
 
 ## Footnote
 
@@ -5021,7 +4874,7 @@ entorno
 
 ## Footnote
 
-Protege el entorno para las futuras generaciones.","environment, surroundings
+Protege el entorno para las futuras generaciones.","environment
 
 ## Footnote
 
@@ -5032,7 +4885,7 @@ espléndido
 
 ## Footnote
 
-La vista era simplemente espléndida.","splendid, magnificent
+La vista era simplemente espléndida.","splendid
 
 ## Footnote
 
@@ -5043,18 +4896,18 @@ relajarte
 
 ## Footnote
 
-Solo relájate y disfruta el momento.","relax, unwind
+Quiero relajarte y que disfrutes el momento.","relax
 
 ## Footnote
 
-Just relax and enjoy the moment."
+I want you to relax and enjoy the moment."
 "# Translate:
 
 subo
 
 ## Footnote
 
-Subo montañas por diversión.","I climb, I go up
+Subo montañas por diversión.","I climb
 
 ## Footnote
 
@@ -5065,7 +4918,7 @@ apuro
 
 ## Footnote
 
-Por favor, date prisa, vamos con apuro.","hurry, predicament
+Por favor, date prisa, vamos con apuro.","hurry
 
 ## Footnote
 
@@ -5076,7 +4929,7 @@ mariscal
 
 ## Footnote
 
-El mariscal encabezó el desfile militar.","marshal, field marshal
+El mariscal encabezó el desfile militar.","marshal
 
 ## Footnote
 
@@ -5087,7 +4940,7 @@ cómico
 
 ## Footnote
 
-Es una persona naturalmente cómica.","comic, comedian
+Es una persona naturalmente cómica.","comic
 
 ## Footnote
 
@@ -5098,7 +4951,7 @@ alumno
 
 ## Footnote
 
-El alumno estudió diligentemente.","student, pupil
+El alumno estudió diligentemente.","student
 
 ## Footnote
 
@@ -5109,7 +4962,7 @@ clavo
 
 ## Footnote
 
-Clavé el clavo en la pared.","nail, clove
+Clavé el clavo en la pared.","nail
 
 ## Footnote
 
@@ -5120,7 +4973,7 @@ empacar
 
 ## Footnote
 
-Necesito empacar mi maleta.","to pack, to package
+Necesito empacar mi maleta.","to pack
 
 ## Footnote
 
@@ -5131,18 +4984,18 @@ doncella
 
 ## Footnote
 
-La doncella limpió la habitación en silencio.","maid, maiden
+El caballero rescató a la doncella.","maiden, damsel
 
 ## Footnote
 
-The maid cleaned the room quietly."
+The knight rescued the maiden."
 "# Translate:
 
 brandy
 
 ## Footnote
 
-Saboreó el brandy añejo lentamente.","brandy, brandy
+Saboreó el brandy añejo lentamente.","brandy
 
 ## Footnote
 
@@ -5153,7 +5006,7 @@ ingenioso
 
 ## Footnote
 
-Su solución ingeniosa salvó el día.","ingenious, clever
+Su solución ingeniosa salvó el día.","ingenious
 
 ## Footnote
 
@@ -5164,18 +5017,18 @@ tronco
 
 ## Footnote
 
-La trompa del elefante es muy fuerte.","trunk, log
+El tronco del árbol es muy fuerte.","trunk
 
 ## Footnote
 
-The elephant's trunk is very strong."
+The trunk of the tree is very strong."
 "# Translate:
 
 eternamente
 
 ## Footnote
 
-Ella lo amaba eternamente, sin fin.","eternally, forever
+Ella lo amaba eternamente, sin fin.","eternally
 
 ## Footnote
 
@@ -5186,7 +5039,7 @@ agresivo
 
 ## Footnote
 
-Su comportamiento agresivo asustó a todos.","aggressive, hostile
+Su comportamiento agresivo asustó a todos.","aggressive
 
 ## Footnote
 
@@ -5197,7 +5050,7 @@ orfanato
 
 ## Footnote
 
-Ella creció en un orfanato.","orphanage, children's home
+Ella creció en un orfanato.","orphanage
 
 ## Footnote
 
@@ -5208,7 +5061,7 @@ preparación
 
 ## Footnote
 
-La preparación es clave para el éxito.","preparation, readiness
+La preparación es clave para el éxito.","preparation
 
 ## Footnote
 
@@ -5219,7 +5072,7 @@ religioso
 
 ## Footnote
 
-Ella es profundamente religiosa.","religious, religious person
+Ella es profundamente religiosa.","religious
 
 ## Footnote
 
@@ -5230,18 +5083,18 @@ monitor
 
 ## Footnote
 
-Voy a monitorear tu progreso.","monitor, screen
+El monitor de la computadora está roto.","monitor
 
 ## Footnote
 
-I will monitor your progress."
+The computer monitor is broken."
 "# Translate:
 
 discutimos
 
 ## Footnote
 
-Discutimos asuntos importantes juntos.","we discuss, we argued
+Discutimos asuntos importantes juntos.","we discuss
 
 ## Footnote
 
@@ -5252,7 +5105,7 @@ aprendiz
 
 ## Footnote
 
-El aprendiz aprendió rápidamente.","apprentice, learner
+El aprendiz aprendió rápidamente.","apprentice
 
 ## Footnote
 
@@ -5263,7 +5116,7 @@ The apprentice learned quickly."
 
 ## Footnote
 
-Se convirtió en un ídolo de la noche a la mañana.","idol, icon
+Se convirtió en un ídolo de la noche a la mañana.","idol
 
 ## Footnote
 
@@ -5274,18 +5127,18 @@ acordado
 
 ## Footnote
 
-Acordamos los términos ayer.","agreed, decided
+El plan fue acordado ayer.","agreed
 
 ## Footnote
 
-We agreed on the terms yesterday."
+The plan was agreed upon yesterday."
 "# Translate:
 
 envuelto
 
 ## Footnote
 
-Ella ha envuelto el regalo bellamente.","wrapped, enveloped
+Ella ha envuelto el regalo bellamente.","wrapped
 
 ## Footnote
 
@@ -5296,7 +5149,7 @@ proceder
 
 ## Footnote
 
-Por favor, proceda con la presentación.","proceed, to proceed
+Por favor, proceda con la presentación.","to proceed
 
 ## Footnote
 
@@ -5307,7 +5160,7 @@ séptimo
 
 ## Footnote
 
-Terminó la carrera en séptimo lugar.","seventh, 7th
+Terminó la carrera en séptimo lugar.","seventh
 
 ## Footnote
 
@@ -5318,7 +5171,7 @@ arquitecto
 
 ## Footnote
 
-El arquitecto diseñó un edificio impresionante.","architect, designer
+El arquitecto diseñó un edificio impresionante.","architect
 
 ## Footnote
 
@@ -5329,7 +5182,7 @@ continente
 
 ## Footnote
 
-África es un continente vasto.","continent, mainland
+África es un continente vasto.","continent
 
 ## Footnote
 
@@ -5340,18 +5193,18 @@ pulmón
 
 ## Footnote
 
-Tomó una profunda respiración de pulmón.","lung, lungs
+Llenó sus pulmones de aire fresco.","lung
 
 ## Footnote
 
-He took a deep lung breath."
+He filled his lungs with fresh air."
 "# Translate:
 
 estrado
 
 ## Footnote
 
-Ella habló desde el estrado con confianza.","platform, dais
+Ella habló desde el estrado con confianza.","platform, podium
 
 ## Footnote
 
@@ -5362,7 +5215,7 @@ balcón
 
 ## Footnote
 
-Ella admiraba la vista desde el balcón.","balcony, terrace
+Ella admiraba la vista desde el balcón.","balcony
 
 ## Footnote
 
@@ -5373,7 +5226,7 @@ obedecer
 
 ## Footnote
 
-A los niños se les enseña a obedecer a sus padres.","to obey, to comply
+A los niños se les enseña a obedecer a sus padres.","to obey
 
 ## Footnote
 
@@ -5384,7 +5237,7 @@ intervención
 
 ## Footnote
 
-La intervención le salvó la vida.","intervention, involvement
+La intervención le salvó la vida.","intervention
 
 ## Footnote
 
@@ -5395,7 +5248,7 @@ capilla
 
 ## Footnote
 
-Se casaron en una pequeña capilla.","chapel, oratory
+Se casaron en una pequeña capilla.","chapel
 
 ## Footnote
 
@@ -5406,7 +5259,7 @@ comunicado
 
 ## Footnote
 
-La empresa emitió un comunicado hoy.","statement, communique
+La empresa emitió un comunicado hoy.","statement
 
 ## Footnote
 
@@ -5417,7 +5270,7 @@ realista
 
 ## Footnote
 
-Establece metas realistas para ti mismo.","realistic, realist
+Establece metas realistas para ti mismo.","realistic
 
 ## Footnote
 
@@ -5428,7 +5281,7 @@ aleluya
 
 ## Footnote
 
-Ella cantó ""Aleluya"" con pura alegría.","hallelujah, alleluia
+Ella cantó ""Aleluya"" con pura alegría.","hallelujah
 
 ## Footnote
 
@@ -5439,7 +5292,7 @@ exhibición
 
 ## Footnote
 
-La exhibición de arte se inaugura mañana.","exhibition, display
+La exhibición de arte se inaugura mañana.","exhibition
 
 ## Footnote
 
@@ -5450,7 +5303,7 @@ pulgar
 
 ## Footnote
 
-Se lesionó el pulgar jugando al baloncesto.","thumb, big toe
+Se lesionó el pulgar jugando al baloncesto.","thumb
 
 ## Footnote
 
@@ -5461,7 +5314,7 @@ escogido
 
 ## Footnote
 
-Fue escogido para el equipo.","chosen, selected
+Fue escogido para el equipo.","chosen
 
 ## Footnote
 
@@ -5472,7 +5325,7 @@ invertir
 
 ## Footnote
 
-Invertiré en la bolsa de valores.","invest, invert
+Invertiré en la bolsa de valores.","to invest
 
 ## Footnote
 
@@ -5483,7 +5336,7 @@ acondicionado
 
 ## Footnote
 
-La habitación estaba acondicionada.","conditioned, air-conditioned
+La habitación estaba acondicionada.","conditioned
 
 ## Footnote
 
@@ -5494,8 +5347,151 @@ prudente
 
 ## Footnote
 
-Es prudente ahorrar dinero regularmente.","prudent, wise
+Es prudente ahorrar dinero regularmente.","prudent
 
 ## Footnote
 
 It's prudent to save money regularly."
+"# Translate:
+
+juegues
+
+## Footnote
+
+No quiero que juegues.","you play (subjunctive)
+
+## Footnote
+
+I don't want you to play."
+"# Translate:
+
+pleno
+
+## Footnote
+
+Tomaron la decisión en el pleno de ayer.","plenary session
+
+## Footnote
+
+The decision was taken at yesterday's plenary session."
+"# Translate:
+
+espeluznante
+
+## Footnote
+
+La casa vieja se veía realmente espeluznante.","creepy
+
+## Footnote
+
+The old house looked really creepy."
+"# Translate:
+
+trajimos
+
+## Footnote
+
+Trajimos pan fresco para la cena.","we brought
+
+## Footnote
+
+We brought fresh bread for dinner."
+"# Translate:
+
+entierro
+
+## Footnote
+
+El entierro tuvo lugar al amanecer.","burial
+
+## Footnote
+
+The burial took place at dawn."
+"# Translate:
+
+financiero
+
+## Footnote
+
+Enfrentando serias dificultades financieras.","financial
+
+## Footnote
+
+Facing serious financial difficulties."
+"# Translate:
+
+bloqueado
+
+## Footnote
+
+La carretera estaba completamente bloqueada.","blocked
+
+## Footnote
+
+The road was completely blocked off."
+"# Translate:
+
+juntar
+
+## Footnote
+
+Necesitamos juntar más información.","to gather
+
+## Footnote
+
+We need to gather more information."
+"# Translate:
+
+comprador
+
+## Footnote
+
+El comprador negoció un precio más bajo.","buyer
+
+## Footnote
+
+The buyer negotiated a lower price."
+"# Translate:
+
+competición
+
+## Footnote
+
+La competición empieza mañana.","competition
+
+## Footnote
+
+The competition starts tomorrow."
+"# Translate:
+
+confiable
+
+## Footnote
+
+Ella es una amiga confiable.","reliable
+
+## Footnote
+
+She is a reliable friend."
+"# Translate:
+
+catorce
+
+## Footnote
+
+Ella cumplió catorce años el mes pasado.","fourteen
+
+## Footnote
+
+She turned fourteen last month."
+"# Translate:
+
+calmado
+
+## Footnote
+
+Ella permaneció calmada durante la tormenta.","calm
+
+## Footnote
+
+She remained calm during the storm."

@@ -1,0 +1,35 @@
+{
+  "policy_version": "2026-09-22",
+  "reference_pack": "english_russian",
+  "audited_packs": [
+    "english_russian",
+    "russian_english"
+  ],
+  "cards_per_band": 500,
+  "allow_prior_bands_only": true,
+  "scheduled_forms_win": true,
+  "allow_inflection_only_when_exact_form_is_not_taught": true,
+  "exempt_forms": [
+    "an",
+    "because",
+    "can't",
+    "don't",
+    "during",
+    "everyone",
+    "isn't",
+    "let's",
+    "may",
+    "neither",
+    "not",
+    "please",
+    "shall",
+    "should",
+    "their",
+    "will"
+  ],
+  "sense_reviews": "sense_reviews.json",
+  "reference_fingerprint": {
+    "cards": 10000,
+    "headword_pairs_sha256": "766503172040ee602b8b6b80838c743ba23876e2feb715b4fa1182729d97d92d"
+  }
+}

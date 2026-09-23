@@ -1,73 +1,89 @@
-# Downloadable card audio
+# Current course audio
 
-The actual MP3 files are public GitHub Release assets:
+This directory describes and packages the audio that is attached to the
+current Brainscape courses represented by [`../courses.json`](../courses.json).
+It is deliberately a current mirror: temporary decks, experiments, and
+recordings that are not attached to one of those cards are outside its scope.
 
-**[Download the September 22, 2026 audio release](https://github.com/SokolskyNikita/brainscape-language-cards/releases/tag/audio-2026-09-22)**
+As of the verified snapshot in `courses.json`, the four courses contain 36,000
+cards. The two English/Russian courses have 20,000 attached English recordings
+in total:
 
-| Archive | Recordings | Download size | Contents |
-| --- | ---: | ---: | --- |
-| [English → Russian originals](https://github.com/SokolskyNikita/brainscape-language-cards/releases/download/audio-2026-09-22/english-russian-original-audio.zip) | 10,000 | 498 MiB | English question-side recordings from the September 8 rollout |
-| [Russian → English originals](https://github.com/SokolskyNikita/brainscape-language-cards/releases/download/audio-2026-09-22/russian-english-original-audio.zip) | 10,000 | 532 MiB | English answer-side recordings from the September 8 rollout |
-| [Repaired English examples](https://github.com/SokolskyNikita/brainscape-language-cards/releases/download/audio-2026-09-22/english-example-replacement-audio.zip) | 737 | 39 MiB | Replacement recordings used by 744 cards in the September 22 repair |
+| Course | Attached sides | Published archive |
+| --- | ---: | --- |
+| English → Russian | 10,000 question sides | [`english-russian-audio.zip`](https://github.com/SokolskyNikita/brainscape-language-cards/releases/download/live-audio-2026-09-23/english-russian-audio.zip) |
+| Russian → English | 10,000 answer sides | [`russian-english-audio.zip`](https://github.com/SokolskyNikita/brainscape-language-cards/releases/download/live-audio-2026-09-23/russian-english-audio.zip) |
+| English → Spanish | 0 | No attached audio found |
+| Spanish → English | 0 | No attached audio found |
 
-The three archives contain **20,737 production MP3 files** (about 1.04 GiB).
-Seven revised transcripts share recordings. The originals remain available as
-historical evidence; use the index below to select the current recording.
+The Spanish courses are still represented by their live card snapshots. No
+Spanish production MP3s were present locally to publish.
 
-## Which recording belongs to a card?
+## Catalog and checksums
 
-[`current.json`](current.json) maps all **20,000 current English/Russian cards**
-to their correct English recording as of the September 22 verified snapshot.
-Each entry includes the class, deck, card ID, overall position, audio side,
-headword, example, transcript, archive name, relative file path, and SHA-256.
-For the 744 repaired cards it points to the replacement audio, not the old clip.
+[`current.json`](current.json) is the compact audio catalog. Each entry records
+the course, deck and card IDs, side, attached live URL, side-specific archive
+path, SHA-256, and byte count. Its `missing` and `changed_urls` arrays record
+any attached URL that could not be matched or changed since the previous
+catalog; both must be empty before publishing. [`files.sha256`](files.sha256) repeats the per-file hashes
+using the paths inside the release archives.
 
-These are English recordings for both learning directions. There are no retained
-production Russian-language recordings or Spanish bulk recordings to publish.
-The Spanish bulk generation has not run. Small compatibility/voice experiments
-remain local and are not included in this production release.
+Archive metadata and release URLs are in [`archives.json`](archives.json).
+`SHA256SUMS` is included with the release assets and verifies each archive.
+
+The local cache is ignored by Git because it contains the actual MP3 bytes:
+
+```text
+audio/current/english_russian/audio/CARD_ID-question.mp3
+audio/current/russian_english/audio/CARD_ID-answer.mp3
+```
+
+The suffix keeps both sides unambiguous if a future course receives audio on
+both sides. The cache is the durable local source for future packaging, so the
+card repository can remove old generation directories without losing the
+published recordings.
 
 ## Download and restore
 
-Download all three ZIP files and `SHA256SUMS` from the release page, then verify
-and extract them **at the root of this cards repository**. Archive paths reproduce
-the exact workspace layout used by the existing generation and sync scripts.
-
-With GitHub CLI, from the cards repository root:
+From the cards repository root:
 
 ```sh
-gh release download audio-2026-09-22 \
+gh release download live-audio-2026-09-23 \
   --repo SokolskyNikita/brainscape-language-cards \
-  --pattern '*.zip' --pattern SHA256SUMS --dir audio/downloads
-(cd audio/downloads && shasum -a 256 -c SHA256SUMS)
-for archive in audio/downloads/*.zip; do unzip -n "$archive" -d .; done
-shasum -a 256 -c audio/files.sha256
+  --pattern '*.zip' --pattern SHA256SUMS --dir /tmp/brainscape-audio-download
+(cd /tmp/brainscape-audio-download && shasum -a 256 -c SHA256SUMS)
+mkdir -p audio/current
+for archive in /tmp/brainscape-audio-download/*.zip; do
+  unzip -n "$archive" -d audio/current
+done
+(cd audio/current && shasum -a 256 -c ../files.sha256)
 ```
 
-`unzip -n` preserves existing files; a checksum mismatch should be investigated
-before replacing any local recording. On Linux, `sha256sum -c` can be used instead
-of `shasum -a 256 -c`. No API client, Cartesia account, or Brainscape login is
-needed to download or play these recordings.
+You can also download the ZIP files from the links above and extract both into
+`audio/current/`. No Brainscape login or API client is needed to download or play
+the recordings. `unzip -n` preserves existing local files.
 
-A normal `git clone` or GitHub source-code ZIP does not download release assets.
-Audio stays outside Git history, but the actual bytes are hosted publicly on
-GitHub and can be restored without regenerating speech.
+## Rebuild the current package
 
-## Verification and reproduction
-
-[`archives.json`](archives.json) records each archive's download URL, exact byte
-size, file count, and SHA-256. [`files.sha256`](files.sha256) records the individual
-MP3 checksums. Every recording was checked against its existing production
-receipt or generation metadata before packaging; every archived payload was
-checked again after packaging. The current index's transcripts match the saved
-post-repair card examples.
-
-To rebuild these archives from a checkout with the audio restored (Python 3.10+):
+From the standalone cards repository, after restoring the ignored `audio/current`
+cache:
 
 ```sh
-python audio/package.py --output /tmp/brainscape-audio-release
+python audio/package_current.py \
+  --courses courses.json \
+  --output /tmp/brainscape-current-audio-release
 ```
 
-This is an offline packager for the September 22 snapshot. It never generates
-speech or writes to Brainscape. For future repair batches, publish a new release
-and update the catalog to the newly verified state, preserving older releases.
+The output directory must stay outside the repository. The script reads only
+the current course metadata, the four course snapshot directories, and the
+local current audio cache. It makes no network requests, does not synthesize
+speech, and never writes to Brainscape. It checks that every attached URL names
+the expected card and side, and it withholds changed URLs or missing local
+files from the archives for review.
+
+The packager checks each cached recording against the previously verified URL
+and SHA-256. Missing, changed, or corrupted audio stops the run before catalog
+or archive files are overwritten. For a new attachment, download and verify its
+bytes before updating the cache/catalog and publishing a new release.
+
+On Linux, `sha256sum -c` can replace `shasum -a 256 -c`.

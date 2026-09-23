@@ -1,0 +1,617 @@
+{
+  "verified_at": "2026-09-23T03:09:54.775482+00:00",
+  "courses": [
+    {
+      "slug": "english_russian",
+      "packId": 21917816,
+      "name": "English->Russian, 10000 most common words",
+      "url": "https://www.brainscape.com/packs/english-russian-10000-most-common-words-21917816",
+      "card_count": 10000,
+      "decks": [
+        {
+          "deckId": 15260246,
+          "name": "1->500",
+          "position": 1,
+          "card_count": 500,
+          "csv": "english_russian/deck_15260246.csv",
+          "json": "english_russian/deck_15260246.json"
+        },
+        {
+          "deckId": 15260248,
+          "name": "500->1000",
+          "position": 2,
+          "card_count": 500,
+          "csv": "english_russian/deck_15260248.csv",
+          "json": "english_russian/deck_15260248.json"
+        },
+        {
+          "deckId": 15260251,
+          "name": "1000->1500",
+          "position": 3,
+          "card_count": 500,
+          "csv": "english_russian/deck_15260251.csv",
+          "json": "english_russian/deck_15260251.json"
+        },
+        {
+          "deckId": 15260255,
+          "name": "1500->2000",
+          "position": 4,
+          "card_count": 500,
+          "csv": "english_russian/deck_15260255.csv",
+          "json": "english_russian/deck_15260255.json"
+        },
+        {
+          "deckId": 15260256,
+          "name": "2000->2500",
+          "position": 5,
+          "card_count": 500,
+          "csv": "english_russian/deck_15260256.csv",
+          "json": "english_russian/deck_15260256.json"
+        },
+        {
+          "deckId": 15260257,
+          "name": "2500->3000",
+          "position": 6,
+          "card_count": 500,
+          "csv": "english_russian/deck_15260257.csv",
+          "json": "english_russian/deck_15260257.json"
+        },
+        {
+          "deckId": 15260260,
+          "name": "3000->3500",
+          "position": 7,
+          "card_count": 500,
+          "csv": "english_russian/deck_15260260.csv",
+          "json": "english_russian/deck_15260260.json"
+        },
+        {
+          "deckId": 15260263,
+          "name": "3500->4000",
+          "position": 8,
+          "card_count": 500,
+          "csv": "english_russian/deck_15260263.csv",
+          "json": "english_russian/deck_15260263.json"
+        },
+        {
+          "deckId": 15260266,
+          "name": "4000->4500",
+          "position": 9,
+          "card_count": 500,
+          "csv": "english_russian/deck_15260266.csv",
+          "json": "english_russian/deck_15260266.json"
+        },
+        {
+          "deckId": 15260268,
+          "name": "4500->5000",
+          "position": 10,
+          "card_count": 500,
+          "csv": "english_russian/deck_15260268.csv",
+          "json": "english_russian/deck_15260268.json"
+        },
+        {
+          "deckId": 15260269,
+          "name": "5000->5500",
+          "position": 11,
+          "card_count": 500,
+          "csv": "english_russian/deck_15260269.csv",
+          "json": "english_russian/deck_15260269.json"
+        },
+        {
+          "deckId": 15260272,
+          "name": "5500->6000",
+          "position": 12,
+          "card_count": 500,
+          "csv": "english_russian/deck_15260272.csv",
+          "json": "english_russian/deck_15260272.json"
+        },
+        {
+          "deckId": 15260277,
+          "name": "6000->6500",
+          "position": 13,
+          "card_count": 500,
+          "csv": "english_russian/deck_15260277.csv",
+          "json": "english_russian/deck_15260277.json"
+        },
+        {
+          "deckId": 15260280,
+          "name": "6500->7000",
+          "position": 14,
+          "card_count": 500,
+          "csv": "english_russian/deck_15260280.csv",
+          "json": "english_russian/deck_15260280.json"
+        },
+        {
+          "deckId": 15260281,
+          "name": "7000->7500",
+          "position": 15,
+          "card_count": 500,
+          "csv": "english_russian/deck_15260281.csv",
+          "json": "english_russian/deck_15260281.json"
+        },
+        {
+          "deckId": 15260282,
+          "name": "7500->8000",
+          "position": 16,
+          "card_count": 500,
+          "csv": "english_russian/deck_15260282.csv",
+          "json": "english_russian/deck_15260282.json"
+        },
+        {
+          "deckId": 15260283,
+          "name": "8000->8500",
+          "position": 17,
+          "card_count": 500,
+          "csv": "english_russian/deck_15260283.csv",
+          "json": "english_russian/deck_15260283.json"
+        },
+        {
+          "deckId": 15260285,
+          "name": "8500->9000",
+          "position": 18,
+          "card_count": 500,
+          "csv": "english_russian/deck_15260285.csv",
+          "json": "english_russian/deck_15260285.json"
+        },
+        {
+          "deckId": 15260287,
+          "name": "9000->9500",
+          "position": 19,
+          "card_count": 500,
+          "csv": "english_russian/deck_15260287.csv",
+          "json": "english_russian/deck_15260287.json"
+        },
+        {
+          "deckId": 22976521,
+          "name": "9500->10000",
+          "position": 21,
+          "card_count": 500,
+          "csv": "english_russian/deck_22976521.csv",
+          "json": "english_russian/deck_22976521.json"
+        }
+      ]
+    },
+    {
+      "slug": "russian_english",
+      "packId": 21919521,
+      "name": "Russian->English, 10000 most common words",
+      "url": "https://www.brainscape.com/packs/russian-english-10000-most-common-words-21919521",
+      "card_count": 10000,
+      "decks": [
+        {
+          "deckId": 15260182,
+          "name": "1->500",
+          "position": 1,
+          "card_count": 500,
+          "csv": "russian_english/deck_15260182.csv",
+          "json": "russian_english/deck_15260182.json"
+        },
+        {
+          "deckId": 15260185,
+          "name": "500->1000",
+          "position": 2,
+          "card_count": 500,
+          "csv": "russian_english/deck_15260185.csv",
+          "json": "russian_english/deck_15260185.json"
+        },
+        {
+          "deckId": 15260188,
+          "name": "1000->1500",
+          "position": 3,
+          "card_count": 500,
+          "csv": "russian_english/deck_15260188.csv",
+          "json": "russian_english/deck_15260188.json"
+        },
+        {
+          "deckId": 15260190,
+          "name": "1500->2000",
+          "position": 4,
+          "card_count": 500,
+          "csv": "russian_english/deck_15260190.csv",
+          "json": "russian_english/deck_15260190.json"
+        },
+        {
+          "deckId": 15260191,
+          "name": "2000->2500",
+          "position": 5,
+          "card_count": 500,
+          "csv": "russian_english/deck_15260191.csv",
+          "json": "russian_english/deck_15260191.json"
+        },
+        {
+          "deckId": 15260192,
+          "name": "2500->3000",
+          "position": 6,
+          "card_count": 500,
+          "csv": "russian_english/deck_15260192.csv",
+          "json": "russian_english/deck_15260192.json"
+        },
+        {
+          "deckId": 15260194,
+          "name": "3000->3500",
+          "position": 7,
+          "card_count": 500,
+          "csv": "russian_english/deck_15260194.csv",
+          "json": "russian_english/deck_15260194.json"
+        },
+        {
+          "deckId": 15260196,
+          "name": "3500->4000",
+          "position": 8,
+          "card_count": 500,
+          "csv": "russian_english/deck_15260196.csv",
+          "json": "russian_english/deck_15260196.json"
+        },
+        {
+          "deckId": 15260198,
+          "name": "4000->4500",
+          "position": 9,
+          "card_count": 500,
+          "csv": "russian_english/deck_15260198.csv",
+          "json": "russian_english/deck_15260198.json"
+        },
+        {
+          "deckId": 15260200,
+          "name": "4500->5000",
+          "position": 10,
+          "card_count": 500,
+          "csv": "russian_english/deck_15260200.csv",
+          "json": "russian_english/deck_15260200.json"
+        },
+        {
+          "deckId": 15260204,
+          "name": "5000->5500",
+          "position": 11,
+          "card_count": 500,
+          "csv": "russian_english/deck_15260204.csv",
+          "json": "russian_english/deck_15260204.json"
+        },
+        {
+          "deckId": 15260207,
+          "name": "5500->6000",
+          "position": 12,
+          "card_count": 500,
+          "csv": "russian_english/deck_15260207.csv",
+          "json": "russian_english/deck_15260207.json"
+        },
+        {
+          "deckId": 15260210,
+          "name": "6000->6500",
+          "position": 13,
+          "card_count": 500,
+          "csv": "russian_english/deck_15260210.csv",
+          "json": "russian_english/deck_15260210.json"
+        },
+        {
+          "deckId": 15260213,
+          "name": "6500->7000",
+          "position": 14,
+          "card_count": 500,
+          "csv": "russian_english/deck_15260213.csv",
+          "json": "russian_english/deck_15260213.json"
+        },
+        {
+          "deckId": 15260214,
+          "name": "7000->7500",
+          "position": 15,
+          "card_count": 500,
+          "csv": "russian_english/deck_15260214.csv",
+          "json": "russian_english/deck_15260214.json"
+        },
+        {
+          "deckId": 15260215,
+          "name": "7500->8000",
+          "position": 16,
+          "card_count": 500,
+          "csv": "russian_english/deck_15260215.csv",
+          "json": "russian_english/deck_15260215.json"
+        },
+        {
+          "deckId": 15260217,
+          "name": "8000->8500",
+          "position": 17,
+          "card_count": 500,
+          "csv": "russian_english/deck_15260217.csv",
+          "json": "russian_english/deck_15260217.json"
+        },
+        {
+          "deckId": 15260218,
+          "name": "8500->9000",
+          "position": 18,
+          "card_count": 500,
+          "csv": "russian_english/deck_15260218.csv",
+          "json": "russian_english/deck_15260218.json"
+        },
+        {
+          "deckId": 15260221,
+          "name": "9000->9500",
+          "position": 19,
+          "card_count": 500,
+          "csv": "russian_english/deck_15260221.csv",
+          "json": "russian_english/deck_15260221.json"
+        },
+        {
+          "deckId": 15260224,
+          "name": "9500->10000",
+          "position": 20,
+          "card_count": 500,
+          "csv": "russian_english/deck_15260224.csv",
+          "json": "russian_english/deck_15260224.json"
+        }
+      ]
+    },
+    {
+      "slug": "english_spanish",
+      "packId": 21945419,
+      "name": "English->Spanish, 8000 Most Common Words",
+      "url": "https://www.brainscape.com/packs/english-spanish-8000-most-common-words-21945419",
+      "card_count": 8000,
+      "decks": [
+        {
+          "deckId": 15350686,
+          "name": "1->500",
+          "position": 1,
+          "card_count": 500,
+          "csv": "english_spanish/deck_15350686.csv",
+          "json": "english_spanish/deck_15350686.json"
+        },
+        {
+          "deckId": 15350690,
+          "name": "500->1000",
+          "position": 2,
+          "card_count": 500,
+          "csv": "english_spanish/deck_15350690.csv",
+          "json": "english_spanish/deck_15350690.json"
+        },
+        {
+          "deckId": 15350693,
+          "name": "1000->1500",
+          "position": 3,
+          "card_count": 500,
+          "csv": "english_spanish/deck_15350693.csv",
+          "json": "english_spanish/deck_15350693.json"
+        },
+        {
+          "deckId": 15350696,
+          "name": "1500->2000",
+          "position": 4,
+          "card_count": 500,
+          "csv": "english_spanish/deck_15350696.csv",
+          "json": "english_spanish/deck_15350696.json"
+        },
+        {
+          "deckId": 15350699,
+          "name": "2000->2500",
+          "position": 5,
+          "card_count": 500,
+          "csv": "english_spanish/deck_15350699.csv",
+          "json": "english_spanish/deck_15350699.json"
+        },
+        {
+          "deckId": 15350703,
+          "name": "2500->3000",
+          "position": 6,
+          "card_count": 500,
+          "csv": "english_spanish/deck_15350703.csv",
+          "json": "english_spanish/deck_15350703.json"
+        },
+        {
+          "deckId": 15350705,
+          "name": "3000->3500",
+          "position": 7,
+          "card_count": 500,
+          "csv": "english_spanish/deck_15350705.csv",
+          "json": "english_spanish/deck_15350705.json"
+        },
+        {
+          "deckId": 15350708,
+          "name": "3500->4000",
+          "position": 8,
+          "card_count": 500,
+          "csv": "english_spanish/deck_15350708.csv",
+          "json": "english_spanish/deck_15350708.json"
+        },
+        {
+          "deckId": 15350711,
+          "name": "4000->4500",
+          "position": 9,
+          "card_count": 500,
+          "csv": "english_spanish/deck_15350711.csv",
+          "json": "english_spanish/deck_15350711.json"
+        },
+        {
+          "deckId": 15350714,
+          "name": "4500->5000",
+          "position": 10,
+          "card_count": 500,
+          "csv": "english_spanish/deck_15350714.csv",
+          "json": "english_spanish/deck_15350714.json"
+        },
+        {
+          "deckId": 15350717,
+          "name": "5000->5500",
+          "position": 11,
+          "card_count": 500,
+          "csv": "english_spanish/deck_15350717.csv",
+          "json": "english_spanish/deck_15350717.json"
+        },
+        {
+          "deckId": 15350719,
+          "name": "5500->6000",
+          "position": 12,
+          "card_count": 500,
+          "csv": "english_spanish/deck_15350719.csv",
+          "json": "english_spanish/deck_15350719.json"
+        },
+        {
+          "deckId": 15350722,
+          "name": "6000->6500",
+          "position": 13,
+          "card_count": 500,
+          "csv": "english_spanish/deck_15350722.csv",
+          "json": "english_spanish/deck_15350722.json"
+        },
+        {
+          "deckId": 15350724,
+          "name": "6500->7000",
+          "position": 14,
+          "card_count": 500,
+          "csv": "english_spanish/deck_15350724.csv",
+          "json": "english_spanish/deck_15350724.json"
+        },
+        {
+          "deckId": 15350728,
+          "name": "7000->7500",
+          "position": 15,
+          "card_count": 500,
+          "csv": "english_spanish/deck_15350728.csv",
+          "json": "english_spanish/deck_15350728.json"
+        },
+        {
+          "deckId": 15350729,
+          "name": "7500->8000",
+          "position": 16,
+          "card_count": 500,
+          "csv": "english_spanish/deck_15350729.csv",
+          "json": "english_spanish/deck_15350729.json"
+        }
+      ]
+    },
+    {
+      "slug": "spanish_english",
+      "packId": 21303832,
+      "name": "Spanish->English, 8000 Most Common Words",
+      "url": "https://www.brainscape.com/packs/spanish-english-8000-most-common-words-21303832",
+      "card_count": 8000,
+      "decks": [
+        {
+          "deckId": 15350594,
+          "name": "1->500",
+          "position": 1,
+          "card_count": 500,
+          "csv": "spanish_english/deck_15350594.csv",
+          "json": "spanish_english/deck_15350594.json"
+        },
+        {
+          "deckId": 15350614,
+          "name": "500->1000",
+          "position": 2,
+          "card_count": 500,
+          "csv": "spanish_english/deck_15350614.csv",
+          "json": "spanish_english/deck_15350614.json"
+        },
+        {
+          "deckId": 15350618,
+          "name": "1000->1500",
+          "position": 3,
+          "card_count": 500,
+          "csv": "spanish_english/deck_15350618.csv",
+          "json": "spanish_english/deck_15350618.json"
+        },
+        {
+          "deckId": 15350621,
+          "name": "1500->2000",
+          "position": 4,
+          "card_count": 500,
+          "csv": "spanish_english/deck_15350621.csv",
+          "json": "spanish_english/deck_15350621.json"
+        },
+        {
+          "deckId": 15350624,
+          "name": "2000->2500",
+          "position": 5,
+          "card_count": 500,
+          "csv": "spanish_english/deck_15350624.csv",
+          "json": "spanish_english/deck_15350624.json"
+        },
+        {
+          "deckId": 15350628,
+          "name": "2500->3000",
+          "position": 6,
+          "card_count": 500,
+          "csv": "spanish_english/deck_15350628.csv",
+          "json": "spanish_english/deck_15350628.json"
+        },
+        {
+          "deckId": 15350630,
+          "name": "3000->3500",
+          "position": 7,
+          "card_count": 500,
+          "csv": "spanish_english/deck_15350630.csv",
+          "json": "spanish_english/deck_15350630.json"
+        },
+        {
+          "deckId": 15350631,
+          "name": "3500->4000",
+          "position": 8,
+          "card_count": 500,
+          "csv": "spanish_english/deck_15350631.csv",
+          "json": "spanish_english/deck_15350631.json"
+        },
+        {
+          "deckId": 15350634,
+          "name": "4000->4500",
+          "position": 9,
+          "card_count": 500,
+          "csv": "spanish_english/deck_15350634.csv",
+          "json": "spanish_english/deck_15350634.json"
+        },
+        {
+          "deckId": 15350639,
+          "name": "4500->5000",
+          "position": 10,
+          "card_count": 500,
+          "csv": "spanish_english/deck_15350639.csv",
+          "json": "spanish_english/deck_15350639.json"
+        },
+        {
+          "deckId": 15350644,
+          "name": "5000->5500",
+          "position": 11,
+          "card_count": 500,
+          "csv": "spanish_english/deck_15350644.csv",
+          "json": "spanish_english/deck_15350644.json"
+        },
+        {
+          "deckId": 15350645,
+          "name": "5500->6000",
+          "position": 12,
+          "card_count": 500,
+          "csv": "spanish_english/deck_15350645.csv",
+          "json": "spanish_english/deck_15350645.json"
+        },
+        {
+          "deckId": 15350647,
+          "name": "6000->6500",
+          "position": 13,
+          "card_count": 500,
+          "csv": "spanish_english/deck_15350647.csv",
+          "json": "spanish_english/deck_15350647.json"
+        },
+        {
+          "deckId": 15350649,
+          "name": "6500->7000",
+          "position": 14,
+          "card_count": 500,
+          "csv": "spanish_english/deck_15350649.csv",
+          "json": "spanish_english/deck_15350649.json"
+        },
+        {
+          "deckId": 15350652,
+          "name": "7000->7500",
+          "position": 15,
+          "card_count": 500,
+          "csv": "spanish_english/deck_15350652.csv",
+          "json": "spanish_english/deck_15350652.json"
+        },
+        {
+          "deckId": 15350654,
+          "name": "7500->8000",
+          "position": 16,
+          "card_count": 500,
+          "csv": "spanish_english/deck_15350654.csv",
+          "json": "spanish_english/deck_15350654.json"
+        }
+      ]
+    }
+  ]
+}

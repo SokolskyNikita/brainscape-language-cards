@@ -1,4 +1,2 @@
-# Install alongside the separately maintained brainscape API client.
-openpyxl>=3.1,<4
+# Offline vocabulary audit. The separate API client is needed only for live operations.
 nltk>=3.9,<4
-pymorphy3>=2,<3

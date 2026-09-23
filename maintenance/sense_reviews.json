@@ -505,16 +505,6 @@
   },
   {
     "pack": "english_russian",
-    "overall": 7554,
-    "head": "saw",
-    "example": "He has a new saw.",
-    "ru": "пила",
-    "word": "saw",
-    "action": "retain_default",
-    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
-  },
-  {
-    "pack": "english_russian",
     "overall": 7833,
     "head": "robbery",
     "example": "I saw a robbery.",
@@ -530,16 +520,6 @@
       "see"
     ],
     "reason": "Past of see, not the cutting tool or cutting verb."
-  },
-  {
-    "pack": "english_russian",
-    "overall": 7844,
-    "head": "to saw",
-    "example": "He began to saw the wood.",
-    "ru": "пилить",
-    "word": "saw",
-    "action": "retain_default",
-    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
   },
   {
     "pack": "english_russian",
@@ -691,78 +671,6 @@
     "head": "film adaptation",
     "example": "I saw the film adaptation of the book.",
     "ru": "экранизация",
-    "word": "saw",
-    "action": "resolve_sense",
-    "sense": "see",
-    "exact_reference_positions": [],
-    "base_reference_positions": [
-      93
-    ],
-    "current_target_lemmas": [
-      "see"
-    ],
-    "reason": "Past of see, not the cutting tool or cutting verb."
-  },
-  {
-    "pack": "english_russian",
-    "overall": 9584,
-    "head": "in the distance, far away",
-    "example": "I saw a house in the distance.",
-    "ru": "вдалеке",
-    "word": "saw",
-    "action": "resolve_sense",
-    "sense": "see",
-    "exact_reference_positions": [],
-    "base_reference_positions": [
-      93
-    ],
-    "current_target_lemmas": [
-      "see"
-    ],
-    "reason": "Past of see, not the cutting tool or cutting verb."
-  },
-  {
-    "pack": "english_russian",
-    "overall": 9717,
-    "head": "poster, playbill",
-    "example": "I saw a poster on the wall.",
-    "ru": "афиша",
-    "word": "saw",
-    "action": "resolve_sense",
-    "sense": "see",
-    "exact_reference_positions": [],
-    "base_reference_positions": [
-      93
-    ],
-    "current_target_lemmas": [
-      "see"
-    ],
-    "reason": "Past of see, not the cutting tool or cutting verb."
-  },
-  {
-    "pack": "english_russian",
-    "overall": 9769,
-    "head": "little shop, small store",
-    "example": "I saw a little shop.",
-    "ru": "магазинчик",
-    "word": "saw",
-    "action": "resolve_sense",
-    "sense": "see",
-    "exact_reference_positions": [],
-    "base_reference_positions": [
-      93
-    ],
-    "current_target_lemmas": [
-      "see"
-    ],
-    "reason": "Past of see, not the cutting tool or cutting verb."
-  },
-  {
-    "pack": "english_russian",
-    "overall": 9900,
-    "head": "to stride, to step",
-    "example": "I saw him stride forward.",
-    "ru": "шагать; зашагать (начать шагать)",
     "word": "saw",
     "action": "resolve_sense",
     "sense": "see",
@@ -1056,8 +964,7 @@
     "sense": "fall",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      307,
-      904
+      307
     ],
     "current_target_lemmas": [
       "fall"
@@ -1075,8 +982,7 @@
     "sense": "fall",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      307,
-      904
+      307
     ],
     "current_target_lemmas": [
       "fall"
@@ -1094,8 +1000,7 @@
     "sense": "fall",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      307,
-      904
+      307
     ],
     "current_target_lemmas": [
       "fall"
@@ -1113,8 +1018,7 @@
     "sense": "fall",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      307,
-      904
+      307
     ],
     "current_target_lemmas": [
       "fall"
@@ -1132,8 +1036,7 @@
     "sense": "fall",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      307,
-      904
+      307
     ],
     "current_target_lemmas": [
       "fall"
@@ -1151,8 +1054,7 @@
     "sense": "fall",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      307,
-      904
+      307
     ],
     "current_target_lemmas": [
       "fall"
@@ -1170,23 +1072,12 @@
     "sense": "fall",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      307,
-      904
+      307
     ],
     "current_target_lemmas": [
       "fall"
     ],
     "reason": "Past of fall, not fell = cut/knock down."
-  },
-  {
-    "pack": "english_russian",
-    "overall": 4687,
-    "head": "to fell",
-    "example": "They will fell the trees.",
-    "ru": "валить",
-    "word": "fell",
-    "action": "retain_default",
-    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
   },
   {
     "pack": "english_russian",
@@ -1199,8 +1090,7 @@
     "sense": "fall",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      307,
-      904
+      307
     ],
     "current_target_lemmas": [
       "fall"
@@ -1218,8 +1108,7 @@
     "sense": "fall",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      307,
-      904
+      307
     ],
     "current_target_lemmas": [
       "fall"
@@ -1237,8 +1126,7 @@
     "sense": "fall",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      307,
-      904
+      307
     ],
     "current_target_lemmas": [
       "fall"
@@ -1256,27 +1144,7 @@
     "sense": "fall",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      307,
-      904
-    ],
-    "current_target_lemmas": [
-      "fall"
-    ],
-    "reason": "Past of fall, not fell = cut/knock down."
-  },
-  {
-    "pack": "english_russian",
-    "overall": 6032,
-    "head": "to fall silent",
-    "example": "The crowd fell silent.",
-    "ru": "умолкнуть",
-    "word": "fell",
-    "action": "resolve_sense",
-    "sense": "fall",
-    "exact_reference_positions": [],
-    "base_reference_positions": [
-      307,
-      904
+      307
     ],
     "current_target_lemmas": [
       "fall"
@@ -1294,8 +1162,7 @@
     "sense": "fall",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      307,
-      904
+      307
     ],
     "current_target_lemmas": [
       "fall"
@@ -1313,8 +1180,7 @@
     "sense": "fall",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      307,
-      904
+      307
     ],
     "current_target_lemmas": [
       "fall"
@@ -1332,27 +1198,7 @@
     "sense": "fall",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      307,
-      904
-    ],
-    "current_target_lemmas": [
-      "fall"
-    ],
-    "reason": "Past of fall, not fell = cut/knock down."
-  },
-  {
-    "pack": "english_russian",
-    "overall": 8061,
-    "head": "to fall down",
-    "example": "He fell down on the floor.",
-    "ru": "упасть",
-    "word": "fell",
-    "action": "resolve_sense",
-    "sense": "fall",
-    "exact_reference_positions": [],
-    "base_reference_positions": [
-      307,
-      904
+      307
     ],
     "current_target_lemmas": [
       "fall"
@@ -1370,8 +1216,7 @@
     "sense": "fall",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      307,
-      904
+      307
     ],
     "current_target_lemmas": [
       "fall"
@@ -1389,8 +1234,7 @@
     "sense": "fall",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      307,
-      904
+      307
     ],
     "current_target_lemmas": [
       "fall"
@@ -1408,42 +1252,12 @@
     "sense": "fall",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      307,
-      904
+      307
     ],
     "current_target_lemmas": [
       "fall"
     ],
     "reason": "Past of fall, not fell = cut/knock down."
-  },
-  {
-    "pack": "english_russian",
-    "overall": 9598,
-    "head": "petal",
-    "example": "A petal fell down.",
-    "ru": "лепесток",
-    "word": "fell",
-    "action": "resolve_sense",
-    "sense": "fall",
-    "exact_reference_positions": [],
-    "base_reference_positions": [
-      307,
-      904
-    ],
-    "current_target_lemmas": [
-      "fall"
-    ],
-    "reason": "Past of fall, not fell = cut/knock down."
-  },
-  {
-    "pack": "english_russian",
-    "overall": 9995,
-    "head": "to fell, to knock down",
-    "example": "They will fell the old tree.",
-    "ru": "повалить",
-    "word": "fell",
-    "action": "retain_default",
-    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
   },
   {
     "pack": "russian_english",
@@ -1456,8 +1270,7 @@
     "sense": "fall",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      307,
-      904
+      307
     ],
     "current_target_lemmas": [
       "fall"
@@ -1475,8 +1288,7 @@
     "sense": "fall",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      307,
-      904
+      307
     ],
     "current_target_lemmas": [
       "fall"
@@ -1494,8 +1306,7 @@
     "sense": "fall",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      307,
-      904
+      307
     ],
     "current_target_lemmas": [
       "fall"
@@ -1513,8 +1324,7 @@
     "sense": "fall",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      307,
-      904
+      307
     ],
     "current_target_lemmas": [
       "fall"
@@ -1532,8 +1342,7 @@
     "sense": "fall",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      307,
-      904
+      307
     ],
     "current_target_lemmas": [
       "fall"
@@ -1551,8 +1360,7 @@
     "sense": "fall",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      307,
-      904
+      307
     ],
     "current_target_lemmas": [
       "fall"
@@ -1570,8 +1378,7 @@
     "sense": "fall",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      307,
-      904
+      307
     ],
     "current_target_lemmas": [
       "fall"
@@ -1589,8 +1396,7 @@
     "sense": "fall",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      307,
-      904
+      307
     ],
     "current_target_lemmas": [
       "fall"
@@ -1608,8 +1414,7 @@
     "sense": "fall",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      307,
-      904
+      307
     ],
     "current_target_lemmas": [
       "fall"
@@ -1627,8 +1432,7 @@
     "sense": "fall",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      307,
-      904
+      307
     ],
     "current_target_lemmas": [
       "fall"
@@ -1646,8 +1450,7 @@
     "sense": "fall",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      307,
-      904
+      307
     ],
     "current_target_lemmas": [
       "fall"
@@ -1665,8 +1468,7 @@
     "sense": "fall",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      307,
-      904
+      307
     ],
     "current_target_lemmas": [
       "fall"
@@ -1684,8 +1486,7 @@
     "sense": "fall",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      307,
-      904
+      307
     ],
     "current_target_lemmas": [
       "fall"
@@ -1703,8 +1504,7 @@
     "sense": "fall",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      307,
-      904
+      307
     ],
     "current_target_lemmas": [
       "fall"
@@ -1722,23 +1522,12 @@
     "sense": "fall",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      307,
-      904
+      307
     ],
     "current_target_lemmas": [
       "fall"
     ],
     "reason": "Past of fall, not fell = cut/knock down."
-  },
-  {
-    "pack": "russian_english",
-    "overall": 6436,
-    "head": "to fell",
-    "example": "It is hard to fell a tree.",
-    "ru": "валить",
-    "word": "fell",
-    "action": "retain_default",
-    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
   },
   {
     "pack": "russian_english",
@@ -1751,8 +1540,7 @@
     "sense": "fall",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      307,
-      904
+      307
     ],
     "current_target_lemmas": [
       "fall"
@@ -1770,8 +1558,7 @@
     "sense": "fall",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      307,
-      904
+      307
     ],
     "current_target_lemmas": [
       "fall"
@@ -1789,8 +1576,7 @@
     "sense": "fall",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      307,
-      904
+      307
     ],
     "current_target_lemmas": [
       "fall"
@@ -1808,8 +1594,7 @@
     "sense": "fall",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      307,
-      904
+      307
     ],
     "current_target_lemmas": [
       "fall"
@@ -1827,8 +1612,7 @@
     "sense": "fall",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      307,
-      904
+      307
     ],
     "current_target_lemmas": [
       "fall"
@@ -1846,8 +1630,7 @@
     "sense": "fall",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      307,
-      904
+      307
     ],
     "current_target_lemmas": [
       "fall"
@@ -1865,8 +1648,7 @@
     "sense": "fall",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      307,
-      904
+      307
     ],
     "current_target_lemmas": [
       "fall"
@@ -1884,8 +1666,7 @@
     "sense": "fall",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      307,
-      904
+      307
     ],
     "current_target_lemmas": [
       "fall"
@@ -1903,8 +1684,7 @@
     "sense": "fall",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      307,
-      904
+      307
     ],
     "current_target_lemmas": [
       "fall"
@@ -1922,8 +1702,7 @@
     "sense": "fall",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      307,
-      904
+      307
     ],
     "current_target_lemmas": [
       "fall"
@@ -1941,8 +1720,7 @@
     "sense": "fall",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      307,
-      904
+      307
     ],
     "current_target_lemmas": [
       "fall"
@@ -1960,8 +1738,7 @@
     "sense": "fall",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      307,
-      904
+      307
     ],
     "current_target_lemmas": [
       "fall"
@@ -1979,8 +1756,7 @@
     "sense": "fall",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      307,
-      904
+      307
     ],
     "current_target_lemmas": [
       "fall"
@@ -1998,23 +1774,12 @@
     "sense": "leave",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      351,
-      492
+      351
     ],
     "current_target_lemmas": [
       "leave"
     ],
     "reason": "Past of leave, not left-hand direction."
-  },
-  {
-    "pack": "english_russian",
-    "overall": 841,
-    "head": "left",
-    "example": "This is the left hand.",
-    "ru": "левый",
-    "word": "left",
-    "action": "retain_default",
-    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
   },
   {
     "pack": "english_russian",
@@ -2027,8 +1792,7 @@
     "sense": "leave",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      351,
-      492
+      351
     ],
     "current_target_lemmas": [
       "leave"
@@ -2046,8 +1810,7 @@
     "sense": "leave",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      351,
-      492
+      351
     ],
     "current_target_lemmas": [
       "leave"
@@ -2065,8 +1828,7 @@
     "sense": "leave",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      351,
-      492
+      351
     ],
     "current_target_lemmas": [
       "leave"
@@ -2084,8 +1846,7 @@
     "sense": "leave",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      351,
-      492
+      351
     ],
     "current_target_lemmas": [
       "leave"
@@ -2103,23 +1864,12 @@
     "sense": "leave",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      351,
-      492
+      351
     ],
     "current_target_lemmas": [
       "leave"
     ],
     "reason": "Past of leave, not left-hand direction."
-  },
-  {
-    "pack": "english_russian",
-    "overall": 3463,
-    "head": "to the left",
-    "example": "He goes to the left.",
-    "ru": "налево",
-    "word": "left",
-    "action": "retain_default",
-    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
   },
   {
     "pack": "english_russian",
@@ -2132,8 +1882,7 @@
     "sense": "leave",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      351,
-      492
+      351
     ],
     "current_target_lemmas": [
       "leave"
@@ -2151,8 +1900,7 @@
     "sense": "leave",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      351,
-      492
+      351
     ],
     "current_target_lemmas": [
       "leave"
@@ -2170,8 +1918,7 @@
     "sense": "leave",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      351,
-      492
+      351
     ],
     "current_target_lemmas": [
       "leave"
@@ -2189,8 +1936,7 @@
     "sense": "leave",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      351,
-      492
+      351
     ],
     "current_target_lemmas": [
       "leave"
@@ -2208,27 +1954,7 @@
     "sense": "leave",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      351,
-      492
-    ],
-    "current_target_lemmas": [
-      "leave"
-    ],
-    "reason": "Past of leave, not left-hand direction."
-  },
-  {
-    "pack": "english_russian",
-    "overall": 5575,
-    "head": "in the morning",
-    "example": "He left in the morning.",
-    "ru": "утром",
-    "word": "left",
-    "action": "resolve_sense",
-    "sense": "leave",
-    "exact_reference_positions": [],
-    "base_reference_positions": [
-      351,
-      492
+      351
     ],
     "current_target_lemmas": [
       "leave"
@@ -2256,8 +1982,7 @@
     "sense": "leave",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      351,
-      492
+      351
     ],
     "current_target_lemmas": [
       "leave"
@@ -2275,8 +2000,7 @@
     "sense": "leave",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      351,
-      492
+      351
     ],
     "current_target_lemmas": [
       "leave"
@@ -2294,23 +2018,12 @@
     "sense": "leave",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      351,
-      492
+      351
     ],
     "current_target_lemmas": [
       "leave"
     ],
     "reason": "Past of leave, not left-hand direction."
-  },
-  {
-    "pack": "russian_english",
-    "overall": 977,
-    "head": "left",
-    "example": "The left hand.",
-    "ru": "левый",
-    "word": "left",
-    "action": "retain_default",
-    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
   },
   {
     "pack": "russian_english",
@@ -2323,8 +2036,7 @@
     "sense": "leave",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      351,
-      492
+      351
     ],
     "current_target_lemmas": [
       "leave"
@@ -2342,8 +2054,7 @@
     "sense": "leave",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      351,
-      492
+      351
     ],
     "current_target_lemmas": [
       "leave"
@@ -2371,23 +2082,12 @@
     "sense": "leave",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      351,
-      492
+      351
     ],
     "current_target_lemmas": [
       "leave"
     ],
     "reason": "Past of leave, not left-hand direction."
-  },
-  {
-    "pack": "russian_english",
-    "overall": 2758,
-    "head": "on the left",
-    "example": "He's on the left.",
-    "ru": "слева",
-    "word": "left",
-    "action": "retain_default",
-    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
   },
   {
     "pack": "russian_english",
@@ -2400,8 +2100,7 @@
     "sense": "leave",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      351,
-      492
+      351
     ],
     "current_target_lemmas": [
       "leave"
@@ -2419,8 +2118,7 @@
     "sense": "leave",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      351,
-      492
+      351
     ],
     "current_target_lemmas": [
       "leave"
@@ -2438,8 +2136,7 @@
     "sense": "leave",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      351,
-      492
+      351
     ],
     "current_target_lemmas": [
       "leave"
@@ -2457,8 +2154,7 @@
     "sense": "leave",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      351,
-      492
+      351
     ],
     "current_target_lemmas": [
       "leave"
@@ -2476,8 +2172,7 @@
     "sense": "leave",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      351,
-      492
+      351
     ],
     "current_target_lemmas": [
       "leave"
@@ -2495,8 +2190,7 @@
     "sense": "leave",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      351,
-      492
+      351
     ],
     "current_target_lemmas": [
       "leave"
@@ -2514,23 +2208,12 @@
     "sense": "leave",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      351,
-      492
+      351
     ],
     "current_target_lemmas": [
       "leave"
     ],
     "reason": "Past of leave, not left-hand direction."
-  },
-  {
-    "pack": "russian_english",
-    "overall": 4610,
-    "head": "to the left, left",
-    "example": "Go to the left.",
-    "ru": "налево",
-    "word": "left",
-    "action": "retain_default",
-    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
   },
   {
     "pack": "russian_english",
@@ -2543,8 +2226,7 @@
     "sense": "leave",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      351,
-      492
+      351
     ],
     "current_target_lemmas": [
       "leave"
@@ -2562,8 +2244,7 @@
     "sense": "leave",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      351,
-      492
+      351
     ],
     "current_target_lemmas": [
       "leave"
@@ -2576,16 +2257,6 @@
     "head": "faction, fraction",
     "example": "The left faction.",
     "ru": "фракция",
-    "word": "left",
-    "action": "retain_default",
-    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
-  },
-  {
-    "pack": "russian_english",
-    "overall": 5806,
-    "head": "to the left, left",
-    "example": "Look to the left.",
-    "ru": "влево",
     "word": "left",
     "action": "retain_default",
     "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
@@ -2621,8 +2292,7 @@
     "sense": "leave",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      351,
-      492
+      351
     ],
     "current_target_lemmas": [
       "leave"
@@ -2640,8 +2310,7 @@
     "sense": "leave",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      351,
-      492
+      351
     ],
     "current_target_lemmas": [
       "leave"
@@ -2659,8 +2328,7 @@
     "sense": "leave",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      351,
-      492
+      351
     ],
     "current_target_lemmas": [
       "leave"
@@ -2678,8 +2346,7 @@
     "sense": "leave",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      351,
-      492
+      351
     ],
     "current_target_lemmas": [
       "leave"
@@ -2697,8 +2364,7 @@
     "sense": "leave",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      351,
-      492
+      351
     ],
     "current_target_lemmas": [
       "leave"
@@ -2716,8 +2382,7 @@
     "sense": "leave",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      351,
-      492
+      351
     ],
     "current_target_lemmas": [
       "leave"
@@ -2750,26 +2415,6 @@
     "head": "that one",
     "example": "That one is mine.",
     "ru": "то",
-    "word": "mine",
-    "action": "resolve_sense",
-    "sense": "possessive",
-    "exact_reference_positions": [],
-    "base_reference_positions": [
-      5
-    ],
-    "current_target_lemmas": [
-      "i",
-      "my",
-      "mine"
-    ],
-    "reason": "Possessive pronoun, not an explosive device or excavation."
-  },
-  {
-    "pack": "russian_english",
-    "overall": 51,
-    "head": "my, mine",
-    "example": "That's mine.",
-    "ru": "мой",
     "word": "mine",
     "action": "resolve_sense",
     "sense": "possessive",
@@ -2825,57 +2470,6 @@
     "reason": "Possessive pronoun, not an explosive device or excavation."
   },
   {
-    "pack": "russian_english",
-    "overall": 2589,
-    "head": "mine",
-    "example": "Danger — a mine!",
-    "ru": "мина",
-    "word": "mine",
-    "action": "retain_default",
-    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
-  },
-  {
-    "pack": "russian_english",
-    "overall": 5641,
-    "head": "mine, shaft",
-    "example": "The mine is closed.",
-    "ru": "шахта",
-    "word": "mine",
-    "action": "retain_default",
-    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
-  },
-  {
-    "pack": "english_russian",
-    "overall": 1363,
-    "head": "found",
-    "example": "They want to found a new school.",
-    "ru": "основать",
-    "word": "found",
-    "action": "retain_default",
-    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
-  },
-  {
-    "pack": "english_russian",
-    "overall": 1650,
-    "head": "to be found",
-    "example": "The key will be found.",
-    "ru": "найтись",
-    "word": "found",
-    "action": "resolve_sense",
-    "sense": "find",
-    "exact_reference_positions": [
-      1650
-    ],
-    "base_reference_positions": [
-      143,
-      939
-    ],
-    "current_target_lemmas": [
-      "find"
-    ],
-    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
-  },
-  {
     "pack": "english_russian",
     "overall": 2022,
     "head": "note",
@@ -2888,8 +2482,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -2909,8 +2502,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -2930,8 +2522,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -2951,8 +2542,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -2972,8 +2562,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -2993,8 +2582,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -3014,8 +2602,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -3035,8 +2622,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -3056,8 +2642,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -3077,8 +2662,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -3098,8 +2682,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -3119,8 +2702,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -3140,8 +2722,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -3161,8 +2742,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -3182,8 +2762,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -3203,8 +2782,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -3224,8 +2802,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -3245,8 +2822,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -3266,8 +2842,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -3287,8 +2862,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -3308,8 +2882,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -3329,8 +2902,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -3350,8 +2922,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -3361,9 +2932,9 @@
   {
     "pack": "english_russian",
     "overall": 4073,
-    "head": "special service",
-    "example": "The special service found the man.",
-    "ru": "спецслужба (разведка или безопасность); специальная служба",
+    "head": "intelligence service",
+    "example": "The intelligence service found the man.",
+    "ru": "спецслужба; разведывательная служба",
     "word": "found",
     "action": "resolve_sense",
     "sense": "find",
@@ -3371,8 +2942,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -3392,8 +2962,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -3413,8 +2982,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -3434,8 +3002,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -3455,8 +3022,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -3476,8 +3042,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -3497,8 +3062,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -3518,8 +3082,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -3539,8 +3102,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -3560,8 +3122,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -3581,8 +3142,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -3602,8 +3162,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -3623,8 +3182,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -3644,8 +3202,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -3665,8 +3222,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -3686,8 +3242,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -3707,8 +3262,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -3728,8 +3282,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -3749,8 +3302,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -3770,8 +3322,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -3791,8 +3342,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -3812,29 +3362,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
-    ],
-    "current_target_lemmas": [
-      "find"
-    ],
-    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
-  },
-  {
-    "pack": "english_russian",
-    "overall": 6788,
-    "head": "little shop",
-    "example": "I found a little shop.",
-    "ru": "магазинчик",
-    "word": "found",
-    "action": "resolve_sense",
-    "sense": "find",
-    "exact_reference_positions": [
-      1650
-    ],
-    "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -3854,8 +3382,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -3875,8 +3402,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -3896,8 +3422,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -3917,29 +3442,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
-    ],
-    "current_target_lemmas": [
-      "find"
-    ],
-    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
-  },
-  {
-    "pack": "english_russian",
-    "overall": 7318,
-    "head": "little restaurant",
-    "example": "We found a cozy little restaurant.",
-    "ru": "ресторанчик",
-    "word": "found",
-    "action": "resolve_sense",
-    "sense": "find",
-    "exact_reference_positions": [
-      1650
-    ],
-    "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -3959,44 +3462,12 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
     ],
     "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
-  },
-  {
-    "pack": "english_russian",
-    "overall": 7381,
-    "head": "little bag",
-    "example": "She found coins in the little bag.",
-    "ru": "мешочек",
-    "word": "found",
-    "action": "resolve_sense",
-    "sense": "find",
-    "exact_reference_positions": [
-      1650
-    ],
-    "base_reference_positions": [
-      143,
-      939
-    ],
-    "current_target_lemmas": [
-      "find"
-    ],
-    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
-  },
-  {
-    "pack": "english_russian",
-    "overall": 7481,
-    "head": "to found",
-    "example": "He wants to found a new city.",
-    "ru": "основать",
-    "word": "found",
-    "action": "retain_default",
-    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
   },
   {
     "pack": "english_russian",
@@ -4011,8 +3482,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -4032,8 +3502,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -4053,8 +3522,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -4074,29 +3542,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
-    ],
-    "current_target_lemmas": [
-      "find"
-    ],
-    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
-  },
-  {
-    "pack": "english_russian",
-    "overall": 7932,
-    "head": "sought",
-    "example": "The sought document was finally found.",
-    "ru": "искомый",
-    "word": "found",
-    "action": "resolve_sense",
-    "sense": "find",
-    "exact_reference_positions": [
-      1650
-    ],
-    "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -4116,8 +3562,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -4137,8 +3582,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -4158,8 +3602,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -4179,8 +3622,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -4200,8 +3642,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -4221,8 +3662,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -4242,8 +3682,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -4263,8 +3702,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -4284,8 +3722,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -4305,8 +3742,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -4326,8 +3762,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -4347,8 +3782,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -4368,8 +3802,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -4389,92 +3822,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
-    ],
-    "current_target_lemmas": [
-      "find"
-    ],
-    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
-  },
-  {
-    "pack": "english_russian",
-    "overall": 9550,
-    "head": "insufficiency, deficiency",
-    "example": "The doctor found heart insufficiency.",
-    "ru": "недостаточность",
-    "word": "found",
-    "action": "resolve_sense",
-    "sense": "find",
-    "exact_reference_positions": [
-      1650
-    ],
-    "base_reference_positions": [
-      143,
-      939
-    ],
-    "current_target_lemmas": [
-      "find"
-    ],
-    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
-  },
-  {
-    "pack": "english_russian",
-    "overall": 9553,
-    "head": "migrant, immigrant",
-    "example": "The migrant found work.",
-    "ru": "мигрант",
-    "word": "found",
-    "action": "resolve_sense",
-    "sense": "find",
-    "exact_reference_positions": [
-      1650
-    ],
-    "base_reference_positions": [
-      143,
-      939
-    ],
-    "current_target_lemmas": [
-      "find"
-    ],
-    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
-  },
-  {
-    "pack": "english_russian",
-    "overall": 9609,
-    "head": "fellow traveler, companion",
-    "example": "He found a fellow traveler.",
-    "ru": "попутчик",
-    "word": "found",
-    "action": "resolve_sense",
-    "sense": "find",
-    "exact_reference_positions": [
-      1650
-    ],
-    "base_reference_positions": [
-      143,
-      939
-    ],
-    "current_target_lemmas": [
-      "find"
-    ],
-    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
-  },
-  {
-    "pack": "english_russian",
-    "overall": 9640,
-    "head": "pebble, small stone",
-    "example": "I found a pebble.",
-    "ru": "камешек",
-    "word": "found",
-    "action": "resolve_sense",
-    "sense": "find",
-    "exact_reference_positions": [
-      1650
-    ],
-    "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -4484,9 +3832,9 @@
   {
     "pack": "english_russian",
     "overall": 9825,
-    "head": "treasure, stash",
-    "example": "They found ancient treasure.",
-    "ru": "клад",
+    "head": "stash",
+    "example": "They found a stash of food in the house.",
+    "ru": "запас (обычно скрытый)",
     "word": "found",
     "action": "resolve_sense",
     "sense": "find",
@@ -4494,50 +3842,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
-    ],
-    "current_target_lemmas": [
-      "find"
-    ],
-    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
-  },
-  {
-    "pack": "english_russian",
-    "overall": 9873,
-    "head": "rod, bar",
-    "example": "I found a rod.",
-    "ru": "прут",
-    "word": "found",
-    "action": "resolve_sense",
-    "sense": "find",
-    "exact_reference_positions": [
-      1650
-    ],
-    "base_reference_positions": [
-      143,
-      939
-    ],
-    "current_target_lemmas": [
-      "find"
-    ],
-    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
-  },
-  {
-    "pack": "english_russian",
-    "overall": 9902,
-    "head": "by touch, to the touch",
-    "example": "He found the key by touch.",
-    "ru": "на ощупь",
-    "word": "found",
-    "action": "resolve_sense",
-    "sense": "find",
-    "exact_reference_positions": [
-      1650
-    ],
-    "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -4557,8 +3862,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -4578,8 +3882,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -4599,8 +3902,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -4620,8 +3922,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -4641,8 +3942,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -4662,8 +3962,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -4683,8 +3982,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -4704,8 +4002,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -4725,8 +4022,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -4746,29 +4042,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
-    ],
-    "current_target_lemmas": [
-      "find"
-    ],
-    "reason": "Past/participle of find; ignore found = establish, but retain to be found at #1650."
-  },
-  {
-    "pack": "russian_english",
-    "overall": 5755,
-    "head": "to be found, to turn up",
-    "example": "The keys were found.",
-    "ru": "обнаружиться",
-    "word": "found",
-    "action": "resolve_sense",
-    "sense": "find",
-    "exact_reference_positions": [
-      1650
-    ],
-    "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -4788,8 +4062,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -4809,8 +4082,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -4830,8 +4102,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -4851,8 +4122,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -4872,8 +4142,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -4893,8 +4162,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -4914,8 +4182,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -4935,8 +4202,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -4956,8 +4222,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -4977,8 +4242,7 @@
       1650
     ],
     "base_reference_positions": [
-      143,
-      939
+      143
     ],
     "current_target_lemmas": [
       "find"
@@ -5101,25 +4365,6 @@
   },
   {
     "pack": "english_russian",
-    "overall": 3493,
-    "head": "to pull out",
-    "example": "He managed to pull out the tooth.",
-    "ru": "вырвать",
-    "word": "managed",
-    "action": "resolve_sense",
-    "sense": "succeed",
-    "exact_reference_positions": [],
-    "base_reference_positions": [
-      530,
-      1732
-    ],
-    "current_target_lemmas": [
-      "manage"
-    ],
-    "reason": "Manage to accomplish something, not control/operate machinery."
-  },
-  {
-    "pack": "english_russian",
     "overall": 3922,
     "head": "persuade",
     "example": "I managed to persuade my friend.",
@@ -5193,16 +4438,6 @@
       "manage"
     ],
     "reason": "Manage to accomplish something, not control/operate machinery."
-  },
-  {
-    "pack": "english_russian",
-    "overall": 5886,
-    "head": "to be managed",
-    "example": "This machine is easily managed.",
-    "ru": "управляться",
-    "word": "managed",
-    "action": "retain_default",
-    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
   },
   {
     "pack": "english_russian",
@@ -5386,8 +4621,7 @@
     "sense": "go_in",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      503,
-      609
+      503
     ],
     "current_target_lemmas": [
       "enter"
@@ -5405,8 +4639,7 @@
     "sense": "go_in",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      503,
-      609
+      503
     ],
     "current_target_lemmas": [
       "enter"
@@ -5424,8 +4657,7 @@
     "sense": "go_in",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      503,
-      609
+      503
     ],
     "current_target_lemmas": [
       "enter"
@@ -5443,27 +4675,7 @@
     "sense": "go_in",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      503,
-      609
-    ],
-    "current_target_lemmas": [
-      "enter"
-    ],
-    "reason": "Go into a place/group, not enter a name/data in a record."
-  },
-  {
-    "pack": "english_russian",
-    "overall": 7047,
-    "head": "tsarevich",
-    "example": "The tsarevich entered the hall.",
-    "ru": "царевич",
-    "word": "entered",
-    "action": "resolve_sense",
-    "sense": "go_in",
-    "exact_reference_positions": [],
-    "base_reference_positions": [
-      503,
-      609
+      503
     ],
     "current_target_lemmas": [
       "enter"
@@ -5481,8 +4693,7 @@
     "sense": "go_in",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      503,
-      609
+      503
     ],
     "current_target_lemmas": [
       "enter"
@@ -5500,8 +4711,7 @@
     "sense": "go_in",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      503,
-      609
+      503
     ],
     "current_target_lemmas": [
       "enter"
@@ -5519,37 +4729,7 @@
     "sense": "go_in",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      503,
-      609
-    ],
-    "current_target_lemmas": [
-      "enter"
-    ],
-    "reason": "Go into a place/group, not enter a name/data in a record."
-  },
-  {
-    "pack": "english_russian",
-    "overall": 8681,
-    "head": "to be entered",
-    "example": "The name is entered here.",
-    "ru": "вноситься",
-    "word": "entered",
-    "action": "retain_default",
-    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
-  },
-  {
-    "pack": "english_russian",
-    "overall": 9109,
-    "head": "master's",
-    "example": "He entered the master's house.",
-    "ru": "хозяйский",
-    "word": "entered",
-    "action": "resolve_sense",
-    "sense": "go_in",
-    "exact_reference_positions": [],
-    "base_reference_positions": [
-      503,
-      609
+      503
     ],
     "current_target_lemmas": [
       "enter"
@@ -5567,8 +4747,7 @@
     "sense": "go_in",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      503,
-      609
+      503
     ],
     "current_target_lemmas": [
       "enter"
@@ -5586,8 +4765,7 @@
     "sense": "go_in",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      503,
-      609
+      503
     ],
     "current_target_lemmas": [
       "enter"
@@ -5605,8 +4783,7 @@
     "sense": "go_in",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      503,
-      609
+      503
     ],
     "current_target_lemmas": [
       "enter"
@@ -5624,8 +4801,7 @@
     "sense": "go_in",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      503,
-      609
+      503
     ],
     "current_target_lemmas": [
       "enter"
@@ -5643,8 +4819,7 @@
     "sense": "go_in",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      503,
-      609
+      503
     ],
     "current_target_lemmas": [
       "enter"
@@ -5662,8 +4837,7 @@
     "sense": "go_in",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      503,
-      609
+      503
     ],
     "current_target_lemmas": [
       "enter"
@@ -5681,8 +4855,7 @@
     "sense": "go_in",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      503,
-      609
+      503
     ],
     "current_target_lemmas": [
       "enter"
@@ -5700,8 +4873,7 @@
     "sense": "go_in",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      503,
-      609
+      503
     ],
     "current_target_lemmas": [
       "enter"
@@ -5719,23 +4891,12 @@
     "sense": "go_in",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      503,
-      609
+      503
     ],
     "current_target_lemmas": [
       "enter"
     ],
     "reason": "Go into a place/group, not enter a name/data in a record."
-  },
-  {
-    "pack": "english_russian",
-    "overall": 1419,
-    "head": "to be held",
-    "example": "The meeting will be held tomorrow.",
-    "ru": "проводиться",
-    "word": "held",
-    "action": "retain_default",
-    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
   },
   {
     "pack": "english_russian",
@@ -5957,16 +5118,6 @@
   },
   {
     "pack": "russian_english",
-    "overall": 1712,
-    "head": "to be held",
-    "example": "The meeting will be held tomorrow.",
-    "ru": "проводиться",
-    "word": "held",
-    "action": "retain_default",
-    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
-  },
-  {
-    "pack": "russian_english",
     "overall": 7158,
     "head": "feast, banquet",
     "example": "We held a feast.",
@@ -6002,46 +5153,6 @@
       "hold"
     ],
     "reason": "Holding hands, not a holding company."
-  },
-  {
-    "pack": "english_russian",
-    "overall": 5620,
-    "head": "holding",
-    "example": "The company is a global holding.",
-    "ru": "холдинг",
-    "word": "holding",
-    "action": "retain_default",
-    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
-  },
-  {
-    "pack": "russian_english",
-    "overall": 1133,
-    "head": "holding, conducting",
-    "example": "Holding the meeting is important.",
-    "ru": "проведение",
-    "word": "holding",
-    "action": "retain_default",
-    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
-  },
-  {
-    "pack": "russian_english",
-    "overall": 7912,
-    "head": "holding company",
-    "example": "This is a large holding company.",
-    "ru": "холдинг",
-    "word": "holding",
-    "action": "retain_default",
-    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
-  },
-  {
-    "pack": "english_russian",
-    "overall": 5798,
-    "head": "calling",
-    "example": "This work is her calling.",
-    "ru": "призвание",
-    "word": "calling",
-    "action": "retain_default",
-    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
   },
   {
     "pack": "russian_english",
@@ -6081,26 +5192,6 @@
   },
   {
     "pack": "russian_english",
-    "overall": 8183,
-    "head": "calling, vocation",
-    "example": "This is my calling.",
-    "ru": "призвание",
-    "word": "calling",
-    "action": "retain_default",
-    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
-  },
-  {
-    "pack": "english_russian",
-    "overall": 2721,
-    "head": "setting",
-    "example": "This setting is important.",
-    "ru": "настройка",
-    "word": "setting",
-    "action": "retain_default",
-    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
-  },
-  {
-    "pack": "russian_english",
     "overall": 2189,
     "head": "to set in",
     "example": "Winter is setting in.",
@@ -6117,41 +5208,11 @@
   },
   {
     "pack": "russian_english",
-    "overall": 3524,
-    "head": "setting, adjustment",
-    "example": "Check this setting.",
-    "ru": "настройка",
-    "word": "setting",
-    "action": "retain_default",
-    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
-  },
-  {
-    "pack": "russian_english",
     "overall": 4716,
     "head": "to set, to descend",
     "example": "The sun is setting.",
     "ru": "опускаться",
     "word": "setting",
-    "action": "retain_default",
-    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
-  },
-  {
-    "pack": "russian_english",
-    "overall": 7038,
-    "head": "setting (of a celestial body), approach",
-    "example": "We waited for the setting of the sun.",
-    "ru": "заход",
-    "word": "setting",
-    "action": "retain_default",
-    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
-  },
-  {
-    "pack": "english_russian",
-    "overall": 4437,
-    "head": "to be realized",
-    "example": "The plan was realized.",
-    "ru": "реализоваться",
-    "word": "realized",
     "action": "retain_default",
     "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
   },
@@ -6195,16 +5256,6 @@
   },
   {
     "pack": "russian_english",
-    "overall": 6043,
-    "head": "to be realized",
-    "example": "The plan was realized.",
-    "ru": "реализоваться",
-    "word": "realized",
-    "action": "retain_default",
-    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
-  },
-  {
-    "pack": "russian_english",
     "overall": 9576,
     "head": "realize, catch oneself",
     "example": "He realized it too late.",
@@ -6223,16 +5274,6 @@
     "reason": "Realize = understand, not realize/implement a plan."
   },
   {
-    "pack": "english_russian",
-    "overall": 6674,
-    "head": "finishing",
-    "example": "The room's finishing is complete.",
-    "ru": "отделка",
-    "word": "finishing",
-    "action": "retain_default",
-    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
-  },
-  {
     "pack": "russian_english",
     "overall": 3791,
     "head": "to finish, to complete",
@@ -6243,33 +5284,12 @@
     "sense": "complete",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      979,
-      2551
+      979
     ],
     "current_target_lemmas": [
       "finish"
     ],
     "reason": "Complete work, not a surface finish/trim."
-  },
-  {
-    "pack": "russian_english",
-    "overall": 9571,
-    "head": "finishing, trim",
-    "example": "The finishing work on the house is complete.",
-    "ru": "отделка",
-    "word": "finishing",
-    "action": "retain_default",
-    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
-  },
-  {
-    "pack": "english_russian",
-    "overall": 7034,
-    "head": "recognized",
-    "example": "He was recognized as a good player.",
-    "ru": "признанный",
-    "word": "recognized",
-    "action": "retain_default",
-    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
   },
   {
     "pack": "russian_english",
@@ -6282,24 +5302,12 @@
     "sense": "identify",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      1060,
-      9601,
-      9630
+      1060
     ],
     "current_target_lemmas": [
       "recognize"
     ],
-    "reason": "Identify a person, not acknowledge/acclaim someone."
-  },
-  {
-    "pack": "english_russian",
-    "overall": 2848,
-    "head": "living room",
-    "example": "We sat in the living room.",
-    "ru": "гостиная",
-    "word": "living",
-    "action": "retain_default",
-    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
+    "reason": "Identifying a person by familiarity, not acknowledging or acclaiming someone."
   },
   {
     "pack": "english_russian",
@@ -6312,8 +5320,7 @@
     "sense": "alive_or_residing",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      112,
-      1948
+      112
     ],
     "current_target_lemmas": [
       "live"
@@ -6331,8 +5338,7 @@
     "sense": "alive_or_residing",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      112,
-      1948
+      112
     ],
     "current_target_lemmas": [
       "live"
@@ -6350,52 +5356,12 @@
     "sense": "alive_or_residing",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      112,
-      1948
+      112
     ],
     "current_target_lemmas": [
       "live"
     ],
     "reason": "Living/alive/residing, not the room-name compound living room."
-  },
-  {
-    "pack": "russian_english",
-    "overall": 3714,
-    "head": "living room, lounge",
-    "example": "We are in the living room.",
-    "ru": "гостиная",
-    "word": "living",
-    "action": "retain_default",
-    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
-  },
-  {
-    "pack": "russian_english",
-    "overall": 4509,
-    "head": "living",
-    "example": "Living here is expensive.",
-    "ru": "проживание",
-    "word": "living",
-    "action": "resolve_sense",
-    "sense": "alive_or_residing",
-    "exact_reference_positions": [],
-    "base_reference_positions": [
-      112,
-      1948
-    ],
-    "current_target_lemmas": [
-      "live"
-    ],
-    "reason": "Living/alive/residing, not the room-name compound living room."
-  },
-  {
-    "pack": "english_russian",
-    "overall": 8862,
-    "head": "moving",
-    "example": "Fear is the moving force.",
-    "ru": "движущий",
-    "word": "moving",
-    "action": "retain_default",
-    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
   },
   {
     "pack": "russian_english",
@@ -6410,12 +5376,12 @@
     "base_reference_positions": [
       3970,
       4099,
-      9631
+      6591
     ],
     "current_target_lemmas": [
       "move"
     ],
-    "reason": "Physical movement, not moving = driving/causal force or emotionally touching."
+    "reason": "Relocating to a new home is a physical-movement sense, not a driving force or emotional effect."
   },
   {
     "pack": "english_russian",
@@ -6423,25 +5389,6 @@
     "head": "enumerate",
     "example": "Please enumerate the names.",
     "ru": "перечислять",
-    "word": "names",
-    "action": "resolve_sense",
-    "sense": "identifiers",
-    "exact_reference_positions": [],
-    "base_reference_positions": [
-      174,
-      476
-    ],
-    "current_target_lemmas": [
-      "name"
-    ],
-    "reason": "Personal names or naming, not insults in call names."
-  },
-  {
-    "pack": "english_russian",
-    "overall": 5430,
-    "head": "to confuse",
-    "example": "I did not confuse the names.",
-    "ru": "перепутать",
     "word": "names",
     "action": "resolve_sense",
     "sense": "identifiers",
@@ -6514,32 +5461,21 @@
   },
   {
     "pack": "english_russian",
-    "overall": 8074,
-    "head": "to call names",
-    "example": "He called him names.",
-    "ru": "обозвать",
-    "word": "names",
-    "action": "retain_default",
-    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
-  },
-  {
-    "pack": "english_russian",
     "overall": 9696,
-    "head": "confuse, mix up",
-    "example": "Do not confuse the names.",
-    "ru": "спутать",
+    "head": "to mix up",
+    "example": "Do not mix up the names.",
+    "ru": "путать; перепутать",
     "word": "names",
     "action": "resolve_sense",
     "sense": "identifiers",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      174,
-      476
+      174
     ],
     "current_target_lemmas": [
       "name"
     ],
-    "reason": "Personal names or naming, not insults in call names."
+    "reason": "Plural of the personal noun name, referring to people’s names."
   },
   {
     "pack": "russian_english",
@@ -6828,25 +5764,6 @@
   },
   {
     "pack": "english_russian",
-    "overall": 5888,
-    "head": "Gypsy",
-    "example": "The Gypsy played the violin.",
-    "ru": "цыган (английское Gypsy может восприниматься как оскорбительное)",
-    "word": "played",
-    "action": "resolve_sense",
-    "sense": "recreation",
-    "exact_reference_positions": [],
-    "base_reference_positions": [
-      317,
-      1619
-    ],
-    "current_target_lemmas": [
-      "play"
-    ],
-    "reason": "Recreational or musical play, not play out/enact a scene."
-  },
-  {
-    "pack": "english_russian",
     "overall": 5918,
     "head": "kids",
     "example": "The kids played joyfully outside.",
@@ -7037,16 +5954,6 @@
   },
   {
     "pack": "english_russian",
-    "overall": 9251,
-    "head": "to be played out",
-    "example": "The scene is being played out.",
-    "ru": "разыгрываться",
-    "word": "played",
-    "action": "retain_default",
-    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
-  },
-  {
-    "pack": "english_russian",
     "overall": 9326,
     "head": "drummer",
     "example": "The drummer played loudly.",
@@ -7113,8 +6020,7 @@
     "sense": "transport",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      395,
-      717
+      395
     ],
     "current_target_lemmas": [
       "bring"
@@ -7132,23 +6038,12 @@
     "sense": "transport",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      395,
-      717
+      395
     ],
     "current_target_lemmas": [
       "bring"
     ],
     "reason": "Bring/deliver, not bring up = raise a child."
-  },
-  {
-    "pack": "english_russian",
-    "overall": 7418,
-    "head": "to be brought up",
-    "example": "She was brought up in this house.",
-    "ru": "воспитываться",
-    "word": "brought",
-    "action": "retain_default",
-    "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
   },
   {
     "pack": "english_russian",
@@ -7171,25 +6066,6 @@
     "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
   },
   {
-    "pack": "english_russian",
-    "overall": 9989,
-    "head": "adjutant, aide-de-camp",
-    "example": "The adjutant brought the letter.",
-    "ru": "адъютант",
-    "word": "brought",
-    "action": "resolve_sense",
-    "sense": "transport",
-    "exact_reference_positions": [],
-    "base_reference_positions": [
-      395,
-      717
-    ],
-    "current_target_lemmas": [
-      "bring"
-    ],
-    "reason": "Bring/deliver, not bring up = raise a child."
-  },
-  {
     "pack": "russian_english",
     "overall": 6477,
     "head": "messenger",
@@ -7200,8 +6076,7 @@
     "sense": "transport",
     "exact_reference_positions": [],
     "base_reference_positions": [
-      395,
-      717
+      395
     ],
     "current_target_lemmas": [
       "bring"
@@ -7227,5 +6102,113 @@
     "word": "brought",
     "action": "retain_default",
     "reason": "Different/uncertain contextual sense; do not apply the general resolution for this word."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 1683,
+    "head": "beam",
+    "example": "A beam of light fell on the table.",
+    "ru": "луч",
+    "word": "fell",
+    "action": "resolve_sense",
+    "sense": "past of fall (land or drop)",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      307
+    ],
+    "current_target_lemmas": [
+      "fall"
+    ],
+    "reason": "“Fell” is the irregular past of “fall” here: the light landed on the table. Earlier target #307 “to fall” teaches this use; it is not the later tree-cutting verb “to fell” at #4687."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 6876,
+    "head": "enumeration",
+    "example": "The enumeration of names is long.",
+    "ru": "перечисление",
+    "word": "names",
+    "action": "resolve_sense",
+    "sense": "plural personal names (identifiers)",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      174
+    ],
+    "current_target_lemmas": [
+      "name"
+    ],
+    "reason": "“Names” is the ordinary plural of the personal-identifier noun “name,” taught at #174. It does not use the later fixed phrase “to call names” (#8074, insult someone)."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 9651,
+    "head": "to degrade",
+    "example": "They degraded him in front of others.",
+    "ru": "унижать; обращаться унизительно",
+    "word": "others",
+    "action": "resolve_sense",
+    "sense": "other people (substantivized plural of other)",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      309
+    ],
+    "current_target_lemmas": [
+      "other"
+    ],
+    "reason": "“Others” means other people in the common phrase “in front of others”; this is the transparent substantivized plural of the earlier target “other” at #309."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 2592,
+    "head": "trace",
+    "example": "I saw a trace of paint.",
+    "ru": "след; следы",
+    "word": "saw",
+    "action": "resolve_sense",
+    "sense": "see",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      93
+    ],
+    "current_target_lemmas": [
+      "see"
+    ],
+    "reason": "Past of see in the sense of perceive visually, not the saw used to cut. The earlier target #93 is to see."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 3039,
+    "head": "grief",
+    "example": "She felt grief.",
+    "ru": "горе; скорбь",
+    "word": "felt",
+    "action": "resolve_sense",
+    "sense": "feel",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      342
+    ],
+    "current_target_lemmas": [
+      "feel"
+    ],
+    "reason": "Irregular past of feel, meaning to experience grief. Earlier target #342 teaches to feel; later #3236 to be felt is a separate passive/perceptibility use."
+  },
+  {
+    "pack": "english_russian",
+    "overall": 7485,
+    "head": "superintendent",
+    "example": "The superintendent fixed the door.",
+    "ru": "управляющий зданием",
+    "word": "fixed",
+    "action": "resolve_sense",
+    "sense": "fix",
+    "exact_reference_positions": [],
+    "base_reference_positions": [
+      6759
+    ],
+    "current_target_lemmas": [
+      "fix"
+    ],
+    "reason": "Past of fix in the repair sense: the superintendent repaired a door. Earlier target #6759 teaches to fix; later #7519 to be fixed is a passive/set-state sense."
   }
 ]

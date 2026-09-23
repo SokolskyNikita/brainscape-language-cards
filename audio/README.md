@@ -54,14 +54,16 @@ gh release download live-audio-2026-09-23 \
 (cd /tmp/brainscape-audio-download && shasum -a 256 -c SHA256SUMS)
 mkdir -p audio/current
 for archive in /tmp/brainscape-audio-download/*.zip; do
-  unzip -n "$archive" -d audio/current
+  unzip -o "$archive" -d audio/current
 done
 (cd audio/current && shasum -a 256 -c ../files.sha256)
 ```
 
 You can also download the ZIP files from the links above and extract both into
 `audio/current/`. No Brainscape login or API client is needed to download or play
-the recordings. `unzip -n` preserves existing local files.
+the recordings. `unzip -o` replaces older cached versions with the current
+recordings. Use the latest repository checkout so `files.sha256` matches the
+current release.
 
 ## Rebuild the current package
 

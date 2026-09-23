@@ -1,13 +1,13 @@
 {
   "schema": "brainscape-current-audio-assets-v1",
   "release": "live-audio-2026-09-23",
-  "verified_at": "2026-09-23T03:09:54.775482+00:00",
+  "verified_at": "2026-09-23T21:43:29+00:00",
   "assets": [
     {
       "name": "english-russian-audio.zip",
       "files": 10000,
-      "bytes": 522547523,
-      "sha256": "f0f1bf26ad54278a582ae7e13d5d4b0814b153a04f1aae88c712630718bfb8ef",
+      "bytes": 518049871,
+      "sha256": "7294a098377320a8567d02fee00e50c1895b28bd63c7f1b4616deae4d4e9738e",
       "url": "https://github.com/SokolskyNikita/brainscape-language-cards/releases/download/live-audio-2026-09-23/english-russian-audio.zip"
     },
     {

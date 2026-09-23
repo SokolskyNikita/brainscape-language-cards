@@ -177,15 +177,15 @@ The ball is on the table.","шар; мяч
 Шар на столе."
 "# Translate:
 
-to remember
+occasion
 
 ## Footnote
 
-I remember his name.","помнить
+This is a special occasion.","событие
 
 ## Footnote
 
-Я помню его имя."
+Это особое событие."
 "# Translate:
 
 politician
@@ -1039,11 +1039,11 @@ context
 
 ## Footnote
 
-This is the context.","контекст
+I need more context.","контекст
 
 ## Footnote
 
-Это контекст."
+Мне нужно больше контекста."
 "# Translate:
 
 copy
@@ -1882,15 +1882,15 @@ I want to warn you.","предупредить
 Я хочу предупредить вас."
 "# Translate:
 
-to worry
+to attend
 
 ## Footnote
 
-I worry.","волноваться
+I attend this school.","посещать
 
 ## Footnote
 
-Я волнуюсь."
+Я учусь в этой школе."
 "# Translate:
 
 musician
@@ -1992,15 +1992,15 @@ I eat an apple every morning.","яблоко
 Я ем яблоко каждое утро."
 "# Translate:
 
-to declare
+turkey
 
 ## Footnote
 
-They declare this every year.","заявлять
+We eat turkey.","индейка
 
 ## Footnote
 
-Они заявляют это каждый год."
+Мы едим индейку."
 "# Translate:
 
 locality
@@ -2025,15 +2025,15 @@ The expedition is in the mountains.","экспедиция
 Экспедиция в горах."
 "# Translate:
 
-to earn
+downstairs
 
 ## Footnote
 
-She earns enough.","зарабатывать
+He is downstairs.","внизу
 
 ## Footnote
 
-Она зарабатывает достаточно."
+Он внизу."
 "# Translate:
 
 progress
@@ -2278,15 +2278,15 @@ He speaks freely.","свободно
 Он свободно говорит."
 "# Translate:
 
-author's
+to locate
 
 ## Footnote
 
-I love the author's unique style.","авторский
+They can locate the house.","найти
 
 ## Footnote
 
-Мне нравится уникальный авторский стиль."
+Они могут найти дом."
 "# Translate:
 
 knock down
@@ -2432,15 +2432,15 @@ This rule is applied everywhere.","применяться
 Это правило применяется везде."
 "# Translate:
 
-to lie down
+underneath
 
 ## Footnote
 
-I lie down early.","ложиться
+The book is underneath the table.","под
 
 ## Footnote
 
-Я ложусь рано."
+Книга лежит под столом."
 "# Translate:
 
 insist
@@ -2729,15 +2729,15 @@ We want to get rid of this.","избавиться
 Мы хотим избавиться от этого."
 "# Translate:
 
-hide
+campus
 
 ## Footnote
 
-I want to hide this.","скрыть
+I live near the campus.","кампус
 
 ## Footnote
 
-Я хочу скрыть это."
+Я живу рядом с кампусом."
 "# Translate:
 
 ecological
@@ -2777,11 +2777,11 @@ component
 
 ## Footnote
 
-This component is important.","компонент
+This component is part of the system.","компонент
 
 ## Footnote
 
-Этот компонент важен."
+Этот компонент — часть системы."
 "# Translate:
 
 violate
@@ -2839,15 +2839,15 @@ His contribution is important.","вклад
 Его вклад важен."
 "# Translate:
 
-to prove
+helpful
 
 ## Footnote
 
-He wants to prove this.","доказать
+This is helpful.","полезный
 
 ## Footnote
 
-Он хочет доказать это."
+Это полезно."
 "# Translate:
 
 to be observed
@@ -3125,15 +3125,15 @@ The activist works.","активист
 Активист работает."
 "# Translate:
 
-to advise
+cruise
 
 ## Footnote
 
-I want to advise you to wait.","посоветовать
+They can take a cruise.","круиз
 
 ## Footnote
 
-Я хочу посоветовать вам подождать."
+Они могут отправиться в круиз."
 "# Translate:
 
 steering wheel
@@ -3180,15 +3180,15 @@ He came twice.","дважды
 Он пришёл дважды."
 "# Translate:
 
-to descend
+net
 
 ## Footnote
 
-We began to descend the mountain.","спускаться
+The fish is in the net.","сеть
 
 ## Footnote
 
-Мы начали спускаться с горы."
+Рыба в сети."
 "# Translate:
 
 candle
@@ -3290,15 +3290,15 @@ My spouse is at home.","супруг
 Мой супруг дома."
 "# Translate:
 
-to install
+bean
 
 ## Footnote
 
-I need to install this.","установить
+I like beans.","фасоль
 
 ## Footnote
 
-Мне нужно установить это."
+Мне нравится фасоль."
 "# Translate:
 
 mission
@@ -3510,15 +3510,15 @@ He is a philosopher.","философ
 Он философ."
 "# Translate:
 
-to hand in
+butter
 
 ## Footnote
 
-I hand in the work.","сдавать
+I put butter on bread.","сливочное масло
 
 ## Footnote
 
-Я сдаю работу."
+Я намазал хлеб сливочным маслом."
 "# Translate:
 
 tribe
@@ -3668,11 +3668,11 @@ trunk
 
 ## Footnote
 
-The trunk is big.","ствол
+The tree trunk is big.","ствол
 
 ## Footnote
 
-Ствол большой."
+Ствол дерева большой."
 "# Translate:
 
 to complete
@@ -4251,11 +4251,11 @@ shell
 
 ## Footnote
 
-The shell is nearby.","снаряд
+The shell hit the wall.","снаряд
 
 ## Footnote
 
-Снаряд рядом."
+Снаряд попал в стену."
 "# Translate:
 
 crazy
@@ -4412,15 +4412,15 @@ The house will fall to my son.","достаться
 Дом достанется моему сыну."
 "# Translate:
 
-undertake
+carpet
 
 ## Footnote
 
-I will undertake this task.","взяться за
+This carpet is red.","ковёр
 
 ## Footnote
 
-Я возьмусь за эту задачу."
+Этот ковёр красный."
 "# Translate:
 
 location
@@ -4581,7 +4581,7 @@ as a result of
 
 ## Footnote
 
-As a result of the rain we stayed home.","вследствие
+As a result of the rain, we stayed home.","вследствие
 
 ## Footnote
 
@@ -4753,15 +4753,15 @@ Cats jump.","прыгать
 Кошки прыгают."
 "# Translate:
 
-to tie
+cookie
 
 ## Footnote
 
-I can tie this.","связать
+I want a cookie.","печенье
 
 ## Footnote
 
-Я могу связать это."
+Я хочу печенье."
 "# Translate:
 
 urgently
@@ -4995,15 +4995,15 @@ She is the main organizer of the meeting.","организатор
 Она главный организатор встречи."
 "# Translate:
 
-to forgive
+somewhat
 
 ## Footnote
 
-I learned to forgive.","прощать
+It is somewhat cold.","немного
 
 ## Footnote
 
-Я научился прощать."
+Здесь немного холодно."
 "# Translate:
 
 terribly
@@ -5204,15 +5204,15 @@ He refused to drink alcohol.","алкоголь
 Он отказался пить алкоголь."
 "# Translate:
 
-suffer
+to propose
 
 ## Footnote
 
-They will suffer.","пострадать
+I propose this plan.","предлагать
 
 ## Footnote
 
-Они пострадают."
+Я предлагаю этот план."
 "# Translate:
 
 design
@@ -5296,11 +5296,11 @@ ratio
 
 ## Footnote
 
-The ratio is important.","соотношение
+The ratio of boys to girls is two to one.","соотношение
 
 ## Footnote
 
-Соотношение важно."
+Соотношение мальчиков и девочек — два к одному."
 "# Translate:
 
 Belarusian

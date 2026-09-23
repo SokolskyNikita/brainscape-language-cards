@@ -30,6 +30,6 @@
   "sense_reviews": "sense_reviews.json",
   "reference_fingerprint": {
     "cards": 10000,
-    "headword_pairs_sha256": "766503172040ee602b8b6b80838c743ba23876e2feb715b4fa1182729d97d92d"
+    "headword_pairs_sha256": "5d9e3f0d513d2c22ba1747a725599c61bb28ca9645010179b3f418a9b90bba86"
   }
 }

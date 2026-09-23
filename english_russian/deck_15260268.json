@@ -64,20 +64,20 @@
     "aMdFootnote": "Его пристрастие к кофе сильное."
   },
   {
-    "answer": "гигант\n\n## Footnote\n\nГигант большой.",
+    "answer": "гигант\n\n## Footnote\n\nВеликан в комнате.",
     "cardId": 489020345,
     "deckId": 15260268,
     "number": 5,
-    "question": "# Translate:\n\ngiant\n\n## Footnote\n\nThe giant is big.",
-    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/489/020/345/q_sound.?54be5a35a18ce2b604a3b60fa47c98c9",
+    "question": "# Translate:\n\ngiant\n\n## Footnote\n\nThe giant is in the room.",
+    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/489/020/345/q_sound.?ba1b5c3c6b4c207ec85754cdedc4befd",
     "qMdPrompt": "Translate:",
     "qMdBody": "giant",
     "qMdClarifier": null,
-    "qMdFootnote": "The giant is big.",
+    "qMdFootnote": "The giant is in the room.",
     "aMdPrompt": null,
     "aMdBody": "гигант",
     "aMdClarifier": null,
-    "aMdFootnote": "Гигант большой."
+    "aMdFootnote": "Великан в комнате."
   },
   {
     "answer": "бульвар\n\n## Footnote\n\nМы шли по бульвару.",
@@ -352,20 +352,20 @@
     "aMdFootnote": "Он решил промолчать."
   },
   {
-    "answer": "познакомить\n\n## Footnote\n\nЯ хочу познакомить вас.",
+    "answer": "кувшин\n\n## Footnote\n\nКувшин полон воды.",
     "cardId": 489020363,
     "deckId": 15260268,
     "number": 23,
-    "question": "# Translate:\n\nto introduce\n\n## Footnote\n\nI want to introduce you.",
-    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/489/020/363/q_sound.?b2985fe861b23f61403105d414ee8bc5",
+    "question": "# Translate:\n\npitcher\n\n## Footnote\n\nThe pitcher is full of water.",
+    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/489/020/363/q_sound.?79359443f582ea43d2d5b6790b206ec7",
     "qMdPrompt": "Translate:",
-    "qMdBody": "to introduce",
+    "qMdBody": "pitcher",
     "qMdClarifier": null,
-    "qMdFootnote": "I want to introduce you.",
+    "qMdFootnote": "The pitcher is full of water.",
     "aMdPrompt": null,
-    "aMdBody": "познакомить",
+    "aMdBody": "кувшин",
     "aMdClarifier": null,
-    "aMdFootnote": "Я хочу познакомить вас."
+    "aMdFootnote": "Кувшин полон воды."
   },
   {
     "answer": "вилка\n\n## Footnote\n\nМне нужна вилка, чтобы это есть.",
@@ -816,20 +816,20 @@
     "aMdFootnote": "Она знает это ремесло."
   },
   {
-    "answer": "затронуть\n\n## Footnote\n\nЭто её затронет.",
+    "answer": "высота над уровнем моря\n\n## Footnote\n\nСамолёт летел на большой высоте.",
     "cardId": 489020392,
     "deckId": 15260268,
     "number": 52,
-    "question": "# Translate:\n\nto affect\n\n## Footnote\n\nThis will affect her.",
-    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/489/020/392/q_sound.?8c5f1f55ef389883505501de5a2f843b",
+    "question": "# Translate:\n\naltitude\n\n## Footnote\n\nThe plane flew at a high altitude.",
+    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/489/020/392/q_sound.?fe2e4df12fba2649fbe9a480339ab61e",
     "qMdPrompt": "Translate:",
-    "qMdBody": "to affect",
+    "qMdBody": "altitude",
     "qMdClarifier": null,
-    "qMdFootnote": "This will affect her.",
+    "qMdFootnote": "The plane flew at a high altitude.",
     "aMdPrompt": null,
-    "aMdBody": "затронуть",
+    "aMdBody": "высота над уровнем моря",
     "aMdClarifier": null,
-    "aMdFootnote": "Это её затронет."
+    "aMdFootnote": "Самолёт летел на большой высоте."
   },
   {
     "answer": "ослабить\n\n## Footnote\n\nЭто ослабит его.",
@@ -1088,20 +1088,20 @@
     "aMdFootnote": "Это косвенный контроль."
   },
   {
-    "answer": "откладывать\n\n## Footnote\n\nМы не хотим откладывать встречу.",
+    "answer": "детская; детский сад\n\n## Footnote\n\nРебёнок играет в детской.",
     "cardId": 489020409,
     "deckId": 15260268,
     "number": 69,
-    "question": "# Translate:\n\nto postpone\n\n## Footnote\n\nWe do not want to postpone the meeting.",
-    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/489/020/409/q_sound.?7123dcef5b1b0a2f3d15e578659a7e04",
+    "question": "# Translate:\n\nnursery\n\n## Footnote\n\nThe child plays in the nursery.",
+    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/489/020/409/q_sound.?a52e9c368b8ca067e3823bdbdf8b4307",
     "qMdPrompt": "Translate:",
-    "qMdBody": "to postpone",
+    "qMdBody": "nursery",
     "qMdClarifier": null,
-    "qMdFootnote": "We do not want to postpone the meeting.",
+    "qMdFootnote": "The child plays in the nursery.",
     "aMdPrompt": null,
-    "aMdBody": "откладывать",
+    "aMdBody": "детская; детский сад",
     "aMdClarifier": null,
-    "aMdFootnote": "Мы не хотим откладывать встречу."
+    "aMdFootnote": "Ребёнок играет в детской."
   },
   {
     "answer": "органический\n\n## Footnote\n\nЯ предпочитаю органические продукты.",
@@ -1824,20 +1824,20 @@
     "aMdFootnote": "Кубик на столе."
   },
   {
-    "answer": "мех\n\n## Footnote\n\nЕё пальто из меха.",
+    "answer": "мех\n\n## Footnote\n\nМеховое пальто старое.",
     "cardId": 489020455,
     "deckId": 15260268,
     "number": 115,
-    "question": "# Translate:\n\nfur\n\n## Footnote\n\nHer coat is of fur.",
-    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/489/020/455/q_sound.?ffef81201ed723e9df25d7fadd054c50",
+    "question": "# Translate:\n\nfur\n\n## Footnote\n\nThe fur coat is old.",
+    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/489/020/455/q_sound.?a61ac22321419a58f917abeef84c6134",
     "qMdPrompt": "Translate:",
     "qMdBody": "fur",
     "qMdClarifier": null,
-    "qMdFootnote": "Her coat is of fur.",
+    "qMdFootnote": "The fur coat is old.",
     "aMdPrompt": null,
     "aMdBody": "мех",
     "aMdClarifier": null,
-    "aMdFootnote": "Её пальто из меха."
+    "aMdFootnote": "Меховое пальто старое."
   },
   {
     "answer": "физиологический\n\n## Footnote\n\nЭто физиологическое изменение.",
@@ -1856,20 +1856,20 @@
     "aMdFootnote": "Это физиологическое изменение."
   },
   {
-    "answer": "тревожить\n\n## Footnote\n\nПожалуйста, не тревожьте меня.",
+    "answer": "таймер\n\n## Footnote\n\nТаймер прозвенел в полдень.",
     "cardId": 489020457,
     "deckId": 15260268,
     "number": 117,
-    "question": "# Translate:\n\ndisturb\n\n## Footnote\n\nPlease do not disturb me.",
-    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/489/020/457/q_sound.?6f7c94a7babd55102c067b0b672d11d6",
+    "question": "# Translate:\n\ntimer\n\n## Footnote\n\nThe timer rang at noon.",
+    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/489/020/457/q_sound.?49a61161bfad2eec8f15cfd852b44469",
     "qMdPrompt": "Translate:",
-    "qMdBody": "disturb",
+    "qMdBody": "timer",
     "qMdClarifier": null,
-    "qMdFootnote": "Please do not disturb me.",
+    "qMdFootnote": "The timer rang at noon.",
     "aMdPrompt": null,
-    "aMdBody": "тревожить",
+    "aMdBody": "таймер",
     "aMdClarifier": null,
-    "aMdFootnote": "Пожалуйста, не тревожьте меня."
+    "aMdFootnote": "Таймер прозвенел в полдень."
   },
   {
     "answer": "грипп\n\n## Footnote\n\nУ неё был грипп зимой.",
@@ -2064,20 +2064,20 @@
     "aMdFootnote": "Он влиятельный человек."
   },
   {
-    "answer": "избить\n\n## Footnote\n\nОн избил этого человека.",
+    "answer": "бордюр\n\n## Footnote\n\nМашина остановилась у бордюра.",
     "cardId": 489020470,
     "deckId": 15260268,
     "number": 130,
-    "question": "# Translate:\n\nto beat\n\n## Footnote\n\nHe beat this man.",
-    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/489/020/470/q_sound.?fe1ca76416e0f96ccb857d77e97aeb2c",
+    "question": "# Translate:\n\ncurb\n\n## Footnote\n\nThe car stopped at the curb.",
+    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/489/020/470/q_sound.?ae086d13f597a1fed2ae80b884955744",
     "qMdPrompt": "Translate:",
-    "qMdBody": "to beat",
+    "qMdBody": "curb",
     "qMdClarifier": null,
-    "qMdFootnote": "He beat this man.",
+    "qMdFootnote": "The car stopped at the curb.",
     "aMdPrompt": null,
-    "aMdBody": "избить",
+    "aMdBody": "бордюр",
     "aMdClarifier": null,
-    "aMdFootnote": "Он избил этого человека."
+    "aMdFootnote": "Машина остановилась у бордюра."
   },
   {
     "answer": "правильность\n\n## Footnote\n\nУ него было сомнение в правильности ответа.",
@@ -2288,20 +2288,20 @@
     "aMdFootnote": "Мы приспособим комнату для работы."
   },
   {
-    "answer": "отрываться\n\n## Footnote\n\nОна отрывается от толпы.",
+    "answer": "детская площадка\n\n## Footnote\n\nРебёнок играет на площадке.",
     "cardId": 489020484,
     "deckId": 15260268,
     "number": 144,
-    "question": "# Translate:\n\nto break away\n\n## Footnote\n\nShe breaks away from the crowd.",
-    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/489/020/484/q_sound.?59994240b2cd7b0aa89f79afacb0a519",
+    "question": "# Translate:\n\nplayground\n\n## Footnote\n\nThe child plays on the playground.",
+    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/489/020/484/q_sound.?43408526a27f896a570af1cc170c8cbf",
     "qMdPrompt": "Translate:",
-    "qMdBody": "to break away",
+    "qMdBody": "playground",
     "qMdClarifier": null,
-    "qMdFootnote": "She breaks away from the crowd.",
+    "qMdFootnote": "The child plays on the playground.",
     "aMdPrompt": null,
-    "aMdBody": "отрываться",
+    "aMdBody": "детская площадка",
     "aMdClarifier": null,
-    "aMdFootnote": "Она отрывается от толпы."
+    "aMdFootnote": "Ребёнок играет на площадке."
   },
   {
     "answer": "приветствие\n\n## Footnote\n\nЯ слышал приветствие.",
@@ -2736,20 +2736,20 @@
     "aMdFootnote": "Громкие звуки часто отвлекают меня."
   },
   {
-    "answer": "оптический\n\n## Footnote\n\nОн купит оптические очки.",
+    "answer": "оптический\n\n## Footnote\n\nЭтот оптический эффект новый.",
     "cardId": 489020512,
     "deckId": 15260268,
     "number": 172,
-    "question": "# Translate:\n\noptical\n\n## Footnote\n\nHe will buy optical glasses.",
-    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/489/020/512/q_sound.?7fcb145a75936a33425fe548b1a2d3c2",
+    "question": "# Translate:\n\noptical\n\n## Footnote\n\nThis optical effect is new.",
+    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/489/020/512/q_sound.?63843d95d57ea157277237b8be9b5a7d",
     "qMdPrompt": "Translate:",
     "qMdBody": "optical",
     "qMdClarifier": null,
-    "qMdFootnote": "He will buy optical glasses.",
+    "qMdFootnote": "This optical effect is new.",
     "aMdPrompt": null,
     "aMdBody": "оптический",
     "aMdClarifier": null,
-    "aMdFootnote": "Он купит оптические очки."
+    "aMdFootnote": "Этот оптический эффект новый."
   },
   {
     "answer": "гид\n\n## Footnote\n\nНаш гид был хорошим.",
@@ -2768,20 +2768,20 @@
     "aMdFootnote": "Наш гид был хорошим."
   },
   {
-    "answer": "вырасти\n\n## Footnote\n\nМальчик вырастет.",
+    "answer": "токсичный\n\n## Footnote\n\nЭта вода токсична.",
     "cardId": 489020514,
     "deckId": 15260268,
     "number": 174,
-    "question": "# Translate:\n\nto grow up\n\n## Footnote\n\nThe boy will grow up.",
-    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/489/020/514/q_sound.?9406815f7ec8ab6dfe7fb9764f8712a6",
+    "question": "# Translate:\n\ntoxic\n\n## Footnote\n\nThis water is toxic.",
+    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/489/020/514/q_sound.?4365c64000e2c943903639a90cd2a195",
     "qMdPrompt": "Translate:",
-    "qMdBody": "to grow up",
+    "qMdBody": "toxic",
     "qMdClarifier": null,
-    "qMdFootnote": "The boy will grow up.",
+    "qMdFootnote": "This water is toxic.",
     "aMdPrompt": null,
-    "aMdBody": "вырасти",
+    "aMdBody": "токсичный",
     "aMdClarifier": null,
-    "aMdFootnote": "Мальчик вырастет."
+    "aMdFootnote": "Эта вода токсична."
   },
   {
     "answer": "неудобный\n\n## Footnote\n\nСтул неудобный.",
@@ -3104,36 +3104,36 @@
     "aMdFootnote": "Он говорил убедительно."
   },
   {
-    "answer": "буржуазия\n\n## Footnote\n\nУ буржуазии есть золото.",
+    "answer": "буржуазия\n\n## Footnote\n\nБуржуазия обладает властью.",
     "cardId": 489020535,
     "deckId": 15260268,
     "number": 195,
-    "question": "# Translate:\n\nbourgeoisie\n\n## Footnote\n\nThe bourgeoisie has gold.",
-    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/489/020/535/q_sound.?4dafe7cffff5c99223dcb2b9e29096b1",
+    "question": "# Translate:\n\nbourgeoisie\n\n## Footnote\n\nThe bourgeoisie has power.",
+    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/489/020/535/q_sound.?8f3ac2d8d1fbc89a26fe08abc2bdd270",
     "qMdPrompt": "Translate:",
     "qMdBody": "bourgeoisie",
     "qMdClarifier": null,
-    "qMdFootnote": "The bourgeoisie has gold.",
+    "qMdFootnote": "The bourgeoisie has power.",
     "aMdPrompt": null,
     "aMdBody": "буржуазия",
     "aMdClarifier": null,
-    "aMdFootnote": "У буржуазии есть золото."
+    "aMdFootnote": "Буржуазия обладает властью."
   },
   {
-    "answer": "есть; жрать (грубое)\n\n## Footnote\n\nСобаки любят жрать мясо.",
+    "answer": "экономика (как наука)\n\n## Footnote\n\nОна изучает экономику в школе.",
     "cardId": 489020536,
     "deckId": 15260268,
     "number": 196,
-    "question": "# Translate:\n\neat\n\n## Footnote\n\nDogs like to eat meat.",
-    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/489/020/536/q_sound.?a4db5b9603b5c184884f298a1a7db1eb",
+    "question": "# Translate:\n\neconomics\n\n## Footnote\n\nShe studies economics at school.",
+    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/489/020/536/q_sound.?97a27e2dc374acc94cccb6e54d7c2a04",
     "qMdPrompt": "Translate:",
-    "qMdBody": "eat",
+    "qMdBody": "economics",
     "qMdClarifier": null,
-    "qMdFootnote": "Dogs like to eat meat.",
+    "qMdFootnote": "She studies economics at school.",
     "aMdPrompt": null,
-    "aMdBody": "есть; жрать (грубое)",
+    "aMdBody": "экономика (как наука)",
     "aMdClarifier": null,
-    "aMdFootnote": "Собаки любят жрать мясо."
+    "aMdFootnote": "Она изучает экономику в школе."
   },
   {
     "answer": "шрифт\n\n## Footnote\n\nЭтот шрифт новый.",
@@ -3312,20 +3312,20 @@
     "aMdFootnote": "Машина разбилась."
   },
   {
-    "answer": "отреагировать\n\n## Footnote\n\nОна медленно отреагировала на опасность.",
+    "answer": "цивилизованный\n\n## Footnote\n\nЦивилизованный человек не бьёт людей.",
     "cardId": 489020548,
     "deckId": 15260268,
     "number": 208,
-    "question": "# Translate:\n\nto react\n\n## Footnote\n\nShe was slow to react to danger.",
-    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/489/020/548/q_sound.?a509fe4e78dec009e244899eca379f92",
+    "question": "# Translate:\n\ncivilized\n\n## Footnote\n\nA civilized man does not hit people.",
+    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/489/020/548/q_sound.?cec5fc34c6771bae489c8f0450bd5717",
     "qMdPrompt": "Translate:",
-    "qMdBody": "to react",
+    "qMdBody": "civilized",
     "qMdClarifier": null,
-    "qMdFootnote": "She was slow to react to danger.",
+    "qMdFootnote": "A civilized man does not hit people.",
     "aMdPrompt": null,
-    "aMdBody": "отреагировать",
+    "aMdBody": "цивилизованный",
     "aMdClarifier": null,
-    "aMdFootnote": "Она медленно отреагировала на опасность."
+    "aMdFootnote": "Цивилизованный человек не бьёт людей."
   },
   {
     "answer": "пионер\n\n## Footnote\n\nОн был пионером в этой области.",
@@ -3664,20 +3664,20 @@
     "aMdFootnote": "Растения поглощают воду и свет."
   },
   {
-    "answer": "литься\n\n## Footnote\n\nОтсюда может литься вода.",
+    "answer": "водосточный желоб\n\n## Footnote\n\nДождь стекал по водосточному желобу.",
     "cardId": 489020570,
     "deckId": 15260268,
     "number": 230,
-    "question": "# Translate:\n\nto flow\n\n## Footnote\n\nWater can flow from here.",
-    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/489/020/570/q_sound.?9552f04bf1608df629749e3aea19ebec",
+    "question": "# Translate:\n\ngutter\n\n## Footnote\n\nRain ran through the gutter.",
+    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/489/020/570/q_sound.?229f581b65b835e58dd5a49bcf058795",
     "qMdPrompt": "Translate:",
-    "qMdBody": "to flow",
+    "qMdBody": "gutter",
     "qMdClarifier": null,
-    "qMdFootnote": "Water can flow from here.",
+    "qMdFootnote": "Rain ran through the gutter.",
     "aMdPrompt": null,
-    "aMdBody": "литься",
+    "aMdBody": "водосточный желоб",
     "aMdClarifier": null,
-    "aMdFootnote": "Отсюда может литься вода."
+    "aMdFootnote": "Дождь стекал по водосточному желобу."
   },
   {
     "answer": "пресловутый\n\n## Footnote\n\nЭто пресловутое утверждение.",
@@ -3728,20 +3728,20 @@
     "aMdFootnote": "Он играет на басе."
   },
   {
-    "answer": "выпадать\n\n## Footnote\n\nМои волосы начали выпадать.",
+    "answer": "субтитр\n\n## Footnote\n\nЯ читаю субтитры.",
     "cardId": 489020574,
     "deckId": 15260268,
     "number": 234,
-    "question": "# Translate:\n\nto fall out\n\n## Footnote\n\nMy hair started to fall out.",
-    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/489/020/574/q_sound.?3b17a771d885f89c945ce6e61c18fe17",
+    "question": "# Translate:\n\nsubtitle\n\n## Footnote\n\nI read the subtitles.",
+    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/489/020/574/q_sound.?ae92d5eaf358ecf536a6be9c0b80df8d",
     "qMdPrompt": "Translate:",
-    "qMdBody": "to fall out",
+    "qMdBody": "subtitle",
     "qMdClarifier": null,
-    "qMdFootnote": "My hair started to fall out.",
+    "qMdFootnote": "I read the subtitles.",
     "aMdPrompt": null,
-    "aMdBody": "выпадать",
+    "aMdBody": "субтитр",
     "aMdClarifier": null,
-    "aMdFootnote": "Мои волосы начали выпадать."
+    "aMdFootnote": "Я читаю субтитры."
   },
   {
     "answer": "увольнение\n\n## Footnote\n\nЕго увольнение - удар.",
@@ -3856,20 +3856,20 @@
     "aMdFootnote": "У него есть новое прозвище."
   },
   {
-    "answer": "сократить\n\n## Footnote\n\nМы сократим расходы.",
+    "answer": "пейзаж\n\n## Footnote\n\nПейзаж был красивым.",
     "cardId": 489020582,
     "deckId": 15260268,
     "number": 242,
-    "question": "# Translate:\n\nto reduce\n\n## Footnote\n\nWe will reduce costs.",
-    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/489/020/582/q_sound.?f62843de1d12420f83949976269ef66d",
+    "question": "# Translate:\n\nscenery\n\n## Footnote\n\nThe scenery was beautiful.",
+    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/489/020/582/q_sound.?4299314847fc11ff67380277ab1df4dc",
     "qMdPrompt": "Translate:",
-    "qMdBody": "to reduce",
+    "qMdBody": "scenery",
     "qMdClarifier": null,
-    "qMdFootnote": "We will reduce costs.",
+    "qMdFootnote": "The scenery was beautiful.",
     "aMdPrompt": null,
-    "aMdBody": "сократить",
+    "aMdBody": "пейзаж",
     "aMdClarifier": null,
-    "aMdFootnote": "Мы сократим расходы."
+    "aMdFootnote": "Пейзаж был красивым."
   },
   {
     "answer": "четырнадцать\n\n## Footnote\n\nЕй четырнадцать в этом году.",
@@ -3984,20 +3984,20 @@
     "aMdFootnote": "Он действует достойно."
   },
   {
-    "answer": "каблук\n\n## Footnote\n\nУ неё высокий каблук.",
+    "answer": "каблук\n\n## Footnote\n\nУ неё туфли на высоких каблуках.",
     "cardId": 489020590,
     "deckId": 15260268,
     "number": 250,
-    "question": "# Translate:\n\nheel\n\n## Footnote\n\nHer heel is high.",
-    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/489/020/590/q_sound.?12395c22c5490038ad99c25bfdf45655",
+    "question": "# Translate:\n\nheel\n\n## Footnote\n\nHer shoes have high heels.",
+    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/489/020/590/q_sound.?69f73db9f5bef2c9f83bb7f702626421",
     "qMdPrompt": "Translate:",
     "qMdBody": "heel",
     "qMdClarifier": null,
-    "qMdFootnote": "Her heel is high.",
+    "qMdFootnote": "Her shoes have high heels.",
     "aMdPrompt": null,
     "aMdBody": "каблук",
     "aMdClarifier": null,
-    "aMdFootnote": "У неё высокий каблук."
+    "aMdFootnote": "У неё туфли на высоких каблуках."
   },
   {
     "answer": "расспрашивать\n\n## Footnote\n\nОн будет расспрашивать свидетеля.",
@@ -4032,20 +4032,20 @@
     "aMdFootnote": "Руководители диктуют план команды."
   },
   {
-    "answer": "студентка\n\n## Footnote\n\nСтудентка сдала экзамен.",
+    "answer": "партия; серия\n\n## Footnote\n\nОна испекла партию хлеба.",
     "cardId": 489020593,
     "deckId": 15260268,
     "number": 253,
-    "question": "# Translate:\n\nstudent (female)\n\n## Footnote\n\nThe student passed her exam.",
-    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/489/020/593/q_sound.?5a4f1ae1112a7243840a7d824a1f6f9c",
+    "question": "# Translate:\n\nbatch\n\n## Footnote\n\nShe made a batch of bread.",
+    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/489/020/593/q_sound.?3b61d3b970bcd94c940f498a9c7443fe",
     "qMdPrompt": "Translate:",
-    "qMdBody": "student (female)",
+    "qMdBody": "batch",
     "qMdClarifier": null,
-    "qMdFootnote": "The student passed her exam.",
+    "qMdFootnote": "She made a batch of bread.",
     "aMdPrompt": null,
-    "aMdBody": "студентка",
+    "aMdBody": "партия; серия",
     "aMdClarifier": null,
-    "aMdFootnote": "Студентка сдала экзамен."
+    "aMdFootnote": "Она испекла партию хлеба."
   },
   {
     "answer": "воспроизведение\n\n## Footnote\n\nВоспроизведение текста требует времени.",
@@ -4384,20 +4384,20 @@
     "aMdFootnote": "Эта привычка нежелательная."
   },
   {
-    "answer": "укладываться\n\n## Footnote\n\nЭти книги укладываются в одну сумку.",
+    "answer": "вписаться (в коллектив); чувствовать себя своим\n\n## Footnote\n\nОн среди них свой.",
     "cardId": 489020615,
     "deckId": 15260268,
     "number": 275,
-    "question": "# Translate:\n\nto fit in\n\n## Footnote\n\nThese books fit in one bag.",
-    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/489/020/615/q_sound.?925887d8a0f1ed46b98765094f380775",
+    "question": "# Translate:\n\nto fit in (socially)\n\n## Footnote\n\nHe fits in with them.",
+    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/489/020/615/q_sound.?1a158f27db0b8f46b423efecc08f8c47",
     "qMdPrompt": "Translate:",
-    "qMdBody": "to fit in",
+    "qMdBody": "to fit in (socially)",
     "qMdClarifier": null,
-    "qMdFootnote": "These books fit in one bag.",
+    "qMdFootnote": "He fits in with them.",
     "aMdPrompt": null,
-    "aMdBody": "укладываться",
+    "aMdBody": "вписаться (в коллектив); чувствовать себя своим",
     "aMdClarifier": null,
-    "aMdFootnote": "Эти книги укладываются в одну сумку."
+    "aMdFootnote": "Он среди них свой."
   },
   {
     "answer": "наглый\n\n## Footnote\n\nОн наглый человек.",
@@ -4448,20 +4448,20 @@
     "aMdFootnote": "Они жили в блаженном покое."
   },
   {
-    "answer": "Нижний Новгород\n\n## Footnote\n\nЯ посетил Нижний Новгород летом.",
+    "answer": "база данных\n\n## Footnote\n\nЯ нашёл имя в базе данных.",
     "cardId": 735047875,
     "deckId": 15260268,
     "number": 279,
-    "question": "# Translate:\n\nNizhny Novgorod\n\n## Footnote\n\nI visited Nizhny Novgorod in summer.",
-    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/735/047/875/q_sound.?cdda016afe5d71a09dcb035339286939",
+    "question": "# Translate:\n\ndatabase\n\n## Footnote\n\nI found the name in a database.",
+    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/735/047/875/q_sound.?1c6dc3c11ccec3bb89117982c30ed0eb",
     "qMdPrompt": "Translate:",
-    "qMdBody": "Nizhny Novgorod",
+    "qMdBody": "database",
     "qMdClarifier": null,
-    "qMdFootnote": "I visited Nizhny Novgorod in summer.",
+    "qMdFootnote": "I found the name in a database.",
     "aMdPrompt": null,
-    "aMdBody": "Нижний Новгород",
+    "aMdBody": "база данных",
     "aMdClarifier": null,
-    "aMdFootnote": "Я посетил Нижний Новгород летом."
+    "aMdFootnote": "Я нашёл имя в базе данных."
   },
   {
     "answer": "ракета\n\n## Footnote\n\nРакета в небе.",
@@ -4480,20 +4480,20 @@
     "aMdFootnote": "Ракета в небе."
   },
   {
-    "answer": "Мурманск\n\n## Footnote\n\nМурманск - холодный город.",
+    "answer": "имеющий право; подходящий\n\n## Footnote\n\nОна имеет право на приз.",
     "cardId": 735047883,
     "deckId": 15260268,
     "number": 281,
-    "question": "# Translate:\n\nMurmansk\n\n## Footnote\n\nMurmansk is a cold city.",
-    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/735/047/883/q_sound.?0d52c1d2015264141dcac02137913662",
+    "question": "# Translate:\n\neligible\n\n## Footnote\n\nShe is eligible for the prize.",
+    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/735/047/883/q_sound.?de0cbfef926fb6f822f396915765fa29",
     "qMdPrompt": "Translate:",
-    "qMdBody": "Murmansk",
+    "qMdBody": "eligible",
     "qMdClarifier": null,
-    "qMdFootnote": "Murmansk is a cold city.",
+    "qMdFootnote": "She is eligible for the prize.",
     "aMdPrompt": null,
-    "aMdBody": "Мурманск",
+    "aMdBody": "имеющий право; подходящий",
     "aMdClarifier": null,
-    "aMdFootnote": "Мурманск - холодный город."
+    "aMdFootnote": "Она имеет право на приз."
   },
   {
     "answer": "изрядно\n\n## Footnote\n\nОн изрядно вырос.",
@@ -4736,20 +4736,20 @@
     "aMdFootnote": "Начните новый абзац здесь."
   },
   {
-    "answer": "наказывать\n\n## Footnote\n\nОни наказывают вора.",
+    "answer": "торнадо\n\n## Footnote\n\nТорнадо обрушился на город.",
     "cardId": 489020637,
     "deckId": 15260268,
     "number": 297,
-    "question": "# Translate:\n\nto punish\n\n## Footnote\n\nThey punish the thief.",
-    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/489/020/637/q_sound.?07a4e6b197f69f8723c35669b65d2473",
+    "question": "# Translate:\n\ntornado\n\n## Footnote\n\nA tornado hit the town.",
+    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/489/020/637/q_sound.?4a5089148acc6f5479ec7c4eb83dad1c",
     "qMdPrompt": "Translate:",
-    "qMdBody": "to punish",
+    "qMdBody": "tornado",
     "qMdClarifier": null,
-    "qMdFootnote": "They punish the thief.",
+    "qMdFootnote": "A tornado hit the town.",
     "aMdPrompt": null,
-    "aMdBody": "наказывать",
+    "aMdBody": "торнадо",
     "aMdClarifier": null,
-    "aMdFootnote": "Они наказывают вора."
+    "aMdFootnote": "Торнадо обрушился на город."
   },
   {
     "answer": "взаимосвязь\n\n## Footnote\n\nВзаимосвязь между событиями ясна.",
@@ -4816,20 +4816,20 @@
     "aMdFootnote": "Это тост за дружбу."
   },
   {
-    "answer": "превысить\n\n## Footnote\n\nНаши расходы превысили наш доход.",
+    "answer": "буксировать\n\n## Footnote\n\nОни буксируют машину.",
     "cardId": 489020642,
     "deckId": 15260268,
     "number": 302,
-    "question": "# Translate:\n\nexceed\n\n## Footnote\n\nOur costs exceeded our income.",
-    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/489/020/642/q_sound.?dc54d3788a3acb4833c21db1ed5f9e2e",
+    "question": "# Translate:\n\ntow\n\n## Footnote\n\nThey tow the car away.",
+    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/489/020/642/q_sound.?e99f5dbb5c39eba9b2f2096f31532c6c",
     "qMdPrompt": "Translate:",
-    "qMdBody": "exceed",
+    "qMdBody": "tow",
     "qMdClarifier": null,
-    "qMdFootnote": "Our costs exceeded our income.",
+    "qMdFootnote": "They tow the car away.",
     "aMdPrompt": null,
-    "aMdBody": "превысить",
+    "aMdBody": "буксировать",
     "aMdClarifier": null,
-    "aMdFootnote": "Наши расходы превысили наш доход."
+    "aMdFootnote": "Они буксируют машину."
   },
   {
     "answer": "силуэт\n\n## Footnote\n\nНа свету виден силуэт.",
@@ -5296,36 +5296,36 @@
     "aMdFootnote": "Он будет размахивать флагом."
   },
   {
-    "answer": "кучка\n\n## Footnote\n\nОна сделала кучку.",
+    "answer": "худший; более низкого качества\n\n## Footnote\n\nЭтот план хуже старого.",
     "cardId": 489020672,
     "deckId": 15260268,
     "number": 332,
-    "question": "# Translate:\n\nlittle heap\n\n## Footnote\n\nShe made a little heap.",
-    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/489/020/672/q_sound.?4faf2132afc43f949e5d829e626d8b4e",
+    "question": "# Translate:\n\ninferior\n\n## Footnote\n\nThis plan is inferior to the old plan.",
+    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/489/020/672/q_sound.?c37b629459b418d121e9680888501091",
     "qMdPrompt": "Translate:",
-    "qMdBody": "little heap",
+    "qMdBody": "inferior",
     "qMdClarifier": null,
-    "qMdFootnote": "She made a little heap.",
+    "qMdFootnote": "This plan is inferior to the old plan.",
     "aMdPrompt": null,
-    "aMdBody": "кучка",
+    "aMdBody": "худший; более низкого качества",
     "aMdClarifier": null,
-    "aMdFootnote": "Она сделала кучку."
+    "aMdFootnote": "Этот план хуже старого."
   },
   {
-    "answer": "мерседес\n\n## Footnote\n\nУ меня есть красный мерседес.",
+    "answer": "плата за проезд\n\n## Footnote\n\nМы заплатили за проезд по мосту.",
     "cardId": 489020673,
     "deckId": 15260268,
     "number": 333,
-    "question": "# Translate:\n\nMercedes\n\n## Footnote\n\nI have a red Mercedes.",
-    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/489/020/673/q_sound.?6dc666dbdc8c785394b6af2494d2dbc7",
+    "question": "# Translate:\n\ntoll\n\n## Footnote\n\nWe paid the toll at the bridge.",
+    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/489/020/673/q_sound.?5db5422a079375c28f960eb1afb7dbcb",
     "qMdPrompt": "Translate:",
-    "qMdBody": "Mercedes",
+    "qMdBody": "toll",
     "qMdClarifier": null,
-    "qMdFootnote": "I have a red Mercedes.",
+    "qMdFootnote": "We paid the toll at the bridge.",
     "aMdPrompt": null,
-    "aMdBody": "мерседес",
+    "aMdBody": "плата за проезд",
     "aMdClarifier": null,
-    "aMdFootnote": "У меня есть красный мерседес."
+    "aMdFootnote": "Мы заплатили за проезд по мосту."
   },
   {
     "answer": "густо\n\n## Footnote\n\nНочью снег будет идти густо.",
@@ -5472,20 +5472,20 @@
     "aMdFootnote": "Я сидел в купе."
   },
   {
-    "answer": "обычный человек; обыватель (часто неодобрительное)\n\n## Footnote\n\nОбыватель здесь.",
+    "answer": "стимул; поддержка\n\n## Footnote\n\nКоманда получила поддержку.",
     "cardId": 489020683,
     "deckId": 15260268,
     "number": 343,
-    "question": "# Translate:\n\nordinary person\n\n## Footnote\n\nAn ordinary person is here.",
-    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/489/020/683/q_sound.?513198f0ca72ca1f8e8e56dab6b62273",
+    "question": "# Translate:\n\nboost\n\n## Footnote\n\nThe team got a boost.",
+    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/489/020/683/q_sound.?89c36642b8a7fe6fe8279e01fbd8a29f",
     "qMdPrompt": "Translate:",
-    "qMdBody": "ordinary person",
+    "qMdBody": "boost",
     "qMdClarifier": null,
-    "qMdFootnote": "An ordinary person is here.",
+    "qMdFootnote": "The team got a boost.",
     "aMdPrompt": null,
-    "aMdBody": "обычный человек; обыватель (часто неодобрительное)",
+    "aMdBody": "стимул; поддержка",
     "aMdClarifier": null,
-    "aMdFootnote": "Обыватель здесь."
+    "aMdFootnote": "Команда получила поддержку."
   },
   {
     "answer": "вглядываться\n\n## Footnote\n\nОна будет вглядываться в темноту.",
@@ -5568,20 +5568,20 @@
     "aMdFootnote": "Мне не нравится эта современность."
   },
   {
-    "answer": "Свердловск (историческое название Екатеринбурга)\n\n## Footnote\n\nМой дед жил в Свердловске.",
+    "answer": "сфера; пределы\n\n## Footnote\n\nОбъём этой работы велик.",
     "cardId": 735047896,
     "deckId": 15260268,
     "number": 349,
-    "question": "# Translate:\n\nSverdlovsk\n\n## Footnote\n\nMy grandfather lived in Sverdlovsk.",
-    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/735/047/896/q_sound.?d61bd63b1576db729c13a2be37c96cdd",
+    "question": "# Translate:\n\nscope\n\n## Footnote\n\nThe scope of this job is large.",
+    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/735/047/896/q_sound.?2412b768de7b62e004efd24017a459e3",
     "qMdPrompt": "Translate:",
-    "qMdBody": "Sverdlovsk",
+    "qMdBody": "scope",
     "qMdClarifier": null,
-    "qMdFootnote": "My grandfather lived in Sverdlovsk.",
+    "qMdFootnote": "The scope of this job is large.",
     "aMdPrompt": null,
-    "aMdBody": "Свердловск (историческое название Екатеринбурга)",
+    "aMdBody": "сфера; пределы",
     "aMdClarifier": null,
-    "aMdFootnote": "Мой дед жил в Свердловске."
+    "aMdFootnote": "Объём этой работы велик."
   },
   {
     "answer": "фермер\n\n## Footnote\n\nФермер работает в поле.",
@@ -5776,20 +5776,20 @@
     "aMdFootnote": "Парадный наряд был поистине великолепен."
   },
   {
-    "answer": "провозгласить\n\n## Footnote\n\nОни провозгласят победу.",
+    "answer": "остановка; прекращение\n\n## Footnote\n\nАвтобус остановился.",
     "cardId": 489020702,
     "deckId": 15260268,
     "number": 362,
-    "question": "# Translate:\n\nproclaim\n\n## Footnote\n\nThey will proclaim victory.",
-    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/489/020/702/q_sound.?b3d8dec6d625c94ec93f7b286f10d5fe",
+    "question": "# Translate:\n\nhalt\n\n## Footnote\n\nThe bus came to a halt.",
+    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/489/020/702/q_sound.?101f00dba56183f926ad84e47e747fb3",
     "qMdPrompt": "Translate:",
-    "qMdBody": "proclaim",
+    "qMdBody": "halt",
     "qMdClarifier": null,
-    "qMdFootnote": "They will proclaim victory.",
+    "qMdFootnote": "The bus came to a halt.",
     "aMdPrompt": null,
-    "aMdBody": "провозгласить",
+    "aMdBody": "остановка; прекращение",
     "aMdClarifier": null,
-    "aMdFootnote": "Они провозгласят победу."
+    "aMdFootnote": "Автобус остановился."
   },
   {
     "answer": "коррекция\n\n## Footnote\n\nЭта коррекция важна.",
@@ -5824,20 +5824,20 @@
     "aMdFootnote": "У кошки острый коготь."
   },
   {
-    "answer": "присоединяться\n\n## Footnote\n\nЯ присоединяюсь к их команде.",
+    "answer": "полоса\n\n## Footnote\n\nВ небе была полоса света.",
     "cardId": 489020705,
     "deckId": 15260268,
     "number": 365,
-    "question": "# Translate:\n\nto join\n\n## Footnote\n\nI join their team.",
-    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/489/020/705/q_sound.?908447a534344b0b6c36dc9fb27ef570",
+    "question": "# Translate:\n\nstreak\n\n## Footnote\n\nA streak of light was in the sky.",
+    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/489/020/705/q_sound.?34dbf0b43ff79deaf6fc8fa5368b9ca4",
     "qMdPrompt": "Translate:",
-    "qMdBody": "to join",
+    "qMdBody": "streak",
     "qMdClarifier": null,
-    "qMdFootnote": "I join their team.",
+    "qMdFootnote": "A streak of light was in the sky.",
     "aMdPrompt": null,
-    "aMdBody": "присоединяться",
+    "aMdBody": "полоса",
     "aMdClarifier": null,
-    "aMdFootnote": "Я присоединяюсь к их команде."
+    "aMdFootnote": "В небе была полоса света."
   },
   {
     "answer": "тоталитарный\n\n## Footnote\n\nРежим был тоталитарным.",
@@ -5920,20 +5920,20 @@
     "aMdFootnote": "Это родственные языки."
   },
   {
-    "answer": "матка\n\n## Footnote\n\nМатка в теле.",
+    "answer": "матка\n\n## Footnote\n\nМатка — орган.",
     "cardId": 489020711,
     "deckId": 15260268,
     "number": 371,
-    "question": "# Translate:\n\nuterus\n\n## Footnote\n\nThe uterus is in the body.",
-    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/489/020/711/q_sound.?8b382450e54ebd7e8c998c243fdc077e",
+    "question": "# Translate:\n\nuterus\n\n## Footnote\n\nThe uterus is an organ.",
+    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/489/020/711/q_sound.?2ed269a218f0a37caf4fea7050983142",
     "qMdPrompt": "Translate:",
     "qMdBody": "uterus",
     "qMdClarifier": null,
-    "qMdFootnote": "The uterus is in the body.",
+    "qMdFootnote": "The uterus is an organ.",
     "aMdPrompt": null,
     "aMdBody": "матка",
     "aMdClarifier": null,
-    "aMdFootnote": "Матка в теле."
+    "aMdFootnote": "Матка — орган."
   },
   {
     "answer": "лебедь\n\n## Footnote\n\nЛебедь на озере.",
@@ -6240,20 +6240,20 @@
     "aMdFootnote": "Они нашли уран."
   },
   {
-    "answer": "разбивать\n\n## Footnote\n\nОн может разбивать стекло.",
+    "answer": "тем не менее\n\n## Footnote\n\nБыло поздно, но она всё же осталась.",
     "cardId": 489020731,
     "deckId": 15260268,
     "number": 391,
-    "question": "# Translate:\n\nto break\n\n## Footnote\n\nHe can break glass.",
-    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/489/020/731/q_sound.?38f8cd8aeeb343bc132e3d4fa2956cd2",
+    "question": "# Translate:\n\nnevertheless\n\n## Footnote\n\nIt was late; nevertheless, she stayed.",
+    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/489/020/731/q_sound.?4b25fb7c57903e8d22e6c6595373d7f3",
     "qMdPrompt": "Translate:",
-    "qMdBody": "to break",
+    "qMdBody": "nevertheless",
     "qMdClarifier": null,
-    "qMdFootnote": "He can break glass.",
+    "qMdFootnote": "It was late; nevertheless, she stayed.",
     "aMdPrompt": null,
-    "aMdBody": "разбивать",
+    "aMdBody": "тем не менее",
     "aMdClarifier": null,
-    "aMdFootnote": "Он может разбивать стекло."
+    "aMdFootnote": "Было поздно, но она всё же осталась."
   },
   {
     "answer": "противодействие\n\n## Footnote\n\nУ правительства есть план противодействия.",
@@ -6544,20 +6544,20 @@
     "aMdFootnote": "Ответ однозначный."
   },
   {
-    "answer": "нетрудно\n\n## Footnote\n\nЭто нетрудно.",
+    "answer": "обогреватель\n\n## Footnote\n\nОбогреватель включён.",
     "cardId": 489020750,
     "deckId": 15260268,
     "number": 410,
-    "question": "# Translate:\n\nnot difficult\n\n## Footnote\n\nThis is not difficult.",
-    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/489/020/750/q_sound.?857bde5d66fc182487f829ed38aef5fd",
+    "question": "# Translate:\n\nheater\n\n## Footnote\n\nThe heater is on.",
+    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/489/020/750/q_sound.?1b54f25b38ffb8832c312fe2bead201e",
     "qMdPrompt": "Translate:",
-    "qMdBody": "not difficult",
+    "qMdBody": "heater",
     "qMdClarifier": null,
-    "qMdFootnote": "This is not difficult.",
+    "qMdFootnote": "The heater is on.",
     "aMdPrompt": null,
-    "aMdBody": "нетрудно",
+    "aMdBody": "обогреватель",
     "aMdClarifier": null,
-    "aMdFootnote": "Это нетрудно."
+    "aMdFootnote": "Обогреватель включён."
   },
   {
     "answer": "старший\n\n## Footnote\n\nОн старший офицер.",
@@ -6592,20 +6592,20 @@
     "aMdFootnote": "Я вижу жука на листе."
   },
   {
-    "answer": "вооружить\n\n## Footnote\n\nОни вооружат солдат.",
+    "answer": "рука (от плеча до кисти)\n\n## Footnote\n\nЭто моя рука.",
     "cardId": 489020753,
     "deckId": 15260268,
     "number": 413,
-    "question": "# Translate:\n\narm\n\n## Footnote\n\nThey will arm the soldiers.",
-    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/489/020/753/q_sound.?d1f46ecdf9e1f6d1f3736898f7be0d5d",
+    "question": "# Translate:\n\narm\n\n## Footnote\n\nThis is my arm.",
+    "qSoundUrl": "https://s3.amazonaws.com/brainscape-prod/system/cm/489/020/753/q_sound.?fa7bac566c829561b9a834bb5cdc7bf6",
     "qMdPrompt": "Translate:",
     "qMdBody": "arm",
     "qMdClarifier": null,
-    "qMdFootnote": "They will arm the soldiers.",
+    "qMdFootnote": "This is my arm.",
     "aMdPrompt": null,
-    "aMdBody": "вооружить",
+    "aMdBody": "рука (от плеча до кисти)",
     "aMdClarifier": null,
-    "aMdFootnote": "Они вооружат солдат."
+    "aMdFootnote": "Это моя рука."
   },
   {
     "answer": "казахский\n\n## Footnote\n\nОна может говорить на казахском.",
